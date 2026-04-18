@@ -19,6 +19,11 @@ import io.github.thebusybiscuit.slimefun4.core.handlers.ItemUseHandler;
 import io.github.thebusybiscuit.slimefun4.core.handlers.ToolUseHandler;
 import io.github.thebusybiscuit.slimefun4.implementation.items.SimpleSlimefunItem;
 
+/**
+ * The Crook is a tool that increases sapling drop rates from leaves.
+ *
+ * @author TheBusyBiscuit
+ */
 public class Crook extends SimpleSlimefunItem<ToolUseHandler> implements NotPlaceable, DamageableItem {
 
     private static final int CHANCE = 25;

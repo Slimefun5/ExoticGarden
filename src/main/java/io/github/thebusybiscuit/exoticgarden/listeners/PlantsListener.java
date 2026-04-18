@@ -47,6 +47,12 @@ import io.github.thebusybiscuit.slimefun4.utils.compatibility.VersionedPlayerHea
 import io.github.thebusybiscuit.slimefun4.libraries.paperlib.PaperLib;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
+/**
+ * Handles all plant-related events including growth, harvesting,
+ * world generation, and block interactions.
+ *
+ * @author TheBusyBiscuit
+ */
 public class PlantsListener implements Listener {
 
     private final Config cfg;

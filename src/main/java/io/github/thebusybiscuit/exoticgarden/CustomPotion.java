@@ -3,6 +3,7 @@ package io.github.thebusybiscuit.exoticgarden;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Color;
@@ -13,6 +14,11 @@ import org.bukkit.potion.PotionEffect;
 
 import io.github.thebusybiscuit.slimefun4.libraries.dough.common.ChatColors;
 
+/**
+ * A custom potion {@link ItemStack} used for juice and drink recipes.
+ *
+ * @author TheBusyBiscuit
+ */
 public final class CustomPotion extends ItemStack {
 
     @ParametersAreNonnullByDefault

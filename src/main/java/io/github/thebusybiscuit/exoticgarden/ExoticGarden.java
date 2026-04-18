@@ -59,6 +59,12 @@ import java.util.Map;
 import java.util.Set;
 import java.util.logging.Level;
 
+/**
+ * ExoticGarden is a Slimefun addon that adds exotic plants, fruits,
+ * vegetables and food items to the game.
+ *
+ * @author TheBusyBiscuit
+ */
 public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     public static ExoticGarden instance;

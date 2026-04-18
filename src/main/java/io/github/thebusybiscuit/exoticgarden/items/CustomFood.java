@@ -8,6 +8,11 @@ import io.github.thebusybiscuit.exoticgarden.ExoticGardenRecipeTypes;
 import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
 
+/**
+ * Represents a custom food item with a configurable hunger restoration value.
+ *
+ * @author TheBusyBiscuit
+ */
 public class CustomFood extends ExoticGardenFruit {
 
     private final int food;

@@ -18,6 +18,11 @@ import io.github.thebusybiscuit.slimefun4.core.handlers.ItemUseHandler;
 import io.github.thebusybiscuit.slimefun4.implementation.items.SimpleSlimefunItem;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.ItemUtils;
 
+/**
+ * Represents an edible fruit or plant item from ExoticGarden.
+ *
+ * @author TheBusyBiscuit
+ */
 public class ExoticGardenFruit extends SimpleSlimefunItem<ItemUseHandler> {
 
     private final boolean edible;

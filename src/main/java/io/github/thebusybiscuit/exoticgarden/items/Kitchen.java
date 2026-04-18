@@ -29,6 +29,11 @@ import io.github.thebusybiscuit.slimefun4.libraries.dough.items.ItemUtils;
 import io.github.thebusybiscuit.slimefun4.libraries.paperlib.PaperLib;
 import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
 
+/**
+ * The Kitchen is a multi-block machine used to craft food items.
+ *
+ * @author TheBusyBiscuit
+ */
 public class Kitchen extends MultiBlockMachine {
 
     private final ExoticGarden plugin;

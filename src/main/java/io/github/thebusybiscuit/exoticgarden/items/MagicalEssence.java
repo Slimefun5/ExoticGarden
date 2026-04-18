@@ -9,6 +9,11 @@ import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
 
+/**
+ * Magical Essence is the output item from magical ore plants.
+ *
+ * @author TheBusyBiscuit
+ */
 public class MagicalEssence extends SlimefunItem {
 
     @ParametersAreNonnullByDefault

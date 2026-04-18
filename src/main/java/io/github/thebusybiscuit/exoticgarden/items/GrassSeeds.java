@@ -16,6 +16,11 @@ import io.github.thebusybiscuit.slimefun4.core.handlers.ItemUseHandler;
 import io.github.thebusybiscuit.slimefun4.implementation.items.SimpleSlimefunItem;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.ItemUtils;
 
+/**
+ * Grass Seeds can be planted on dirt to grow grass.
+ *
+ * @author TheBusyBiscuit
+ */
 public class GrassSeeds extends SimpleSlimefunItem<ItemUseHandler> {
 
     @ParametersAreNonnullByDefault
