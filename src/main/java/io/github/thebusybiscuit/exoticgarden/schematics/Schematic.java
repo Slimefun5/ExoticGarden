@@ -21,8 +21,7 @@ import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.NBTInputStream;
 import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.ShortTag;
 import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.Tag;
 import io.github.thebusybiscuit.slimefun4.utils.tags.SlimefunTag;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerHead;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerSkin;
+import io.github.thebusybiscuit.slimefun4.utils.compatibility.VersionedPlayerHead;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
 /*
@@ -154,7 +153,7 @@ public class Schematic {
                                 s.setRotation(faces[ThreadLocalRandom.current().nextInt(faces.length)]);
                                 block.setBlockData(s);
 
-                                PlayerHead.setSkin(block, PlayerSkin.fromHashCode(tree.getTexture()), true);
+                                VersionedPlayerHead.setSkin(block, VersionedPlayerHead.hashToBase64(tree.getTexture()), true);
                                 BlockStorage.store(block, tree.getFruit());
                             }
                         }

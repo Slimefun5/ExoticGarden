@@ -43,8 +43,7 @@ import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.protection.Interaction;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerHead;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.skins.PlayerSkin;
+import io.github.thebusybiscuit.slimefun4.utils.compatibility.VersionedPlayerHead;
 import io.github.thebusybiscuit.slimefun4.libraries.paperlib.PaperLib;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
@@ -192,7 +191,7 @@ public class PlantsListener implements Listener {
                         rotatable.setRotation(faces[ThreadLocalRandom.current().nextInt(faces.length)]);
                         blockAbove.setBlockData(rotatable);
 
-                        PlayerHead.setSkin(blockAbove, PlayerSkin.fromHashCode(berry.getTexture()), true);
+                        VersionedPlayerHead.setSkin(blockAbove, VersionedPlayerHead.hashToBase64(berry.getTexture()), true);
                         break;
                     default:
                         e.getLocation().getBlock().setType(Material.PLAYER_HEAD);
@@ -200,7 +199,7 @@ public class PlantsListener implements Listener {
                         s.setRotation(faces[ThreadLocalRandom.current().nextInt(faces.length)]);
                         e.getLocation().getBlock().setBlockData(s);
 
-                        PlayerHead.setSkin(e.getLocation().getBlock(), PlayerSkin.fromHashCode(berry.getTexture()), true);
+                        VersionedPlayerHead.setSkin(e.getLocation().getBlock(), VersionedPlayerHead.hashToBase64(berry.getTexture()), true);
                         break;
                     }
 
@@ -243,7 +242,7 @@ public class PlantsListener implements Listener {
                         Rotatable s = (Rotatable) current.getBlockData();
                         s.setRotation(faces[random.nextInt(faces.length)]);
                         current.setBlockData(s);
-                        PlayerHead.setSkin(current, PlayerSkin.fromHashCode(berry.getTexture()), true);
+                        VersionedPlayerHead.setSkin(current, VersionedPlayerHead.hashToBase64(berry.getTexture()), true);
                     }
                     else {
                         plugin.getServer().getScheduler().scheduleSyncDelayedTask(plugin, () -> {
@@ -251,7 +250,7 @@ public class PlantsListener implements Listener {
                             Rotatable s = (Rotatable) current.getBlockData();
                             s.setRotation(faces[random.nextInt(faces.length)]);
                             current.setBlockData(s);
-                            PlayerHead.setSkin(current, PlayerSkin.fromHashCode(berry.getTexture()), true);
+                            VersionedPlayerHead.setSkin(current, VersionedPlayerHead.hashToBase64(berry.getTexture()), true);
                         });
                     }
                     break;
@@ -262,7 +261,7 @@ public class PlantsListener implements Listener {
                         Rotatable s = (Rotatable) current.getBlockData();
                         s.setRotation(faces[random.nextInt(faces.length)]);
                         current.setBlockData(s);
-                        PlayerHead.setSkin(current, PlayerSkin.fromHashCode(berry.getTexture()), true);
+                        VersionedPlayerHead.setSkin(current, VersionedPlayerHead.hashToBase64(berry.getTexture()), true);
                     }
                     else {
                         plugin.getServer().getScheduler().scheduleSyncDelayedTask(plugin, () -> {
@@ -272,7 +271,7 @@ public class PlantsListener implements Listener {
                             Rotatable ss = (Rotatable) current.getRelative(BlockFace.UP).getBlockData();
                             ss.setRotation(faces[random.nextInt(faces.length)]);
                             current.getRelative(BlockFace.UP).setBlockData(ss);
-                            PlayerHead.setSkin(current.getRelative(BlockFace.UP), PlayerSkin.fromHashCode(berry.getTexture()), true);
+                            VersionedPlayerHead.setSkin(current.getRelative(BlockFace.UP), VersionedPlayerHead.hashToBase64(berry.getTexture()), true);
                         });
                     }
                     break;
@@ -305,7 +304,7 @@ public class PlantsListener implements Listener {
                 dropFruitFromTree(e.getBlock());
             }
 
-            if (e.getBlock().getType() == Material.GRASS) {
+            if (e.getBlock().getType() == Material.SHORT_GRASS) {
                 if (!ExoticGarden.getGrassDrops().keySet().isEmpty() && e.getPlayer().getGameMode() != GameMode.CREATIVE) {
                     Random random = ThreadLocalRandom.current();
 
@@ -390,7 +389,7 @@ public class PlantsListener implements Listener {
 
             if (item instanceof BonemealableItem && ((BonemealableItem) item).isBonemealDisabled()) {
                 e.setCancelled(true);
-                b.getWorld().spawnParticle(Particle.VILLAGER_ANGRY, b.getLocation().clone().add(0.5, 0, 0.5), 4);
+                b.getWorld().spawnParticle(Particle.ANGRY_VILLAGER, b.getLocation().clone().add(0.5, 0, 0.5), 4);
                 b.getWorld().playSound(b.getLocation(), Sound.ENTITY_VILLAGER_NO, 1, 1);
             }
         }
