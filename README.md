@@ -1,6 +1,6 @@
 # ExoticGarden
 
-ExoticGarden is a big addon to [Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4) which brings various new Plants, fruits, vegetables and food items to the game.
+ExoticGarden is a big addon to [Slimefun 5](https://github.com/Slimefun5/Slimefun5) which brings various new Plants, fruits, vegetables and food items to the game.
 
 You can find more Information on the **outdated** BukkitDev page:
 https://dev.bukkit.org/projects/exotic-garden
