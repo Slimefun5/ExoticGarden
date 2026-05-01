@@ -9,3 +9,5 @@ dependency-reduced-pom.xml
 build/
 .gradle/
 *.jar
+
+!gradle/wrapper/gradle-wrapper.jar
