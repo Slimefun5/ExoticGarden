@@ -1,13 +1,15 @@
-/bin/
-/.settings/
-.classpath
-.project
-*.iml
-.idea
-target
-dependency-reduced-pom.xml
-build/
+# Gradle
 .gradle/
-*.jar
+build/
+out/
+bin/
+.idea/
+*.iml
+*.iws
 
-!gradle/wrapper/gradle-wrapper.jar
+# MacOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
