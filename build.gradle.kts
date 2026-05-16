@@ -1,7 +1,50 @@
 ﻿plugins {
     java
-    id("com.gradleup.shadow") version "9.3.2"
-    id("io.github.intisy.github-gradle") version "1.8.2.1"
+    `maven-publish`
+    id("com.gradleup.shadow")
+    id("io.github.intisy.github-gradle")
+}
+
+group = "io.github.thebusybiscuit"
+version = "v1.0.0-UNOFFICIAL-MC26.1.2"
+description = "Adds new Plants, Berries, Trees, Fruits, Vegetables and Food to Slimefun"
+
+java {
+    toolchain {
+        languageVersion.set(JavaLanguageVersion.of(25))
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
+    maven("https://repo.papermc.io/repository/maven-public/")
+}
+
+dependencies {
+    "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
+    compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
+    compileOnly("com.google.code.findbugs:jsr305:3.0.2")
+}
+
+tasks {
+    compileJava {
+        options.encoding = "UTF-8"
+    }
+    build {
+        dependsOn(shadowJar)
+    }
+}
+
+publishing {
+    publications {
+        create<MavenPublication>("maven") {
+            groupId = "com.github.thebusybiscuit"
+            artifactId = "exoticgarden"
+            version = "7f9a5f6"
+            artifact(tasks.shadowJar)
+        }
+    }
 }
 
 group = "io.github.thebusybiscuit"
@@ -63,9 +106,10 @@ tasks {
         enabled = false
     }
     shadowJar {
-        archiveFileName.set("ExoticGarden v${project.version}.jar")
-        relocate("org.bstats", "io.github.thebusybiscuit.exoticgarden.bstats")
-        exclude("META-INF/**")
+        archiveClassifier.set("")
+    }
+    build {
+        dependsOn(shadowJar)
     }
     build {
         dependsOn(shadowJar)
