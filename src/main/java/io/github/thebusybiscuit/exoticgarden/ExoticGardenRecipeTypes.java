@@ -3,9 +3,9 @@ package io.github.thebusybiscuit.exoticgarden;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
 
 public final class ExoticGardenRecipeTypes {
 
@@ -17,3 +17,4 @@ public final class ExoticGardenRecipeTypes {
     public static final RecipeType HARVEST_BUSH = new RecipeType(new NamespacedKey(ExoticGarden.instance, "harvest_bush"), CustomItemStack.create(Material.OAK_LEAVES, "\u00a7aHarvesting a Bush", "", "\u00a7rYou can obtain this Item by", "\u00a7rharvesting the shown Bush"));
 
 }
+

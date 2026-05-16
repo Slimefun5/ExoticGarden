@@ -10,22 +10,22 @@ import io.github.thebusybiscuit.exoticgarden.items.Kitchen;
 import io.github.thebusybiscuit.exoticgarden.items.MagicalEssence;
 import io.github.thebusybiscuit.exoticgarden.listeners.AndroidListener;
 import io.github.thebusybiscuit.exoticgarden.listeners.PlantsListener;
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
-import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
-import io.github.thebusybiscuit.slimefun4.api.items.groups.NestedItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.groups.SubItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
-import io.github.thebusybiscuit.slimefun4.api.researches.Research;
-import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
-import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
-import io.github.thebusybiscuit.slimefun4.implementation.items.food.Juice;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.libraries.paperlib.PaperLib;
-import io.github.thebusybiscuit.slimefun4.utils.compatibility.VersionedPlayerHead;
+import io.github.thebusybiscuit.slimefun5.api.MinecraftVersion;
+import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.groups.NestedItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.groups.SubItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun5.api.researches.Research;
+import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
+import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun5.implementation.items.food.Juice;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.config.Config;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun5.libraries.paperlib.PaperLib;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
 import org.bstats.bukkit.Metrics;
@@ -465,3 +465,4 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
     }
 
 }
+

@@ -10,7 +10,7 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 
 /**
  * Represents a berry or plant that can be grown and harvested.
@@ -102,3 +102,4 @@ public class Berry {
     }
 
 }
+

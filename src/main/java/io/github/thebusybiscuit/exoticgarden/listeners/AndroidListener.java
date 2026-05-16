@@ -6,7 +6,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 
 import io.github.thebusybiscuit.exoticgarden.ExoticGarden;
-import io.github.thebusybiscuit.slimefun4.api.events.AndroidFarmEvent;
+import io.github.thebusybiscuit.slimefun5.api.events.AndroidFarmEvent;
 
 /**
  * Handles Android farming events for ExoticGarden plants.
@@ -34,3 +34,4 @@ public class AndroidListener implements Listener {
         }
     }
 }
+

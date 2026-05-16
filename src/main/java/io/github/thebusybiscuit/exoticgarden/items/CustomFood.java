@@ -5,8 +5,8 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import org.bukkit.inventory.ItemStack;
 
 import io.github.thebusybiscuit.exoticgarden.ExoticGardenRecipeTypes;
-import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 
 /**
  * Represents a custom food item with a configurable hunger restoration value.
@@ -35,3 +35,4 @@ public class CustomFood extends ExoticGardenFruit {
     }
 
 }
+

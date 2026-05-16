@@ -11,7 +11,7 @@ import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
 import io.github.thebusybiscuit.exoticgarden.schematics.Schematic;
-import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
+import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 
 /**
  * Represents a custom tree that can be grown and harvested for fruit.
@@ -122,3 +122,4 @@ public class Tree {
     }
 
 }
+

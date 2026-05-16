@@ -20,8 +20,8 @@ import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.CompoundTag;
 import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.NBTInputStream;
 import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.ShortTag;
 import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.Tag;
-import io.github.thebusybiscuit.slimefun4.utils.tags.SlimefunTag;
-import io.github.thebusybiscuit.slimefun4.utils.compatibility.VersionedPlayerHead;
+import io.github.thebusybiscuit.slimefun5.utils.tags.SlimefunTag;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
 /*
@@ -280,3 +280,4 @@ public class Schematic {
     }
 
 }
+

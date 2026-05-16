@@ -12,7 +12,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.PotionMeta;
 import org.bukkit.potion.PotionEffect;
 
-import io.github.thebusybiscuit.slimefun4.libraries.dough.common.ChatColors;
+import io.github.thebusybiscuit.slimefun5.libraries.dough.common.ChatColors;
 
 /**
  * A custom potion {@link ItemStack} used for juice and drink recipes.
@@ -41,3 +41,4 @@ public final class CustomPotion extends ItemStack {
     }
 
 }
+
