@@ -12,6 +12,27 @@ A Slimefun addon that adds custom trees, fruits, foods, and magical plants.
 - Paper 1.16.* - 26.1.*
 - Slimefun 5
 
+You can find more Information on the **outdated** BukkitDev page:
+https://dev.bukkit.org/projects/exotic-garden
+
+ExoticGarden is licensed under 
+[GNU General Public License v3.0](https://github.com/TheBusyBiscuit/ExoticGarden/blob/master/LICENSE)
+
+Click on the badge below to go to our "development" build page, where you can download the latest versions before they are released to the public. 
+But keep in mind: These builds are still in development and not guaranteed to work or to be stable.
+
+<p align="center">
+  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/">
+  </a>
+</p>
+
+## Contributions
+
+You are allowed, even encouraged, to contribute to ExoticGarden by making Pull Requests.
+These Pull Requests can be Fixes, Changes or even Additions, it is your choice.
+
+Check the license for more Info on redistributing and modifying ExoticGarden.
+
 ## Developer API
 
 You can easily depend on this project using [github-gradle](https://github.com/intisy/github-gradle).
@@ -27,28 +48,3 @@ dependencies {
     "githubCompileOnly"("Slimefun5:ExoticGarden:v1.7.1")
 }
 ```
-
-
-ExoticGarden is a big addon to [Slimefun 5](https://github.com/Slimefun5/Slimefun5) which brings various new Plants, fruits, vegetables and food items to the game.
-
-You can find more Information on the **outdated** BukkitDev page:
-https://dev.bukkit.org/projects/exotic-garden
-
-ExoticGarden is licensed under 
-[GNU General Public License v3.0](https://github.com/TheBusyBiscuit/ExoticGarden/blob/master/LICENSE)
-
-## Download ExoticGarden
-Click on the badge below to go to our "development" build page, where you can download the latest versions before they are released to the public. 
-But keep in mind: These builds are still in development and not guaranteed to work or to be stable.
-
-<p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/">
-  </a>
-</p>
-
-## Contributions
-
-You are allowed, even encouraged, to contribute to ExoticGarden by making Pull Requests.
-These Pull Requests can be Fixes, Changes or even Additions, it is your choice.
-
-Check the license for more Info on redistributing and modifying ExoticGarden.
