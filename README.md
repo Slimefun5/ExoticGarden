@@ -1,5 +1,34 @@
 # ExoticGarden
 
+[![Build Status](https://Slimefun5.github.io/builds/Slimefun5/ExoticGarden/stable/badge.svg)](https://Slimefun5.github.io/builds/Slimefun5/ExoticGarden/stable)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/ExoticGarden/total)
+[![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
+[![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/ExoticGarden?style=social)](https://github.com/Slimefun5/ExoticGarden)
+
+A Slimefun 5 Addon.
+
+## Requirements
+- Java 25
+- Paper 1.16.* - 26.1.*
+- Slimefun 5
+
+## Developer API
+
+You can easily depend on this project using [github-gradle](https://github.com/intisy/github-gradle).
+
+In your `build.gradle.kts`:
+
+```kotlin
+plugins {
+    id("io.github.intisy.github-gradle") version "1.8.2.1"
+}
+
+dependencies {
+    "githubCompileOnly"("Slimefun5:ExoticGarden:v1.7.1")
+}
+```
+
+
 ExoticGarden is a big addon to [Slimefun 5](https://github.com/Slimefun5/Slimefun5) which brings various new Plants, fruits, vegetables and food items to the game.
 
 You can find more Information on the **outdated** BukkitDev page:
@@ -14,7 +43,6 @@ But keep in mind: These builds are still in development and not guaranteed to wo
 
 <p align="center">
   <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/">
-    <img src="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/badge.svg" alt="Build Server"/>
   </a>
 </p>
 
