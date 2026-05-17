@@ -5,7 +5,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/ExoticGarden?style=social)](https://github.com/Slimefun5/ExoticGarden)
 
-A Slimefun 5 Addon.
+A Slimefun addon that adds custom trees, fruits, foods, and magical plants.
 
 ## Requirements
 - Java 25
