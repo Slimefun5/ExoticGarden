@@ -12,20 +12,6 @@ A Slimefun addon that adds custom trees, fruits, foods, and magical plants.
 - Paper 1.16.* - 26.1.*
 - Slimefun 5
 
-You can find more Information on the **outdated** BukkitDev page:
-https://dev.bukkit.org/projects/exotic-garden
-
-ExoticGarden is licensed under 
-[GNU General Public License v3.0](https://github.com/TheBusyBiscuit/ExoticGarden/blob/master/LICENSE)
-
-Click on the badge below to go to our "development" build page, where you can download the latest versions before they are released to the public. 
-But keep in mind: These builds are still in development and not guaranteed to work or to be stable.
-
-<p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/">
-  </a>
-</p>
-
 ## Contributions
 
 You are allowed, even encouraged, to contribute to ExoticGarden by making Pull Requests.
