@@ -28,7 +28,6 @@ import io.github.thebusybiscuit.slimefun5.libraries.paperlib.PaperLib;
 import io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
-import org.bstats.bukkit.Metrics;
 import org.bukkit.ChatColor;
 import org.bukkit.Color;
 import org.bukkit.Effect;
@@ -40,6 +39,7 @@ import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
+import dev.walshy.sfmetrics.MetricsModule;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
@@ -88,6 +88,8 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
+        MetricsModule.setup(this, 4575);
+
         PaperLib.suggestPaper(this);
 
         if (!schematicsFolder.exists()) {
@@ -98,8 +100,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         cfg = new Config(this);
 
         // Setting up bStats
-        new Metrics(this, 4575);
-
+        
         registerItems();
 
         new AndroidListener(this);
