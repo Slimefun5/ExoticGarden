@@ -16,13 +16,14 @@ java {
 }
 
 repositories {
+    maven("https://jitpack.io")
     mavenCentral()
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
     maven("https://repo.papermc.io/repository/maven-public/")
 }
 
 dependencies {
-    githubImplementation("Slimefun5:SlimefunMetrics:master")
+    implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
     "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
@@ -66,6 +67,7 @@ java {
 }
 
 repositories {
+    maven("https://jitpack.io")
     mavenCentral()
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
     maven("https://repo.papermc.io/repository/maven-public/")
@@ -73,7 +75,7 @@ repositories {
 }
 
 dependencies {
-    githubImplementation("Slimefun5:SlimefunMetrics:master")
+    implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
     "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
