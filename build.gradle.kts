@@ -24,11 +24,14 @@ repositories {
 
 dependencies {
     implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
-    "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.1")
+    "githubCompileOnly"("Slimefun5:Slimefun5:v5.1.2")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
 }
-
+shadowJar {
+    archiveClassifier.set("")
+    relocate("org.bstats", "io.github.thebusybiscuit.exoticgarden.bstats") // ADD THIS
+}
 tasks {
     compileJava {
         options.encoding = "UTF-8"
