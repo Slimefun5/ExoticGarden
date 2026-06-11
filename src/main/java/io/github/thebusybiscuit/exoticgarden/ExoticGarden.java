@@ -24,7 +24,6 @@ import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.implementation.items.food.Juice;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.config.Config;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun5.libraries.paperlib.PaperLib;
 import io.github.thebusybiscuit.slimefun5.utils.compatibility.VersionedPlayerHead;
 import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
@@ -33,13 +32,12 @@ import org.bukkit.Color;
 import org.bukkit.Effect;
 import org.bukkit.Location;
 import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
+import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
 import org.bukkit.Tag;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
-import dev.walshy.sfmetrics.MetricsModule;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
@@ -88,10 +86,6 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-        MetricsModule.setup(this, 4575);
-
-        PaperLib.suggestPaper(this);
-
         if (!schematicsFolder.exists()) {
             schematicsFolder.mkdirs();
         }
@@ -123,7 +117,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         // @formatter:off
         SlimefunItemStack iceCube = new SlimefunItemStack("ICE_CUBE", "9340bef2c2c33d113bac4e6a1a84d5ffcecbbfab6b32fa7a7f76195442bd1a2", "\u00a7bIce Cube");
-        new SlimefunItem(miscItemGroup, iceCube, RecipeType.GRIND_STONE, new ItemStack[] {new ItemStack(Material.ICE), null, null, null, null, null, null, null, null}, iceCube.item().asQuantity(4))
+        new SlimefunItem(miscItemGroup, iceCube, RecipeType.GRIND_STONE, new ItemStack[] {new ItemStack(Material.ICE), null, null, null, null, null, null, null, null}, copy(iceCube.item(), 4))
         .register(this);
 
         registerBerry("Grape", ChatColor.RED, Color.RED, PlantType.BUSH, "6ee97649bd999955413fcbf0b269c91be4342b10d0755bad7a17e95fcefdab0");
@@ -178,19 +172,19 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         registerMagicalPlant("Gold", SlimefunItems.GOLD_4K.item(), "e4df892293a9236f73f48f9efe979fe07dbd91f7b5d239e4acfd394f6eca",
         new ItemStack[] {null, SlimefunItems.GOLD_16K.item(), null, SlimefunItems.GOLD_16K.item(), getItem("IRON_PLANT"), SlimefunItems.GOLD_16K.item(), null, SlimefunItems.GOLD_16K.item(), null});
 
-        registerMagicalPlant("Copper", SlimefunItems.COPPER_DUST.item().asQuantity(8), "d4fc72f3d5ee66279a45ac9c63ac98969306227c3f4862e9c7c2a4583c097b8a",
+        registerMagicalPlant("Copper", copy(SlimefunItems.COPPER_DUST.item(), 8), "d4fc72f3d5ee66279a45ac9c63ac98969306227c3f4862e9c7c2a4583c097b8a",
         new ItemStack[] {null, SlimefunItems.COPPER_DUST.item(), null, SlimefunItems.COPPER_DUST.item(), getItem("GOLD_PLANT"), SlimefunItems.COPPER_DUST.item(), null, SlimefunItems.COPPER_DUST.item(), null});
 
-        registerMagicalPlant("Aluminum", SlimefunItems.ALUMINUM_DUST.item().asQuantity(8), "f4455341eaff3cf8fe6e46bdfed8f501b461fb6f6d2fe536be7d2bd90d2088aa",
+        registerMagicalPlant("Aluminum", copy(SlimefunItems.ALUMINUM_DUST.item(), 8), "f4455341eaff3cf8fe6e46bdfed8f501b461fb6f6d2fe536be7d2bd90d2088aa",
         new ItemStack[] {null, SlimefunItems.ALUMINUM_DUST.item(), null, SlimefunItems.ALUMINUM_DUST.item(), getItem("IRON_PLANT"), SlimefunItems.ALUMINUM_DUST.item(), null, SlimefunItems.ALUMINUM_DUST.item(), null});
 
-        registerMagicalPlant("Tin", SlimefunItems.TIN_DUST.item().asQuantity(8), "6efb43ba2fe6959180ee7307f3f054715a34c0a07079ab73712547ffd753dedd",
+        registerMagicalPlant("Tin", copy(SlimefunItems.TIN_DUST.item(), 8), "6efb43ba2fe6959180ee7307f3f054715a34c0a07079ab73712547ffd753dedd",
         new ItemStack[] {null, SlimefunItems.TIN_DUST.item(), null, SlimefunItems.TIN_DUST.item(), getItem("IRON_PLANT"), SlimefunItems.TIN_DUST.item(), null, SlimefunItems.TIN_DUST.item(), null});
 
-        registerMagicalPlant("Silver", SlimefunItems.SILVER_DUST.item().asQuantity(8), "1dd968b1851aa7160d1cd9db7516a8e1bf7b7405e5245c5338aa895fe585f26c",
+        registerMagicalPlant("Silver", copy(SlimefunItems.SILVER_DUST.item(), 8), "1dd968b1851aa7160d1cd9db7516a8e1bf7b7405e5245c5338aa895fe585f26c",
         new ItemStack[] {null, SlimefunItems.SILVER_DUST.item(), null, SlimefunItems.SILVER_DUST.item(), getItem("IRON_PLANT"), SlimefunItems.SILVER_DUST.item(), null, SlimefunItems.SILVER_DUST.item(), null});
 
-        registerMagicalPlant("Lead", SlimefunItems.LEAD_DUST.item().asQuantity(8), "93c3c418039c4b28b0da75a6d9b22712c7015432d4f4226d6cc0a77d54b64178",
+        registerMagicalPlant("Lead", copy(SlimefunItems.LEAD_DUST.item(), 8), "93c3c418039c4b28b0da75a6d9b22712c7015432d4f4226d6cc0a77d54b64178",
         new ItemStack[] {null, SlimefunItems.LEAD_DUST.item(), null, SlimefunItems.LEAD_DUST.item(), getItem("IRON_PLANT"), SlimefunItems.LEAD_DUST.item(), null, SlimefunItems.LEAD_DUST.item(), null});
 
         registerMagicalPlant("Redstone", new ItemStack(Material.REDSTONE, 8), "e8deee5866ab199eda1bdd7707bdb9edd693444f1e3bd336bd2c767151cf2",
@@ -230,7 +224,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         .register(this);
 
         SlimefunItemStack grassSeeds = new SlimefunItemStack("GRASS_SEEDS", Material.PUMPKIN_SEEDS, "\u00a7rGrass Seeds", "", "\u00a77\u00a7oCan be planted on Dirt");
-        new GrassSeeds(mainItemGroup, grassSeeds, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] {null, null, null, null, new ItemStack(Material.SHORT_GRASS), null, null, null, null})
+        new GrassSeeds(mainItemGroup, grassSeeds, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] {null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null})
         .register(this);
         // @formatter:on
 
@@ -275,7 +269,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         items.put(id + "_SAPLING", sapling.item());
 
-        new BonemealableItem(mainItemGroup, sapling, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.SHORT_GRASS), null, null, null, null }).register(this);
+        new BonemealableItem(mainItemGroup, sapling, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null }).register(this);
 
         new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(id, texture, color + name), ExoticGardenRecipeTypes.HARVEST_TREE, true, new ItemStack[] { null, null, null, null, getItem(id + "_SAPLING"), null, null, null, null }).register(this);
 
@@ -316,7 +310,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         items.put(upperCase + "_BUSH", sfi.item());
 
-        new BonemealableItem(mainItemGroup, sfi, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.SHORT_GRASS), null, null, null, null }).register(this);
+        new BonemealableItem(mainItemGroup, sfi, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null }).register(this);
 
         new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(upperCase, texture, color + name), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(upperCase + "_BUSH"), null, null, null, null }).register(this);
 
@@ -345,7 +339,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         SlimefunItemStack bush = new SlimefunItemStack(enumStyle + "_BUSH", Material.OAK_SAPLING, color + name + " Plant");
         items.put(upperCase + "_BUSH", bush.item());
 
-        new BonemealableItem(mainItemGroup, bush, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.SHORT_GRASS), null, null, null, null })
+        new BonemealableItem(mainItemGroup, bush, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null })
             .register(this);
 
         new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(enumStyle, texture, color + name), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(enumStyle + "_BUSH"), null, null, null, null }).register(this);
@@ -465,5 +459,12 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         return "https://github.com/TheBusyBiscuit/ExoticGarden/issues";
     }
 
+    private static ItemStack copy(ItemStack item, int amount) {
+        ItemStack copy = item.clone();
+        copy.setAmount(amount);
+        return copy;
+    }
+
 }
+
 
