@@ -7,7 +7,7 @@ import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Color;
-import org.bukkit.Material;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.PotionMeta;
 import org.bukkit.potion.PotionEffect;
@@ -23,7 +23,7 @@ public final class CustomPotion extends ItemStack {
 
     @ParametersAreNonnullByDefault
     public CustomPotion(String name, Color color, PotionEffect effect, String... lore) {
-        super(Material.POTION);
+        super(MaterialCompat.safe(XMaterial.POTION));
 
         PotionMeta meta = (PotionMeta) getItemMeta();
         List<String> list = new ArrayList<>();
@@ -34,7 +34,8 @@ public final class CustomPotion extends ItemStack {
 
         meta.setDisplayName(ChatColors.color(name));
         meta.setLore(list);
-        meta.setColor(color);
+        // PotionMeta.setColor is 1.11+; absent on 1.8.
+        try { meta.setColor(color); } catch (NoSuchMethodError ignored) { }
         meta.addCustomEffect(effect, true);
 
         setItemMeta(meta);

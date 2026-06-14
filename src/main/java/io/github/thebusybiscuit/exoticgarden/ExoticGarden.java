@@ -33,7 +33,8 @@ import org.bukkit.Effect;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey;
-import org.bukkit.Tag;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.Tag;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.inventory.ItemStack;
@@ -107,7 +108,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         miscItemGroup = new SubItemGroup(new NamespacedKey(this, "misc"), nestedItemGroup, CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("606be2df2122344bda479feece365ee0e9d5da276afa0e8ce8d848f373dd131")), "\u00a7aExotic Garden - Ingredients and Tools"));
         foodItemGroup = new SubItemGroup(new NamespacedKey(this, "food"), nestedItemGroup, CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("a14216d10714082bbe3f412423e6b19232352f4d64f9aca3913cb46318d3ed")), "\u00a7aExotic Garden - Food"));
         drinksItemGroup = new SubItemGroup(new NamespacedKey(this, "drinks"), nestedItemGroup, CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("2a8f1f70e85825607d28edce1a2ad4506e732b4a5345a5ea6e807c4b313e88")), "\u00a7aExotic Garden - Drinks"));
-        magicalItemGroup = new SubItemGroup(new NamespacedKey(this, "magical_crops"), nestedItemGroup, CustomItemStack.create(Material.BLAZE_POWDER, "\u00a75Exotic Garden - Magical Plants"));
+        magicalItemGroup = new SubItemGroup(new NamespacedKey(this, "magical_crops"), nestedItemGroup, CustomItemStack.create(MaterialCompat.safe(XMaterial.BLAZE_POWDER), "\u00a75Exotic Garden - Magical Plants"));
 
         kitchen = new Kitchen(this, miscItemGroup);
         kitchen.register(this);
@@ -117,7 +118,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         // @formatter:off
         SlimefunItemStack iceCube = new SlimefunItemStack("ICE_CUBE", "9340bef2c2c33d113bac4e6a1a84d5ffcecbbfab6b32fa7a7f76195442bd1a2", "\u00a7bIce Cube");
-        new SlimefunItem(miscItemGroup, iceCube, RecipeType.GRIND_STONE, new ItemStack[] {new ItemStack(Material.ICE), null, null, null, null, null, null, null, null}, copy(iceCube.item(), 4))
+        new SlimefunItem(miscItemGroup, iceCube, RecipeType.GRIND_STONE, new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.ICE)), null, null, null, null, null, null, null, null}, copy(iceCube.item(), 4))
         .register(this);
 
         registerBerry("Grape", ChatColor.RED, Color.RED, PlantType.BUSH, "6ee97649bd999955413fcbf0b269c91be4342b10d0755bad7a17e95fcefdab0");
@@ -146,28 +147,28 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         registerPlant("Red Bell Pepper", ChatColor.RED, PlantType.DOUBLE_PLANT, "65f7810414a2cee2bc1de12ecef7a4c89fc9b38e9d0414a90991241a5863705f");
 
-        registerTree("Oak Apple", "cbb311f3ba1c07c3d1147cd210d81fe11fd8ae9e3db212a0fa748946c3633", "\u00a7c", Color.FUCHSIA, "Oak Apple Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Coconut", "6d27ded57b94cf715b048ef517ab3f85bef5a7be69f14b1573e14e7e42e2e8", "\u00a76", Color.MAROON, "Coconut Milk", false, Material.SAND);
-        registerTree("Cherry", "c520766b87d2463c34173ffcd578b0e67d163d37a2d7c2e77915cd91144d40d1", "\u00a7c", Color.FUCHSIA, "Cherry Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Pomegranate", "cbb311f3ba1c07c3d1147cd210d81fe11fd8ae9e3db212a0fa748946c3633", "\u00a74", Color.RED, "Pomegranate Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Lemon", "957fd56ca15978779324df519354b6639a8d9bc1192c7c3de925a329baef6c", "\u00a7e", Color.YELLOW, "Lemon Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Plum", "69d664319ff381b4ee69a697715b7642b32d54d726c87f6440bf017a4bcd7", "\u00a75", Color.RED, "Plum Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Lime", "5a5153479d9f146a5ee3c9e218f5e7e84c4fa375e4f86d31772ba71f6468", "\u00a7a", Color.LIME, "Lime Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Orange", "65b1db547d1b7956d4511accb1533e21756d7cbc38eb64355a2626412212", "\u00a76", Color.ORANGE, "Orange Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Peach", "d3ba41fe82757871e8cbec9ded9acbfd19930d93341cf8139d1dfbfaa3ec2a5", "\u00a75", Color.RED, "Peach Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Pear", "2de28df844961a8eca8efb79ebb4ae10b834c64a66815e8b645aeff75889664b", "\u00a7a", Color.LIME, "Pear Juice", true, Material.DIRT, Material.GRASS_BLOCK);
-        registerTree("Dragon Fruit", "847d73a91b52393f2c27e453fb89ab3d784054d414e390d58abd22512edd2b", "\u00a7d", Color.FUCHSIA, "Dragon Fruit Juice", true, Material.DIRT, Material.GRASS_BLOCK);
+        registerTree("Oak Apple", "cbb311f3ba1c07c3d1147cd210d81fe11fd8ae9e3db212a0fa748946c3633", "\u00a7c", Color.FUCHSIA, "Oak Apple Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Coconut", "6d27ded57b94cf715b048ef517ab3f85bef5a7be69f14b1573e14e7e42e2e8", "\u00a76", Color.MAROON, "Coconut Milk", false, MaterialCompat.safe(XMaterial.SAND));
+        registerTree("Cherry", "c520766b87d2463c34173ffcd578b0e67d163d37a2d7c2e77915cd91144d40d1", "\u00a7c", Color.FUCHSIA, "Cherry Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Pomegranate", "cbb311f3ba1c07c3d1147cd210d81fe11fd8ae9e3db212a0fa748946c3633", "\u00a74", Color.RED, "Pomegranate Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Lemon", "957fd56ca15978779324df519354b6639a8d9bc1192c7c3de925a329baef6c", "\u00a7e", Color.YELLOW, "Lemon Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Plum", "69d664319ff381b4ee69a697715b7642b32d54d726c87f6440bf017a4bcd7", "\u00a75", Color.RED, "Plum Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Lime", "5a5153479d9f146a5ee3c9e218f5e7e84c4fa375e4f86d31772ba71f6468", "\u00a7a", Color.LIME, "Lime Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Orange", "65b1db547d1b7956d4511accb1533e21756d7cbc38eb64355a2626412212", "\u00a76", Color.ORANGE, "Orange Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Peach", "d3ba41fe82757871e8cbec9ded9acbfd19930d93341cf8139d1dfbfaa3ec2a5", "\u00a75", Color.RED, "Peach Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Pear", "2de28df844961a8eca8efb79ebb4ae10b834c64a66815e8b645aeff75889664b", "\u00a7a", Color.LIME, "Pear Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
+        registerTree("Dragon Fruit", "847d73a91b52393f2c27e453fb89ab3d784054d414e390d58abd22512edd2b", "\u00a7d", Color.FUCHSIA, "Dragon Fruit Juice", true, MaterialCompat.safe(XMaterial.DIRT), MaterialCompat.safe(XMaterial.GRASS_BLOCK));
 
         FoodRegistry.register(this, miscItemGroup, drinksItemGroup, foodItemGroup);
 
-        registerMagicalPlant("Dirt", new ItemStack(Material.DIRT, 2), "1ab43b8c3d34f125e5a3f8b92cd43dfd14c62402c33298461d4d4d7ce2d3aea", 
-        new ItemStack[] {null, new ItemStack(Material.DIRT), null, new ItemStack(Material.DIRT), new ItemStack(Material.WHEAT_SEEDS), new ItemStack(Material.DIRT), null, new ItemStack(Material.DIRT), null});
+        registerMagicalPlant("Dirt", new ItemStack(MaterialCompat.safe(XMaterial.DIRT), 2), "1ab43b8c3d34f125e5a3f8b92cd43dfd14c62402c33298461d4d4d7ce2d3aea", 
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.DIRT)), null, new ItemStack(MaterialCompat.safe(XMaterial.DIRT)), new ItemStack(MaterialCompat.safe(XMaterial.WHEAT_SEEDS)), new ItemStack(MaterialCompat.safe(XMaterial.DIRT)), null, new ItemStack(MaterialCompat.safe(XMaterial.DIRT)), null});
 
-        registerMagicalPlant("Coal", new ItemStack(Material.COAL, 2), "7788f5ddaf52c5842287b9427a74dac8f0919eb2fdb1b51365ab25eb392c47",
-        new ItemStack[] {null, new ItemStack(Material.COAL_ORE), null, new ItemStack(Material.COAL_ORE), new ItemStack(Material.WHEAT_SEEDS), new ItemStack(Material.COAL_ORE), null, new ItemStack(Material.COAL_ORE), null});
+        registerMagicalPlant("Coal", new ItemStack(MaterialCompat.safe(XMaterial.COAL), 2), "7788f5ddaf52c5842287b9427a74dac8f0919eb2fdb1b51365ab25eb392c47",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.COAL_ORE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COAL_ORE)), new ItemStack(MaterialCompat.safe(XMaterial.WHEAT_SEEDS)), new ItemStack(MaterialCompat.safe(XMaterial.COAL_ORE)), null, new ItemStack(MaterialCompat.safe(XMaterial.COAL_ORE)), null});
 
-        registerMagicalPlant("Iron", new ItemStack(Material.IRON_INGOT), "db97bdf92b61926e39f5cddf12f8f7132929dee541771e0b592c8b82c9ad52d",
-        new ItemStack[] {null, new ItemStack(Material.IRON_BLOCK), null, new ItemStack(Material.IRON_BLOCK), getItem("COAL_PLANT"), new ItemStack(Material.IRON_BLOCK), null, new ItemStack(Material.IRON_BLOCK), null});
+        registerMagicalPlant("Iron", new ItemStack(MaterialCompat.safe(XMaterial.IRON_INGOT)), "db97bdf92b61926e39f5cddf12f8f7132929dee541771e0b592c8b82c9ad52d",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)), null, new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)), getItem("COAL_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)), null, new ItemStack(MaterialCompat.safe(XMaterial.IRON_BLOCK)), null});
 
         registerMagicalPlant("Gold", SlimefunItems.GOLD_4K.item(), "e4df892293a9236f73f48f9efe979fe07dbd91f7b5d239e4acfd394f6eca",
         new ItemStack[] {null, SlimefunItems.GOLD_16K.item(), null, SlimefunItems.GOLD_16K.item(), getItem("IRON_PLANT"), SlimefunItems.GOLD_16K.item(), null, SlimefunItems.GOLD_16K.item(), null});
@@ -187,50 +188,50 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         registerMagicalPlant("Lead", copy(SlimefunItems.LEAD_DUST.item(), 8), "93c3c418039c4b28b0da75a6d9b22712c7015432d4f4226d6cc0a77d54b64178",
         new ItemStack[] {null, SlimefunItems.LEAD_DUST.item(), null, SlimefunItems.LEAD_DUST.item(), getItem("IRON_PLANT"), SlimefunItems.LEAD_DUST.item(), null, SlimefunItems.LEAD_DUST.item(), null});
 
-        registerMagicalPlant("Redstone", new ItemStack(Material.REDSTONE, 8), "e8deee5866ab199eda1bdd7707bdb9edd693444f1e3bd336bd2c767151cf2",
-        new ItemStack[] {null, new ItemStack(Material.REDSTONE_BLOCK), null, new ItemStack(Material.REDSTONE_BLOCK), getItem("GOLD_PLANT"), new ItemStack(Material.REDSTONE_BLOCK), null, new ItemStack(Material.REDSTONE_BLOCK), null});
+        registerMagicalPlant("Redstone", new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE), 8), "e8deee5866ab199eda1bdd7707bdb9edd693444f1e3bd336bd2c767151cf2",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE_BLOCK)), null, new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE_BLOCK)), getItem("GOLD_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE_BLOCK)), null, new ItemStack(MaterialCompat.safe(XMaterial.REDSTONE_BLOCK)), null});
 
-        registerMagicalPlant("Lapis", new ItemStack(Material.LAPIS_LAZULI, 16), "2aa0d0fea1afaee334cab4d29d869652f5563c635253c0cbed797ed3cf57de0",
-        new ItemStack[] {null, new ItemStack(Material.LAPIS_ORE), null, new ItemStack(Material.LAPIS_ORE), getItem("REDSTONE_PLANT"), new ItemStack(Material.LAPIS_ORE), null, new ItemStack(Material.LAPIS_ORE), null});
+        registerMagicalPlant("Lapis", new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_LAZULI), 16), "2aa0d0fea1afaee334cab4d29d869652f5563c635253c0cbed797ed3cf57de0",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_ORE)), null, new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_ORE)), getItem("REDSTONE_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_ORE)), null, new ItemStack(MaterialCompat.safe(XMaterial.LAPIS_ORE)), null});
 
-        registerMagicalPlant("Ender", new ItemStack(Material.ENDER_PEARL, 4), "4e35aade81292e6ff4cd33dc0ea6a1326d04597c0e529def4182b1d1548cfe1",
-        new ItemStack[] {null, new ItemStack(Material.ENDER_PEARL), null, new ItemStack(Material.ENDER_PEARL), getItem("LAPIS_PLANT"), new ItemStack(Material.ENDER_PEARL), null, new ItemStack(Material.ENDER_PEARL), null});
+        registerMagicalPlant("Ender", new ItemStack(MaterialCompat.safe(XMaterial.ENDER_PEARL), 4), "4e35aade81292e6ff4cd33dc0ea6a1326d04597c0e529def4182b1d1548cfe1",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.ENDER_PEARL)), null, new ItemStack(MaterialCompat.safe(XMaterial.ENDER_PEARL)), getItem("LAPIS_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.ENDER_PEARL)), null, new ItemStack(MaterialCompat.safe(XMaterial.ENDER_PEARL)), null});
 
-        registerMagicalPlant("Quartz", new ItemStack(Material.QUARTZ, 8), "26de58d583c103c1cd34824380c8a477e898fde2eb9a74e71f1a985053b96",
-        new ItemStack[] {null, new ItemStack(Material.NETHER_QUARTZ_ORE), null, new ItemStack(Material.NETHER_QUARTZ_ORE), getItem("ENDER_PLANT"), new ItemStack(Material.NETHER_QUARTZ_ORE), null, new ItemStack(Material.NETHER_QUARTZ_ORE), null});
+        registerMagicalPlant("Quartz", new ItemStack(MaterialCompat.safe(XMaterial.QUARTZ), 8), "26de58d583c103c1cd34824380c8a477e898fde2eb9a74e71f1a985053b96",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.NETHER_QUARTZ_ORE)), null, new ItemStack(MaterialCompat.safe(XMaterial.NETHER_QUARTZ_ORE)), getItem("ENDER_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.NETHER_QUARTZ_ORE)), null, new ItemStack(MaterialCompat.safe(XMaterial.NETHER_QUARTZ_ORE)), null});
 
-        registerMagicalPlant("Diamond", new ItemStack(Material.DIAMOND), "f88cd6dd50359c7d5898c7c7e3e260bfcd3dcb1493a89b9e88e9cbecbfe45949",
-        new ItemStack[] {null, new ItemStack(Material.DIAMOND), null, new ItemStack(Material.DIAMOND), getItem("QUARTZ_PLANT"), new ItemStack(Material.DIAMOND), null, new ItemStack(Material.DIAMOND), null});
+        registerMagicalPlant("Diamond", new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), "f88cd6dd50359c7d5898c7c7e3e260bfcd3dcb1493a89b9e88e9cbecbfe45949",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), null, new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), getItem("QUARTZ_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), null, new ItemStack(MaterialCompat.safe(XMaterial.DIAMOND)), null});
 
-        registerMagicalPlant("Emerald", new ItemStack(Material.EMERALD), "4fc495d1e6eb54a386068c6cb121c5875e031b7f61d7236d5f24b77db7da7f",
-        new ItemStack[] {null, new ItemStack(Material.EMERALD), null, new ItemStack(Material.EMERALD), getItem("DIAMOND_PLANT"), new ItemStack(Material.EMERALD), null, new ItemStack(Material.EMERALD), null});
+        registerMagicalPlant("Emerald", new ItemStack(MaterialCompat.safe(XMaterial.EMERALD)), "4fc495d1e6eb54a386068c6cb121c5875e031b7f61d7236d5f24b77db7da7f",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.EMERALD)), null, new ItemStack(MaterialCompat.safe(XMaterial.EMERALD)), getItem("DIAMOND_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.EMERALD)), null, new ItemStack(MaterialCompat.safe(XMaterial.EMERALD)), null});
 
         if (Slimefun.getMinecraftVersion().isAtLeast(MinecraftVersion.MINECRAFT_1_16)) {
-            registerMagicalPlant("Netherite", new ItemStack(Material.NETHERITE_INGOT), "27957f895d7bc53423a35aac59d584b41cc30e040269c955e451fe680a1cc049", 
-            new ItemStack[] {null, new ItemStack(Material.NETHERITE_BLOCK), null, new ItemStack(Material.NETHERITE_BLOCK), getItem("EMERALD_PLANT"), new ItemStack(Material.NETHERITE_BLOCK), null, new ItemStack(Material.NETHERITE_BLOCK), null});
+            registerMagicalPlant("Netherite", new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_INGOT)), "27957f895d7bc53423a35aac59d584b41cc30e040269c955e451fe680a1cc049", 
+            new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_BLOCK)), null, new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_BLOCK)), getItem("EMERALD_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_BLOCK)), null, new ItemStack(MaterialCompat.safe(XMaterial.NETHERITE_BLOCK)), null});
         }
 
-        registerMagicalPlant("Glowstone", new ItemStack(Material.GLOWSTONE_DUST, 8), "65d7bed8df714cea063e457ba5e87931141de293dd1d9b9146b0f5ab383866",
-        new ItemStack[] { null, new ItemStack(Material.GLOWSTONE), null, new ItemStack(Material.GLOWSTONE), getItem("REDSTONE_PLANT"), new ItemStack(Material.GLOWSTONE), null, new ItemStack(Material.GLOWSTONE), null });
+        registerMagicalPlant("Glowstone", new ItemStack(MaterialCompat.safe(XMaterial.GLOWSTONE_DUST), 8), "65d7bed8df714cea063e457ba5e87931141de293dd1d9b9146b0f5ab383866",
+        new ItemStack[] { null, new ItemStack(MaterialCompat.safe(XMaterial.GLOWSTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.GLOWSTONE)), getItem("REDSTONE_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.GLOWSTONE)), null, new ItemStack(MaterialCompat.safe(XMaterial.GLOWSTONE)), null });
 
-        registerMagicalPlant("Obsidian", new ItemStack(Material.OBSIDIAN, 2), "7840b87d52271d2a755dedc82877e0ed3df67dcc42ea479ec146176b02779a5",
-        new ItemStack[] {null, new ItemStack(Material.OBSIDIAN), null, new ItemStack(Material.OBSIDIAN), getItem("LAPIS_PLANT"), new ItemStack(Material.OBSIDIAN), null, new ItemStack(Material.OBSIDIAN), null});
+        registerMagicalPlant("Obsidian", new ItemStack(MaterialCompat.safe(XMaterial.OBSIDIAN), 2), "7840b87d52271d2a755dedc82877e0ed3df67dcc42ea479ec146176b02779a5",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.OBSIDIAN)), null, new ItemStack(MaterialCompat.safe(XMaterial.OBSIDIAN)), getItem("LAPIS_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.OBSIDIAN)), null, new ItemStack(MaterialCompat.safe(XMaterial.OBSIDIAN)), null});
 
-        registerMagicalPlant("Slime", new ItemStack(Material.SLIME_BALL, 8), "90e65e6e5113a5187dad46dfad3d3bf85e8ef807f82aac228a59c4a95d6f6a",
-        new ItemStack[] {null, new ItemStack(Material.SLIME_BALL), null, new ItemStack(Material.SLIME_BALL), getItem("ENDER_PLANT"), new ItemStack(Material.SLIME_BALL), null, new ItemStack(Material.SLIME_BALL), null});
+        registerMagicalPlant("Slime", new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL), 8), "90e65e6e5113a5187dad46dfad3d3bf85e8ef807f82aac228a59c4a95d6f6a",
+        new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), null, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), getItem("ENDER_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), null, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), null});
 
-        new Crook(miscItemGroup, new SlimefunItemStack("CROOK", CustomItemStack.create(Material.WOODEN_HOE, "\u00a7rCrook", "", "\u00a77+ \u00a7b25% \u00a77Sapling Drop Rate")), RecipeType.ENHANCED_CRAFTING_TABLE,
-        new ItemStack[] {new ItemStack(Material.STICK), new ItemStack(Material.STICK), null, null, new ItemStack(Material.STICK), null, null, new ItemStack(Material.STICK), null})
+        new Crook(miscItemGroup, new SlimefunItemStack("CROOK", CustomItemStack.create(MaterialCompat.safe(XMaterial.WOODEN_HOE), "\u00a7rCrook", "", "\u00a77+ \u00a7b25% \u00a77Sapling Drop Rate")), RecipeType.ENHANCED_CRAFTING_TABLE,
+        new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.STICK)), new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null, null, new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null, null, new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null})
         .register(this);
 
-        SlimefunItemStack grassSeeds = new SlimefunItemStack("GRASS_SEEDS", Material.PUMPKIN_SEEDS, "\u00a7rGrass Seeds", "", "\u00a77\u00a7oCan be planted on Dirt");
-        new GrassSeeds(mainItemGroup, grassSeeds, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] {null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null})
+        SlimefunItemStack grassSeeds = new SlimefunItemStack("GRASS_SEEDS", MaterialCompat.safe(XMaterial.PUMPKIN_SEEDS), "\u00a7rGrass Seeds", "", "\u00a77\u00a7oCan be planted on Dirt");
+        new GrassSeeds(mainItemGroup, grassSeeds, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] {null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null})
         .register(this);
         // @formatter:on
 
-        items.put("WHEAT_SEEDS", new ItemStack(Material.WHEAT_SEEDS));
-        items.put("PUMPKIN_SEEDS", new ItemStack(Material.PUMPKIN_SEEDS));
-        items.put("MELON_SEEDS", new ItemStack(Material.MELON_SEEDS));
+        items.put("WHEAT_SEEDS", new ItemStack(MaterialCompat.safe(XMaterial.WHEAT_SEEDS)));
+        items.put("PUMPKIN_SEEDS", new ItemStack(MaterialCompat.safe(XMaterial.PUMPKIN_SEEDS)));
+        items.put("MELON_SEEDS", new ItemStack(MaterialCompat.safe(XMaterial.MELON_SEEDS)));
 
         for (Material sapling : Tag.SAPLINGS.getValues()) {
             items.put(sapling.name(), new ItemStack(sapling));
@@ -265,11 +266,11 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         Tree tree = new Tree(id, texture, soil);
         trees.add(tree);
 
-        SlimefunItemStack sapling = new SlimefunItemStack(id + "_SAPLING", Material.OAK_SAPLING, color + name + " Sapling");
+        SlimefunItemStack sapling = new SlimefunItemStack(id + "_SAPLING", MaterialCompat.safe(XMaterial.OAK_SAPLING), color + name + " Sapling");
 
         items.put(id + "_SAPLING", sapling.item());
 
-        new BonemealableItem(mainItemGroup, sapling, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null }).register(this);
+        new BonemealableItem(mainItemGroup, sapling, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null }).register(this);
 
         new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(id, texture, color + name), ExoticGardenRecipeTypes.HARVEST_TREE, true, new ItemStack[] { null, null, null, null, getItem(id + "_SAPLING"), null, null, null, null }).register(this);
 
@@ -278,7 +279,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         }
 
         if (pie) {
-            new CustomFood(foodItemGroup, new SlimefunItemStack(id + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79", color + name + " Pie", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "6.5" + " \u00a77\u00a7oHunger"), new ItemStack[] { getItem(id), new ItemStack(Material.EGG), new ItemStack(Material.SUGAR), new ItemStack(Material.MILK_BUCKET), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
+            new CustomFood(foodItemGroup, new SlimefunItemStack(id + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79", color + name + " Pie", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "6.5" + " \u00a77\u00a7oHunger"), new ItemStack[] { getItem(id), new ItemStack(MaterialCompat.safe(XMaterial.EGG)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.MILK_BUCKET)), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
         }
 
         if (!new File(schematicsFolder, id + "_TREE.schematic").exists()) {
@@ -306,11 +307,11 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         Berry berry = new Berry(upperCase, type, texture);
         berries.add(berry);
 
-        SlimefunItemStack sfi = new SlimefunItemStack(upperCase + "_BUSH", Material.OAK_SAPLING, color + name + " Bush");
+        SlimefunItemStack sfi = new SlimefunItemStack(upperCase + "_BUSH", MaterialCompat.safe(XMaterial.OAK_SAPLING), color + name + " Bush");
 
         items.put(upperCase + "_BUSH", sfi.item());
 
-        new BonemealableItem(mainItemGroup, sfi, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null }).register(this);
+        new BonemealableItem(mainItemGroup, sfi, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null }).register(this);
 
         new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(upperCase, texture, color + name), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(upperCase + "_BUSH"), null, null, null, null }).register(this);
 
@@ -318,9 +319,9 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         new Juice(drinksItemGroup, new SlimefunItemStack(upperCase + "_SMOOTHIE", new CustomPotion(color + name + " Smoothie", potionColor, new PotionEffect(PotionEffectType.SATURATION, 10, 0), "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "5.0" + " \u00a77\u00a7oHunger")), RecipeType.ENHANCED_CRAFTING_TABLE, new ItemStack[] { getItem(upperCase + "_JUICE"), getItem("ICE_CUBE"), null, null, null, null, null, null, null }).register(this);
 
-        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_JELLY_SANDWICH", "8c8a939093ab1cde6677faf7481f311e5f17f63d58825f0e0c174631fb0439", color + name + " Jelly Sandwich", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "8.0" + " \u00a77\u00a7oHunger"), new ItemStack[] { null, new ItemStack(Material.BREAD), null, null, getItem(upperCase + "_JUICE"), null, null, new ItemStack(Material.BREAD), null }, 16).register(this);
+        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_JELLY_SANDWICH", "8c8a939093ab1cde6677faf7481f311e5f17f63d58825f0e0c174631fb0439", color + name + " Jelly Sandwich", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "8.0" + " \u00a77\u00a7oHunger"), new ItemStack[] { null, new ItemStack(MaterialCompat.safe(XMaterial.BREAD)), null, null, getItem(upperCase + "_JUICE"), null, null, new ItemStack(MaterialCompat.safe(XMaterial.BREAD)), null }, 16).register(this);
 
-        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79", color + name + " Pie", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "6.5" + " \u00a77\u00a7oHunger"), new ItemStack[] { getItem(upperCase), new ItemStack(Material.EGG), new ItemStack(Material.SUGAR), new ItemStack(Material.MILK_BUCKET), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
+        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79", color + name + " Pie", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "6.5" + " \u00a77\u00a7oHunger"), new ItemStack[] { getItem(upperCase), new ItemStack(MaterialCompat.safe(XMaterial.EGG)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.MILK_BUCKET)), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
     }
 
     @Nullable
@@ -336,10 +337,10 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         Berry berry = new Berry(enumStyle, type, texture);
         berries.add(berry);
 
-        SlimefunItemStack bush = new SlimefunItemStack(enumStyle + "_BUSH", Material.OAK_SAPLING, color + name + " Plant");
+        SlimefunItemStack bush = new SlimefunItemStack(enumStyle + "_BUSH", MaterialCompat.safe(XMaterial.OAK_SAPLING), color + name + " Plant");
         items.put(upperCase + "_BUSH", bush.item());
 
-        new BonemealableItem(mainItemGroup, bush, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(Material.GRASS), null, null, null, null })
+        new BonemealableItem(mainItemGroup, bush, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null })
             .register(this);
 
         new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(enumStyle, texture, color + name), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(enumStyle + "_BUSH"), null, null, null, null }).register(this);
@@ -349,12 +350,12 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         String upperCase = name.toUpperCase(Locale.ROOT);
         String enumStyle = upperCase.replace(' ', '_');
 
-        SlimefunItemStack essence = new SlimefunItemStack(enumStyle + "_ESSENCE", Material.BLAZE_POWDER, "\u00a7rMagical Essence", "", "\u00a77" + name);
+        SlimefunItemStack essence = new SlimefunItemStack(enumStyle + "_ESSENCE", MaterialCompat.safe(XMaterial.BLAZE_POWDER), "\u00a7rMagical Essence", "", "\u00a77" + name);
 
         Berry berry = new Berry(essence.item(), upperCase + "_ESSENCE", PlantType.ORE_PLANT, texture);
         berries.add(berry);
 
-        new BonemealableItem(magicalItemGroup, new SlimefunItemStack(enumStyle + "_PLANT", Material.OAK_SAPLING, "\u00a7r" + name + " Plant"), RecipeType.ENHANCED_CRAFTING_TABLE, recipe)
+        new BonemealableItem(magicalItemGroup, new SlimefunItemStack(enumStyle + "_PLANT", MaterialCompat.safe(XMaterial.OAK_SAPLING), "\u00a7r" + name + " Plant"), RecipeType.ENHANCED_CRAFTING_TABLE, recipe)
             .register(this);
 
         MagicalEssence magicalEssence = new MagicalEssence(magicalItemGroup, essence);
@@ -385,15 +386,15 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
                         }
 
                         BlockStorage.deleteLocationInfoUnsafely(block.getLocation(), false);
-                        block.getWorld().playEffect(block.getLocation(), Effect.STEP_SOUND, Material.OAK_LEAVES);
-                        block.setType(Material.AIR);
+                        block.getWorld().playEffect(block.getLocation(), Effect.STEP_SOUND, MaterialCompat.safe(XMaterial.OAK_LEAVES));
+                        block.setType(MaterialCompat.safe(XMaterial.AIR));
 
-                        plant.setType(Material.OAK_SAPLING);
+                        plant.setType(MaterialCompat.safe(XMaterial.OAK_SAPLING));
                         BlockStorage.deleteLocationInfoUnsafely(plant.getLocation(), false);
                         BlockStorage.store(plant, getItem(berry.toBush()));
                         return berry.getItem().clone();
                     default:
-                        block.setType(Material.OAK_SAPLING);
+                        block.setType(MaterialCompat.safe(XMaterial.OAK_SAPLING));
                         BlockStorage.deleteLocationInfoUnsafely(block.getLocation(), false);
                         BlockStorage.store(block, getItem(berry.toBush()));
                         return berry.getItem().clone();
@@ -415,9 +416,9 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         if (treeFruits.contains(check.getId())) {
             BlockStorage.clearBlockInfo(loc);
             ItemStack fruits = check.getItem().clone();
-            fruit.getWorld().playEffect(loc, Effect.STEP_SOUND, Material.OAK_LEAVES);
+            fruit.getWorld().playEffect(loc, Effect.STEP_SOUND, MaterialCompat.safe(XMaterial.OAK_LEAVES));
             fruit.getWorld().dropItemNaturally(loc, fruits);
-            fruit.setType(Material.AIR);
+            fruit.setType(MaterialCompat.safe(XMaterial.AIR));
         }
     }
 

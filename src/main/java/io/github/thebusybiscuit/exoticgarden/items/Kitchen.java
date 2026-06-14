@@ -6,8 +6,10 @@ import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Bukkit;
-import org.bukkit.Material;
-import org.bukkit.Sound;
+import io.github.thebusybiscuit.exoticgarden.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.SoundCategory;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.SoundCompat;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.block.Dispenser;
@@ -40,7 +42,7 @@ public class Kitchen extends MultiBlockMachine {
 
     @ParametersAreNonnullByDefault
     public Kitchen(ExoticGarden plugin, ItemGroup itemGroup) {
-        super(itemGroup, new SlimefunItemStack("KITCHEN", Material.CAULDRON, "\u00a7eKitchen", "", "\u00a7a\u00a7oYou can make a bunch of different yummies here!", "\u00a7a\u00a7oThe result goes in the Furnace output slot"), new ItemStack[] { CustomItemStack.create(Material.BRICK_STAIRS, "\u00a7oBrick Stairs (upside down)"), CustomItemStack.create(Material.BRICK_STAIRS, "\u00a7oBrick Stairs (upside down)"), new ItemStack(Material.BRICKS), new ItemStack(Material.STONE_PRESSURE_PLATE), new ItemStack(Material.IRON_TRAPDOOR), new ItemStack(Material.BOOKSHELF), new ItemStack(Material.FURNACE), new ItemStack(Material.DISPENSER), new ItemStack(Material.CRAFTING_TABLE) }, new ItemStack[0], BlockFace.SELF);
+        super(itemGroup, new SlimefunItemStack("KITCHEN", MaterialCompat.safe(XMaterial.CAULDRON), "\u00a7eKitchen", "", "\u00a7a\u00a7oYou can make a bunch of different yummies here!", "\u00a7a\u00a7oThe result goes in the Furnace output slot"), new ItemStack[] { CustomItemStack.create(MaterialCompat.safe(XMaterial.BRICK_STAIRS), "\u00a7oBrick Stairs (upside down)"), CustomItemStack.create(MaterialCompat.safe(XMaterial.BRICK_STAIRS), "\u00a7oBrick Stairs (upside down)"), new ItemStack(MaterialCompat.safe(XMaterial.BRICKS)), new ItemStack(MaterialCompat.safe(XMaterial.STONE_PRESSURE_PLATE)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_TRAPDOOR)), new ItemStack(MaterialCompat.safe(XMaterial.BOOKSHELF)), new ItemStack(MaterialCompat.safe(XMaterial.FURNACE)), new ItemStack(MaterialCompat.safe(XMaterial.DISPENSER)), new ItemStack(MaterialCompat.safe(XMaterial.CRAFTING_TABLE)) }, new ItemStack[0], BlockFace.SELF);
 
         this.plugin = plugin;
     }
@@ -77,14 +79,14 @@ public class Kitchen extends MultiBlockMachine {
                     ItemStack item = inv.getItem(i);
 
                     if (item != null) {
-                        ItemUtils.consumeItem(item, item.getType() == Material.MILK_BUCKET);
+                        ItemUtils.consumeItem(item, item.getType() == MaterialCompat.safe(XMaterial.MILK_BUCKET));
                     }
                 }
 
-                Bukkit.getScheduler().runTaskLater(plugin, () -> p.getWorld().playSound(furnace.getLocation(), Sound.BLOCK_LAVA_EXTINGUISH, 1F, 1F), 55L);
+                Bukkit.getScheduler().runTaskLater(plugin, () -> SoundCompat.playAt(furnace.getLocation(), "BLOCK_LAVA_EXTINGUISH", SoundCategory.BLOCKS, 1F, 1F), 55L);
 
                 for (int i = 1; i < 7; i++) {
-                    Bukkit.getScheduler().runTaskLater(plugin, () -> p.getWorld().playSound(furnace.getLocation(), Sound.BLOCK_METAL_PLACE, 7F, 1F), i * 5L);
+                    Bukkit.getScheduler().runTaskLater(plugin, () -> SoundCompat.playAt(furnace.getLocation(), "BLOCK_METAL_PLACE", SoundCategory.BLOCKS, 7F, 1F), i * 5L);
                 }
 
                 if (furnaceInventory.getResult() == null) {
@@ -102,11 +104,11 @@ public class Kitchen extends MultiBlockMachine {
 
     @Nonnull
     private static Furnace locateFurnace(@Nonnull Block b) {
-        if (b.getRelative(BlockFace.EAST).getType() == Material.FURNACE) {
+        if (b.getRelative(BlockFace.EAST).getType() == MaterialCompat.safe(XMaterial.FURNACE)) {
             return (Furnace) PaperLib.getBlockState(b.getRelative(BlockFace.EAST), false).getState();
-        } else if (b.getRelative(BlockFace.WEST).getType() == Material.FURNACE) {
+        } else if (b.getRelative(BlockFace.WEST).getType() == MaterialCompat.safe(XMaterial.FURNACE)) {
             return (Furnace) PaperLib.getBlockState(b.getRelative(BlockFace.WEST), false).getState();
-        } else if (b.getRelative(BlockFace.NORTH).getType() == Material.FURNACE) {
+        } else if (b.getRelative(BlockFace.NORTH).getType() == MaterialCompat.safe(XMaterial.FURNACE)) {
             return (Furnace) PaperLib.getBlockState(b.getRelative(BlockFace.NORTH), false).getState();
         } else {
             return (Furnace) PaperLib.getBlockState(b.getRelative(BlockFace.SOUTH), false).getState();

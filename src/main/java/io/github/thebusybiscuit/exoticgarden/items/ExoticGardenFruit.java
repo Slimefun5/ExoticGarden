@@ -6,7 +6,6 @@ import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Material;
-import org.bukkit.Sound;
 import org.bukkit.block.Block;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
@@ -17,6 +16,8 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.core.handlers.ItemUseHandler;
 import io.github.thebusybiscuit.slimefun5.implementation.items.SimpleSlimefunItem;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.items.ItemUtils;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.SoundCategory;
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.SoundCompat;
 
 /**
  * Represents an edible fruit or plant item from ExoticGarden.
@@ -92,7 +93,7 @@ public class ExoticGardenFruit extends SimpleSlimefunItem<ItemUseHandler> {
 
     private void restoreHunger(@Nonnull Player p) {
         int level = p.getFoodLevel() + getFoodValue();
-        p.playSound(p.getEyeLocation(), Sound.ENTITY_GENERIC_EAT, 1, 1);
+        SoundCompat.playFor(p, p.getEyeLocation(), "ENTITY_GENERIC_EAT", SoundCategory.PLAYERS, 1, 1);
         p.setFoodLevel(Math.min(level, 20));
         p.setSaturation(p.getSaturation() + getFoodValue());
     }

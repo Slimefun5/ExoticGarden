@@ -9,10 +9,12 @@ import java.util.logging.Level;
 
 import org.bukkit.Location;
 import org.bukkit.Material;
+import io.github.thebusybiscuit.exoticgarden.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
-import org.bukkit.block.data.Rotatable;
 
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.BlockDataCompat;
 import io.github.thebusybiscuit.exoticgarden.ExoticGarden;
 import io.github.thebusybiscuit.exoticgarden.Tree;
 import io.github.thebusybiscuit.exoticgarden.schematics.org.jnbt.ByteArrayTag;
@@ -135,7 +137,7 @@ public class Schematic {
                     Block block = new Location(loc.getWorld(), blockX, blockY, blockZ).getBlock();
                     Material blockType = block.getType();
                     
-                    if ((!blockType.isSolid() && !blockType.isInteractable() && !SlimefunTag.UNBREAKABLE_MATERIALS.isTagged(blockType)) || blockType == Material.AIR || blockType == Material.CAVE_AIR || org.bukkit.Tag.SAPLINGS.isTagged(blockType)) {
+                    if ((!blockType.isSolid() && !isInteractable(blockType) && !SlimefunTag.UNBREAKABLE_MATERIALS.isTagged(blockType)) || blockType == MaterialCompat.safe(XMaterial.AIR) || blockType == MaterialCompat.safe(XMaterial.CAVE_AIR) || io.github.thebusybiscuit.slimefun5.utils.compatibility.Tag.SAPLINGS.isTagged(blockType)) {
                         Material material = parseId(blocks[index], blockData[index]);
 
                         if (material != null) {
@@ -143,15 +145,15 @@ public class Schematic {
                                 block.setType(material);
                             }
 
-                            if (org.bukkit.Tag.LEAVES.isTagged(material)) {
+                            if (io.github.thebusybiscuit.slimefun5.utils.compatibility.Tag.LEAVES.isTagged(material)) {
                                 if (ThreadLocalRandom.current().nextInt(100) < 25) {
                                     BlockStorage.store(block, tree.getItem());
                                 }
                             }
-                            else if (material == Material.PLAYER_HEAD) {
-                                Rotatable s = (Rotatable) block.getBlockData();
-                                s.setRotation(faces[ThreadLocalRandom.current().nextInt(faces.length)]);
-                                block.setBlockData(s);
+                            else if (material == MaterialCompat.safe(XMaterial.PLAYER_HEAD)) {
+                                Object data = BlockDataCompat.getBlockData(block);
+                                BlockDataCompat.set(data, "setRotation", faces[ThreadLocalRandom.current().nextInt(faces.length)]);
+                                BlockDataCompat.setBlockData(block, data);
 
                                 VersionedPlayerHead.setSkin(block, VersionedPlayerHead.hashToBase64(tree.getTexture()), true);
                                 BlockStorage.store(block, tree.getFruit());
@@ -166,40 +168,50 @@ public class Schematic {
     public static Material parseId(short blockId, byte blockData) {
         switch (blockId) {
         case 6:
-            if (blockData == 0) return Material.OAK_SAPLING;
-            if (blockData == 1) return Material.SPRUCE_SAPLING;
-            if (blockData == 2) return Material.BIRCH_SAPLING;
-            if (blockData == 3) return Material.JUNGLE_SAPLING;
-            if (blockData == 4) return Material.ACACIA_SAPLING;
-            if (blockData == 5) return Material.DARK_OAK_SAPLING;
+            if (blockData == 0) return MaterialCompat.safe(XMaterial.OAK_SAPLING);
+            if (blockData == 1) return MaterialCompat.safe(XMaterial.SPRUCE_SAPLING);
+            if (blockData == 2) return MaterialCompat.safe(XMaterial.BIRCH_SAPLING);
+            if (blockData == 3) return MaterialCompat.safe(XMaterial.JUNGLE_SAPLING);
+            if (blockData == 4) return MaterialCompat.safe(XMaterial.ACACIA_SAPLING);
+            if (blockData == 5) return MaterialCompat.safe(XMaterial.DARK_OAK_SAPLING);
             break;
         case 17:
-            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return Material.OAK_LOG;
-            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return Material.SPRUCE_LOG;
-            if (blockData == 2 || blockData == 6 || blockData == 10 || blockData == 14) return Material.BIRCH_LOG;
-            if (blockData == 3 || blockData == 7 || blockData == 11 || blockData == 15) return Material.JUNGLE_LOG;
+            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return MaterialCompat.safe(XMaterial.OAK_LOG);
+            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return MaterialCompat.safe(XMaterial.SPRUCE_LOG);
+            if (blockData == 2 || blockData == 6 || blockData == 10 || blockData == 14) return MaterialCompat.safe(XMaterial.BIRCH_LOG);
+            if (blockData == 3 || blockData == 7 || blockData == 11 || blockData == 15) return MaterialCompat.safe(XMaterial.JUNGLE_LOG);
             break;
         case 18:
-            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return Material.OAK_LEAVES;
-            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return Material.SPRUCE_LEAVES;
-            if (blockData == 2 || blockData == 6 || blockData == 10 || blockData == 14) return Material.BIRCH_LEAVES;
-            if (blockData == 3 || blockData == 7 || blockData == 11 || blockData == 15) return Material.JUNGLE_LEAVES;
-            return Material.OAK_LEAVES;
+            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return MaterialCompat.safe(XMaterial.OAK_LEAVES);
+            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return MaterialCompat.safe(XMaterial.SPRUCE_LEAVES);
+            if (blockData == 2 || blockData == 6 || blockData == 10 || blockData == 14) return MaterialCompat.safe(XMaterial.BIRCH_LEAVES);
+            if (blockData == 3 || blockData == 7 || blockData == 11 || blockData == 15) return MaterialCompat.safe(XMaterial.JUNGLE_LEAVES);
+            return MaterialCompat.safe(XMaterial.OAK_LEAVES);
         case 161:
-            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return Material.ACACIA_LEAVES;
-            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return Material.DARK_OAK_LEAVES;
+            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return MaterialCompat.safe(XMaterial.ACACIA_LEAVES);
+            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return MaterialCompat.safe(XMaterial.DARK_OAK_LEAVES);
             break;
         case 162:
-            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return Material.ACACIA_LOG;
-            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return Material.DARK_OAK_LOG;
+            if (blockData == 0 || blockData == 4 || blockData == 8 || blockData == 12) return MaterialCompat.safe(XMaterial.ACACIA_LOG);
+            if (blockData == 1 || blockData == 5 || blockData == 9 || blockData == 13) return MaterialCompat.safe(XMaterial.DARK_OAK_LOG);
             break;
         case 144:
-            return Material.PLAYER_HEAD;
+            return MaterialCompat.safe(XMaterial.PLAYER_HEAD);
         default:
             return null;
         }
 
         return null;
+    }
+
+    // Material#isInteractable() was added in 1.12; resolve it reflectively so this class also loads and
+    // pastes schematics on 1.8, where the absence of the method would otherwise crash.
+    private static boolean isInteractable(Material material) {
+        try {
+            return (boolean) Material.class.getMethod("isInteractable").invoke(material);
+        } catch (Throwable e) {
+            return false;
+        }
     }
 
     public static Schematic loadSchematic(File file) throws IOException {

@@ -8,6 +8,7 @@ import javax.annotation.Nullable;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Material;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.inventory.ItemStack;
 
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
@@ -97,7 +98,7 @@ public class Berry {
      * @return whether the material is valid soil
      */
     public boolean isSoil(@Nonnull Material type) {
-        List<Material> soils = Arrays.asList(Material.GRASS_BLOCK, Material.DIRT);
+        List<Material> soils = Arrays.asList(MaterialCompat.safe(XMaterial.GRASS_BLOCK), MaterialCompat.safe(XMaterial.DIRT));
         return soils.contains(type);
     }
 
