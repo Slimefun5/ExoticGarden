@@ -39,7 +39,7 @@ tasks {
         enabled = false
     }
     shadowJar {
-        archiveFileName.set("ExoticGarden v${project.version}.jar")
+        archiveFileName.set("ExoticGarden-1.0.0-UNOFFICIAL.jar")
         exclude("META-INF/**")
     }
     build {
