@@ -104,6 +104,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     private void registerItems() {
         nestedItemGroup = new NestedItemGroup(new NamespacedKey(this, "parent_category"), CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("847d73a91b52393f2c27e453fb89ab3d784054d414e390d58abd22512edd2b")), "\u00a7aExotic Garden"));
+        nestedItemGroup.setTheme("food");
         mainItemGroup = new SubItemGroup(new NamespacedKey(this, "plants_and_fruits"), nestedItemGroup, CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("a5a5c4a0a16dabc9b1ec72fc83e23ac15d0197de61b138babca7c8a29c820")), "\u00a7aExotic Garden - Plants and Fruits"));
         miscItemGroup = new SubItemGroup(new NamespacedKey(this, "misc"), nestedItemGroup, CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("606be2df2122344bda479feece365ee0e9d5da276afa0e8ce8d848f373dd131")), "\u00a7aExotic Garden - Ingredients and Tools"));
         foodItemGroup = new SubItemGroup(new NamespacedKey(this, "food"), nestedItemGroup, CustomItemStack.create(VersionedPlayerHead.getItemStack(VersionedPlayerHead.hashToBase64("a14216d10714082bbe3f412423e6b19232352f4d64f9aca3913cb46318d3ed")), "\u00a7aExotic Garden - Food"));
