@@ -1,0 +1,34 @@
+# German item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&bEiswurfel"
+
+GRAPE:
+  name: "&cWeintraube"
+
+BLUEBERRY:
+  name: "&9Blaubeere"
+
+STRAWBERRY:
+  name: "&4Erdbeere"
+
+TOMATO:
+  name: "&4Tomate"
+
+DRAGON_FRUIT:
+  name: "&dDrachenfrucht"
+
+COCONUT:
+  name: "&6Kokosnuss"
+
+CROOK:
+  name: "&rHirtenstab"
+  lore:
+    - ""
+    - "&7+ &b25% &7Setzlings-Droprate"
+
+GRASS_SEEDS:
+  name: "&rGrassamen"
+  lore:
+    - ""
+    - "&7&oKann auf Erde gepflanzt werden"

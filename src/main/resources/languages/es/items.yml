@@ -1,0 +1,34 @@
+# Spanish item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&bCubo de hielo"
+
+GRAPE:
+  name: "&cUva"
+
+BLUEBERRY:
+  name: "&9Arandano"
+
+STRAWBERRY:
+  name: "&4Fresa"
+
+TOMATO:
+  name: "&4Tomate"
+
+DRAGON_FRUIT:
+  name: "&dFruta del dragon"
+
+COCONUT:
+  name: "&6Coco"
+
+CROOK:
+  name: "&rCayado"
+  lore:
+    - ""
+    - "&7+ &b25% &7de probabilidad de obtener brotes"
+
+GRASS_SEEDS:
+  name: "&rSemillas de hierba"
+  lore:
+    - ""
+    - "&7&oSe puede plantar en tierra"

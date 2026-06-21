@@ -100,6 +100,8 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         new AndroidListener(this);
         new PlantsListener(this);
+
+        Slimefun.getItemTranslationService().registerTranslations(this);
     }
 
     private void registerItems() {

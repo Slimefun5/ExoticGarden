@@ -1,0 +1,34 @@
+# French item translations for ExoticGarden. Keyed by Slimefun item id. Missing items fall back to English.
+
+ICE_CUBE:
+  name: "&bGlacon"
+
+GRAPE:
+  name: "&cRaisin"
+
+BLUEBERRY:
+  name: "&9Myrtille"
+
+STRAWBERRY:
+  name: "&4Fraise"
+
+TOMATO:
+  name: "&4Tomate"
+
+DRAGON_FRUIT:
+  name: "&dFruit du dragon"
+
+COCONUT:
+  name: "&6Noix de coco"
+
+CROOK:
+  name: "&rHoulette"
+  lore:
+    - ""
+    - "&7+ &b25% &7de taux d'obtention de jeunes pousses"
+
+GRASS_SEEDS:
+  name: "&rGraines d'herbe"
+  lore:
+    - ""
+    - "&7&oPeut etre plante sur de la terre"
