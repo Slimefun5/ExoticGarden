@@ -19,6 +19,8 @@ import io.github.thebusybiscuit.slimefun5.api.items.groups.NestedItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.items.groups.SubItemGroup;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.api.researches.Research;
+import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText;
+import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.implementation.items.food.Juice;
@@ -49,9 +51,11 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -106,18 +110,289 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
     }
 
     private void registerWiki() {
-        io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText wiki = io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getWikiText();
-        String topicId = "addon_exoticgarden";
-        wiki.registerTopic(new io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic(topicId, "Exotic Garden", io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial.MELON, "&7New crops, fruit and food"));
-        wiki.setMechanic(topicId, java.util.Arrays.asList(
-            "&7New crops, fruit and food.", "",
-            "&7Adds berries, fruit trees, bushes and", "&7plants, plus a kitchen to cook them", "&7into new dishes.", "",
-            "&7Click an item below for its recipe."));
-        java.util.List<String> items = new java.util.ArrayList<>();
-        for (io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem item : io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getRegistry().getEnabledSlimefunItems()) {
-            try { if (item.getAddon() == this) { items.add(item.getId()); } } catch (Exception | LinkageError ignored) { }
+        WikiText wiki = Slimefun.getWikiText();
+
+        // Bucket this addon's items by their ItemGroup, preserving registration order.
+        Map<ItemGroup, List<String>> buckets = new LinkedHashMap<>();
+        for (SlimefunItem item : Slimefun.getRegistry().getEnabledSlimefunItems()) {
+            try {
+                if (item.getAddon() != this) {
+                    continue;
+                }
+
+                buckets.computeIfAbsent(item.getItemGroup(), key -> new ArrayList<>()).add(item.getId());
+                registerItemPage(wiki, item.getId());
+            } catch (Exception | LinkageError ignored) {
+                // Skip items that fail to resolve their addon/group on this version.
+            }
         }
-        wiki.setTopicItems(topicId, items);
+
+        for (Map.Entry<ItemGroup, List<String>> entry : buckets.entrySet()) {
+            ItemGroup group = entry.getKey();
+            String groupKey = group.getKey().getKey();
+            String topicId = "addon_exoticgarden_" + groupKey;
+
+            wiki.registerTopic(new WikiTopic(topicId, getWikiName(groupKey), getWikiIcon(groupKey), getWikiTagline(groupKey)));
+            wiki.setMechanic(topicId, getWikiMechanic(groupKey));
+            wiki.setTopicItems(topicId, entry.getValue());
+        }
+    }
+
+    @Nonnull
+    private static String getWikiName(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "plants_and_fruits": return "Exotic Garden - Plants & Fruits";
+            case "misc": return "Exotic Garden - Ingredients & Tools";
+            case "food": return "Exotic Garden - Dishes";
+            case "drinks": return "Exotic Garden - Drinks";
+            case "magical_crops": return "Exotic Garden - Magical Crops";
+            default: return "Exotic Garden";
+        }
+    }
+
+    @Nonnull
+    private static XMaterial getWikiIcon(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "plants_and_fruits": return XMaterial.MELON_SLICE;
+            case "misc": return XMaterial.WHEAT;
+            case "food": return XMaterial.COOKED_BEEF;
+            case "drinks": return XMaterial.HONEY_BOTTLE;
+            case "magical_crops": return XMaterial.BLAZE_POWDER;
+            default: return XMaterial.MELON;
+        }
+    }
+
+    @Nonnull
+    private static String getWikiTagline(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "plants_and_fruits": return "&7Berries, fruit trees, bushes & crops";
+            case "misc": return "&7Pantry ingredients & the harvesting Crook";
+            case "food": return "&7Cook hearty dishes in the Kitchen";
+            case "drinks": return "&7Juices, smoothies, teas & cocktails";
+            case "magical_crops": return "&5Grow ores & resources from seeds";
+            default: return "&7New crops, fruit and food";
+        }
+    }
+
+    @Nonnull
+    private static List<String> getWikiMechanic(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "plants_and_fruits":
+                return Arrays.asList(
+                    "&7The heart of Exotic Garden: dozens of new", "&7plants that grow naturally in the wild.", "",
+                    "&aBushes &7(berries & crops) and &aSaplings &7(fruit", "&7trees) drop from tall grass - cut grass with a", "&7&oCrook &7to boost the drop rate.", "",
+                    "&7Plant a bush on dirt and it slowly ripens; a", "&7sapling grows a custom tree that bears fruit", "&7blocks you can punch to harvest.", "",
+                    "&eRight-click &7ripe bushes to harvest without", "&7destroying the plant - it regrows over time.", "",
+                    "&7Fruits & berries are eaten raw or refined into", "&7juices and dishes. Click an item for details.");
+            case "misc":
+                return Arrays.asList(
+                    "&7The pantry of Exotic Garden - the staple", "&7ingredients almost every recipe relies on.", "",
+                    "&7Most are made in the &eGrind Stone &7or", "&e&oEnhanced Crafting Table&7: Mayo, Mustard,", "&7Cornmeal, Yeast, Molasses, Brown Sugar,", "&7Vegetable Oil, BBQ Sauce and more.", "",
+                    "&7The &eCrook &7is a wooden-hoe tool that adds", "&b+25% &7sapling & seed drops when breaking grass.", "",
+                    "&7Stock up here before heading to the Kitchen.", "&7Click an item for its exact recipe.");
+            case "food":
+                return Arrays.asList(
+                    "&7Real cooking lives here. Build a &eKitchen", "&7multiblock to combine ingredients into meals.", "",
+                    "&7&lBuilding the Kitchen:", "&7Bookshelf on top, Iron Trapdoor & Pressure", "&7Plate in front, a Furnace beside a Dispenser,", "&7and a Crafting Table - see the Kitchen item.", "",
+                    "&7Drop ingredients into the &eDispenser&7, then", "&eright-click &7the trapdoor. The finished dish", "&7appears in the &eFurnace output slot&7.", "",
+                    "&7From Pancakes to Lasagna to absurd Hot Dogs,", "&7each dish restores plenty of hunger.", "&7Click a dish for its ingredients.");
+            case "drinks":
+                return Arrays.asList(
+                    "&7Thirsty work, gardening. Turn fruit into", "&7refreshing drinks that restore saturation.", "",
+                    "&7Squeeze a single fruit in the &eJuicer &7for a", "&7basic &aJuice&7. Combine that juice with an", "&b&oIce Cube &7in an Enhanced Crafting Table for", "&7a chilled &aSmoothie&7.", "",
+                    "&7Tea Leaves brew &aIced Teas&7; coconuts and", "&7pineapple make tropical cocktails like the", "&aPinacolada&7. Lemons become &aLemonade&7.", "",
+                    "&7Drinks leave an empty bottle behind.", "&7Click a drink for its recipe.");
+            case "magical_crops":
+                return Arrays.asList(
+                    "&5A magical twist: farm ores and resources", "&7instead of mining them.", "",
+                    "&7Craft a &dMagical Essence &7for a resource,", "&7then craft it into a &dPlant&7. Plant the seed", "&7on dirt and it grows like any other crop.", "",
+                    "&7Harvesting yields that resource - Coal, Iron,", "&7Gold, Diamond, Emerald, Redstone, Lapis,", "&7Ender Pearls, Quartz, Glowstone and more.", "",
+                    "&7Higher tiers require the previous tier's plant", "&7in their recipe, so build the chain step by step.", "",
+                    "&7Click a plant or essence for its recipe.");
+            default:
+                return Arrays.asList(
+                    "&7New crops, fruit and food.", "",
+                    "&7Click an item below for its recipe.");
+        }
+    }
+
+    private void registerItemPage(@Nonnull WikiText wiki, @Nonnull String id) {
+        List<String> page = getItemPage(id);
+        if (page != null) {
+            wiki.set(id, page);
+        }
+    }
+
+    @Nullable
+    private static List<String> getItemPage(@Nonnull String id) {
+        // Bushes & berry/crop plants share a growing mechanic.
+        if (id.endsWith("_BUSH")) {
+            return Arrays.asList(
+                "&7Plant this on &adirt &7and it slowly ripens.",
+                "&7Once grown, &eright-click &7it to harvest the",
+                "&7fruit - the bush stays and regrows over time.",
+                "&7Drops from tall grass; use a &oCrook &7for more.");
+        }
+
+        if (id.endsWith("_SAPLING")) {
+            return Arrays.asList(
+                "&7Plant on dirt or grass to grow a custom",
+                "&afruit tree&7. Bonemeal speeds it up.",
+                "&7The tree bears &efruit blocks &7- punch them",
+                "&7to harvest. Saplings drop from tall grass.");
+        }
+
+        if (id.endsWith("_ESSENCE")) {
+            return Arrays.asList(
+                "&dMagical Essence &7carries the seed of a",
+                "&7resource. Craft it into the matching &dPlant&7,",
+                "&7grow it on dirt, then harvest to reap the",
+                "&7resource without ever touching a pickaxe.");
+        }
+
+        if (id.endsWith("_PLANT")) {
+            return Arrays.asList(
+                "&7A &dmagical crop&7. Plant on dirt and let it",
+                "&7grow, then harvest for its resource.",
+                "&7Higher tiers need the previous tier's plant",
+                "&7in the recipe - build the chain in order.");
+        }
+
+        if (id.endsWith("_JUICE")) {
+            return Arrays.asList(
+                "&7Made by squeezing the fruit in a &eJuicer&7.",
+                "&7Restores saturation and leaves an empty bottle.",
+                "&7Use it as a base for smoothies and iced teas.");
+        }
+
+        if (id.endsWith("_SMOOTHIE")) {
+            return Arrays.asList(
+                "&7A chilled drink: combine the matching &eJuice",
+                "&7with an &bIce Cube &7in an Enhanced Crafting",
+                "&7Table. Restores more saturation than juice.");
+        }
+
+        if (id.endsWith("_ICED_TEA")) {
+            return Arrays.asList(
+                "&7Brew the fruit with an &bIce Cube &7and a",
+                "&eTea Leaf &7in an Enhanced Crafting Table.",
+                "&7A refreshing, hunger-restoring drink.");
+        }
+
+        if (id.endsWith("_PIE")) {
+            return Arrays.asList(
+                "&7A baked pie made from the fruit plus Egg,",
+                "&7Sugar, Milk and Wheat Flour.",
+                "&7Crafted in the &eEnhanced Crafting Table&7.");
+        }
+
+        if (id.endsWith("_JELLY_SANDWICH")) {
+            return Arrays.asList(
+                "&7Bread layered with fruit juice for a sweet,",
+                "&7filling snack. Restores a lot of hunger.",
+                "&7Crafted in the Enhanced Crafting Table.");
+        }
+
+        if (id.endsWith("_CHEESECAKE") || id.equals("CHEESECAKE")) {
+            return Arrays.asList(
+                "&7A creamy cake baked from Sugar, Flour,",
+                "&7Heavy Cream and an Egg.",
+                "&7Top a plain Cheesecake with fruit for a",
+                "&7fancier dessert that heals even more.");
+        }
+
+        switch (id) {
+            case "ICE_CUBE":
+                return Arrays.asList(
+                    "&7Frozen water, ground from &bIce &7in the",
+                    "&eGrind Stone&7. A core ingredient for every",
+                    "&7smoothie and iced tea in Exotic Garden.");
+            case "CROOK":
+                return Arrays.asList(
+                    "&7A wooden-hoe tool for harvesting plants.",
+                    "&7Breaking tall grass with it grants a",
+                    "&b+25% &7chance for saplings, bushes and seeds.",
+                    "&7Your main way to collect Exotic Garden plants.");
+            case "GRASS_SEEDS":
+                return Arrays.asList(
+                    "&7Seeds that grow into tall grass on dirt,",
+                    "&7giving you a renewable source of grass to",
+                    "&7cut for saplings and bushes.");
+            case "KITCHEN":
+                return Arrays.asList(
+                    "&7A multiblock for cooking dishes.",
+                    "&7Drop ingredients in the &eDispenser&7, then",
+                    "&eright-click &7the Iron Trapdoor.",
+                    "&7The dish appears in the &eFurnace output&7.");
+            case "MAYO":
+                return Arrays.asList(
+                    "&7Whipped from an Egg in the &eGrind Stone&7.",
+                    "&7A spread used in many sandwiches and salads.");
+            case "MUSTARD":
+                return Arrays.asList(
+                    "&7Ground from a &eMustard Seed&7.",
+                    "&7A tangy condiment for sauces and sandwiches.");
+            case "CORNMEAL":
+                return Arrays.asList(
+                    "&7Corn ground in the &eGrind Stone&7.",
+                    "&7The base for tacos, burritos and tortillas.");
+            case "YEAST":
+                return Arrays.asList(
+                    "&7Sugar fermented in water.",
+                    "&7Needed to bake Bagels and other breads.");
+            case "MOLASSES":
+                return Arrays.asList(
+                    "&7Boiled from Beetroot, Sugar Cane and water.",
+                    "&7Used to make Brown Sugar.");
+            case "BROWN_SUGAR":
+                return Arrays.asList(
+                    "&7Sugar enriched with &eMolasses&7.",
+                    "&7A richer sweetener for curries and baking.");
+            case "VEGETABLE_OIL":
+                return Arrays.asList(
+                    "&7Pressed from Beetroot Seeds and water.",
+                    "&7A cooking fat used in curry dishes.");
+            case "BBQ_SAUCE":
+                return Arrays.asList(
+                    "&7Tomato, Mustard, Salt and Sugar combined",
+                    "&7into a smoky sauce for hot dogs and more.");
+            case "COUNTRY_GRAVY":
+                return Arrays.asList(
+                    "&7Flour, Sugar and Black Pepper whisked",
+                    "&7into a gravy. Pairs with Biscuits.");
+            default:
+                break;
+        }
+
+        // Tree fruits, berries and crops eaten raw - a single generic page.
+        if (isPlantProduce(id)) {
+            return Arrays.asList(
+                "&7A fresh Exotic Garden harvest.",
+                "&7Eat it raw, juice it, or cook it into a dish.",
+                "&7Grown from its matching bush or fruit tree.");
+        }
+
+        // Cooked dishes restore hunger; point players at the Kitchen.
+        return Arrays.asList(
+            "&7A prepared dish. Combine its ingredients in",
+            "&7the &eKitchen &7multiblock to cook it.",
+            "&7Restores a generous amount of hunger.");
+    }
+
+    private static boolean isPlantProduce(@Nonnull String id) {
+        for (Berry berry : getBerries()) {
+            if (id.equalsIgnoreCase(berry.getID())) {
+                return true;
+            }
+        }
+
+        for (Tree tree : getTrees()) {
+            if (id.equalsIgnoreCase(tree.getFruitID())) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     private void registerItems() {
