@@ -102,6 +102,22 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         new PlantsListener(this);
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        registerWiki();
+    }
+
+    private void registerWiki() {
+        io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText wiki = io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getWikiText();
+        String topicId = "addon_exoticgarden";
+        wiki.registerTopic(new io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic(topicId, "Exotic Garden", io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial.MELON, "&7New crops, fruit and food"));
+        wiki.setMechanic(topicId, java.util.Arrays.asList(
+            "&7New crops, fruit and food.", "",
+            "&7Adds berries, fruit trees, bushes and", "&7plants, plus a kitchen to cook them", "&7into new dishes.", "",
+            "&7Click an item below for its recipe."));
+        java.util.List<String> items = new java.util.ArrayList<>();
+        for (io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem item : io.github.thebusybiscuit.slimefun5.implementation.Slimefun.getRegistry().getEnabledSlimefunItems()) {
+            try { if (item.getAddon() == this) { items.add(item.getId()); } } catch (Exception | LinkageError ignored) { }
+        }
+        wiki.setTopicItems(topicId, items);
     }
 
     private void registerItems() {
