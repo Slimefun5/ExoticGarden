@@ -751,7 +751,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public String getBugTrackerURL() {
-        return "https://github.com/TheBusyBiscuit/ExoticGarden/issues";
+        return "https://github.com/Slimefun5/ExoticGarden/issues";
     }
 
     private static ItemStack copy(ItemStack item, int amount) {
