@@ -5,6 +5,7 @@ plugins {
 }
 
 group = "io.github.thebusybiscuit"
+<<<<<<< HEAD
 version = "v1.0.0-UNOFFICIAL-MC26.1.2"
 <<<<<<< HEAD
 description = "Adds new Plants, Berries, Trees, Fruits, Vegetables and Food to Slimefun"
@@ -52,6 +53,9 @@ publishing {
 group = "io.github.thebusybiscuit"
 version = "1.0.0"
 =======
+>>>>>>> origin/experimental
+=======
+version = "1.7.3"
 >>>>>>> origin/experimental
 description = "ExoticGarden is a Slimefun addon adding exotic plants and food."
 
@@ -123,4 +127,7 @@ tasks {
 
 github {
     accessToken = System.getenv("GITHUB_TOKEN") ?: ""
+    publish {
+        tag = System.getenv("GITHUB_REF_NAME")
+    }
 }
