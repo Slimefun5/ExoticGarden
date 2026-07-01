@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.github.thebusybiscuit"
-version = "v1.0.0-UNOFFICIAL-MC26.1.2"
+version = "1.7.3"
 description = "ExoticGarden is a Slimefun addon adding exotic plants and food."
 
 java {
@@ -55,4 +55,7 @@ tasks {
 
 github {
     accessToken = System.getenv("GITHUB_TOKEN") ?: ""
+    publish {
+        tag = System.getenv("GITHUB_REF_NAME")
+    }
 }
