@@ -6,8 +6,9 @@ import javax.annotation.Nonnull;
 import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Material;
-import org.bukkit.Tag;
 import org.bukkit.inventory.ItemStack;
+
+import io.github.thebusybiscuit.slimefun5.utils.compatibility.Tag;
 
 import io.github.thebusybiscuit.slimefun5.api.events.PlayerRightClickEvent;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;

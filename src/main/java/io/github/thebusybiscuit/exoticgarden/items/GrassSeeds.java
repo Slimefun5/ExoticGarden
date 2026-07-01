@@ -4,7 +4,8 @@ import javax.annotation.ParametersAreNonnullByDefault;
 
 import org.bukkit.Effect;
 import org.bukkit.GameMode;
-import org.bukkit.Material;
+import io.github.thebusybiscuit.exoticgarden.MaterialCompat;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.inventory.ItemStack;
@@ -34,18 +35,18 @@ public class GrassSeeds extends SimpleSlimefunItem<ItemUseHandler> {
             if (e.getClickedBlock().isPresent()) {
                 Block b = e.getClickedBlock().get();
 
-                if (b.getType() == Material.DIRT) {
+                if (b.getType() == MaterialCompat.safe(XMaterial.DIRT)) {
                     if (e.getPlayer().getGameMode() != GameMode.CREATIVE) {
                         ItemUtils.consumeItem(e.getItem(), false);
                     }
 
-                    b.setType(Material.GRASS_BLOCK);
+                    b.setType(MaterialCompat.safe(XMaterial.GRASS_BLOCK));
 
-                    if (b.getRelative(BlockFace.UP).getType() == Material.AIR) {
-                        b.getRelative(BlockFace.UP).setType(Material.SHORT_GRASS);
+                    if (b.getRelative(BlockFace.UP).getType() == MaterialCompat.safe(XMaterial.AIR)) {
+                        b.getRelative(BlockFace.UP).setType(MaterialCompat.safe(XMaterial.SHORT_GRASS));
                     }
 
-                    b.getWorld().playEffect(b.getLocation(), Effect.STEP_SOUND, Material.SHORT_GRASS);
+                    b.getWorld().playEffect(b.getLocation(), Effect.STEP_SOUND, MaterialCompat.safe(XMaterial.SHORT_GRASS));
                 }
             }
         };

@@ -1,12 +1,12 @@
-﻿plugins {
+plugins {
     java
-    `maven-publish`
     id("com.gradleup.shadow")
-    id("io.github.intisy.github-gradle")
+    id("io.github.intisy.github-gradle") version "1.8.3"
 }
 
 group = "io.github.thebusybiscuit"
 version = "v1.0.0-UNOFFICIAL-MC26.1.2"
+<<<<<<< HEAD
 description = "Adds new Plants, Berries, Trees, Fruits, Vegetables and Food to Slimefun"
 
 java {
@@ -51,18 +51,13 @@ publishing {
 
 group = "io.github.thebusybiscuit"
 version = "1.0.0"
+=======
+>>>>>>> origin/experimental
 description = "ExoticGarden is a Slimefun addon adding exotic plants and food."
-
-github {
-    accessToken = System.getenv("GITHUB_TOKEN") ?: ""
-    publish {
-        tag = System.getenv("GITHUB_REF_NAME")
-    }
-}
 
 java {
     toolchain {
-        languageVersion.set(JavaLanguageVersion.of(25))
+        languageVersion.set(JavaLanguageVersion.of(8))
     }
 }
 
@@ -70,11 +65,11 @@ repositories {
     maven("https://jitpack.io")
     mavenCentral()
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
-    maven("https://repo.papermc.io/repository/maven-public/")
     maven("https://repo.codemc.io/repository/maven-public/")
 }
 
 dependencies {
+<<<<<<< HEAD
     implementation("com.github.Slimefun5:SlimefunMetrics:master-SNAPSHOT")
     compileOnly("io.papermc.paper:paper-api:${property("paperApiVersion")}")
     compileOnly("com.google.code.findbugs:jsr305:3.0.2")
@@ -92,32 +87,40 @@ dependencies {
 
 configurations.testImplementation {
     extendsFrom(configurations.compileOnly.get())
+=======
+    githubCompileOnly("Slimefun5:Slimefun5:gh-v5.2.3.2")
+    compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
+    compileOnly("com.google.code.findbugs:jsr305:3.0.2")
+>>>>>>> origin/experimental
 }
 
 tasks {
     compileJava {
         options.encoding = "UTF-8"
-        options.compilerArgs.add("-Xlint:deprecation")
     }
     processResources {
         filesMatching("plugin.yml") {
             expand("version" to project.version)
         }
-        // NOTE: schematics are binary files â€” only expand plugin.yml, NOT schematics
     }
     jar {
         enabled = false
     }
     shadowJar {
-        archiveClassifier.set("")
+        archiveFileName.set("ExoticGarden-1.0.0-UNOFFICIAL.jar")
+        exclude("META-INF/**")
     }
     build {
         dependsOn(shadowJar)
     }
-    build {
-        dependsOn(shadowJar)
+    compileTestJava {
+        enabled = false
     }
     test {
-        useJUnitPlatform()
+        enabled = false
     }
+}
+
+github {
+    accessToken = System.getenv("GITHUB_TOKEN") ?: ""
 }

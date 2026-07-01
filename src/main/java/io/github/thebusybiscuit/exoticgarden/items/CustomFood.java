@@ -25,8 +25,14 @@ public class CustomFood extends ExoticGardenFruit {
 
     @ParametersAreNonnullByDefault
     public CustomFood(ItemGroup itemGroup, SlimefunItemStack item, int amount, ItemStack[] recipe, int food) {
-        super(itemGroup, item, ExoticGardenRecipeTypes.KITCHEN, true, recipe, item.item().asQuantity(amount));
+        super(itemGroup, item, ExoticGardenRecipeTypes.KITCHEN, true, recipe, withAmount(item.item(), amount));
         this.food = food;
+    }
+
+    private static ItemStack withAmount(ItemStack stack, int amount) {
+        ItemStack copy = stack.clone();
+        copy.setAmount(amount);
+        return copy;
     }
 
     @Override
