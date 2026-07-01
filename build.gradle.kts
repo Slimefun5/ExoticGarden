@@ -5,8 +5,20 @@ plugins {
 }
 
 group = "io.github.thebusybiscuit"
-version = "1.7.3"
 description = "ExoticGarden is a Slimefun addon adding exotic plants and food."
+
+fun latestGitTagVersion(): String? = try {
+    val out = providers.exec { workingDir = rootDir; commandLine("git","describe","--tags","--abbrev=0"); isIgnoreExitValue = true }
+    if (out.result.get().exitValue == 0) out.standardOutput.asText.get().trim().removePrefix("gh-").removePrefix("v").takeIf { it.isNotBlank() } else null
+} catch (e: Exception) { null }
+
+version = (project.findProperty("artifact_version") as String?)?.removePrefix("v")?.takeIf { it.isNotBlank() } ?: latestGitTagVersion() ?: "1.7.3"
+val versionSuffix: String = when {
+    !(project.findProperty("artifact_version") as String?).isNullOrBlank() -> ""
+    System.getenv("GITHUB_ACTIONS") == "true" -> "-EXPERIMENTAL"
+    else -> "-UNOFFICIAL"
+}
+val displayVersion = "${project.version}$versionSuffix"
 
 java {
     toolchain {
@@ -32,14 +44,14 @@ tasks {
     }
     processResources {
         filesMatching("plugin.yml") {
-            expand("version" to project.version)
+            expand("version" to displayVersion)
         }
     }
     jar {
         enabled = false
     }
     shadowJar {
-        archiveFileName.set("ExoticGarden-1.0.0-UNOFFICIAL.jar")
+        archiveFileName.set("ExoticGarden-$displayVersion.jar")
         exclude("META-INF/**")
     }
     build {
