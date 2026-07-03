@@ -199,7 +199,7 @@ scores:
   BLUEBERRY_JUICE: 12
   BLACKBERRY_JUICE: 12
   # --- Multiblock & tools ---
-  KITCHEN: 22
+  KITCHEN: 16
   CROOK: 10
   # --- Pantry ingredients (grind stone / enhanced crafting table staples) ---
   BBQ_SAUCE: 9
