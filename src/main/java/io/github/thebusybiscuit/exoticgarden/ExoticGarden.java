@@ -141,11 +141,11 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
     @Nonnull
     private static String getWikiName(@Nonnull String groupKey) {
         switch (groupKey) {
-            case "plants_and_fruits": return "Exotic Garden - Plants & Fruits";
-            case "misc": return "Exotic Garden - Ingredients & Tools";
-            case "food": return "Exotic Garden - Dishes";
-            case "drinks": return "Exotic Garden - Drinks";
-            case "magical_crops": return "Exotic Garden - Magical Crops";
+            case "plants_and_fruits": return "Exotic Garden: Plants & Fruits";
+            case "misc": return "Exotic Garden: Ingredients & Tools";
+            case "food": return "Exotic Garden: Dishes";
+            case "drinks": return "Exotic Garden: Drinks";
+            case "magical_crops": return "Exotic Garden: Magical Crops";
             default: return "Exotic Garden";
         }
     }
