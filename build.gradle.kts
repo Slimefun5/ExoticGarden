@@ -62,6 +62,7 @@ version = "1.7.3"
 >>>>>>> origin/experimental
 description = "ExoticGarden is a Slimefun addon adding exotic plants and food."
 
+<<<<<<< HEAD
 fun latestGitTagVersion(): String? = try {
     val out = providers.exec { workingDir = rootDir; commandLine("git","describe","--tags","--abbrev=0"); isIgnoreExitValue = true }
     if (out.result.get().exitValue == 0) out.standardOutput.asText.get().trim().removePrefix("gh-").removePrefix("v").takeIf { it.isNotBlank() } else null
@@ -147,3 +148,6 @@ github {
         tag = System.getenv("GITHUB_REF_NAME")
     }
 }
+=======
+apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/stable/slimefun-addon.gradle")
+>>>>>>> origin/experimental

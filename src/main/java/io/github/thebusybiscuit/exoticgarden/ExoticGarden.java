@@ -149,11 +149,11 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
     @Nonnull
     private static String getWikiName(@Nonnull String groupKey) {
         switch (groupKey) {
-            case "plants_and_fruits": return "Exotic Garden - Plants & Fruits";
-            case "misc": return "Exotic Garden - Ingredients & Tools";
-            case "food": return "Exotic Garden - Dishes";
-            case "drinks": return "Exotic Garden - Drinks";
-            case "magical_crops": return "Exotic Garden - Magical Crops";
+            case "plants_and_fruits": return "Exotic Garden: Plants & Fruits";
+            case "misc": return "Exotic Garden: Ingredients & Tools";
+            case "food": return "Exotic Garden: Dishes";
+            case "drinks": return "Exotic Garden: Drinks";
+            case "magical_crops": return "Exotic Garden: Magical Crops";
             default: return "Exotic Garden";
         }
     }
@@ -419,7 +419,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         kitchenResearch.register();
 
         // @formatter:off
-        SlimefunItemStack iceCube = new SlimefunItemStack("ICE_CUBE", "9340bef2c2c33d113bac4e6a1a84d5ffcecbbfab6b32fa7a7f76195442bd1a2", "\u00a7bIce Cube");
+        SlimefunItemStack iceCube = new SlimefunItemStack("ICE_CUBE", "9340bef2c2c33d113bac4e6a1a84d5ffcecbbfab6b32fa7a7f76195442bd1a2");
         new SlimefunItem(miscItemGroup, iceCube, RecipeType.GRIND_STONE, new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.ICE)), null, null, null, null, null, null, null, null}, copy(iceCube.item(), 4))
         .register(this);
 
@@ -522,11 +522,11 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         registerMagicalPlant("Slime", new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL), 8), "90e65e6e5113a5187dad46dfad3d3bf85e8ef807f82aac228a59c4a95d6f6a",
         new ItemStack[] {null, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), null, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), getItem("ENDER_PLANT"), new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), null, new ItemStack(MaterialCompat.safe(XMaterial.SLIME_BALL)), null});
 
-        new Crook(miscItemGroup, new SlimefunItemStack("CROOK", CustomItemStack.create(MaterialCompat.safe(XMaterial.WOODEN_HOE), "\u00a7rCrook", "", "\u00a77+ \u00a7b25% \u00a77Sapling Drop Rate")), RecipeType.ENHANCED_CRAFTING_TABLE,
+        new Crook(miscItemGroup, new SlimefunItemStack("CROOK", MaterialCompat.safe(XMaterial.WOODEN_HOE)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.STICK)), new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null, null, new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null, null, new ItemStack(MaterialCompat.safe(XMaterial.STICK)), null})
         .register(this);
 
-        SlimefunItemStack grassSeeds = new SlimefunItemStack("GRASS_SEEDS", MaterialCompat.safe(XMaterial.PUMPKIN_SEEDS), "\u00a7rGrass Seeds", "", "\u00a77\u00a7oCan be planted on Dirt");
+        SlimefunItemStack grassSeeds = new SlimefunItemStack("GRASS_SEEDS", MaterialCompat.safe(XMaterial.PUMPKIN_SEEDS));
         new GrassSeeds(mainItemGroup, grassSeeds, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] {null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null})
         .register(this);
         // @formatter:on
@@ -568,20 +568,20 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         Tree tree = new Tree(id, texture, soil);
         trees.add(tree);
 
-        SlimefunItemStack sapling = new SlimefunItemStack(id + "_SAPLING", MaterialCompat.safe(XMaterial.OAK_SAPLING), color + name + " Sapling");
+        SlimefunItemStack sapling = new SlimefunItemStack(id + "_SAPLING", MaterialCompat.safe(XMaterial.OAK_SAPLING));
 
         items.put(id + "_SAPLING", sapling.item());
 
         new BonemealableItem(mainItemGroup, sapling, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null }).register(this);
 
-        new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(id, texture, color + name), ExoticGardenRecipeTypes.HARVEST_TREE, true, new ItemStack[] { null, null, null, null, getItem(id + "_SAPLING"), null, null, null, null }).register(this);
+        new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(id, texture), ExoticGardenRecipeTypes.HARVEST_TREE, true, new ItemStack[] { null, null, null, null, getItem(id + "_SAPLING"), null, null, null, null }).register(this);
 
         if (pcolor != null) {
-            new Juice(drinksItemGroup, new SlimefunItemStack(juice.toUpperCase().replace(" ", "_"), new CustomPotion(color + juice, pcolor, new PotionEffect(PotionEffectType.SATURATION, 6, 0), "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "3.0" + " \u00a77\u00a7oHunger")), RecipeType.JUICER, new ItemStack[] { getItem(id), null, null, null, null, null, null, null, null }).register(this);
+            new Juice(drinksItemGroup, new SlimefunItemStack(juice.toUpperCase().replace(" ", "_"), pcolor, new PotionEffect(PotionEffectType.SATURATION, 6, 0)), RecipeType.JUICER, new ItemStack[] { getItem(id), null, null, null, null, null, null, null, null }).register(this);
         }
 
         if (pie) {
-            new CustomFood(foodItemGroup, new SlimefunItemStack(id + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79", color + name + " Pie", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "6.5" + " \u00a77\u00a7oHunger"), new ItemStack[] { getItem(id), new ItemStack(MaterialCompat.safe(XMaterial.EGG)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.MILK_BUCKET)), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
+            new CustomFood(foodItemGroup, new SlimefunItemStack(id + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79"), new ItemStack[] { getItem(id), new ItemStack(MaterialCompat.safe(XMaterial.EGG)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.MILK_BUCKET)), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
         }
 
         if (!new File(schematicsFolder, id + "_TREE.schematic").exists()) {
@@ -609,21 +609,21 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         Berry berry = new Berry(upperCase, type, texture);
         berries.add(berry);
 
-        SlimefunItemStack sfi = new SlimefunItemStack(upperCase + "_BUSH", MaterialCompat.safe(XMaterial.OAK_SAPLING), color + name + " Bush");
+        SlimefunItemStack sfi = new SlimefunItemStack(upperCase + "_BUSH", MaterialCompat.safe(XMaterial.OAK_SAPLING));
 
         items.put(upperCase + "_BUSH", sfi.item());
 
         new BonemealableItem(mainItemGroup, sfi, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null }).register(this);
 
-        new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(upperCase, texture, color + name), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(upperCase + "_BUSH"), null, null, null, null }).register(this);
+        new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(upperCase, texture), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(upperCase + "_BUSH"), null, null, null, null }).register(this);
 
-        new Juice(drinksItemGroup, new SlimefunItemStack(upperCase + "_JUICE", new CustomPotion(color + name + " Juice", potionColor, new PotionEffect(PotionEffectType.SATURATION, 6, 0), "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "3.0" + " \u00a77\u00a7oHunger")), RecipeType.JUICER, new ItemStack[] { getItem(upperCase), null, null, null, null, null, null, null, null }).register(this);
+        new Juice(drinksItemGroup, new SlimefunItemStack(upperCase + "_JUICE", potionColor, new PotionEffect(PotionEffectType.SATURATION, 6, 0)), RecipeType.JUICER, new ItemStack[] { getItem(upperCase), null, null, null, null, null, null, null, null }).register(this);
 
-        new Juice(drinksItemGroup, new SlimefunItemStack(upperCase + "_SMOOTHIE", new CustomPotion(color + name + " Smoothie", potionColor, new PotionEffect(PotionEffectType.SATURATION, 10, 0), "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "5.0" + " \u00a77\u00a7oHunger")), RecipeType.ENHANCED_CRAFTING_TABLE, new ItemStack[] { getItem(upperCase + "_JUICE"), getItem("ICE_CUBE"), null, null, null, null, null, null, null }).register(this);
+        new Juice(drinksItemGroup, new SlimefunItemStack(upperCase + "_SMOOTHIE", potionColor, new PotionEffect(PotionEffectType.SATURATION, 10, 0)), RecipeType.ENHANCED_CRAFTING_TABLE, new ItemStack[] { getItem(upperCase + "_JUICE"), getItem("ICE_CUBE"), null, null, null, null, null, null, null }).register(this);
 
-        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_JELLY_SANDWICH", "8c8a939093ab1cde6677faf7481f311e5f17f63d58825f0e0c174631fb0439", color + name + " Jelly Sandwich", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "8.0" + " \u00a77\u00a7oHunger"), new ItemStack[] { null, new ItemStack(MaterialCompat.safe(XMaterial.BREAD)), null, null, getItem(upperCase + "_JUICE"), null, null, new ItemStack(MaterialCompat.safe(XMaterial.BREAD)), null }, 16).register(this);
+        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_JELLY_SANDWICH", "8c8a939093ab1cde6677faf7481f311e5f17f63d58825f0e0c174631fb0439"), new ItemStack[] { null, new ItemStack(MaterialCompat.safe(XMaterial.BREAD)), null, null, getItem(upperCase + "_JUICE"), null, null, new ItemStack(MaterialCompat.safe(XMaterial.BREAD)), null }, 16).register(this);
 
-        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79", color + name + " Pie", "", "\u00a77\u00a7oRestores \u00a7b\u00a7o" + "6.5" + " \u00a77\u00a7oHunger"), new ItemStack[] { getItem(upperCase), new ItemStack(MaterialCompat.safe(XMaterial.EGG)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.MILK_BUCKET)), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
+        new CustomFood(foodItemGroup, new SlimefunItemStack(upperCase + "_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79"), new ItemStack[] { getItem(upperCase), new ItemStack(MaterialCompat.safe(XMaterial.EGG)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.MILK_BUCKET)), SlimefunItems.WHEAT_FLOUR.item(), null, null, null, null }, 13).register(this);
     }
 
     @Nullable
@@ -639,25 +639,25 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         Berry berry = new Berry(enumStyle, type, texture);
         berries.add(berry);
 
-        SlimefunItemStack bush = new SlimefunItemStack(enumStyle + "_BUSH", MaterialCompat.safe(XMaterial.OAK_SAPLING), color + name + " Plant");
+        SlimefunItemStack bush = new SlimefunItemStack(enumStyle + "_BUSH", MaterialCompat.safe(XMaterial.OAK_SAPLING));
         items.put(upperCase + "_BUSH", bush.item());
 
         new BonemealableItem(mainItemGroup, bush, ExoticGardenRecipeTypes.BREAKING_GRASS, new ItemStack[] { null, null, null, null, new ItemStack(MaterialCompat.safe(XMaterial.SHORT_GRASS)), null, null, null, null })
             .register(this);
 
-        new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(enumStyle, texture, color + name), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(enumStyle + "_BUSH"), null, null, null, null }).register(this);
+        new ExoticGardenFruit(mainItemGroup, new SlimefunItemStack(enumStyle, texture), ExoticGardenRecipeTypes.HARVEST_BUSH, true, new ItemStack[] { null, null, null, null, getItem(enumStyle + "_BUSH"), null, null, null, null }).register(this);
     }
 
     private void registerMagicalPlant(String name, ItemStack item, String texture, ItemStack[] recipe) {
         String upperCase = name.toUpperCase(Locale.ROOT);
         String enumStyle = upperCase.replace(' ', '_');
 
-        SlimefunItemStack essence = new SlimefunItemStack(enumStyle + "_ESSENCE", MaterialCompat.safe(XMaterial.BLAZE_POWDER), "\u00a7rMagical Essence", "", "\u00a77" + name);
+        SlimefunItemStack essence = new SlimefunItemStack(enumStyle + "_ESSENCE", MaterialCompat.safe(XMaterial.BLAZE_POWDER));
 
         Berry berry = new Berry(essence.item(), upperCase + "_ESSENCE", PlantType.ORE_PLANT, texture);
         berries.add(berry);
 
-        new BonemealableItem(magicalItemGroup, new SlimefunItemStack(enumStyle + "_PLANT", MaterialCompat.safe(XMaterial.OAK_SAPLING), "\u00a7r" + name + " Plant"), RecipeType.ENHANCED_CRAFTING_TABLE, recipe)
+        new BonemealableItem(magicalItemGroup, new SlimefunItemStack(enumStyle + "_PLANT", MaterialCompat.safe(XMaterial.OAK_SAPLING)), RecipeType.ENHANCED_CRAFTING_TABLE, recipe)
             .register(this);
 
         MagicalEssence magicalEssence = new MagicalEssence(magicalItemGroup, essence);
