@@ -41,7 +41,6 @@ import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
-import dev.walshy.sfmetrics.MetricsModule;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
@@ -92,13 +91,6 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-<<<<<<< HEAD
-        MetricsModule.setup(this, 4575);
-
-        PaperLib.suggestPaper(this);
-
-=======
->>>>>>> origin/experimental
         if (!schematicsFolder.exists()) {
             schematicsFolder.mkdirs();
         }
