@@ -37,7 +37,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:ExoticGarden:v1.7.3.5")
+    "githubCompileOnly"("Slimefun5:ExoticGarden:v1.7.3.6")
 }
 ```
 
