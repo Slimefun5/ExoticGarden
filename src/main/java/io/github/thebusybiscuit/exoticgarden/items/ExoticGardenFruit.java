@@ -32,12 +32,15 @@ public class ExoticGardenFruit extends SimpleSlimefunItem<ItemUseHandler> {
     public ExoticGardenFruit(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, boolean edible, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
         this.edible = edible;
+        // Fruits and dishes use skull textures, so the material heuristic misses them.
+        setGuideType("food");
     }
 
     @ParametersAreNonnullByDefault
     public ExoticGardenFruit(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, boolean edible, ItemStack[] recipe, ItemStack recipeOutput) {
         super(itemGroup, item, recipeType, recipe, recipeOutput);
         this.edible = edible;
+        setGuideType("food");
     }
 
     @Override

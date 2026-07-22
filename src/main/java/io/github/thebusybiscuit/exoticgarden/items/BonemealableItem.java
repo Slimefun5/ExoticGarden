@@ -22,6 +22,8 @@ public class BonemealableItem extends SlimefunItem {
     public BonemealableItem(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
 
+        // Bushes and saplings are plantable blocks (magical plants override this to "magic").
+        setGuideType("decoration");
         addItemSetting(disableBoneMeal);
     }
 
