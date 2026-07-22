@@ -35,38 +35,47 @@ public final class FoodRegistry {
     public static void register(@Nonnull ExoticGarden plugin, @Nonnull ItemGroup misc, @Nonnull ItemGroup drinks, @Nonnull ItemGroup food) {
         new Juice(drinks, new SlimefunItemStack("LIME_SMOOTHIE", Color.LIME, new PotionEffect(PotionEffectType.SATURATION, 10, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("LIME_JUICE"), getItem("ICE_CUBE"), null, null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("TOMATO_JUICE", Color.FUCHSIA, new PotionEffect(PotionEffectType.SATURATION, 6, 0)), RecipeType.JUICER,
         new ItemStack[] {getItem("TOMATO"), null, null, null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("WINE", Color.RED, new PotionEffect(PotionEffectType.SATURATION, 10, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("GRAPE"), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), null, null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("LEMON_ICED_TEA", Color.YELLOW, new PotionEffect(PotionEffectType.SATURATION, 13, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("LEMON"), getItem("ICE_CUBE"), getItem("TEA_LEAF"), null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("RASPBERRY_ICED_TEA", Color.FUCHSIA, new PotionEffect(PotionEffectType.SATURATION, 13, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("RASPBERRY"), getItem("ICE_CUBE"), getItem("TEA_LEAF"), null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("PEACH_ICED_TEA", Color.FUCHSIA, new PotionEffect(PotionEffectType.SATURATION, 13, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("PEACH"), getItem("ICE_CUBE"), getItem("TEA_LEAF"), null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("STRAWBERRY_ICED_TEA", Color.FUCHSIA, new PotionEffect(PotionEffectType.SATURATION, 13, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("STRAWBERRY"), getItem("ICE_CUBE"), getItem("TEA_LEAF"), null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("CHERRY_ICED_TEA", Color.FUCHSIA, new PotionEffect(PotionEffectType.SATURATION, 13, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("CHERRY"), getItem("ICE_CUBE"), getItem("TEA_LEAF"), null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("THAI_TEA", Color.RED, new PotionEffect(PotionEffectType.SATURATION, 14, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("TEA_LEAF"), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), SlimefunItems.HEAVY_CREAM.item(), getItem("COCONUT_MILK"), null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new CustomFood(food, new SlimefunItemStack("PUMPKIN_BREAD", "f3487d457f9062d787a3e6ce1c4664bf7402ec67dd111256f19b38ce4f670"),
@@ -76,38 +85,47 @@ public final class FoodRegistry {
 
         new SlimefunItem(misc, new SlimefunItemStack("MAYO", "7f8d536c8c2c2596bcc1709590a9d7e33061c56e658974cd81bb832ea4d8842"), RecipeType.GRIND_STONE,
         new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.EGG)), null, null, null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("MUSTARD", "9b9e99621b9773b29e375e62c6495ff1ac847f85b29816c2eb77b587874ba62"), RecipeType.GRIND_STONE,
         new ItemStack[] {getItem("MUSTARD_SEED"), null, null, null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("BBQ_SAUCE", "a86f19bf23d248e662c9c8b7fa15efb8a1f1d5bdacd3b8625a9b59e93ac8a"), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("TOMATO"), getItem("MUSTARD"), getItem("SALT"), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("VEGETABLE_OIL", "2acb28fb8a310443af02c7a1283ace95a9906b2e0e6f3636597edbe8cad4e"), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.BEETROOT_SEEDS)), new ItemStack(MaterialCompat.safe(XMaterial.WATER_BUCKET)), null, null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("CORNMEAL", MaterialCompat.safe(XMaterial.SUGAR)), RecipeType.GRIND_STONE,
         new ItemStack[] {getItem("CORN"), null, null, null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("YEAST", "606be2df2122344bda479feece365ee0e9d5da276afa0e8ce8d848f373dd131"), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), new ItemStack(MaterialCompat.safe(XMaterial.WATER_BUCKET)), null, null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("MOLASSES", "f21d7b155edf440cb87ec94487cba64e8d128171eb1187c26d5ffe58bd794c"), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.BEETROOT)), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR_CANE)), new ItemStack(MaterialCompat.safe(XMaterial.WATER_BUCKET)), null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("BROWN_SUGAR", "964d4247278e1498374aa6b0e47368fe4f138abc94e583e8839965fbe241be"), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), getItem("MOLASSES"), null, null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new SlimefunItem(misc, new SlimefunItemStack("COUNTRY_GRAVY", "f21fa9439bfd8384464146f9c67ebd4c5fbf4196924892627eadf3bce1ff"), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {SlimefunItems.WHEAT_FLOUR.item(), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), getItem("BLACK_PEPPER"), null, null, null, null, null, null})
+        .setGuideType("resources")
         .register(plugin);
 
         new CustomFood(food, new SlimefunItemStack("CHOCOLATE_BAR", "819f948d17718adace5dd6e050c586229653fef645d7113ab94d17b639cc466"),
@@ -438,6 +456,7 @@ public final class FoodRegistry {
 
         new Juice(drinks, new SlimefunItemStack("LEMONADE", Color.YELLOW, new PotionEffect(PotionEffectType.SATURATION, 8, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("LEMON_JUICE"), new ItemStack(MaterialCompat.safe(XMaterial.SUGAR)), null, null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new CustomFood(food, new SlimefunItemStack("SWEET_POTATO_PIE", "3418c6b0a29fc1fe791c89774d828ff63d2a9fa6c83373ef3aa47bf3eb79"),
@@ -487,10 +506,12 @@ public final class FoodRegistry {
 
         new Juice(drinks, new SlimefunItemStack("PINEAPPLE_JUICE", Color.ORANGE, new PotionEffect(PotionEffectType.SATURATION, 6, 0)), RecipeType.JUICER,
         new ItemStack[] {getItem("PINEAPPLE"), null, null, null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new Juice(drinks, new SlimefunItemStack("PINEAPPLE_SMOOTHIE", Color.ORANGE, new PotionEffect(PotionEffectType.SATURATION, 10, 0)), RecipeType.ENHANCED_CRAFTING_TABLE,
         new ItemStack[] {getItem("PINEAPPLE_JUICE"), getItem("ICE_CUBE"), null, null, null, null, null, null, null})
+        .setGuideType("food")
         .register(plugin);
 
         new CustomFood(food, new SlimefunItemStack("TIRAMISU", "169091d288022c7b0eb6d3e3f44b0fea7f2c069f497491a1dcab587eb1d56d4"),

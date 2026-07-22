@@ -27,6 +27,7 @@ public class GrassSeeds extends SimpleSlimefunItem<ItemUseHandler> {
     @ParametersAreNonnullByDefault
     public GrassSeeds(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(itemGroup, item, recipeType, recipe);
+        setGuideType("decoration");
     }
 
     @Override

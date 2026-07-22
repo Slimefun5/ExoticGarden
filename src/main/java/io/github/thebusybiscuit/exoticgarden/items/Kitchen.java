@@ -45,6 +45,7 @@ public class Kitchen extends MultiBlockMachine {
         super(itemGroup, new SlimefunItemStack("KITCHEN", MaterialCompat.safe(XMaterial.CAULDRON)), new ItemStack[] { CustomItemStack.create(MaterialCompat.safe(XMaterial.BRICK_STAIRS), "\u00a7oBrick Stairs (upside down)"), CustomItemStack.create(MaterialCompat.safe(XMaterial.BRICK_STAIRS), "\u00a7oBrick Stairs (upside down)"), new ItemStack(MaterialCompat.safe(XMaterial.BRICKS)), new ItemStack(MaterialCompat.safe(XMaterial.STONE_PRESSURE_PLATE)), new ItemStack(MaterialCompat.safe(XMaterial.IRON_TRAPDOOR)), new ItemStack(MaterialCompat.safe(XMaterial.BOOKSHELF)), new ItemStack(MaterialCompat.safe(XMaterial.FURNACE)), new ItemStack(MaterialCompat.safe(XMaterial.DISPENSER)), new ItemStack(MaterialCompat.safe(XMaterial.CRAFTING_TABLE)) }, new ItemStack[0], BlockFace.SELF);
 
         this.plugin = plugin;
+        setGuideType("machines");
     }
 
     @Override
