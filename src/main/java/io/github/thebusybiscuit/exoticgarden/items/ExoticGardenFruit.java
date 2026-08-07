@@ -56,7 +56,6 @@ public class ExoticGardenFruit extends SimpleSlimefunItem<ItemUseHandler> {
             if (block.isPresent()) {
                 Material material = block.get().getType();
 
-                // Cancel the Block placement if the Player sneaks or the Block is not interactable
                 if (e.getPlayer().isSneaking() || !isInteractable(material)) {
                     e.cancel();
                 } else {
