@@ -58,9 +58,17 @@ public class PlantsListener implements Listener {
         cfg = plugin.getCfg();
         plugin.getServer().getPluginManager().registerEvents(this, plugin);
 
-        // BlockExplodeEvent (1.9+) and BlockFertilizeEvent (1.13+) do not exist on the 1.8 API floor.
-        // Registering a listener that names them would crash on 1.8, so they live in separate listener
-        // classes that are only registered when the corresponding event class is present.
+        registerVersionGatedListeners();
+    }
+
+    /**
+     * Registers listeners for events that are absent on the 1.8 API floor.
+     *
+     * @implNote BlockExplodeEvent (1.9+) and BlockFertilizeEvent (1.13+) do not exist on 1.8, so a
+     *           listener class naming them would crash on load; they live in separate classes
+     *           registered only when the corresponding event class is present.
+     */
+    private void registerVersionGatedListeners() {
         if (classExists("org.bukkit.event.block.BlockExplodeEvent")) {
             plugin.getServer().getPluginManager().registerEvents(new BlockExplodeListener(this), plugin);
         }
