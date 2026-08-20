@@ -234,7 +234,6 @@ public class Schematic {
         short length = getChildTag(schematic, "Length", ShortTag.class).getValue();
         short height = getChildTag(schematic, "Height", ShortTag.class).getValue();
 
-        // Get blocks
         byte[] blockId = getChildTag(schematic, "Blocks", ByteArrayTag.class).getValue();
         byte[] blockData = getChildTag(schematic, "Data", ByteArrayTag.class).getValue();
         byte[] addId = new byte[0];

@@ -27,9 +27,7 @@ public class AndroidListener implements Listener {
 
     @EventHandler(ignoreCancelled = true)
     public void onGrow(@Nonnull AndroidFarmEvent e) {
-        // Only for the advanced harvesting action
         if (e.isAdvanced() && e.getDrop() == null) {
-            // Allow Androids to harvest our plants
             e.setDrop(ExoticGarden.harvestPlant(e.getBlock()));
         }
     }

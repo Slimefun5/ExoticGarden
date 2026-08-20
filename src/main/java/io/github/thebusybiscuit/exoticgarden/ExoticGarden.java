@@ -98,8 +98,6 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         instance = this;
         cfg = new Config(this);
 
-        // Setting up bStats
-        
         registerItems();
 
         new AndroidListener(this);
@@ -225,7 +223,6 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
     @Nullable
     private static List<String> getItemPage(@Nonnull String id) {
-        // Bushes & berry/crop plants share a growing mechanic.
         if (id.endsWith("_BUSH")) {
             return Arrays.asList(
                 "&7Plant this on &adirt &7and it slowly ripens.",
@@ -364,7 +361,6 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
                 break;
         }
 
-        // Tree fruits, berries and crops eaten raw - a single generic page.
         if (isPlantProduce(id)) {
             return Arrays.asList(
                 "&7A fresh Exotic Garden harvest.",
@@ -372,7 +368,6 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
                 "&7Grown from its matching bush or fruit tree.");
         }
 
-        // Cooked dishes restore hunger; point players at the Kitchen.
         return Arrays.asList(
             "&7A prepared dish. Combine its ingredients in",
             "&7the &eKitchen &7multiblock to cook it.",
