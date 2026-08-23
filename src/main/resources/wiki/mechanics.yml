@@ -1,0 +1,34 @@
+# Body text for ExoticGarden's wiki topics, keyed by the topic id declared in topics.yml.
+# Rendered as paginated tooltip text; keep lines short (~45 chars).
+
+exoticgarden_growing:
+  - '&e&lGrowing Plants'
+  - '&7Plants and trees here grow on ordinary'
+  - '&7farmland and dirt, but they are not'
+  - '&7vanilla crops.'
+  - ''
+  - '&7Plant a seed or sapling and leave it be.'
+  - '&7Growth ticks on its own; bonemeal does'
+  - '&7not shortcut it.'
+  - ''
+  - '&7Harvest by breaking the mature plant.'
+  - '&7Most give their produce plus a seed, so'
+  - '&7one successful crop expands into a farm.'
+  - ''
+  - '&7Bushes and trees keep producing, so it'
+  - '&7is worth leaving them standing rather'
+  - '&7than replanting each time.'
+
+exoticgarden_cooking:
+  - '&e&lCooking & Produce'
+  - '&7Raw produce is edible, but it is worth'
+  - '&7more once processed.'
+  - ''
+  - '&7Fruit presses turn produce into juice,'
+  - '&7and the kitchen combines ingredients'
+  - '&7into full meals with stronger effects'
+  - '&7than the parts alone.'
+  - ''
+  - '&7Because the plants regrow, a modest'
+  - '&7garden supports a permanent food supply'
+  - '&7without replanting.'

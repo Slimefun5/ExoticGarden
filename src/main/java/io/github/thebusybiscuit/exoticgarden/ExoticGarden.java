@@ -21,6 +21,8 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.api.researches.Research;
 import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText;
 import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic;
+import io.github.thebusybiscuit.slimefun5.core.guide.widgets.GuideWidget;
+import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiIndex;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.implementation.items.food.Juice;
@@ -104,6 +106,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         new PlantsListener(this);
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        registerGuideWidgets();
         registerWiki();
     }
 
@@ -757,6 +760,26 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         return copy;
     }
 
+
+    private void registerGuideWidgets() {
+        registerGuideWidget("food", "&bGardening Guide", XMaterial.WHEAT_SEEDS, 0);
+    }
+
+    /**
+     * One guide button per category this addon has items in, so a section only offers the pages that
+     * belong to it rather than every guide the addon ships.
+     */
+    private void registerGuideWidget(String category, String name, XMaterial icon, int order) {
+        Slimefun.getGuideWidgets().register(new GuideWidget(
+            "exoticgarden_guide_" + category,
+            name,
+            icon,
+            order,
+            GuideWidget.Position.BOTTOM,
+            (player, profile) -> WikiIndex.openAddonWiki(player, profile, getName(), category),
+            getName(),
+            category));
+    }
 }
 
 

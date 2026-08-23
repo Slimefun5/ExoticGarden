@@ -1,0 +1,13 @@
+# ExoticGarden's in-game wiki topics, keyed by topic id. Body text lives in mechanics.yml under the same
+# id; 'category' decides which guide section offers the page.
+
+exoticgarden_growing:
+  title: Growing Plants
+  icon: WHEAT_SEEDS
+  summary: '&7Planting, spreading and harvesting'
+  category: food
+exoticgarden_cooking:
+  title: Cooking & Produce
+  icon: BREAD
+  summary: '&7Turning fruit into food and drink'
+  category: food
