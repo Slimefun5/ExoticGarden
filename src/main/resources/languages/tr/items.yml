@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oSihirli'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON:
+  stats:
+  - '&7&oAçlığı &b&o1.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_BURGER:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BAGEL:
+  stats:
+  - '&7&oAçlığı &b&o2.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oAçlığı &b&o10.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BBQ_SAUCE:
   type:
   - '&7&oBileşen'
 BISCUIT:
+  stats:
+  - '&7&oAçlığı &b&o2.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oBileşen'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oBileşen'
 BLT:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oBileşen'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oAçlığı &b&o4.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BROWN_SUGAR:
   type:
   - '&7&oBileşen'
 BURRITO:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oBileşen'
 CARROT_CAKE:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHEESEBURGER:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHEESECAKE:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY:
   type:
   - '&7&oYiyecek'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_SAPLING:
   type:
   - '&7&oBileşen'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oAçlığı &b&o1.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oAçlığı &b&o2.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oBileşen'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oYiyecek'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COCONUT_MILK:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oBileşen'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oAçlığı &b&o4.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oBileşen'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COWBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oBileşen'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CREAMED_CORN:
+  stats:
+  - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CREAM_COOKIE:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oBileşen'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oYiyecek'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oBileşen'
 EGG_SALAD:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oBileşen'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oSihirli'
 FISH_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 FISH_TACO:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 FRIES:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GARLIC:
   type:
   - '&7&oYiyecek'
 GARLIC_BREAD:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GARLIC_BUSH:
   type:
   - '&7&oBileşen'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oBileşen'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_SALAD:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRASS_SEEDS:
   type:
   - '&7&oCihaz'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 HAMBURGER:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 HOT_DOG:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ICE_CREAM:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oSihirli'
 JAMMY_DODGER:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 KITCHEN:
   type:
   - '&7&oYapı'
 LAMINGTON:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oSihirli'
 LASAGNA:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oSihirli'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON:
   type:
   - '&7&oYiyecek'
 LEMONADE:
+  stats:
+  - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oYiyecek'
 LIME_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LIME_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LIME_SAPLING:
   type:
   - '&7&oBileşen'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oYiyecek'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oYiyecek'
 ORANGE_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ORANGE_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ORANGE_SAPLING:
   type:
   - '&7&oBileşen'
 PANCAKES:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PAVLOVA:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH:
   type:
   - '&7&oYiyecek'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oYiyecek'
 PEAR_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEAR_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEAR_SAPLING:
   type:
   - '&7&oBileşen'
 PINACOLADA:
+  stats:
+  - '&7&oAçlığı &b&o7.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oBileşen'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PLUM:
   type:
   - '&7&oYiyecek'
 PLUM_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PLUM_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oYiyecek'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oBileşen'
 POPCORN:
+  stats:
+  - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 POTATO_SALAD:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oBileşen'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oBileşen'
 SALTY_POPCORN:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oBileşen'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STREET_TACO:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oAçlığı &b&o7.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEETENED_TEA:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEET_POPCORN:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oBileşen'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TACO:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oBileşen'
 THAI_TEA:
+  stats:
+  - '&7&oAçlığı &b&o7.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oSihirli'
 TIRAMISU:
+  stats:
+  - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oBileşen'
 TOMATO_JUICE:
+  stats:
+  - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TOMATO_SOUP:
+  stats:
+  - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 VEGETABLE_OIL:
   type:
   - '&7&oBileşen'
 WAFFLES:
+  stats:
+  - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 WINE:
+  stats:
+  - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 YEAST:

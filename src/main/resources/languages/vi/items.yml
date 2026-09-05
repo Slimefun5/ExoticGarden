@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMa Thuật'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON:
+  stats:
+  - '&7&oHồi Phục &b&o1.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_BURGER:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BAGEL:
+  stats:
+  - '&7&oHồi Phục &b&o2.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oHồi Phục &b&o10.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BBQ_SAUCE:
   type:
   - '&7&oThành Phần'
 BISCUIT:
+  stats:
+  - '&7&oHồi Phục &b&o2.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oThành Phần'
 BLT:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o4.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BROWN_SUGAR:
   type:
   - '&7&oThành Phần'
 BURRITO:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oThành Phần'
 CARROT_CAKE:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHEESEBURGER:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHEESECAKE:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY:
   type:
   - '&7&oThức Ăn'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_SAPLING:
   type:
   - '&7&oThành Phần'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oHồi Phục &b&o1.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oHồi Phục &b&o2.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oThành Phần'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oThức Ăn'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COCONUT_MILK:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oThành Phần'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oHồi Phục &b&o4.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COWBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CREAMED_CORN:
+  stats:
+  - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CREAM_COOKIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oThành Phần'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oThức Ăn'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oThành Phần'
 EGG_SALAD:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMa Thuật'
 FISH_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 FISH_TACO:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 FRIES:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GARLIC:
   type:
   - '&7&oThức Ăn'
 GARLIC_BREAD:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GARLIC_BUSH:
   type:
   - '&7&oThành Phần'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oThành Phần'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_SALAD:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRASS_SEEDS:
   type:
   - '&7&oThiết Bị'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 HAMBURGER:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 HOT_DOG:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ICE_CREAM:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMa Thuật'
 JAMMY_DODGER:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 KITCHEN:
   type:
   - '&7&oĐa khối'
 LAMINGTON:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMa Thuật'
 LASAGNA:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMa Thuật'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON:
   type:
   - '&7&oThức Ăn'
 LEMONADE:
+  stats:
+  - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oThức Ăn'
 LIME_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LIME_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LIME_SAPLING:
   type:
   - '&7&oThành Phần'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oThức Ăn'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oThức Ăn'
 ORANGE_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ORANGE_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ORANGE_SAPLING:
   type:
   - '&7&oThành Phần'
 PANCAKES:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PAVLOVA:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH:
   type:
   - '&7&oThức Ăn'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oThức Ăn'
 PEAR_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEAR_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEAR_SAPLING:
   type:
   - '&7&oThành Phần'
 PINACOLADA:
+  stats:
+  - '&7&oHồi Phục &b&o7.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oThành Phần'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PLUM:
   type:
   - '&7&oThức Ăn'
 PLUM_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PLUM_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oThức Ăn'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oThành Phần'
 POPCORN:
+  stats:
+  - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 POTATO_SALAD:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oThành Phần'
 SALTY_POPCORN:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oThành Phần'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STREET_TACO:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oHồi Phục &b&o7.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEETENED_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEET_POPCORN:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oThành Phần'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TACO:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oThành Phần'
 THAI_TEA:
+  stats:
+  - '&7&oHồi Phục &b&o7.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMa Thuật'
 TIRAMISU:
+  stats:
+  - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oThành Phần'
 TOMATO_JUICE:
+  stats:
+  - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TOMATO_SOUP:
+  stats:
+  - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 VEGETABLE_OIL:
   type:
   - '&7&oThành Phần'
 WAFFLES:
+  stats:
+  - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 WINE:
+  stats:
+  - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 YEAST:

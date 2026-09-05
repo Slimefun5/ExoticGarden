@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oجادویی'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BACON:
+  stats:
+  - '&7&oبازیابی &b&o1.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BACON_BURGER:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BACON_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o9.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BAGEL:
+  stats:
+  - '&7&oبازیابی &b&o2.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oبازیابی &b&o10.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BBQ_SAUCE:
   type:
   - '&7&oقطعه'
 BISCUIT:
+  stats:
+  - '&7&oبازیابی &b&o2.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oقطعه'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oقطعه'
 BLT:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oقطعه'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oبازیابی &b&o4.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 BROWN_SUGAR:
   type:
   - '&7&oقطعه'
 BURRITO:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oقطعه'
 CARROT_CAKE:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHEESEBURGER:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHEESECAKE:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHERRY:
   type:
   - '&7&oخوراکی'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHERRY_SAPLING:
   type:
   - '&7&oقطعه'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o5.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oبازیابی &b&o1.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oبازیابی &b&o9.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oبازیابی &b&o2.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oقطعه'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o9.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oخوراکی'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oبازیابی &b&o9.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COCONUT_MILK:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oقطعه'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oبازیابی &b&o4.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oقطعه'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COWBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oقطعه'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CREAMED_CORN:
+  stats:
+  - '&7&oبازیابی &b&o4.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CREAM_COOKIE:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oقطعه'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oخوراکی'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oقطعه'
 EGG_SALAD:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oقطعه'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oجادویی'
 FISH_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o5.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 FISH_TACO:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 FRIES:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GARLIC:
   type:
   - '&7&oخوراکی'
 GARLIC_BREAD:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GARLIC_BUSH:
   type:
   - '&7&oقطعه'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oقطعه'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GRAPE_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GRAPE_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GRAPE_SALAD:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 GRASS_SEEDS:
   type:
   - '&7&oابزارک'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o5.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 HAMBURGER:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oبازیابی &b&o4.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 HOT_DOG:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ICE_CREAM:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oجادویی'
 JAMMY_DODGER:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 KITCHEN:
   type:
   - '&7&oچندبلوکی'
 LAMINGTON:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oجادویی'
 LASAGNA:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oجادویی'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEMON:
   type:
   - '&7&oخوراکی'
 LEMONADE:
+  stats:
+  - '&7&oبازیابی &b&o4.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEMON_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEMON_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oخوراکی'
 LIME_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LIME_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 LIME_SAPLING:
   type:
   - '&7&oقطعه'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oخوراکی'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oخوراکی'
 ORANGE_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ORANGE_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 ORANGE_SAPLING:
   type:
   - '&7&oقطعه'
 PANCAKES:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PAVLOVA:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PEACH:
   type:
   - '&7&oخوراکی'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PEACH_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PEACH_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oخوراکی'
 PEAR_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PEAR_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PEAR_SAPLING:
   type:
   - '&7&oقطعه'
 PINACOLADA:
+  stats:
+  - '&7&oبازیابی &b&o7.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oقطعه'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PLUM:
   type:
   - '&7&oخوراکی'
 PLUM_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PLUM_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oخوراکی'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oقطعه'
 POPCORN:
+  stats:
+  - '&7&oبازیابی &b&o4.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 POTATO_SALAD:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oبازیابی &b&o4.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oبازیابی &b&o8.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oقطعه'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oقطعه'
 SALTY_POPCORN:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o9.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oقطعه'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STREET_TACO:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oبازیابی &b&o7.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SWEETENED_TEA:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SWEET_POPCORN:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oقطعه'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oبازیابی &b&o6.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TACO:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oقطعه'
 THAI_TEA:
+  stats:
+  - '&7&oبازیابی &b&o7.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oجادویی'
 TIRAMISU:
+  stats:
+  - '&7&oبازیابی &b&o8.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oبازیابی &b&o9.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oقطعه'
 TOMATO_JUICE:
+  stats:
+  - '&7&oبازیابی &b&o3.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 TOMATO_SOUP:
+  stats:
+  - '&7&oبازیابی &b&o5.5 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 VEGETABLE_OIL:
   type:
   - '&7&oقطعه'
 WAFFLES:
+  stats:
+  - '&7&oبازیابی &b&o6.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 WINE:
+  stats:
+  - '&7&oبازیابی &b&o5.0 &7&oواحد گرسنگی'
   type:
   - '&7&oخوراکی'
 YEAST:

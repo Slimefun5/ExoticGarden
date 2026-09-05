@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMagické'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BACON:
+  stats:
+  - '&7&oObnoví &b&o1.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BACON_BURGER:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BACON_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o9.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BAGEL:
+  stats:
+  - '&7&oObnoví &b&o2.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oObnoví &b&o10.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BBQ_SAUCE:
   type:
   - '&7&oKomponenta'
 BISCUIT:
+  stats:
+  - '&7&oObnoví &b&o2.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponenta'
 BLT:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oObnoví &b&o4.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 BROWN_SUGAR:
   type:
   - '&7&oKomponenta'
 BURRITO:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oKomponenta'
 CARROT_CAKE:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHEESEBURGER:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHEESECAKE:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHERRY:
   type:
   - '&7&oJídlo'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHERRY_SAPLING:
   type:
   - '&7&oKomponenta'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o5.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oObnoví &b&o1.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oObnoví &b&o9.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oObnoví &b&o2.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oKomponenta'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o9.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oJídlo'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oObnoví &b&o9.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 COCONUT_MILK:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oKomponenta'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oObnoví &b&o4.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 COWBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CREAMED_CORN:
+  stats:
+  - '&7&oObnoví &b&o4.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CREAM_COOKIE:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oKomponenta'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oJídlo'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oKomponenta'
 EGG_SALAD:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMagické'
 FISH_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o5.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 FISH_TACO:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 FRIES:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 GARLIC:
   type:
   - '&7&oJídlo'
 GARLIC_BREAD:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 GARLIC_BUSH:
   type:
   - '&7&oKomponenta'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oKomponenta'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 GRAPE_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 GRAPE_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 GRAPE_SALAD:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 GRASS_SEEDS:
   type:
   - '&7&oPomůcka'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o5.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 HAMBURGER:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oObnoví &b&o4.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 HOT_DOG:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 ICE_CREAM:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMagické'
 JAMMY_DODGER:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 KITCHEN:
   type:
   - '&7&oMultiblok'
 LAMINGTON:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMagické'
 LASAGNA:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMagické'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEMON:
   type:
   - '&7&oJídlo'
 LEMONADE:
+  stats:
+  - '&7&oObnoví &b&o4.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEMON_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEMON_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oJídlo'
 LIME_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 LIME_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 LIME_SAPLING:
   type:
   - '&7&oKomponenta'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oJídlo'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oJídlo'
 ORANGE_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 ORANGE_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 ORANGE_SAPLING:
   type:
   - '&7&oKomponenta'
 PANCAKES:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PAVLOVA:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PEACH:
   type:
   - '&7&oJídlo'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 PEACH_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PEACH_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oJídlo'
 PEAR_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PEAR_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 PEAR_SAPLING:
   type:
   - '&7&oKomponenta'
 PINACOLADA:
+  stats:
+  - '&7&oObnoví &b&o7.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oKomponenta'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PLUM:
   type:
   - '&7&oJídlo'
 PLUM_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PLUM_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oJídlo'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oKomponenta'
 POPCORN:
+  stats:
+  - '&7&oObnoví &b&o4.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 POTATO_SALAD:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oObnoví &b&o4.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oObnoví &b&o8.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oKomponenta'
 SALTY_POPCORN:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o9.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 STREET_TACO:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oObnoví &b&o7.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 SWEETENED_TEA:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 SWEET_POPCORN:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oKomponenta'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oObnoví &b&o6.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 TACO:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oKomponenta'
 THAI_TEA:
+  stats:
+  - '&7&oObnoví &b&o7.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMagické'
 TIRAMISU:
+  stats:
+  - '&7&oObnoví &b&o8.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oObnoví &b&o9.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oKomponenta'
 TOMATO_JUICE:
+  stats:
+  - '&7&oObnoví &b&o3.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 TOMATO_SOUP:
+  stats:
+  - '&7&oObnoví &b&o5.5 &7&oHladu'
   type:
   - '&7&oJídlo'
 VEGETABLE_OIL:
   type:
   - '&7&oKomponenta'
 WAFFLES:
+  stats:
+  - '&7&oObnoví &b&o6.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 WINE:
+  stats:
+  - '&7&oObnoví &b&o5.0 &7&oHladu'
   type:
   - '&7&oJídlo'
 YEAST:

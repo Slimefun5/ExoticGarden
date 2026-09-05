@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oමායාකාරී'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BACON:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o1.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BACON_BURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BACON_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BAGEL:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o2.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o10.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BBQ_SAUCE:
   type:
   - '&7&oසංරචකය'
 BISCUIT:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o2.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oසංරචකය'
 BLT:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 BROWN_SUGAR:
   type:
   - '&7&oසංරචකය'
 BURRITO:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oසංරචකය'
 CARROT_CAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHEESEBURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHEESECAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHERRY:
   type:
   - '&7&oආහාර'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHERRY_SAPLING:
   type:
   - '&7&oසංරචකය'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o1.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o2.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oසංරචකය'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oආහාර'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COCONUT_MILK:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oසංරචකය'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COWBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CREAMED_CORN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CREAM_COOKIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oසංරචකය'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oආහාර'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oසංරචකය'
 EGG_SALAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oමායාකාරී'
 FISH_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 FISH_TACO:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 FRIES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GARLIC:
   type:
   - '&7&oආහාර'
 GARLIC_BREAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GARLIC_BUSH:
   type:
   - '&7&oසංරචකය'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oසංරචකය'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GRAPE_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GRAPE_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GRAPE_SALAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 GRASS_SEEDS:
   type:
   - '&7&oඋපාංගය'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 HAMBURGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 HOT_DOG:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ICE_CREAM:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oමායාකාරී'
 JAMMY_DODGER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 KITCHEN:
   type:
   - '&7&oබහුකැටය'
 LAMINGTON:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oමායාකාරී'
 LASAGNA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oමායාකාරී'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEMON:
   type:
   - '&7&oආහාර'
 LEMONADE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEMON_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEMON_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oආහාර'
 LIME_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LIME_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 LIME_SAPLING:
   type:
   - '&7&oසංරචකය'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oආහාර'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oආහාර'
 ORANGE_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ORANGE_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 ORANGE_SAPLING:
   type:
   - '&7&oසංරචකය'
 PANCAKES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PAVLOVA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PEACH:
   type:
   - '&7&oආහාර'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PEACH_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PEACH_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oආහාර'
 PEAR_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PEAR_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PEAR_SAPLING:
   type:
   - '&7&oසංරචකය'
 PINACOLADA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o7.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oසංරචකය'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PLUM:
   type:
   - '&7&oආහාර'
 PLUM_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PLUM_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oආහාර'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oසංරචකය'
 POPCORN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 POTATO_SALAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o4.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oසංරචකය'
 SALTY_POPCORN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oසංරචකය'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STREET_TACO:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o7.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SWEETENED_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SWEET_POPCORN:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oසංරචකය'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TACO:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oසංරචකය'
 THAI_TEA:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o7.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oමායාකාරී'
 TIRAMISU:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o8.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o9.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oසංරචකය'
 TOMATO_JUICE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o3.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 TOMATO_SOUP:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.5 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 VEGETABLE_OIL:
   type:
   - '&7&oසංරචකය'
 WAFFLES:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o6.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 WINE:
+  stats:
+  - '&7&oකුසගින්නෙන් &b&o5.0 &7&oක් යථා කරයි'
   type:
   - '&7&oආහාර'
 YEAST:

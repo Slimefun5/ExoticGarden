@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMagisk'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 BACON:
+  stats:
+  - '&7&oGenopretter &b&o1.5 &7&oSult'
   type:
   - '&7&oMad'
 BACON_BURGER:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 BACON_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o9.5 &7&oSult'
   type:
   - '&7&oMad'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 BAGEL:
+  stats:
+  - '&7&oGenopretter &b&o2.0 &7&oSult'
   type:
   - '&7&oMad'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oGenopretter &b&o10.0 &7&oSult'
   type:
   - '&7&oMad'
 BBQ_SAUCE:
   type:
   - '&7&oKomponent'
 BISCUIT:
+  stats:
+  - '&7&oGenopretter &b&o2.0 &7&oSult'
   type:
   - '&7&oMad'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oKomponent'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponent'
 BLT:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oKomponent'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oGenopretter &b&o4.5 &7&oSult'
   type:
   - '&7&oMad'
 BROWN_SUGAR:
   type:
   - '&7&oKomponent'
 BURRITO:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oKomponent'
 CARROT_CAKE:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 CHEESEBURGER:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 CHEESECAKE:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 CHERRY:
   type:
   - '&7&oMad'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 CHERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 CHERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 CHERRY_SAPLING:
   type:
   - '&7&oKomponent'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o5.5 &7&oSult'
   type:
   - '&7&oMad'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oGenopretter &b&o1.5 &7&oSult'
   type:
   - '&7&oMad'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oGenopretter &b&o9.5 &7&oSult'
   type:
   - '&7&oMad'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oGenopretter &b&o2.5 &7&oSult'
   type:
   - '&7&oMad'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oKomponent'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o9.5 &7&oSult'
   type:
   - '&7&oMad'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oMad'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oGenopretter &b&o9.5 &7&oSult'
   type:
   - '&7&oMad'
 COCONUT_MILK:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oKomponent'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oGenopretter &b&o4.5 &7&oSult'
   type:
   - '&7&oMad'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oKomponent'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 COWBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oKomponent'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 CREAMED_CORN:
+  stats:
+  - '&7&oGenopretter &b&o4.0 &7&oSult'
   type:
   - '&7&oMad'
 CREAM_COOKIE:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oKomponent'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oMad'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oKomponent'
 EGG_SALAD:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oKomponent'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMagisk'
 FISH_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o5.5 &7&oSult'
   type:
   - '&7&oMad'
 FISH_TACO:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 FRIES:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 GARLIC:
   type:
   - '&7&oMad'
 GARLIC_BREAD:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 GARLIC_BUSH:
   type:
   - '&7&oKomponent'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oKomponent'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 GRAPE_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 GRAPE_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 GRAPE_SALAD:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 GRASS_SEEDS:
   type:
   - '&7&oGadget'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o5.5 &7&oSult'
   type:
   - '&7&oMad'
 HAMBURGER:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oGenopretter &b&o4.0 &7&oSult'
   type:
   - '&7&oMad'
 HOT_DOG:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 ICE_CREAM:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMagisk'
 JAMMY_DODGER:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 KITCHEN:
   type:
   - '&7&oMultiblok'
 LAMINGTON:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMagisk'
 LASAGNA:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMagisk'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 LEMON:
   type:
   - '&7&oMad'
 LEMONADE:
+  stats:
+  - '&7&oGenopretter &b&o4.0 &7&oSult'
   type:
   - '&7&oMad'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 LEMON_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 LEMON_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oMad'
 LIME_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 LIME_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 LIME_SAPLING:
   type:
   - '&7&oKomponent'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oMad'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oMad'
 ORANGE_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 ORANGE_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 ORANGE_SAPLING:
   type:
   - '&7&oKomponent'
 PANCAKES:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 PAVLOVA:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 PEACH:
   type:
   - '&7&oMad'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 PEACH_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 PEACH_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oMad'
 PEAR_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 PEAR_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 PEAR_SAPLING:
   type:
   - '&7&oKomponent'
 PINACOLADA:
+  stats:
+  - '&7&oGenopretter &b&o7.0 &7&oSult'
   type:
   - '&7&oMad'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oKomponent'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 PLUM:
   type:
   - '&7&oMad'
 PLUM_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 PLUM_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oMad'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oKomponent'
 POPCORN:
+  stats:
+  - '&7&oGenopretter &b&o4.0 &7&oSult'
   type:
   - '&7&oMad'
 POTATO_SALAD:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oGenopretter &b&o4.0 &7&oSult'
   type:
   - '&7&oMad'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oGenopretter &b&o8.5 &7&oSult'
   type:
   - '&7&oMad'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oKomponent'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oKomponent'
 SALTY_POPCORN:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o9.5 &7&oSult'
   type:
   - '&7&oMad'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oKomponent'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 STREET_TACO:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oGenopretter &b&o7.0 &7&oSult'
   type:
   - '&7&oMad'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 SWEETENED_TEA:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 SWEET_POPCORN:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oKomponent'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oGenopretter &b&o6.5 &7&oSult'
   type:
   - '&7&oMad'
 TACO:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oKomponent'
 THAI_TEA:
+  stats:
+  - '&7&oGenopretter &b&o7.0 &7&oSult'
   type:
   - '&7&oMad'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMagisk'
 TIRAMISU:
+  stats:
+  - '&7&oGenopretter &b&o8.0 &7&oSult'
   type:
   - '&7&oMad'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:
   - '&7&oMad'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oKomponent'
 TOMATO_JUICE:
+  stats:
+  - '&7&oGenopretter &b&o3.0 &7&oSult'
   type:
   - '&7&oMad'
 TOMATO_SOUP:
+  stats:
+  - '&7&oGenopretter &b&o5.5 &7&oSult'
   type:
   - '&7&oMad'
 VEGETABLE_OIL:
   type:
   - '&7&oKomponent'
 WAFFLES:
+  stats:
+  - '&7&oGenopretter &b&o6.0 &7&oSult'
   type:
   - '&7&oMad'
 WINE:
+  stats:
+  - '&7&oGenopretter &b&o5.0 &7&oSult'
   type:
   - '&7&oMad'
 YEAST:

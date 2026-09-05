@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oМагічне'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BACON:
+  stats:
+  - '&7&oВідновлює &b&o1.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BACON_BURGER:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BACON_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o9.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BAGEL:
+  stats:
+  - '&7&oВідновлює &b&o2.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oВідновлює &b&o10.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BBQ_SAUCE:
   type:
   - '&7&oКомпонент'
 BISCUIT:
+  stats:
+  - '&7&oВідновлює &b&o2.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oКомпонент'
 BLT:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oВідновлює &b&o4.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 BROWN_SUGAR:
   type:
   - '&7&oКомпонент'
 BURRITO:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oКомпонент'
 CARROT_CAKE:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHEESEBURGER:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHEESECAKE:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHERRY:
   type:
   - '&7&oЇжа'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHERRY_SAPLING:
   type:
   - '&7&oКомпонент'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o5.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oВідновлює &b&o1.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oВідновлює &b&o9.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oВідновлює &b&o2.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oКомпонент'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o9.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oЇжа'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oВідновлює &b&o9.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 COCONUT_MILK:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oКомпонент'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oВідновлює &b&o4.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 COWBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CREAMED_CORN:
+  stats:
+  - '&7&oВідновлює &b&o4.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CREAM_COOKIE:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oКомпонент'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oЇжа'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oКомпонент'
 EGG_SALAD:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oМагічне'
 FISH_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o5.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 FISH_TACO:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 FRIES:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 GARLIC:
   type:
   - '&7&oЇжа'
 GARLIC_BREAD:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 GARLIC_BUSH:
   type:
   - '&7&oКомпонент'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oКомпонент'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 GRAPE_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 GRAPE_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 GRAPE_SALAD:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 GRASS_SEEDS:
   type:
   - '&7&oГаджет'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o5.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 HAMBURGER:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oВідновлює &b&o4.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 HOT_DOG:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 ICE_CREAM:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oМагічне'
 JAMMY_DODGER:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 KITCHEN:
   type:
   - '&7&oСпоруда'
 LAMINGTON:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oМагічне'
 LASAGNA:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oМагічне'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEMON:
   type:
   - '&7&oЇжа'
 LEMONADE:
+  stats:
+  - '&7&oВідновлює &b&o4.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEMON_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEMON_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oЇжа'
 LIME_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 LIME_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 LIME_SAPLING:
   type:
   - '&7&oКомпонент'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oЇжа'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oЇжа'
 ORANGE_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 ORANGE_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 ORANGE_SAPLING:
   type:
   - '&7&oКомпонент'
 PANCAKES:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PAVLOVA:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PEACH:
   type:
   - '&7&oЇжа'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 PEACH_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PEACH_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oЇжа'
 PEAR_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PEAR_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 PEAR_SAPLING:
   type:
   - '&7&oКомпонент'
 PINACOLADA:
+  stats:
+  - '&7&oВідновлює &b&o7.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oКомпонент'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PLUM:
   type:
   - '&7&oЇжа'
 PLUM_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PLUM_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oЇжа'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oКомпонент'
 POPCORN:
+  stats:
+  - '&7&oВідновлює &b&o4.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 POTATO_SALAD:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oВідновлює &b&o4.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oВідновлює &b&o8.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oКомпонент'
 SALTY_POPCORN:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o9.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oКомпонент'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 STREET_TACO:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oВідновлює &b&o7.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 SWEETENED_TEA:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 SWEET_POPCORN:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oКомпонент'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oВідновлює &b&o6.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 TACO:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oКомпонент'
 THAI_TEA:
+  stats:
+  - '&7&oВідновлює &b&o7.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oМагічне'
 TIRAMISU:
+  stats:
+  - '&7&oВідновлює &b&o8.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oВідновлює &b&o9.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oКомпонент'
 TOMATO_JUICE:
+  stats:
+  - '&7&oВідновлює &b&o3.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 TOMATO_SOUP:
+  stats:
+  - '&7&oВідновлює &b&o5.5 &7&oголоду'
   type:
   - '&7&oЇжа'
 VEGETABLE_OIL:
   type:
   - '&7&oКомпонент'
 WAFFLES:
+  stats:
+  - '&7&oВідновлює &b&o6.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 WINE:
+  stats:
+  - '&7&oВідновлює &b&o5.0 &7&oголоду'
   type:
   - '&7&oЇжа'
 YEAST:

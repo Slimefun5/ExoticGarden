@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMagično'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON:
+  stats:
+  - '&7&oVraća &b&o1.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_BURGER:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BAGEL:
+  stats:
+  - '&7&oVraća &b&o2.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oVraća &b&o10.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BBQ_SAUCE:
   type:
   - '&7&oKomponenta'
 BISCUIT:
+  stats:
+  - '&7&oVraća &b&o2.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponenta'
 BLT:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oVraća &b&o4.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BROWN_SUGAR:
   type:
   - '&7&oKomponenta'
 BURRITO:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oKomponenta'
 CARROT_CAKE:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHEESEBURGER:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHEESECAKE:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY:
   type:
   - '&7&oHrana'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_SAPLING:
   type:
   - '&7&oKomponenta'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oVraća &b&o1.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oVraća &b&o2.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oKomponenta'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oHrana'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COCONUT_MILK:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oKomponenta'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oVraća &b&o4.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 COWBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CREAMED_CORN:
+  stats:
+  - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CREAM_COOKIE:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oKomponenta'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oHrana'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oKomponenta'
 EGG_SALAD:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMagično'
 FISH_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 FISH_TACO:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 FRIES:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GARLIC:
   type:
   - '&7&oHrana'
 GARLIC_BREAD:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GARLIC_BUSH:
   type:
   - '&7&oKomponenta'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oKomponenta'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_SALAD:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRASS_SEEDS:
   type:
   - '&7&oNaprava'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 HAMBURGER:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 HOT_DOG:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ICE_CREAM:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMagično'
 JAMMY_DODGER:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 KITCHEN:
   type:
   - '&7&oVišeblok'
 LAMINGTON:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMagično'
 LASAGNA:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMagično'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON:
   type:
   - '&7&oHrana'
 LEMONADE:
+  stats:
+  - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oHrana'
 LIME_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LIME_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LIME_SAPLING:
   type:
   - '&7&oKomponenta'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oHrana'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oHrana'
 ORANGE_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ORANGE_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 ORANGE_SAPLING:
   type:
   - '&7&oKomponenta'
 PANCAKES:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PAVLOVA:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH:
   type:
   - '&7&oHrana'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oHrana'
 PEAR_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PEAR_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PEAR_SAPLING:
   type:
   - '&7&oKomponenta'
 PINACOLADA:
+  stats:
+  - '&7&oVraća &b&o7.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oKomponenta'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PLUM:
   type:
   - '&7&oHrana'
 PLUM_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PLUM_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oHrana'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oKomponenta'
 POPCORN:
+  stats:
+  - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 POTATO_SALAD:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oKomponenta'
 SALTY_POPCORN:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SANDWICH:
+  stats:
+  - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oKomponenta'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STREET_TACO:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oVraća &b&o7.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEETENED_TEA:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEET_POPCORN:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oKomponenta'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 TACO:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oKomponenta'
 THAI_TEA:
+  stats:
+  - '&7&oVraća &b&o7.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMagično'
 TIRAMISU:
+  stats:
+  - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oKomponenta'
 TOMATO_JUICE:
+  stats:
+  - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TOMATO_SOUP:
+  stats:
+  - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 VEGETABLE_OIL:
   type:
   - '&7&oKomponenta'
 WAFFLES:
+  stats:
+  - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 WINE:
+  stats:
+  - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 YEAST:

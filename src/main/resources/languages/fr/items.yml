@@ -8,38 +8,56 @@ ALUMINUM_PLANT:
   - '&7&oMagique'
 APPLE_PEAR_CAKE:
   name: '&cGâteau pomme-poire'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BACON:
   name: '&rBacon'
+  stats:
+  - '&7&oRestaure &b&o1.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BACON_BURGER:
   name: '&rBurger au bacon'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BACON_CHEESEBURGER:
   name: '&rCheeseburger au bacon'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BACON_SANDWICH:
   name: '&rSandwich au bacon'
+  stats:
+  - '&7&oRestaure &b&o9.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
   name: '&rHot-dog enrobé de bacon et fourré au fromage'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BAGEL:
   name: '&rBagel'
+  stats:
+  - '&7&oRestaure &b&o2.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BBQ_BACON_WRAPPED_HOT_DOG:
   name: '&rHot-dog BBQ enrobé de bacon'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
   name: '&rHot-dog BBQ double bacon en tortilla au fromage'
+  stats:
+  - '&7&oRestaure &b&o10.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BBQ_SAUCE:
@@ -48,10 +66,14 @@ BBQ_SAUCE:
   - '&7&oComposant'
 BISCUIT:
   name: '&6Biscuit'
+  stats:
+  - '&7&oRestaure &b&o2.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BISCUITS_GRAVY:
   name: '&rBiscuits et sauce campagnarde'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLACKBERRY:
@@ -64,22 +86,32 @@ BLACKBERRY_BUSH:
   - '&7&oComposant'
 BLACKBERRY_COBBLER:
   name: '&8Cobbler aux mûres'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLACKBERRY_JELLY_SANDWICH:
   name: '&8Mûre Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLACKBERRY_JUICE:
   name: '&8Mûre Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLACKBERRY_PIE:
   name: '&8Mûre Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLACKBERRY_SMOOTHIE:
   name: '&8Mûre Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLACK_PEPPER:
@@ -92,6 +124,8 @@ BLACK_PEPPER_BUSH:
   - '&7&oComposant'
 BLT:
   name: '&rSandwich BLT'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY:
@@ -104,34 +138,50 @@ BLUEBERRY_BUSH:
   - '&7&oComposant'
 BLUEBERRY_CHEESECAKE:
   name: '&9Myrtille Cheesecake'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY_JELLY_SANDWICH:
   name: '&9Myrtille Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY_JUICE:
   name: '&9Myrtille Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY_MUFFIN:
   name: '&rMuffin aux myrtilles'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY_PANCAKES:
   name: '&rCrêpes aux myrtilles'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY_PIE:
   name: '&9Myrtille Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BLUEBERRY_SMOOTHIE:
   name: '&9Myrtille Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 BOSTON_CREAM_PIE:
   name: '&rBoston Cream Pie'
+  stats:
+  - '&7&oRestaure &b&o4.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BROWN_SUGAR:
@@ -140,6 +190,8 @@ BROWN_SUGAR:
   - '&7&oComposant'
 BURRITO:
   name: '&rBurrito'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CABBAGE:
@@ -152,14 +204,20 @@ CABBAGE_BUSH:
   - '&7&oComposant'
 CARROT_CAKE:
   name: '&rGâteau aux carottes'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHEESEBURGER:
   name: '&rCheeseburger'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHEESECAKE:
   name: '&rCheesecake'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHERRY:
@@ -168,18 +226,26 @@ CHERRY:
   - '&7&oNourriture'
 CHERRY_CHEESECAKE:
   name: '&cCerise Cheesecake'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHERRY_ICED_TEA:
   name: '&cCerise Thé glacé'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHERRY_JUICE:
   name: '&cCerise Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHERRY_PIE:
   name: '&cCerise Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHERRY_SAPLING:
@@ -188,46 +254,68 @@ CHERRY_SAPLING:
   - '&7&oComposant'
 CHICKEN_BURGER:
   name: '&rBurger au poulet'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHICKEN_BURRITO:
   name: '&rBurrito au poulet'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHICKEN_CHEESEBURGER:
   name: '&rCheeseburger au poulet'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHICKEN_CURRY:
   name: '&rCurry de poulet'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHICKEN_POT_PIE:
   name: '&rTourte au poulet'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHICKEN_SANDWICH:
   name: '&rSandwich au poulet'
+  stats:
+  - '&7&oRestaure &b&o5.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHOCOLATE_BAR:
   name: '&rBarre de chocolat'
+  stats:
+  - '&7&oRestaure &b&o1.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHOCOLATE_CAKE:
   name: '&rGâteau au chocolat'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHOCOLATE_CHIP_MUFFIN:
   name: '&rMuffin aux pépites de chocolat'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHOCOLATE_PEAR_CAKE:
   name: '&rGâteau au chocolat et à la poire'
+  stats:
+  - '&7&oRestaure &b&o9.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CHOCOLATE_STRAWBERRY:
   name: '&cFraise au chocolat'
+  stats:
+  - '&7&oRestaure &b&o2.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CILANTRO:
@@ -240,6 +328,8 @@ CILANTRO_BUSH:
   - '&7&oComposant'
 CLUB_SANDWICH:
   name: '&rClub sandwich'
+  stats:
+  - '&7&oRestaure &b&o9.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 COAL_ESSENCE:
@@ -256,10 +346,14 @@ COCONUT:
   - '&7&oNourriture'
 COCONUT_CHICKEN_CURRY:
   name: '&rCurry de poulet à la noix de coco'
+  stats:
+  - '&7&oRestaure &b&o9.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 COCONUT_MILK:
   name: '&6Noix de coco Lait'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 COCONUT_SAPLING:
@@ -288,6 +382,8 @@ CORN_BUSH:
   - '&7&oComposant'
 CORN_ON_THE_COB:
   name: '&6Épi de maïs'
+  stats:
+  - '&7&oRestaure &b&o4.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 COUNTRY_GRAVY:
@@ -304,18 +400,26 @@ COWBERRY_BUSH:
   - '&7&oComposant'
 COWBERRY_JELLY_SANDWICH:
   name: '&cAirelle Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 COWBERRY_JUICE:
   name: '&cAirelle Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 COWBERRY_PIE:
   name: '&cAirelle Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 COWBERRY_SMOOTHIE:
   name: '&cAirelle Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CRANBERRY:
@@ -328,26 +432,38 @@ CRANBERRY_BUSH:
   - '&7&oComposant'
 CRANBERRY_JELLY_SANDWICH:
   name: '&cCanneberge Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CRANBERRY_JUICE:
   name: '&cCanneberge Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CRANBERRY_PIE:
   name: '&cCanneberge Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 CRANBERRY_SMOOTHIE:
   name: '&cCanneberge Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CREAMED_CORN:
   name: '&rMaïs à la crème'
+  stats:
+  - '&7&oRestaure &b&o4.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CREAM_COOKIE:
   name: '&rBiscuit à la crème'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 CROOK:
@@ -364,6 +480,8 @@ CURRY_LEAF_BUSH:
   - '&7&oComposant'
 DELUXE_CHEESEBURGER:
   name: '&rCheeseburger deluxe'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 DIAMOND_ESSENCE:
@@ -388,10 +506,14 @@ DRAGON_FRUIT:
   - '&7&oNourriture'
 DRAGON_FRUIT_JUICE:
   name: '&dFruit du dragon Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 DRAGON_FRUIT_PIE:
   name: '&dFruit du dragon Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 DRAGON_FRUIT_SAPLING:
@@ -400,6 +522,8 @@ DRAGON_FRUIT_SAPLING:
   - '&7&oComposant'
 EGG_SALAD:
   name: '&rSalade d''œufs'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 ELDERBERRY:
@@ -412,18 +536,26 @@ ELDERBERRY_BUSH:
   - '&7&oComposant'
 ELDERBERRY_JELLY_SANDWICH:
   name: '&cBaie de sureau Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 ELDERBERRY_JUICE:
   name: '&cBaie de sureau Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 ELDERBERRY_PIE:
   name: '&cBaie de sureau Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 ELDERBERRY_SMOOTHIE:
   name: '&cBaie de sureau Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 EMERALD_ESSENCE:
@@ -444,14 +576,20 @@ ENDER_PLANT:
   - '&7&oMagique'
 FISH_SANDWICH:
   name: '&rSandwich au poisson'
+  stats:
+  - '&7&oRestaure &b&o5.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 FISH_TACO:
   name: '&rTaco au poisson'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 FRIES:
   name: '&rFrites'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 GARLIC:
@@ -460,6 +598,8 @@ GARLIC:
   - '&7&oNourriture'
 GARLIC_BREAD:
   name: '&rPain à l''ail'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 GARLIC_BUSH:
@@ -468,6 +608,8 @@ GARLIC_BUSH:
   - '&7&oComposant'
 GARLIC_CHEESE_BREAD:
   name: '&rPain à l''ail et au fromage'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 GLOWSTONE_ESSENCE:
@@ -496,22 +638,32 @@ GRAPE_BUSH:
   - '&7&oComposant'
 GRAPE_JELLY_SANDWICH:
   name: '&cRaisin Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 GRAPE_JUICE:
   name: '&cRaisin Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 GRAPE_PIE:
   name: '&cRaisin Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 GRAPE_SALAD:
   name: '&cSalade de raisin'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 GRAPE_SMOOTHIE:
   name: '&cRaisin Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 GRASS_SEEDS:
@@ -520,22 +672,32 @@ GRASS_SEEDS:
   - '&7&oGadget'
 GRILLED_SANDWICH:
   name: '&rSandwich grillé'
+  stats:
+  - '&7&oRestaure &b&o5.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 HAMBURGER:
   name: '&rHamburger'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 HOT_CHOCOLATE:
   name: '&6Chocolat chaud'
+  stats:
+  - '&7&oRestaure &b&o4.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 HOT_DOG:
   name: '&rHot-dog'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 ICE_CREAM:
   name: '&rCrème glacée'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 ICE_CUBE:
@@ -552,6 +714,8 @@ IRON_PLANT:
   - '&7&oMagique'
 JAMMY_DODGER:
   name: '&cJammy Dodger'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 KITCHEN:
@@ -560,6 +724,8 @@ KITCHEN:
   - '&7&oMultibloc'
 LAMINGTON:
   name: '&rLamington'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 LAPIS_ESSENCE:
@@ -572,6 +738,8 @@ LAPIS_PLANT:
   - '&7&oMagique'
 LASAGNA:
   name: '&rLasagne'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEAD_ESSENCE:
@@ -584,10 +752,14 @@ LEAD_PLANT:
   - '&7&oMagique'
 LEAFY_CHICKEN_SANDWICH:
   name: '&rSandwich au poulet et salade'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEAFY_FISH_SANDWICH:
   name: '&rSandwich au poisson et salade'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEMON:
@@ -596,18 +768,26 @@ LEMON:
   - '&7&oNourriture'
 LEMONADE:
   name: '&eLimonade'
+  stats:
+  - '&7&oRestaure &b&o4.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEMON_ICED_TEA:
   name: '&eCitron Thé glacé'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEMON_JUICE:
   name: '&eCitron Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEMON_PIE:
   name: '&eCitron Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 LEMON_SAPLING:
@@ -628,10 +808,14 @@ LIME:
   - '&7&oNourriture'
 LIME_JUICE:
   name: '&aCitron vert Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 LIME_PIE:
   name: '&aCitron vert Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 LIME_SAPLING:
@@ -640,6 +824,8 @@ LIME_SAPLING:
   - '&7&oComposant'
 LIME_SMOOTHIE:
   name: '&aCitron vert Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 MAYO:
@@ -676,10 +862,14 @@ OAK_APPLE:
   - '&7&oNourriture'
 OAK_APPLE_JUICE:
   name: '&cPomme de chêne Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 OAK_APPLE_PIE:
   name: '&cPomme de chêne Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 OAK_APPLE_SAPLING:
@@ -708,10 +898,14 @@ ORANGE:
   - '&7&oNourriture'
 ORANGE_JUICE:
   name: '&6Orange Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 ORANGE_PIE:
   name: '&6Orange Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 ORANGE_SAPLING:
@@ -720,10 +914,14 @@ ORANGE_SAPLING:
   - '&7&oComposant'
 PANCAKES:
   name: '&rCrêpes'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PAVLOVA:
   name: '&rPavlova'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PEACH:
@@ -732,14 +930,20 @@ PEACH:
   - '&7&oNourriture'
 PEACH_ICED_TEA:
   name: '&dPêche Thé glacé'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 PEACH_JUICE:
   name: '&5Pêche Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PEACH_PIE:
   name: '&5Pêche Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 PEACH_SAPLING:
@@ -752,10 +956,14 @@ PEAR:
   - '&7&oNourriture'
 PEAR_JUICE:
   name: '&aPoire Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PEAR_PIE:
   name: '&aPoire Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 PEAR_SAPLING:
@@ -764,6 +972,8 @@ PEAR_SAPLING:
   - '&7&oComposant'
 PINACOLADA:
   name: '&6Piña colada'
+  stats:
+  - '&7&oRestaure &b&o7.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PINEAPPLE:
@@ -776,10 +986,14 @@ PINEAPPLE_BUSH:
   - '&7&oComposant'
 PINEAPPLE_JUICE:
   name: '&6Ananas Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PINEAPPLE_SMOOTHIE:
   name: '&6Ananas Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PLUM:
@@ -788,10 +1002,14 @@ PLUM:
   - '&7&oNourriture'
 PLUM_JUICE:
   name: '&5Prune Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PLUM_PIE:
   name: '&5Prune Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 PLUM_SAPLING:
@@ -804,10 +1022,14 @@ POMEGRANATE:
   - '&7&oNourriture'
 POMEGRANATE_JUICE:
   name: '&4Grenade Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 POMEGRANATE_PIE:
   name: '&4Grenade Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 POMEGRANATE_SAPLING:
@@ -816,22 +1038,32 @@ POMEGRANATE_SAPLING:
   - '&7&oComposant'
 POPCORN:
   name: '&rPop-corn'
+  stats:
+  - '&7&oRestaure &b&o4.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 POTATO_SALAD:
   name: '&rSalade de pommes de terre'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PUMPKIN_BREAD:
   name: '&rPain à la citrouille'
+  stats:
+  - '&7&oRestaure &b&o4.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 PUMPKIN_CHEESECAKE:
   name: '&6Cheesecake à la citrouille'
+  stats:
+  - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 PUMPKIN_MUFFIN:
   name: '&rMuffin à la citrouille'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 QUARTZ_ESSENCE:
@@ -852,22 +1084,32 @@ RASPBERRY_BUSH:
   - '&7&oComposant'
 RASPBERRY_ICED_TEA:
   name: '&dFramboise Thé glacé'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 RASPBERRY_JELLY_SANDWICH:
   name: '&dFramboise Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 RASPBERRY_JUICE:
   name: '&dFramboise Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 RASPBERRY_PIE:
   name: '&dFramboise Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 RASPBERRY_SMOOTHIE:
   name: '&dFramboise Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 REDSTONE_ESSENCE:
@@ -888,14 +1130,20 @@ RED_BELL_PEPPER_BUSH:
   - '&7&oComposant'
 SALTY_POPCORN:
   name: '&rPop-corn &7(Salé)'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 SANDWICH:
   name: '&rSandwich'
+  stats:
+  - '&7&oRestaure &b&o9.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 SHEPARDS_PIE:
   name: '&rHachis Parmentier'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 SILVER_ESSENCE:
@@ -924,50 +1172,74 @@ STRAWBERRY_BUSH:
   - '&7&oComposant'
 STRAWBERRY_ICED_TEA:
   name: '&4Fraise Thé glacé'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 STRAWBERRY_JELLY_SANDWICH:
   name: '&4Fraise Sandwich à la confiture'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 STRAWBERRY_JUICE:
   name: '&4Fraise Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 STRAWBERRY_PIE:
   name: '&4Fraise Tarte'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 STRAWBERRY_SALAD:
   name: '&cSalade de fraises'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 STRAWBERRY_SMOOTHIE:
   name: '&4Fraise Smoothie'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 STREET_TACO:
   name: '&rTaco de rue'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 STUFFED_RED_BELL_PEPPER:
   name: '&cPoivron rouge farci'
+  stats:
+  - '&7&oRestaure &b&o7.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 SWEETENED_PEAR_CHEESECAKE:
   name: '&6Cheesecake sucré à la poire'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 SWEETENED_TEA:
   name: '&aThé sucré'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 SWEET_BERRY_PANCAKES:
   name: '&rCrêpes aux baies sucrées'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 SWEET_POPCORN:
   name: '&rPop-corn &7(Sucré)'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 SWEET_POTATO:
@@ -980,10 +1252,14 @@ SWEET_POTATO_BUSH:
   - '&7&oComposant'
 SWEET_POTATO_PIE:
   name: '&rTarte à la patate douce'
+  stats:
+  - '&7&oRestaure &b&o6.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 TACO:
   name: '&rTaco'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TEA_LEAF:
@@ -996,6 +1272,8 @@ TEA_LEAF_BUSH:
   - '&7&oComposant'
 THAI_TEA:
   name: '&6Thé thaïlandais'
+  stats:
+  - '&7&oRestaure &b&o7.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TIN_ESSENCE:
@@ -1008,18 +1286,26 @@ TIN_PLANT:
   - '&7&oMagique'
 TIRAMISU:
   name: '&rTiramisu'
+  stats:
+  - '&7&oRestaure &b&o8.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TIRAMISU_WITH_BLACKBERRIES:
   name: '&rTiramisu aux mûres'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TIRAMISU_WITH_RASPBERRIES:
   name: '&rTiramisu aux framboises'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TIRAMISU_WITH_STRAWBERRIES:
   name: '&rTiramisu aux fraises'
+  stats:
+  - '&7&oRestaure &b&o9.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TOMATO:
@@ -1032,10 +1318,14 @@ TOMATO_BUSH:
   - '&7&oComposant'
 TOMATO_JUICE:
   name: '&4Tomate Jus'
+  stats:
+  - '&7&oRestaure &b&o3.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 TOMATO_SOUP:
   name: '&4Soupe de tomate'
+  stats:
+  - '&7&oRestaure &b&o5.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 VEGETABLE_OIL:
@@ -1044,10 +1334,14 @@ VEGETABLE_OIL:
   - '&7&oComposant'
 WAFFLES:
   name: '&rGaufres'
+  stats:
+  - '&7&oRestaure &b&o6.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 WINE:
   name: '&cVin'
+  stats:
+  - '&7&oRestaure &b&o5.0 &7&ofaim'
   type:
   - '&7&oNourriture'
 YEAST:

@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMaģisks'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON:
+  stats:
+  - '&7&oAtjauno &b&o1.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_BURGER:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BAGEL:
+  stats:
+  - '&7&oAtjauno &b&o2.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oAtjauno &b&o10.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BBQ_SAUCE:
   type:
   - '&7&oSastāvdaļa'
 BISCUIT:
+  stats:
+  - '&7&oAtjauno &b&o2.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oSastāvdaļa'
 BLT:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oAtjauno &b&o4.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BROWN_SUGAR:
   type:
   - '&7&oSastāvdaļa'
 BURRITO:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oSastāvdaļa'
 CARROT_CAKE:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHEESEBURGER:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHEESECAKE:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY:
   type:
   - '&7&oĒdiens'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_SAPLING:
   type:
   - '&7&oSastāvdaļa'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oAtjauno &b&o1.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oAtjauno &b&o2.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oSastāvdaļa'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oĒdiens'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COCONUT_MILK:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oSastāvdaļa'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oAtjauno &b&o4.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COWBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CREAMED_CORN:
+  stats:
+  - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CREAM_COOKIE:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oSastāvdaļa'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oĒdiens'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oSastāvdaļa'
 EGG_SALAD:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMaģisks'
 FISH_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 FISH_TACO:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 FRIES:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GARLIC:
   type:
   - '&7&oĒdiens'
 GARLIC_BREAD:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GARLIC_BUSH:
   type:
   - '&7&oSastāvdaļa'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oSastāvdaļa'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_SALAD:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRASS_SEEDS:
   type:
   - '&7&oIerīce'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 HAMBURGER:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 HOT_DOG:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ICE_CREAM:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMaģisks'
 JAMMY_DODGER:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 KITCHEN:
   type:
   - '&7&oDaudzbloks'
 LAMINGTON:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMaģisks'
 LASAGNA:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMaģisks'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON:
   type:
   - '&7&oĒdiens'
 LEMONADE:
+  stats:
+  - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oĒdiens'
 LIME_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LIME_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LIME_SAPLING:
   type:
   - '&7&oSastāvdaļa'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oĒdiens'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oĒdiens'
 ORANGE_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ORANGE_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ORANGE_SAPLING:
   type:
   - '&7&oSastāvdaļa'
 PANCAKES:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PAVLOVA:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH:
   type:
   - '&7&oĒdiens'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oĒdiens'
 PEAR_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEAR_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEAR_SAPLING:
   type:
   - '&7&oSastāvdaļa'
 PINACOLADA:
+  stats:
+  - '&7&oAtjauno &b&o7.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oSastāvdaļa'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PLUM:
   type:
   - '&7&oĒdiens'
 PLUM_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PLUM_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oĒdiens'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oSastāvdaļa'
 POPCORN:
+  stats:
+  - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 POTATO_SALAD:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oSastāvdaļa'
 SALTY_POPCORN:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oSastāvdaļa'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STREET_TACO:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oAtjauno &b&o7.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEETENED_TEA:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEET_POPCORN:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oSastāvdaļa'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TACO:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oSastāvdaļa'
 THAI_TEA:
+  stats:
+  - '&7&oAtjauno &b&o7.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMaģisks'
 TIRAMISU:
+  stats:
+  - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oSastāvdaļa'
 TOMATO_JUICE:
+  stats:
+  - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TOMATO_SOUP:
+  stats:
+  - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 VEGETABLE_OIL:
   type:
   - '&7&oSastāvdaļa'
 WAFFLES:
+  stats:
+  - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 WINE:
+  stats:
+  - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 YEAST:

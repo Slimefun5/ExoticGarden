@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMágico'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON:
+  stats:
+  - '&7&oRestaura &b&o1.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_BURGER:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BAGEL:
+  stats:
+  - '&7&oRestaura &b&o2.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oRestaura &b&o10.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_SAUCE:
   type:
   - '&7&oComponente'
 BISCUIT:
+  stats:
+  - '&7&oRestaura &b&o2.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oComponente'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oComponente'
 BLT:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oComponente'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oRestaura &b&o4.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BROWN_SUGAR:
   type:
   - '&7&oComponente'
 BURRITO:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oComponente'
 CARROT_CAKE:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHEESEBURGER:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHEESECAKE:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY:
   type:
   - '&7&oComida'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_SAPLING:
   type:
   - '&7&oComponente'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oRestaura &b&o1.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oRestaura &b&o2.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oComponente'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oComida'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COCONUT_MILK:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oComponente'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oRestaura &b&o4.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oComponente'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oComponente'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CREAMED_CORN:
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CREAM_COOKIE:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oComponente'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oComida'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oComponente'
 EGG_SALAD:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oComponente'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMágico'
 FISH_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 FISH_TACO:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 FRIES:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GARLIC:
   type:
   - '&7&oComida'
 GARLIC_BREAD:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GARLIC_BUSH:
   type:
   - '&7&oComponente'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oComponente'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_SALAD:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRASS_SEEDS:
   type:
   - '&7&oAcessório'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 HAMBURGER:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 HOT_DOG:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ICE_CREAM:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMágico'
 JAMMY_DODGER:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 KITCHEN:
   type:
   - '&7&oMultibloco'
 LAMINGTON:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMágico'
 LASAGNA:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMágico'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON:
   type:
   - '&7&oComida'
 LEMONADE:
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oComida'
 LIME_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LIME_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LIME_SAPLING:
   type:
   - '&7&oComponente'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oComida'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oComida'
 ORANGE_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ORANGE_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 ORANGE_SAPLING:
   type:
   - '&7&oComponente'
 PANCAKES:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PAVLOVA:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH:
   type:
   - '&7&oComida'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oComida'
 PEAR_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEAR_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEAR_SAPLING:
   type:
   - '&7&oComponente'
 PINACOLADA:
+  stats:
+  - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oComponente'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM:
   type:
   - '&7&oComida'
 PLUM_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oComida'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oComponente'
 POPCORN:
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 POTATO_SALAD:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oComponente'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oComponente'
 SALTY_POPCORN:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oComponente'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STREET_TACO:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEETENED_TEA:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_POPCORN:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oComponente'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 TACO:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oComponente'
 THAI_TEA:
+  stats:
+  - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMágico'
 TIRAMISU:
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oComponente'
 TOMATO_JUICE:
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TOMATO_SOUP:
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 VEGETABLE_OIL:
   type:
   - '&7&oComponente'
 WAFFLES:
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 WINE:
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 YEAST:

@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oVarázslatos'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON:
+  stats:
+  - '&7&oHelyreállít &b&o1.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_BURGER:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BAGEL:
+  stats:
+  - '&7&oHelyreállít &b&o2.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oHelyreállít &b&o10.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BBQ_SAUCE:
   type:
   - '&7&oAlkatrész'
 BISCUIT:
+  stats:
+  - '&7&oHelyreállít &b&o2.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oAlkatrész'
 BLT:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o4.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BROWN_SUGAR:
   type:
   - '&7&oAlkatrész'
 BURRITO:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oAlkatrész'
 CARROT_CAKE:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHEESEBURGER:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHEESECAKE:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY:
   type:
   - '&7&oÉtel'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_SAPLING:
   type:
   - '&7&oAlkatrész'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oHelyreállít &b&o1.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oHelyreállít &b&o2.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oAlkatrész'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oÉtel'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COCONUT_MILK:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oAlkatrész'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oHelyreállít &b&o4.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COWBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CREAMED_CORN:
+  stats:
+  - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CREAM_COOKIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oAlkatrész'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oÉtel'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oAlkatrész'
 EGG_SALAD:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oVarázslatos'
 FISH_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 FISH_TACO:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 FRIES:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GARLIC:
   type:
   - '&7&oÉtel'
 GARLIC_BREAD:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GARLIC_BUSH:
   type:
   - '&7&oAlkatrész'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oAlkatrész'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_SALAD:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRASS_SEEDS:
   type:
   - '&7&oKütyü'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 HAMBURGER:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 HOT_DOG:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ICE_CREAM:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oVarázslatos'
 JAMMY_DODGER:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 KITCHEN:
   type:
   - '&7&oMultiblock'
 LAMINGTON:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oVarázslatos'
 LASAGNA:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oVarázslatos'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON:
   type:
   - '&7&oÉtel'
 LEMONADE:
+  stats:
+  - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oÉtel'
 LIME_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LIME_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LIME_SAPLING:
   type:
   - '&7&oAlkatrész'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oÉtel'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oÉtel'
 ORANGE_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ORANGE_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ORANGE_SAPLING:
   type:
   - '&7&oAlkatrész'
 PANCAKES:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PAVLOVA:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH:
   type:
   - '&7&oÉtel'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oÉtel'
 PEAR_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEAR_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEAR_SAPLING:
   type:
   - '&7&oAlkatrész'
 PINACOLADA:
+  stats:
+  - '&7&oHelyreállít &b&o7.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oAlkatrész'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PLUM:
   type:
   - '&7&oÉtel'
 PLUM_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PLUM_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oÉtel'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oAlkatrész'
 POPCORN:
+  stats:
+  - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 POTATO_SALAD:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oAlkatrész'
 SALTY_POPCORN:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oAlkatrész'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STREET_TACO:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oHelyreállít &b&o7.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEETENED_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEET_POPCORN:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oAlkatrész'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TACO:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oAlkatrész'
 THAI_TEA:
+  stats:
+  - '&7&oHelyreállít &b&o7.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oVarázslatos'
 TIRAMISU:
+  stats:
+  - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oAlkatrész'
 TOMATO_JUICE:
+  stats:
+  - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TOMATO_SOUP:
+  stats:
+  - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 VEGETABLE_OIL:
   type:
   - '&7&oAlkatrész'
 WAFFLES:
+  stats:
+  - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 WINE:
+  stats:
+  - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 YEAST:

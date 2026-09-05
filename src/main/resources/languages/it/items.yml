@@ -8,38 +8,56 @@ ALUMINUM_PLANT:
   - '&7&oMagico'
 APPLE_PEAR_CAKE:
   name: '&cTorta mela e pera'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BACON:
   name: '&rPancetta'
+  stats:
+  - '&7&oRipristina &b&o1.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BACON_BURGER:
   name: '&rBurger con pancetta'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BACON_CHEESEBURGER:
   name: '&rCheeseburger con pancetta'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BACON_SANDWICH:
   name: '&rPanino con pancetta'
+  stats:
+  - '&7&oRipristina &b&o9.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
   name: '&rHot dog avvolto nella pancetta e ripieno di formaggio'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BAGEL:
   name: '&rBagel'
+  stats:
+  - '&7&oRipristina &b&o2.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BBQ_BACON_WRAPPED_HOT_DOG:
   name: '&rHot dog BBQ avvolto nella pancetta'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
   name: '&rHot dog BBQ con doppia pancetta in tortilla con formaggio'
+  stats:
+  - '&7&oRipristina &b&o10.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BBQ_SAUCE:
@@ -48,10 +66,14 @@ BBQ_SAUCE:
   - '&7&oComponente'
 BISCUIT:
   name: '&6Biscotto'
+  stats:
+  - '&7&oRipristina &b&o2.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BISCUITS_GRAVY:
   name: '&rBiscotti e sugo di campagna'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLACKBERRY:
@@ -64,22 +86,32 @@ BLACKBERRY_BUSH:
   - '&7&oComponente'
 BLACKBERRY_COBBLER:
   name: '&8Cobbler di more'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLACKBERRY_JELLY_SANDWICH:
   name: '&8Mora Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLACKBERRY_JUICE:
   name: '&8Mora Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLACKBERRY_PIE:
   name: '&8Mora Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLACKBERRY_SMOOTHIE:
   name: '&8Mora Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLACK_PEPPER:
@@ -92,6 +124,8 @@ BLACK_PEPPER_BUSH:
   - '&7&oComponente'
 BLT:
   name: '&rPanino BLT'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY:
@@ -104,34 +138,50 @@ BLUEBERRY_BUSH:
   - '&7&oComponente'
 BLUEBERRY_CHEESECAKE:
   name: '&9Mirtillo Cheesecake'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY_JELLY_SANDWICH:
   name: '&9Mirtillo Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY_JUICE:
   name: '&9Mirtillo Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY_MUFFIN:
   name: '&rMuffin ai mirtilli'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY_PANCAKES:
   name: '&rFrittelle ai mirtilli'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY_PIE:
   name: '&9Mirtillo Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BLUEBERRY_SMOOTHIE:
   name: '&9Mirtillo Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BOSTON_CREAM_PIE:
   name: '&rBoston cream pie'
+  stats:
+  - '&7&oRipristina &b&o4.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BROWN_SUGAR:
@@ -140,6 +190,8 @@ BROWN_SUGAR:
   - '&7&oComponente'
 BURRITO:
   name: '&rBurrito'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CABBAGE:
@@ -152,14 +204,20 @@ CABBAGE_BUSH:
   - '&7&oComponente'
 CARROT_CAKE:
   name: '&rTorta di carote'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHEESEBURGER:
   name: '&rCheeseburger'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHEESECAKE:
   name: '&rCheesecake'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHERRY:
@@ -168,18 +226,26 @@ CHERRY:
   - '&7&oCibo'
 CHERRY_CHEESECAKE:
   name: '&cCiliegia Cheesecake'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHERRY_ICED_TEA:
   name: '&cCiliegia Tè freddo'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHERRY_JUICE:
   name: '&cCiliegia Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHERRY_PIE:
   name: '&cCiliegia Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHERRY_SAPLING:
@@ -188,46 +254,68 @@ CHERRY_SAPLING:
   - '&7&oComponente'
 CHICKEN_BURGER:
   name: '&rBurger di pollo'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHICKEN_BURRITO:
   name: '&rBurrito di pollo'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHICKEN_CHEESEBURGER:
   name: '&rCheeseburger di pollo'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHICKEN_CURRY:
   name: '&rPollo al curry'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHICKEN_POT_PIE:
   name: '&rTorta di pollo'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHICKEN_SANDWICH:
   name: '&rPanino al pollo'
+  stats:
+  - '&7&oRipristina &b&o5.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHOCOLATE_BAR:
   name: '&rTavoletta di cioccolato'
+  stats:
+  - '&7&oRipristina &b&o1.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHOCOLATE_CAKE:
   name: '&rTorta al cioccolato'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHOCOLATE_CHIP_MUFFIN:
   name: '&rMuffin con gocce di cioccolato'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHOCOLATE_PEAR_CAKE:
   name: '&rTorta al cioccolato e pera'
+  stats:
+  - '&7&oRipristina &b&o9.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CHOCOLATE_STRAWBERRY:
   name: '&cFragola al cioccolato'
+  stats:
+  - '&7&oRipristina &b&o2.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CILANTRO:
@@ -240,6 +328,8 @@ CILANTRO_BUSH:
   - '&7&oComponente'
 CLUB_SANDWICH:
   name: '&rClub sandwich'
+  stats:
+  - '&7&oRipristina &b&o9.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COAL_ESSENCE:
@@ -256,10 +346,14 @@ COCONUT:
   - '&7&oCibo'
 COCONUT_CHICKEN_CURRY:
   name: '&rPollo al curry e cocco'
+  stats:
+  - '&7&oRipristina &b&o9.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COCONUT_MILK:
   name: '&6Cocco Latte'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COCONUT_SAPLING:
@@ -288,6 +382,8 @@ CORN_BUSH:
   - '&7&oComponente'
 CORN_ON_THE_COB:
   name: '&6Pannocchia di mais'
+  stats:
+  - '&7&oRipristina &b&o4.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COUNTRY_GRAVY:
@@ -304,18 +400,26 @@ COWBERRY_BUSH:
   - '&7&oComponente'
 COWBERRY_JELLY_SANDWICH:
   name: '&cMirtillo rosso di bosco Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COWBERRY_JUICE:
   name: '&cMirtillo rosso di bosco Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COWBERRY_PIE:
   name: '&cMirtillo rosso di bosco Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 COWBERRY_SMOOTHIE:
   name: '&cMirtillo rosso di bosco Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CRANBERRY:
@@ -328,26 +432,38 @@ CRANBERRY_BUSH:
   - '&7&oComponente'
 CRANBERRY_JELLY_SANDWICH:
   name: '&cMirtillo rosso Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CRANBERRY_JUICE:
   name: '&cMirtillo rosso Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CRANBERRY_PIE:
   name: '&cMirtillo rosso Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CRANBERRY_SMOOTHIE:
   name: '&cMirtillo rosso Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CREAMED_CORN:
   name: '&rMais alla panna'
+  stats:
+  - '&7&oRipristina &b&o4.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CREAM_COOKIE:
   name: '&rBiscotto alla crema'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 CROOK:
@@ -364,6 +480,8 @@ CURRY_LEAF_BUSH:
   - '&7&oComponente'
 DELUXE_CHEESEBURGER:
   name: '&rCheeseburger deluxe'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 DIAMOND_ESSENCE:
@@ -388,10 +506,14 @@ DRAGON_FRUIT:
   - '&7&oCibo'
 DRAGON_FRUIT_JUICE:
   name: '&dFrutto del drago Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 DRAGON_FRUIT_PIE:
   name: '&dFrutto del drago Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 DRAGON_FRUIT_SAPLING:
@@ -400,6 +522,8 @@ DRAGON_FRUIT_SAPLING:
   - '&7&oComponente'
 EGG_SALAD:
   name: '&rInsalata di uova'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ELDERBERRY:
@@ -412,18 +536,26 @@ ELDERBERRY_BUSH:
   - '&7&oComponente'
 ELDERBERRY_JELLY_SANDWICH:
   name: '&cBacca di sambuco Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ELDERBERRY_JUICE:
   name: '&cBacca di sambuco Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ELDERBERRY_PIE:
   name: '&cBacca di sambuco Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ELDERBERRY_SMOOTHIE:
   name: '&cBacca di sambuco Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 EMERALD_ESSENCE:
@@ -444,14 +576,20 @@ ENDER_PLANT:
   - '&7&oMagico'
 FISH_SANDWICH:
   name: '&rPanino al pesce'
+  stats:
+  - '&7&oRipristina &b&o5.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 FISH_TACO:
   name: '&rTaco di pesce'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 FRIES:
   name: '&rPatatine fritte'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GARLIC:
@@ -460,6 +598,8 @@ GARLIC:
   - '&7&oCibo'
 GARLIC_BREAD:
   name: '&rPane all''aglio'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GARLIC_BUSH:
@@ -468,6 +608,8 @@ GARLIC_BUSH:
   - '&7&oComponente'
 GARLIC_CHEESE_BREAD:
   name: '&rPane all''aglio e formaggio'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GLOWSTONE_ESSENCE:
@@ -496,22 +638,32 @@ GRAPE_BUSH:
   - '&7&oComponente'
 GRAPE_JELLY_SANDWICH:
   name: '&cUva Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GRAPE_JUICE:
   name: '&cUva Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GRAPE_PIE:
   name: '&cUva Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GRAPE_SALAD:
   name: '&cInsalata d''uva'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GRAPE_SMOOTHIE:
   name: '&cUva Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 GRASS_SEEDS:
@@ -520,22 +672,32 @@ GRASS_SEEDS:
   - '&7&oGadget'
 GRILLED_SANDWICH:
   name: '&rPanino alla griglia'
+  stats:
+  - '&7&oRipristina &b&o5.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 HAMBURGER:
   name: '&rHamburger'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 HOT_CHOCOLATE:
   name: '&6Cioccolata calda'
+  stats:
+  - '&7&oRipristina &b&o4.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 HOT_DOG:
   name: '&rHot dog'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ICE_CREAM:
   name: '&rGelato'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ICE_CUBE:
@@ -552,6 +714,8 @@ IRON_PLANT:
   - '&7&oMagico'
 JAMMY_DODGER:
   name: '&cJammy Dodger'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 KITCHEN:
@@ -560,6 +724,8 @@ KITCHEN:
   - '&7&oMultiblocco'
 LAMINGTON:
   name: '&rLamington'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LAPIS_ESSENCE:
@@ -572,6 +738,8 @@ LAPIS_PLANT:
   - '&7&oMagico'
 LASAGNA:
   name: '&rLasagna'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEAD_ESSENCE:
@@ -584,10 +752,14 @@ LEAD_PLANT:
   - '&7&oMagico'
 LEAFY_CHICKEN_SANDWICH:
   name: '&rPanino al pollo con lattuga'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEAFY_FISH_SANDWICH:
   name: '&rPanino al pesce con lattuga'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEMON:
@@ -596,18 +768,26 @@ LEMON:
   - '&7&oCibo'
 LEMONADE:
   name: '&eLimonata'
+  stats:
+  - '&7&oRipristina &b&o4.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEMON_ICED_TEA:
   name: '&eLimone Tè freddo'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEMON_JUICE:
   name: '&eLimone Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEMON_PIE:
   name: '&eLimone Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LEMON_SAPLING:
@@ -628,10 +808,14 @@ LIME:
   - '&7&oCibo'
 LIME_JUICE:
   name: '&aLime Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LIME_PIE:
   name: '&aLime Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 LIME_SAPLING:
@@ -640,6 +824,8 @@ LIME_SAPLING:
   - '&7&oComponente'
 LIME_SMOOTHIE:
   name: '&aLime Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 MAYO:
@@ -676,10 +862,14 @@ OAK_APPLE:
   - '&7&oCibo'
 OAK_APPLE_JUICE:
   name: '&cMela di quercia Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 OAK_APPLE_PIE:
   name: '&cMela di quercia Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 OAK_APPLE_SAPLING:
@@ -708,10 +898,14 @@ ORANGE:
   - '&7&oCibo'
 ORANGE_JUICE:
   name: '&6Arancia Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ORANGE_PIE:
   name: '&6Arancia Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 ORANGE_SAPLING:
@@ -720,10 +914,14 @@ ORANGE_SAPLING:
   - '&7&oComponente'
 PANCAKES:
   name: '&rFrittelle'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PAVLOVA:
   name: '&rPavlova'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PEACH:
@@ -732,14 +930,20 @@ PEACH:
   - '&7&oCibo'
 PEACH_ICED_TEA:
   name: '&dPesca Tè freddo'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PEACH_JUICE:
   name: '&5Pesca Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PEACH_PIE:
   name: '&5Pesca Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PEACH_SAPLING:
@@ -752,10 +956,14 @@ PEAR:
   - '&7&oCibo'
 PEAR_JUICE:
   name: '&aPera Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PEAR_PIE:
   name: '&aPera Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PEAR_SAPLING:
@@ -764,6 +972,8 @@ PEAR_SAPLING:
   - '&7&oComponente'
 PINACOLADA:
   name: '&6Piña colada'
+  stats:
+  - '&7&oRipristina &b&o7.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PINEAPPLE:
@@ -776,10 +986,14 @@ PINEAPPLE_BUSH:
   - '&7&oComponente'
 PINEAPPLE_JUICE:
   name: '&6Ananas Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PINEAPPLE_SMOOTHIE:
   name: '&6Ananas Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PLUM:
@@ -788,10 +1002,14 @@ PLUM:
   - '&7&oCibo'
 PLUM_JUICE:
   name: '&5Prugna Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PLUM_PIE:
   name: '&5Prugna Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PLUM_SAPLING:
@@ -804,10 +1022,14 @@ POMEGRANATE:
   - '&7&oCibo'
 POMEGRANATE_JUICE:
   name: '&4Melagrana Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 POMEGRANATE_PIE:
   name: '&4Melagrana Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 POMEGRANATE_SAPLING:
@@ -816,22 +1038,32 @@ POMEGRANATE_SAPLING:
   - '&7&oComponente'
 POPCORN:
   name: '&rPopcorn'
+  stats:
+  - '&7&oRipristina &b&o4.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 POTATO_SALAD:
   name: '&rInsalata di patate'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PUMPKIN_BREAD:
   name: '&rPane alla zucca'
+  stats:
+  - '&7&oRipristina &b&o4.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PUMPKIN_CHEESECAKE:
   name: '&6Cheesecake alla zucca'
+  stats:
+  - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 PUMPKIN_MUFFIN:
   name: '&rMuffin alla zucca'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 QUARTZ_ESSENCE:
@@ -852,22 +1084,32 @@ RASPBERRY_BUSH:
   - '&7&oComponente'
 RASPBERRY_ICED_TEA:
   name: '&dLampone Tè freddo'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 RASPBERRY_JELLY_SANDWICH:
   name: '&dLampone Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 RASPBERRY_JUICE:
   name: '&dLampone Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 RASPBERRY_PIE:
   name: '&dLampone Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 RASPBERRY_SMOOTHIE:
   name: '&dLampone Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 REDSTONE_ESSENCE:
@@ -888,14 +1130,20 @@ RED_BELL_PEPPER_BUSH:
   - '&7&oComponente'
 SALTY_POPCORN:
   name: '&rPopcorn &7(Salato)'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SANDWICH:
   name: '&rPanino'
+  stats:
+  - '&7&oRipristina &b&o9.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SHEPARDS_PIE:
   name: '&rShepherd''s pie'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SILVER_ESSENCE:
@@ -924,50 +1172,74 @@ STRAWBERRY_BUSH:
   - '&7&oComponente'
 STRAWBERRY_ICED_TEA:
   name: '&4Fragola Tè freddo'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STRAWBERRY_JELLY_SANDWICH:
   name: '&4Fragola Panino alla marmellata'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STRAWBERRY_JUICE:
   name: '&4Fragola Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STRAWBERRY_PIE:
   name: '&4Fragola Torta'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STRAWBERRY_SALAD:
   name: '&cInsalata di fragole'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STRAWBERRY_SMOOTHIE:
   name: '&4Fragola Frullato'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STREET_TACO:
   name: '&rTaco di strada'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 STUFFED_RED_BELL_PEPPER:
   name: '&cPeperone rosso ripieno'
+  stats:
+  - '&7&oRipristina &b&o7.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SWEETENED_PEAR_CHEESECAKE:
   name: '&6Cheesecake dolce alla pera'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SWEETENED_TEA:
   name: '&aTè dolce'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SWEET_BERRY_PANCAKES:
   name: '&rFrittelle ai frutti di bosco dolci'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SWEET_POPCORN:
   name: '&rPopcorn &7(Dolce)'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 SWEET_POTATO:
@@ -980,10 +1252,14 @@ SWEET_POTATO_BUSH:
   - '&7&oComponente'
 SWEET_POTATO_PIE:
   name: '&rTorta di patate dolci'
+  stats:
+  - '&7&oRipristina &b&o6.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TACO:
   name: '&rTaco'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TEA_LEAF:
@@ -996,6 +1272,8 @@ TEA_LEAF_BUSH:
   - '&7&oComponente'
 THAI_TEA:
   name: '&6Tè thailandese'
+  stats:
+  - '&7&oRipristina &b&o7.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TIN_ESSENCE:
@@ -1008,18 +1286,26 @@ TIN_PLANT:
   - '&7&oMagico'
 TIRAMISU:
   name: '&rTiramisù'
+  stats:
+  - '&7&oRipristina &b&o8.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TIRAMISU_WITH_BLACKBERRIES:
   name: '&rTiramisù con more'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TIRAMISU_WITH_RASPBERRIES:
   name: '&rTiramisù con lamponi'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TIRAMISU_WITH_STRAWBERRIES:
   name: '&rTiramisù con fragole'
+  stats:
+  - '&7&oRipristina &b&o9.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TOMATO:
@@ -1032,10 +1318,14 @@ TOMATO_BUSH:
   - '&7&oComponente'
 TOMATO_JUICE:
   name: '&4Pomodoro Succo'
+  stats:
+  - '&7&oRipristina &b&o3.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 TOMATO_SOUP:
   name: '&4Zuppa di pomodoro'
+  stats:
+  - '&7&oRipristina &b&o5.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 VEGETABLE_OIL:
@@ -1044,10 +1334,14 @@ VEGETABLE_OIL:
   - '&7&oComponente'
 WAFFLES:
   name: '&rWaffle'
+  stats:
+  - '&7&oRipristina &b&o6.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 WINE:
   name: '&cVino'
+  stats:
+  - '&7&oRipristina &b&o5.0 &7&opunti Fame'
   type:
   - '&7&oCibo'
 YEAST:

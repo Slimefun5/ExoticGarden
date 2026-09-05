@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oMaaginen'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON:
+  stats:
+  - '&7&oPalauttaa &b&o1.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_BURGER:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BAGEL:
+  stats:
+  - '&7&oPalauttaa &b&o2.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oPalauttaa &b&o10.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BBQ_SAUCE:
   type:
   - '&7&oKomponentti'
 BISCUIT:
+  stats:
+  - '&7&oPalauttaa &b&o2.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponentti'
 BLT:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o4.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BROWN_SUGAR:
   type:
   - '&7&oKomponentti'
 BURRITO:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oKomponentti'
 CARROT_CAKE:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHEESEBURGER:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHEESECAKE:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY:
   type:
   - '&7&oRuoka'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_SAPLING:
   type:
   - '&7&oKomponentti'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oPalauttaa &b&o1.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oPalauttaa &b&o2.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oKomponentti'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oRuoka'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COCONUT_MILK:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oKomponentti'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oPalauttaa &b&o4.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 COWBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CREAMED_CORN:
+  stats:
+  - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CREAM_COOKIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oKomponentti'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oRuoka'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oKomponentti'
 EGG_SALAD:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oMaaginen'
 FISH_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 FISH_TACO:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 FRIES:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GARLIC:
   type:
   - '&7&oRuoka'
 GARLIC_BREAD:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GARLIC_BUSH:
   type:
   - '&7&oKomponentti'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oKomponentti'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_SALAD:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRASS_SEEDS:
   type:
   - '&7&oGadgetti'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 HAMBURGER:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 HOT_DOG:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ICE_CREAM:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oMaaginen'
 JAMMY_DODGER:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 KITCHEN:
   type:
   - '&7&oMultiblokki'
 LAMINGTON:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oMaaginen'
 LASAGNA:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oMaaginen'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON:
   type:
   - '&7&oRuoka'
 LEMONADE:
+  stats:
+  - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oRuoka'
 LIME_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LIME_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LIME_SAPLING:
   type:
   - '&7&oKomponentti'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oRuoka'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oRuoka'
 ORANGE_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ORANGE_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 ORANGE_SAPLING:
   type:
   - '&7&oKomponentti'
 PANCAKES:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PAVLOVA:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH:
   type:
   - '&7&oRuoka'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oRuoka'
 PEAR_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEAR_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEAR_SAPLING:
   type:
   - '&7&oKomponentti'
 PINACOLADA:
+  stats:
+  - '&7&oPalauttaa &b&o7.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oKomponentti'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PLUM:
   type:
   - '&7&oRuoka'
 PLUM_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PLUM_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oRuoka'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oKomponentti'
 POPCORN:
+  stats:
+  - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 POTATO_SALAD:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oKomponentti'
 SALTY_POPCORN:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oKomponentti'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STREET_TACO:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oPalauttaa &b&o7.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEETENED_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEET_POPCORN:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oKomponentti'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 TACO:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oKomponentti'
 THAI_TEA:
+  stats:
+  - '&7&oPalauttaa &b&o7.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oMaaginen'
 TIRAMISU:
+  stats:
+  - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oKomponentti'
 TOMATO_JUICE:
+  stats:
+  - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TOMATO_SOUP:
+  stats:
+  - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 VEGETABLE_OIL:
   type:
   - '&7&oKomponentti'
 WAFFLES:
+  stats:
+  - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 WINE:
+  stats:
+  - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 YEAST:

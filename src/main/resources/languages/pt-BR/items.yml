@@ -8,38 +8,56 @@ ALUMINUM_PLANT:
   - '&7&oMágico'
 APPLE_PEAR_CAKE:
   name: '&cBolo de Maçã e Pera'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON:
   name: '&rBacon'
+  stats:
+  - '&7&oRestaura &b&o1.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_BURGER:
   name: '&rHambúrguer de Bacon'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_CHEESEBURGER:
   name: '&rCheeseburger com Bacon'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_SANDWICH:
   name: '&rSanduíche de Bacon'
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
   name: '&rCachorro-quente Enrolado em Bacon e Recheado com Queijo'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BAGEL:
   name: '&rBagel'
+  stats:
+  - '&7&oRestaura &b&o2.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_BACON_WRAPPED_HOT_DOG:
   name: '&rCachorro-quente BBQ Enrolado em Bacon'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
   name: '&rCachorro-quente BBQ com Bacon Duplo em Tortilha com Queijo'
+  stats:
+  - '&7&oRestaura &b&o10.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_SAUCE:
@@ -48,10 +66,14 @@ BBQ_SAUCE:
   - '&7&oComponente'
 BISCUIT:
   name: '&6Biscoito'
+  stats:
+  - '&7&oRestaura &b&o2.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BISCUITS_GRAVY:
   name: '&rBiscoitos com Molho Caseiro'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY:
@@ -64,22 +86,32 @@ BLACKBERRY_BUSH:
   - '&7&oComponente'
 BLACKBERRY_COBBLER:
   name: '&8Cobbler de Amora'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_JELLY_SANDWICH:
   name: '&8Amora Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_JUICE:
   name: '&8Amora Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_PIE:
   name: '&8Amora Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_SMOOTHIE:
   name: '&8Amora Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACK_PEPPER:
@@ -92,6 +124,8 @@ BLACK_PEPPER_BUSH:
   - '&7&oComponente'
 BLT:
   name: '&rSanduíche BLT'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY:
@@ -104,34 +138,50 @@ BLUEBERRY_BUSH:
   - '&7&oComponente'
 BLUEBERRY_CHEESECAKE:
   name: '&9Mirtilo Cheesecake'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_JELLY_SANDWICH:
   name: '&9Mirtilo Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_JUICE:
   name: '&9Mirtilo Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_MUFFIN:
   name: '&rMuffin de Mirtilo'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_PANCAKES:
   name: '&rPanquecas de Mirtilo'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_PIE:
   name: '&9Mirtilo Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_SMOOTHIE:
   name: '&9Mirtilo Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BOSTON_CREAM_PIE:
   name: '&rBoston Cream Pie'
+  stats:
+  - '&7&oRestaura &b&o4.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BROWN_SUGAR:
@@ -140,6 +190,8 @@ BROWN_SUGAR:
   - '&7&oComponente'
 BURRITO:
   name: '&rBurrito'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CABBAGE:
@@ -152,14 +204,20 @@ CABBAGE_BUSH:
   - '&7&oComponente'
 CARROT_CAKE:
   name: '&rBolo de Cenoura'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHEESEBURGER:
   name: '&rCheeseburger'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHEESECAKE:
   name: '&rCheesecake'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY:
@@ -168,18 +226,26 @@ CHERRY:
   - '&7&oComida'
 CHERRY_CHEESECAKE:
   name: '&cCereja Cheesecake'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_ICED_TEA:
   name: '&cCereja Chá Gelado'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_JUICE:
   name: '&cCereja Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_PIE:
   name: '&cCereja Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_SAPLING:
@@ -188,46 +254,68 @@ CHERRY_SAPLING:
   - '&7&oComponente'
 CHICKEN_BURGER:
   name: '&rHambúrguer de Frango'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_BURRITO:
   name: '&rBurrito de Frango'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_CHEESEBURGER:
   name: '&rCheeseburger de Frango'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_CURRY:
   name: '&rFrango ao Curry'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_POT_PIE:
   name: '&rTorta de Frango'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_SANDWICH:
   name: '&rSanduíche de Frango'
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_BAR:
   name: '&rBarra de Chocolate'
+  stats:
+  - '&7&oRestaura &b&o1.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_CAKE:
   name: '&rBolo de Chocolate'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_CHIP_MUFFIN:
   name: '&rMuffin de Gotas de Chocolate'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_PEAR_CAKE:
   name: '&rBolo de Chocolate e Pera'
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_STRAWBERRY:
   name: '&cMorango com Chocolate'
+  stats:
+  - '&7&oRestaura &b&o2.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CILANTRO:
@@ -240,6 +328,8 @@ CILANTRO_BUSH:
   - '&7&oComponente'
 CLUB_SANDWICH:
   name: '&rSanduíche Clube'
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COAL_ESSENCE:
@@ -256,10 +346,14 @@ COCONUT:
   - '&7&oComida'
 COCONUT_CHICKEN_CURRY:
   name: '&rFrango ao Curry com Coco'
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COCONUT_MILK:
   name: '&6Coco Leite'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COCONUT_SAPLING:
@@ -288,6 +382,8 @@ CORN_BUSH:
   - '&7&oComponente'
 CORN_ON_THE_COB:
   name: '&6Espiga de Milho'
+  stats:
+  - '&7&oRestaura &b&o4.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COUNTRY_GRAVY:
@@ -304,18 +400,26 @@ COWBERRY_BUSH:
   - '&7&oComponente'
 COWBERRY_JELLY_SANDWICH:
   name: '&cUva-do-monte Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_JUICE:
   name: '&cUva-do-monte Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_PIE:
   name: '&cUva-do-monte Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_SMOOTHIE:
   name: '&cUva-do-monte Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY:
@@ -328,26 +432,38 @@ CRANBERRY_BUSH:
   - '&7&oComponente'
 CRANBERRY_JELLY_SANDWICH:
   name: '&cCranberry Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_JUICE:
   name: '&cCranberry Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_PIE:
   name: '&cCranberry Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_SMOOTHIE:
   name: '&cCranberry Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CREAMED_CORN:
   name: '&rMilho Cremoso'
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CREAM_COOKIE:
   name: '&rBiscoito de Creme'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CROOK:
@@ -364,6 +480,8 @@ CURRY_LEAF_BUSH:
   - '&7&oComponente'
 DELUXE_CHEESEBURGER:
   name: '&rCheeseburger Deluxe'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 DIAMOND_ESSENCE:
@@ -388,10 +506,14 @@ DRAGON_FRUIT:
   - '&7&oComida'
 DRAGON_FRUIT_JUICE:
   name: '&dFruta do Dragão Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_PIE:
   name: '&dFruta do Dragão Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_SAPLING:
@@ -400,6 +522,8 @@ DRAGON_FRUIT_SAPLING:
   - '&7&oComponente'
 EGG_SALAD:
   name: '&rSalada de Ovo'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY:
@@ -412,18 +536,26 @@ ELDERBERRY_BUSH:
   - '&7&oComponente'
 ELDERBERRY_JELLY_SANDWICH:
   name: '&cSabugueiro Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_JUICE:
   name: '&cSabugueiro Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_PIE:
   name: '&cSabugueiro Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_SMOOTHIE:
   name: '&cSabugueiro Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 EMERALD_ESSENCE:
@@ -444,14 +576,20 @@ ENDER_PLANT:
   - '&7&oMágico'
 FISH_SANDWICH:
   name: '&rSanduíche de Peixe'
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 FISH_TACO:
   name: '&rTaco de Peixe'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 FRIES:
   name: '&rBatata Frita'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GARLIC:
@@ -460,6 +598,8 @@ GARLIC:
   - '&7&oComida'
 GARLIC_BREAD:
   name: '&rPão de Alho'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GARLIC_BUSH:
@@ -468,6 +608,8 @@ GARLIC_BUSH:
   - '&7&oComponente'
 GARLIC_CHEESE_BREAD:
   name: '&rPão de Alho com Queijo'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 GLOWSTONE_ESSENCE:
@@ -496,22 +638,32 @@ GRAPE_BUSH:
   - '&7&oComponente'
 GRAPE_JELLY_SANDWICH:
   name: '&cUva Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_JUICE:
   name: '&cUva Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_PIE:
   name: '&cUva Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_SALAD:
   name: '&cSalada de Uva'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_SMOOTHIE:
   name: '&cUva Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRASS_SEEDS:
@@ -520,22 +672,32 @@ GRASS_SEEDS:
   - '&7&oUtensílio'
 GRILLED_SANDWICH:
   name: '&rSanduíche Grelhado'
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 HAMBURGER:
   name: '&rHambúrguer'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 HOT_CHOCOLATE:
   name: '&6Chocolate Quente'
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 HOT_DOG:
   name: '&rCachorro-quente'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ICE_CREAM:
   name: '&rSorvete'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ICE_CUBE:
@@ -552,6 +714,8 @@ IRON_PLANT:
   - '&7&oMágico'
 JAMMY_DODGER:
   name: '&cJammy Dodger'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 KITCHEN:
@@ -560,6 +724,8 @@ KITCHEN:
   - '&7&oMultibloco'
 LAMINGTON:
   name: '&rLamington'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LAPIS_ESSENCE:
@@ -572,6 +738,8 @@ LAPIS_PLANT:
   - '&7&oMágico'
 LASAGNA:
   name: '&rLasanha'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEAD_ESSENCE:
@@ -584,10 +752,14 @@ LEAD_PLANT:
   - '&7&oMágico'
 LEAFY_CHICKEN_SANDWICH:
   name: '&rSanduíche de Frango com Alface'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEAFY_FISH_SANDWICH:
   name: '&rSanduíche de Peixe com Alface'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON:
@@ -596,18 +768,26 @@ LEMON:
   - '&7&oComida'
 LEMONADE:
   name: '&eLimonada'
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_ICED_TEA:
   name: '&eLimão Chá Gelado'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_JUICE:
   name: '&eLimão Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_PIE:
   name: '&eLimão Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_SAPLING:
@@ -628,10 +808,14 @@ LIME:
   - '&7&oComida'
 LIME_JUICE:
   name: '&aLimão-taiti Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LIME_PIE:
   name: '&aLimão-taiti Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LIME_SAPLING:
@@ -640,6 +824,8 @@ LIME_SAPLING:
   - '&7&oComponente'
 LIME_SMOOTHIE:
   name: '&aLimão-taiti Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 MAYO:
@@ -676,10 +862,14 @@ OAK_APPLE:
   - '&7&oComida'
 OAK_APPLE_JUICE:
   name: '&cMaçã de Carvalho Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 OAK_APPLE_PIE:
   name: '&cMaçã de Carvalho Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 OAK_APPLE_SAPLING:
@@ -708,10 +898,14 @@ ORANGE:
   - '&7&oComida'
 ORANGE_JUICE:
   name: '&6Laranja Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ORANGE_PIE:
   name: '&6Laranja Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 ORANGE_SAPLING:
@@ -720,10 +914,14 @@ ORANGE_SAPLING:
   - '&7&oComponente'
 PANCAKES:
   name: '&rPanquecas'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PAVLOVA:
   name: '&rPavlova'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH:
@@ -732,14 +930,20 @@ PEACH:
   - '&7&oComida'
 PEACH_ICED_TEA:
   name: '&dPêssego Chá Gelado'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_JUICE:
   name: '&5Pêssego Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_PIE:
   name: '&5Pêssego Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_SAPLING:
@@ -752,10 +956,14 @@ PEAR:
   - '&7&oComida'
 PEAR_JUICE:
   name: '&aPera Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEAR_PIE:
   name: '&aPera Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEAR_SAPLING:
@@ -764,6 +972,8 @@ PEAR_SAPLING:
   - '&7&oComponente'
 PINACOLADA:
   name: '&6Piña Colada'
+  stats:
+  - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PINEAPPLE:
@@ -776,10 +986,14 @@ PINEAPPLE_BUSH:
   - '&7&oComponente'
 PINEAPPLE_JUICE:
   name: '&6Abacaxi Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PINEAPPLE_SMOOTHIE:
   name: '&6Abacaxi Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM:
@@ -788,10 +1002,14 @@ PLUM:
   - '&7&oComida'
 PLUM_JUICE:
   name: '&5Ameixa Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM_PIE:
   name: '&5Ameixa Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM_SAPLING:
@@ -804,10 +1022,14 @@ POMEGRANATE:
   - '&7&oComida'
 POMEGRANATE_JUICE:
   name: '&4Romã Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 POMEGRANATE_PIE:
   name: '&4Romã Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 POMEGRANATE_SAPLING:
@@ -816,22 +1038,32 @@ POMEGRANATE_SAPLING:
   - '&7&oComponente'
 POPCORN:
   name: '&rPipoca'
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 POTATO_SALAD:
   name: '&rSalada de Batata'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_BREAD:
   name: '&rPão de Abóbora'
+  stats:
+  - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_CHEESECAKE:
   name: '&6Cheesecake de Abóbora'
+  stats:
+  - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_MUFFIN:
   name: '&rMuffin de Abóbora'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 QUARTZ_ESSENCE:
@@ -852,22 +1084,32 @@ RASPBERRY_BUSH:
   - '&7&oComponente'
 RASPBERRY_ICED_TEA:
   name: '&dFramboesa Chá Gelado'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_JELLY_SANDWICH:
   name: '&dFramboesa Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_JUICE:
   name: '&dFramboesa Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_PIE:
   name: '&dFramboesa Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_SMOOTHIE:
   name: '&dFramboesa Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 REDSTONE_ESSENCE:
@@ -888,14 +1130,20 @@ RED_BELL_PEPPER_BUSH:
   - '&7&oComponente'
 SALTY_POPCORN:
   name: '&rPipoca &7(Salgada)'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SANDWICH:
   name: '&rSanduíche'
+  stats:
+  - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 SHEPARDS_PIE:
   name: '&rTorta do Pastor'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SILVER_ESSENCE:
@@ -924,50 +1172,74 @@ STRAWBERRY_BUSH:
   - '&7&oComponente'
 STRAWBERRY_ICED_TEA:
   name: '&4Morango Chá Gelado'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_JELLY_SANDWICH:
   name: '&4Morango Sanduíche de Geleia'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_JUICE:
   name: '&4Morango Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_PIE:
   name: '&4Morango Torta'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_SALAD:
   name: '&cSalada de Morango'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_SMOOTHIE:
   name: '&4Morango Smoothie'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STREET_TACO:
   name: '&rTaco de Rua'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STUFFED_RED_BELL_PEPPER:
   name: '&cPimentão Vermelho Recheado'
+  stats:
+  - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEETENED_PEAR_CHEESECAKE:
   name: '&6Cheesecake Doce de Pera'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEETENED_TEA:
   name: '&aChá Doce'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_BERRY_PANCAKES:
   name: '&rPanquecas de Frutas Doces'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_POPCORN:
   name: '&rPipoca &7(Doce)'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_POTATO:
@@ -980,10 +1252,14 @@ SWEET_POTATO_BUSH:
   - '&7&oComponente'
 SWEET_POTATO_PIE:
   name: '&rTorta de Batata-doce'
+  stats:
+  - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 TACO:
   name: '&rTaco'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TEA_LEAF:
@@ -996,6 +1272,8 @@ TEA_LEAF_BUSH:
   - '&7&oComponente'
 THAI_TEA:
   name: '&6Chá Tailandês'
+  stats:
+  - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIN_ESSENCE:
@@ -1008,18 +1286,26 @@ TIN_PLANT:
   - '&7&oMágico'
 TIRAMISU:
   name: '&rTiramisù'
+  stats:
+  - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_BLACKBERRIES:
   name: '&rTiramisù com Amoras'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_RASPBERRIES:
   name: '&rTiramisù com Framboesas'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_STRAWBERRIES:
   name: '&rTiramisù com Morangos'
+  stats:
+  - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TOMATO:
@@ -1032,10 +1318,14 @@ TOMATO_BUSH:
   - '&7&oComponente'
 TOMATO_JUICE:
   name: '&4Tomate Suco'
+  stats:
+  - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TOMATO_SOUP:
   name: '&4Sopa de Tomate'
+  stats:
+  - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 VEGETABLE_OIL:
@@ -1044,10 +1334,14 @@ VEGETABLE_OIL:
   - '&7&oComponente'
 WAFFLES:
   name: '&rWaffles'
+  stats:
+  - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 WINE:
   name: '&cVinho'
+  stats:
+  - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 YEAST:

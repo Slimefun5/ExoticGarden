@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oΜαγικό'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BACON:
+  stats:
+  - '&7&oΑποκαθιστά &b&o1.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BACON_BURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BACON_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BAGEL:
+  stats:
+  - '&7&oΑποκαθιστά &b&o2.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o10.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BBQ_SAUCE:
   type:
   - '&7&oΕξάρτημα'
 BISCUIT:
+  stats:
+  - '&7&oΑποκαθιστά &b&o2.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oΕξάρτημα'
 BLT:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 BROWN_SUGAR:
   type:
   - '&7&oΕξάρτημα'
 BURRITO:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oΕξάρτημα'
 CARROT_CAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHEESEBURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHEESECAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHERRY:
   type:
   - '&7&oΦαγητό'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHERRY_SAPLING:
   type:
   - '&7&oΕξάρτημα'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oΑποκαθιστά &b&o1.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oΑποκαθιστά &b&o2.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oΕξάρτημα'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oΦαγητό'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COCONUT_MILK:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oΕξάρτημα'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COWBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CREAMED_CORN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CREAM_COOKIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oΕξάρτημα'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oΦαγητό'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oΕξάρτημα'
 EGG_SALAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oΜαγικό'
 FISH_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 FISH_TACO:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 FRIES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GARLIC:
   type:
   - '&7&oΦαγητό'
 GARLIC_BREAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GARLIC_BUSH:
   type:
   - '&7&oΕξάρτημα'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oΕξάρτημα'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GRAPE_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GRAPE_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GRAPE_SALAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 GRASS_SEEDS:
   type:
   - '&7&oΣυσκευή'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 HAMBURGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 HOT_DOG:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ICE_CREAM:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oΜαγικό'
 JAMMY_DODGER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 KITCHEN:
   type:
   - '&7&oΠολυμπλόκ'
 LAMINGTON:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oΜαγικό'
 LASAGNA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oΜαγικό'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEMON:
   type:
   - '&7&oΦαγητό'
 LEMONADE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEMON_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEMON_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oΦαγητό'
 LIME_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LIME_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 LIME_SAPLING:
   type:
   - '&7&oΕξάρτημα'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oΦαγητό'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oΦαγητό'
 ORANGE_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ORANGE_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 ORANGE_SAPLING:
   type:
   - '&7&oΕξάρτημα'
 PANCAKES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PAVLOVA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PEACH:
   type:
   - '&7&oΦαγητό'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PEACH_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PEACH_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oΦαγητό'
 PEAR_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PEAR_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PEAR_SAPLING:
   type:
   - '&7&oΕξάρτημα'
 PINACOLADA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o7.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oΕξάρτημα'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PLUM:
   type:
   - '&7&oΦαγητό'
 PLUM_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PLUM_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oΦαγητό'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oΕξάρτημα'
 POPCORN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 POTATO_SALAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o4.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oΕξάρτημα'
 SALTY_POPCORN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oΕξάρτημα'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STREET_TACO:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oΑποκαθιστά &b&o7.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SWEETENED_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SWEET_POPCORN:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oΕξάρτημα'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TACO:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oΕξάρτημα'
 THAI_TEA:
+  stats:
+  - '&7&oΑποκαθιστά &b&o7.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oΜαγικό'
 TIRAMISU:
+  stats:
+  - '&7&oΑποκαθιστά &b&o8.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o9.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oΕξάρτημα'
 TOMATO_JUICE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o3.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 TOMATO_SOUP:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.5 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 VEGETABLE_OIL:
   type:
   - '&7&oΕξάρτημα'
 WAFFLES:
+  stats:
+  - '&7&oΑποκαθιστά &b&o6.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 WINE:
+  stats:
+  - '&7&oΑποκαθιστά &b&o5.0 &7&oΠείνα'
   type:
   - '&7&oΦαγητό'
 YEAST:

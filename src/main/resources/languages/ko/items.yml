@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&o마법'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 BACON:
+  stats:
+  - '&7&o허기를 &b&o1.5&7&o 회복'
   type:
   - '&7&o음식'
 BACON_BURGER:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BACON_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BAGEL:
+  stats:
+  - '&7&o허기를 &b&o2.0&7&o 회복'
   type:
   - '&7&o음식'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&o허기를 &b&o10.0&7&o 회복'
   type:
   - '&7&o음식'
 BBQ_SAUCE:
   type:
   - '&7&o부품'
 BISCUIT:
+  stats:
+  - '&7&o허기를 &b&o2.0&7&o 회복'
   type:
   - '&7&o음식'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&o부품'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&o부품'
 BLT:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&o부품'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&o허기를 &b&o4.5&7&o 회복'
   type:
   - '&7&o음식'
 BROWN_SUGAR:
   type:
   - '&7&o부품'
 BURRITO:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&o부품'
 CARROT_CAKE:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 CHEESEBURGER:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHEESECAKE:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY:
   type:
   - '&7&o음식'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_SAPLING:
   type:
   - '&7&o부품'
 CHICKEN_BURGER:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_CURRY:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&o허기를 &b&o1.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&o허기를 &b&o2.5&7&o 회복'
   type:
   - '&7&o음식'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&o부품'
 CLUB_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&o음식'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 COCONUT_MILK:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&o부품'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&o허기를 &b&o4.5&7&o 회복'
   type:
   - '&7&o음식'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&o부품'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 COWBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 COWBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&o부품'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 CREAMED_CORN:
+  stats:
+  - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 CREAM_COOKIE:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&o부품'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&o음식'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&o부품'
 EGG_SALAD:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&o부품'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&o마법'
 FISH_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 FISH_TACO:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 FRIES:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 GARLIC:
   type:
   - '&7&o음식'
 GARLIC_BREAD:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 GARLIC_BUSH:
   type:
   - '&7&o부품'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&o부품'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_SALAD:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 GRASS_SEEDS:
   type:
   - '&7&o장치'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 HAMBURGER:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 HOT_DOG:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 ICE_CREAM:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&o마법'
 JAMMY_DODGER:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 KITCHEN:
   type:
   - '&7&o멀티블록'
 LAMINGTON:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&o마법'
 LASAGNA:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&o마법'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEMON:
   type:
   - '&7&o음식'
 LEMONADE:
+  stats:
+  - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&o음식'
 LIME_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 LIME_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LIME_SAPLING:
   type:
   - '&7&o부품'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&o음식'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&o음식'
 ORANGE_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 ORANGE_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 ORANGE_SAPLING:
   type:
   - '&7&o부품'
 PANCAKES:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 PAVLOVA:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 PEACH:
   type:
   - '&7&o음식'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PEACH_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PEACH_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&o음식'
 PEAR_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PEAR_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PEAR_SAPLING:
   type:
   - '&7&o부품'
 PINACOLADA:
+  stats:
+  - '&7&o허기를 &b&o7.0&7&o 회복'
   type:
   - '&7&o음식'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&o부품'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 PLUM:
   type:
   - '&7&o음식'
 PLUM_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PLUM_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&o음식'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 POMEGRANATE_SAPLING:
   type:
   - '&7&o부품'
 POPCORN:
+  stats:
+  - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 POTATO_SALAD:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&o부품'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&o부품'
 SALTY_POPCORN:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 SHEPARDS_PIE:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&o부품'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 STREET_TACO:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&o허기를 &b&o7.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEETENED_TEA:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 SWEET_POPCORN:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&o부품'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 TACO:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&o부품'
 THAI_TEA:
+  stats:
+  - '&7&o허기를 &b&o7.0&7&o 회복'
   type:
   - '&7&o음식'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&o마법'
 TIRAMISU:
+  stats:
+  - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&o부품'
 TOMATO_JUICE:
+  stats:
+  - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 TOMATO_SOUP:
+  stats:
+  - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 VEGETABLE_OIL:
   type:
   - '&7&o부품'
 WAFFLES:
+  stats:
+  - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 WINE:
+  stats:
+  - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 YEAST:

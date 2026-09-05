@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oSihir'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BACON:
+  stats:
+  - '&7&oMemulihkan &b&o1.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BACON_BURGER:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BACON_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o9.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BAGEL:
+  stats:
+  - '&7&oMemulihkan &b&o2.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oMemulihkan &b&o10.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BBQ_SAUCE:
   type:
   - '&7&oKomponen'
 BISCUIT:
+  stats:
+  - '&7&oMemulihkan &b&o2.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oKomponen'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponen'
 BLT:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oKomponen'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o4.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 BROWN_SUGAR:
   type:
   - '&7&oKomponen'
 BURRITO:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oKomponen'
 CARROT_CAKE:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHEESEBURGER:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHEESECAKE:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHERRY:
   type:
   - '&7&oMakanan'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHERRY_SAPLING:
   type:
   - '&7&oKomponen'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o5.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oMemulihkan &b&o1.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oMemulihkan &b&o9.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oMemulihkan &b&o2.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oKomponen'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o9.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oMakanan'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oMemulihkan &b&o9.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COCONUT_MILK:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oKomponen'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oMemulihkan &b&o4.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oKomponen'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COWBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oKomponen'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CREAMED_CORN:
+  stats:
+  - '&7&oMemulihkan &b&o4.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CREAM_COOKIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oKomponen'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oMakanan'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oKomponen'
 EGG_SALAD:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oKomponen'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oSihir'
 FISH_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o5.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 FISH_TACO:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 FRIES:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GARLIC:
   type:
   - '&7&oMakanan'
 GARLIC_BREAD:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GARLIC_BUSH:
   type:
   - '&7&oKomponen'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oKomponen'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GRAPE_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GRAPE_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GRAPE_SALAD:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 GRASS_SEEDS:
   type:
   - '&7&oGajet'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o5.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 HAMBURGER:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oMemulihkan &b&o4.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 HOT_DOG:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ICE_CREAM:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oSihir'
 JAMMY_DODGER:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 KITCHEN:
   type:
   - '&7&oMultiblok'
 LAMINGTON:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oSihir'
 LASAGNA:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oSihir'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEMON:
   type:
   - '&7&oMakanan'
 LEMONADE:
+  stats:
+  - '&7&oMemulihkan &b&o4.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEMON_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEMON_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oMakanan'
 LIME_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LIME_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 LIME_SAPLING:
   type:
   - '&7&oKomponen'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oMakanan'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oMakanan'
 ORANGE_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ORANGE_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 ORANGE_SAPLING:
   type:
   - '&7&oKomponen'
 PANCAKES:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PAVLOVA:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PEACH:
   type:
   - '&7&oMakanan'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PEACH_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PEACH_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oMakanan'
 PEAR_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PEAR_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PEAR_SAPLING:
   type:
   - '&7&oKomponen'
 PINACOLADA:
+  stats:
+  - '&7&oMemulihkan &b&o7.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oKomponen'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PLUM:
   type:
   - '&7&oMakanan'
 PLUM_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PLUM_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oMakanan'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oKomponen'
 POPCORN:
+  stats:
+  - '&7&oMemulihkan &b&o4.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 POTATO_SALAD:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oMemulihkan &b&o4.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oMemulihkan &b&o8.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oKomponen'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oKomponen'
 SALTY_POPCORN:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o9.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oKomponen'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STREET_TACO:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oMemulihkan &b&o7.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SWEETENED_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SWEET_POPCORN:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oKomponen'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oMemulihkan &b&o6.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TACO:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oKomponen'
 THAI_TEA:
+  stats:
+  - '&7&oMemulihkan &b&o7.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oSihir'
 TIRAMISU:
+  stats:
+  - '&7&oMemulihkan &b&o8.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oMemulihkan &b&o9.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oKomponen'
 TOMATO_JUICE:
+  stats:
+  - '&7&oMemulihkan &b&o3.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 TOMATO_SOUP:
+  stats:
+  - '&7&oMemulihkan &b&o5.5 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 VEGETABLE_OIL:
   type:
   - '&7&oKomponen'
 WAFFLES:
+  stats:
+  - '&7&oMemulihkan &b&o6.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 WINE:
+  stats:
+  - '&7&oMemulihkan &b&o5.0 &7&oKelaparan'
   type:
   - '&7&oMakanan'
 YEAST:

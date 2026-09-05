@@ -8,38 +8,56 @@ ALUMINUM_PLANT:
   - '&7&oМагия'
 APPLE_PEAR_CAKE:
   name: '&cЯблочно-грушевый торт'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 BACON:
   name: '&rБекон'
+  stats:
+  - '&7&oВосстанавливает &b&o1.5 &7&oголода'
   type:
   - '&7&oЕда'
 BACON_BURGER:
   name: '&rБургер с беконом'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 BACON_CHEESEBURGER:
   name: '&rЧизбургер с беконом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 BACON_SANDWICH:
   name: '&rСэндвич с беконом'
+  stats:
+  - '&7&oВосстанавливает &b&o9.5 &7&oголода'
   type:
   - '&7&oЕда'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
   name: '&rХот-дог в беконе с сырной начинкой'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 BAGEL:
   name: '&rБейгл'
+  stats:
+  - '&7&oВосстанавливает &b&o2.0 &7&oголода'
   type:
   - '&7&oЕда'
 BBQ_BACON_WRAPPED_HOT_DOG:
   name: '&rХот-дог барбекю в беконе'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
   name: '&rХот-дог барбекю с двойным беконом в тортилье с сыром'
+  stats:
+  - '&7&oВосстанавливает &b&o10.0 &7&oголода'
   type:
   - '&7&oЕда'
 BBQ_SAUCE:
@@ -48,10 +66,14 @@ BBQ_SAUCE:
   - '&7&oКомпонент'
 BISCUIT:
   name: '&6Печенье'
+  stats:
+  - '&7&oВосстанавливает &b&o2.0 &7&oголода'
   type:
   - '&7&oЕда'
 BISCUITS_GRAVY:
   name: '&rПеченье с деревенской подливой'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 BLACKBERRY:
@@ -64,22 +86,32 @@ BLACKBERRY_BUSH:
   - '&7&oКомпонент'
 BLACKBERRY_COBBLER:
   name: '&8Ежевичный коблер'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLACKBERRY_JELLY_SANDWICH:
   name: '&8Ежевика Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLACKBERRY_JUICE:
   name: '&8Ежевика Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLACKBERRY_PIE:
   name: '&8Ежевика Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 BLACKBERRY_SMOOTHIE:
   name: '&8Ежевика Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLACK_PEPPER:
@@ -92,6 +124,8 @@ BLACK_PEPPER_BUSH:
   - '&7&oКомпонент'
 BLT:
   name: '&rСэндвич БЛТ'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY:
@@ -104,34 +138,50 @@ BLUEBERRY_BUSH:
   - '&7&oКомпонент'
 BLUEBERRY_CHEESECAKE:
   name: '&9Голубика Чизкейк'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY_JELLY_SANDWICH:
   name: '&9Голубика Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY_JUICE:
   name: '&9Голубика Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY_MUFFIN:
   name: '&rМаффин с голубикой'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY_PANCAKES:
   name: '&rБлины с голубикой'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY_PIE:
   name: '&9Голубика Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 BLUEBERRY_SMOOTHIE:
   name: '&9Голубика Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 BOSTON_CREAM_PIE:
   name: '&rБостонский кремовый пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o4.5 &7&oголода'
   type:
   - '&7&oЕда'
 BROWN_SUGAR:
@@ -140,6 +190,8 @@ BROWN_SUGAR:
   - '&7&oКомпонент'
 BURRITO:
   name: '&rБуррито'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 CABBAGE:
@@ -152,14 +204,20 @@ CABBAGE_BUSH:
   - '&7&oКомпонент'
 CARROT_CAKE:
   name: '&rМорковный торт'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 CHEESEBURGER:
   name: '&rЧизбургер'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHEESECAKE:
   name: '&rЧизкейк'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 CHERRY:
@@ -168,18 +226,26 @@ CHERRY:
   - '&7&oЕда'
 CHERRY_CHEESECAKE:
   name: '&cВишня Чизкейк'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHERRY_ICED_TEA:
   name: '&cВишня Холодный чай'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHERRY_JUICE:
   name: '&cВишня Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 CHERRY_PIE:
   name: '&cВишня Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHERRY_SAPLING:
@@ -188,46 +254,68 @@ CHERRY_SAPLING:
   - '&7&oКомпонент'
 CHICKEN_BURGER:
   name: '&rКуриный бургер'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 CHICKEN_BURRITO:
   name: '&rКуриный буррито'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 CHICKEN_CHEESEBURGER:
   name: '&rКуриный чизбургер'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHICKEN_CURRY:
   name: '&rКуриное карри'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 CHICKEN_POT_PIE:
   name: '&rКуриный пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHICKEN_SANDWICH:
   name: '&rСэндвич с курицей'
+  stats:
+  - '&7&oВосстанавливает &b&o5.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHOCOLATE_BAR:
   name: '&rШоколадный батончик'
+  stats:
+  - '&7&oВосстанавливает &b&o1.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHOCOLATE_CAKE:
   name: '&rШоколадный торт'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHOCOLATE_CHIP_MUFFIN:
   name: '&rМаффин с шоколадной крошкой'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHOCOLATE_PEAR_CAKE:
   name: '&rШоколадно-грушевый торт'
+  stats:
+  - '&7&oВосстанавливает &b&o9.5 &7&oголода'
   type:
   - '&7&oЕда'
 CHOCOLATE_STRAWBERRY:
   name: '&cКлубника в шоколаде'
+  stats:
+  - '&7&oВосстанавливает &b&o2.5 &7&oголода'
   type:
   - '&7&oЕда'
 CILANTRO:
@@ -240,6 +328,8 @@ CILANTRO_BUSH:
   - '&7&oКомпонент'
 CLUB_SANDWICH:
   name: '&rКлубный сэндвич'
+  stats:
+  - '&7&oВосстанавливает &b&o9.5 &7&oголода'
   type:
   - '&7&oЕда'
 COAL_ESSENCE:
@@ -256,10 +346,14 @@ COCONUT:
   - '&7&oЕда'
 COCONUT_CHICKEN_CURRY:
   name: '&rКуриное карри с кокосом'
+  stats:
+  - '&7&oВосстанавливает &b&o9.5 &7&oголода'
   type:
   - '&7&oЕда'
 COCONUT_MILK:
   name: '&6Кокос Молоко'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 COCONUT_SAPLING:
@@ -288,6 +382,8 @@ CORN_BUSH:
   - '&7&oКомпонент'
 CORN_ON_THE_COB:
   name: '&6Кукурузный початок'
+  stats:
+  - '&7&oВосстанавливает &b&o4.5 &7&oголода'
   type:
   - '&7&oЕда'
 COUNTRY_GRAVY:
@@ -304,18 +400,26 @@ COWBERRY_BUSH:
   - '&7&oКомпонент'
 COWBERRY_JELLY_SANDWICH:
   name: '&cБрусника Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 COWBERRY_JUICE:
   name: '&cБрусника Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 COWBERRY_PIE:
   name: '&cБрусника Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 COWBERRY_SMOOTHIE:
   name: '&cБрусника Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 CRANBERRY:
@@ -328,26 +432,38 @@ CRANBERRY_BUSH:
   - '&7&oКомпонент'
 CRANBERRY_JELLY_SANDWICH:
   name: '&cКлюква Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 CRANBERRY_JUICE:
   name: '&cКлюква Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 CRANBERRY_PIE:
   name: '&cКлюква Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 CRANBERRY_SMOOTHIE:
   name: '&cКлюква Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 CREAMED_CORN:
   name: '&rКукуруза в сливках'
+  stats:
+  - '&7&oВосстанавливает &b&o4.0 &7&oголода'
   type:
   - '&7&oЕда'
 CREAM_COOKIE:
   name: '&rКремовое печенье'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 CROOK:
@@ -364,6 +480,8 @@ CURRY_LEAF_BUSH:
   - '&7&oКомпонент'
 DELUXE_CHEESEBURGER:
   name: '&rЧизбургер делюкс'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 DIAMOND_ESSENCE:
@@ -388,10 +506,14 @@ DRAGON_FRUIT:
   - '&7&oЕда'
 DRAGON_FRUIT_JUICE:
   name: '&dПитайя Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 DRAGON_FRUIT_PIE:
   name: '&dПитайя Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 DRAGON_FRUIT_SAPLING:
@@ -400,6 +522,8 @@ DRAGON_FRUIT_SAPLING:
   - '&7&oКомпонент'
 EGG_SALAD:
   name: '&rЯичный салат'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 ELDERBERRY:
@@ -412,18 +536,26 @@ ELDERBERRY_BUSH:
   - '&7&oКомпонент'
 ELDERBERRY_JELLY_SANDWICH:
   name: '&cБузина Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 ELDERBERRY_JUICE:
   name: '&cБузина Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 ELDERBERRY_PIE:
   name: '&cБузина Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 ELDERBERRY_SMOOTHIE:
   name: '&cБузина Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 EMERALD_ESSENCE:
@@ -444,14 +576,20 @@ ENDER_PLANT:
   - '&7&oМагия'
 FISH_SANDWICH:
   name: '&rСэндвич с рыбой'
+  stats:
+  - '&7&oВосстанавливает &b&o5.5 &7&oголода'
   type:
   - '&7&oЕда'
 FISH_TACO:
   name: '&rРыбный тако'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 FRIES:
   name: '&rКартофель фри'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 GARLIC:
@@ -460,6 +598,8 @@ GARLIC:
   - '&7&oЕда'
 GARLIC_BREAD:
   name: '&rЧесночный хлеб'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 GARLIC_BUSH:
@@ -468,6 +608,8 @@ GARLIC_BUSH:
   - '&7&oКомпонент'
 GARLIC_CHEESE_BREAD:
   name: '&rЧесночный хлеб с сыром'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 GLOWSTONE_ESSENCE:
@@ -496,22 +638,32 @@ GRAPE_BUSH:
   - '&7&oКомпонент'
 GRAPE_JELLY_SANDWICH:
   name: '&cВиноград Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 GRAPE_JUICE:
   name: '&cВиноград Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 GRAPE_PIE:
   name: '&cВиноград Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 GRAPE_SALAD:
   name: '&cВиноградный салат'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 GRAPE_SMOOTHIE:
   name: '&cВиноград Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 GRASS_SEEDS:
@@ -520,22 +672,32 @@ GRASS_SEEDS:
   - '&7&oГаджет'
 GRILLED_SANDWICH:
   name: '&rСэндвич на гриле'
+  stats:
+  - '&7&oВосстанавливает &b&o5.5 &7&oголода'
   type:
   - '&7&oЕда'
 HAMBURGER:
   name: '&rГамбургер'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 HOT_CHOCOLATE:
   name: '&6Горячий шоколад'
+  stats:
+  - '&7&oВосстанавливает &b&o4.0 &7&oголода'
   type:
   - '&7&oЕда'
 HOT_DOG:
   name: '&rХот-дог'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 ICE_CREAM:
   name: '&rМороженое'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 ICE_CUBE:
@@ -552,6 +714,8 @@ IRON_PLANT:
   - '&7&oМагия'
 JAMMY_DODGER:
   name: '&cДжемми Доджер'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 KITCHEN:
@@ -560,6 +724,8 @@ KITCHEN:
   - '&7&oМультиблок'
 LAMINGTON:
   name: '&rЛамингтон'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 LAPIS_ESSENCE:
@@ -572,6 +738,8 @@ LAPIS_PLANT:
   - '&7&oМагия'
 LASAGNA:
   name: '&rЛазанья'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 LEAD_ESSENCE:
@@ -584,10 +752,14 @@ LEAD_PLANT:
   - '&7&oМагия'
 LEAFY_CHICKEN_SANDWICH:
   name: '&rСэндвич с курицей и салатом'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 LEAFY_FISH_SANDWICH:
   name: '&rСэндвич с рыбой и салатом'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 LEMON:
@@ -596,18 +768,26 @@ LEMON:
   - '&7&oЕда'
 LEMONADE:
   name: '&eЛимонад'
+  stats:
+  - '&7&oВосстанавливает &b&o4.0 &7&oголода'
   type:
   - '&7&oЕда'
 LEMON_ICED_TEA:
   name: '&eЛимон Холодный чай'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 LEMON_JUICE:
   name: '&eЛимон Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 LEMON_PIE:
   name: '&eЛимон Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 LEMON_SAPLING:
@@ -628,10 +808,14 @@ LIME:
   - '&7&oЕда'
 LIME_JUICE:
   name: '&aЛайм Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 LIME_PIE:
   name: '&aЛайм Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 LIME_SAPLING:
@@ -640,6 +824,8 @@ LIME_SAPLING:
   - '&7&oКомпонент'
 LIME_SMOOTHIE:
   name: '&aЛайм Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 MAYO:
@@ -676,10 +862,14 @@ OAK_APPLE:
   - '&7&oЕда'
 OAK_APPLE_JUICE:
   name: '&cДубовое яблоко Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 OAK_APPLE_PIE:
   name: '&cДубовое яблоко Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 OAK_APPLE_SAPLING:
@@ -708,10 +898,14 @@ ORANGE:
   - '&7&oЕда'
 ORANGE_JUICE:
   name: '&6Апельсин Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 ORANGE_PIE:
   name: '&6Апельсин Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 ORANGE_SAPLING:
@@ -720,10 +914,14 @@ ORANGE_SAPLING:
   - '&7&oКомпонент'
 PANCAKES:
   name: '&rБлины'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 PAVLOVA:
   name: '&rПавлова'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 PEACH:
@@ -732,14 +930,20 @@ PEACH:
   - '&7&oЕда'
 PEACH_ICED_TEA:
   name: '&dПерсик Холодный чай'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 PEACH_JUICE:
   name: '&5Персик Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 PEACH_PIE:
   name: '&5Персик Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 PEACH_SAPLING:
@@ -752,10 +956,14 @@ PEAR:
   - '&7&oЕда'
 PEAR_JUICE:
   name: '&aГруша Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 PEAR_PIE:
   name: '&aГруша Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 PEAR_SAPLING:
@@ -764,6 +972,8 @@ PEAR_SAPLING:
   - '&7&oКомпонент'
 PINACOLADA:
   name: '&6Пина колада'
+  stats:
+  - '&7&oВосстанавливает &b&o7.0 &7&oголода'
   type:
   - '&7&oЕда'
 PINEAPPLE:
@@ -776,10 +986,14 @@ PINEAPPLE_BUSH:
   - '&7&oКомпонент'
 PINEAPPLE_JUICE:
   name: '&6Ананас Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 PINEAPPLE_SMOOTHIE:
   name: '&6Ананас Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 PLUM:
@@ -788,10 +1002,14 @@ PLUM:
   - '&7&oЕда'
 PLUM_JUICE:
   name: '&5Слива Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 PLUM_PIE:
   name: '&5Слива Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 PLUM_SAPLING:
@@ -804,10 +1022,14 @@ POMEGRANATE:
   - '&7&oЕда'
 POMEGRANATE_JUICE:
   name: '&4Гранат Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 POMEGRANATE_PIE:
   name: '&4Гранат Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 POMEGRANATE_SAPLING:
@@ -816,22 +1038,32 @@ POMEGRANATE_SAPLING:
   - '&7&oКомпонент'
 POPCORN:
   name: '&rПопкорн'
+  stats:
+  - '&7&oВосстанавливает &b&o4.0 &7&oголода'
   type:
   - '&7&oЕда'
 POTATO_SALAD:
   name: '&rКартофельный салат'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 PUMPKIN_BREAD:
   name: '&rТыквенный хлеб'
+  stats:
+  - '&7&oВосстанавливает &b&o4.0 &7&oголода'
   type:
   - '&7&oЕда'
 PUMPKIN_CHEESECAKE:
   name: '&6Тыквенный чизкейк'
+  stats:
+  - '&7&oВосстанавливает &b&o8.5 &7&oголода'
   type:
   - '&7&oЕда'
 PUMPKIN_MUFFIN:
   name: '&rТыквенный маффин'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 QUARTZ_ESSENCE:
@@ -852,22 +1084,32 @@ RASPBERRY_BUSH:
   - '&7&oКомпонент'
 RASPBERRY_ICED_TEA:
   name: '&dМалина Холодный чай'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 RASPBERRY_JELLY_SANDWICH:
   name: '&dМалина Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 RASPBERRY_JUICE:
   name: '&dМалина Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 RASPBERRY_PIE:
   name: '&dМалина Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 RASPBERRY_SMOOTHIE:
   name: '&dМалина Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 REDSTONE_ESSENCE:
@@ -888,14 +1130,20 @@ RED_BELL_PEPPER_BUSH:
   - '&7&oКомпонент'
 SALTY_POPCORN:
   name: '&rПопкорн &7(Солёный)'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 SANDWICH:
   name: '&rСэндвич'
+  stats:
+  - '&7&oВосстанавливает &b&o9.5 &7&oголода'
   type:
   - '&7&oЕда'
 SHEPARDS_PIE:
   name: '&rПастуший пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 SILVER_ESSENCE:
@@ -924,50 +1172,74 @@ STRAWBERRY_BUSH:
   - '&7&oКомпонент'
 STRAWBERRY_ICED_TEA:
   name: '&4Клубника Холодный чай'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 STRAWBERRY_JELLY_SANDWICH:
   name: '&4Клубника Бутерброд с джемом'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 STRAWBERRY_JUICE:
   name: '&4Клубника Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 STRAWBERRY_PIE:
   name: '&4Клубника Пирог'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 STRAWBERRY_SALAD:
   name: '&cКлубничный салат'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 STRAWBERRY_SMOOTHIE:
   name: '&4Клубника Смузи'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 STREET_TACO:
   name: '&rУличный тако'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 STUFFED_RED_BELL_PEPPER:
   name: '&cФаршированный красный перец'
+  stats:
+  - '&7&oВосстанавливает &b&o7.0 &7&oголода'
   type:
   - '&7&oЕда'
 SWEETENED_PEAR_CHEESECAKE:
   name: '&6Сладкий грушевый чизкейк'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 SWEETENED_TEA:
   name: '&aСладкий чай'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 SWEET_BERRY_PANCAKES:
   name: '&rБлины со сладкими ягодами'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 SWEET_POPCORN:
   name: '&rПопкорн &7(Сладкий)'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 SWEET_POTATO:
@@ -980,10 +1252,14 @@ SWEET_POTATO_BUSH:
   - '&7&oКомпонент'
 SWEET_POTATO_PIE:
   name: '&rПирог из батата'
+  stats:
+  - '&7&oВосстанавливает &b&o6.5 &7&oголода'
   type:
   - '&7&oЕда'
 TACO:
   name: '&rТако'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 TEA_LEAF:
@@ -996,6 +1272,8 @@ TEA_LEAF_BUSH:
   - '&7&oКомпонент'
 THAI_TEA:
   name: '&6Тайский чай'
+  stats:
+  - '&7&oВосстанавливает &b&o7.0 &7&oголода'
   type:
   - '&7&oЕда'
 TIN_ESSENCE:
@@ -1008,18 +1286,26 @@ TIN_PLANT:
   - '&7&oМагия'
 TIRAMISU:
   name: '&rТирамису'
+  stats:
+  - '&7&oВосстанавливает &b&o8.0 &7&oголода'
   type:
   - '&7&oЕда'
 TIRAMISU_WITH_BLACKBERRIES:
   name: '&rТирамису с ежевикой'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 TIRAMISU_WITH_RASPBERRIES:
   name: '&rТирамису с малиной'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 TIRAMISU_WITH_STRAWBERRIES:
   name: '&rТирамису с клубникой'
+  stats:
+  - '&7&oВосстанавливает &b&o9.0 &7&oголода'
   type:
   - '&7&oЕда'
 TOMATO:
@@ -1032,10 +1318,14 @@ TOMATO_BUSH:
   - '&7&oКомпонент'
 TOMATO_JUICE:
   name: '&4Помидор Сок'
+  stats:
+  - '&7&oВосстанавливает &b&o3.0 &7&oголода'
   type:
   - '&7&oЕда'
 TOMATO_SOUP:
   name: '&4Томатный суп'
+  stats:
+  - '&7&oВосстанавливает &b&o5.5 &7&oголода'
   type:
   - '&7&oЕда'
 VEGETABLE_OIL:
@@ -1044,10 +1334,14 @@ VEGETABLE_OIL:
   - '&7&oКомпонент'
 WAFFLES:
   name: '&rВафли'
+  stats:
+  - '&7&oВосстанавливает &b&o6.0 &7&oголода'
   type:
   - '&7&oЕда'
 WINE:
   name: '&cВино'
+  stats:
+  - '&7&oВосстанавливает &b&o5.0 &7&oголода'
   type:
   - '&7&oЕда'
 YEAST:

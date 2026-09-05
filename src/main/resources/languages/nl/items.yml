@@ -8,38 +8,56 @@ ALUMINUM_PLANT:
   - '&7&oMagisch'
 APPLE_PEAR_CAKE:
   name: '&cAppel-perentaart'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BACON:
   name: '&rSpek'
+  stats:
+  - '&7&oHerstelt &b&o1.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BACON_BURGER:
   name: '&rSpekburger'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BACON_CHEESEBURGER:
   name: '&rSpek-cheeseburger'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BACON_SANDWICH:
   name: '&rSpeksandwich'
+  stats:
+  - '&7&oHerstelt &b&o9.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
   name: '&rIn spek gewikkelde, met kaas gevulde hotdog'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BAGEL:
   name: '&rBagel'
+  stats:
+  - '&7&oHerstelt &b&o2.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BBQ_BACON_WRAPPED_HOT_DOG:
   name: '&rIn spek gewikkelde BBQ-hotdog'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
   name: '&rBBQ-hotdog met dubbel spek in een tortilla met kaas'
+  stats:
+  - '&7&oHerstelt &b&o10.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BBQ_SAUCE:
@@ -48,10 +66,14 @@ BBQ_SAUCE:
   - '&7&oOnderdeel'
 BISCUIT:
   name: '&6Koekje'
+  stats:
+  - '&7&oHerstelt &b&o2.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BISCUITS_GRAVY:
   name: '&rKoekjes met plattelandsjus'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLACKBERRY:
@@ -64,22 +86,32 @@ BLACKBERRY_BUSH:
   - '&7&oOnderdeel'
 BLACKBERRY_COBBLER:
   name: '&8Braamcobbler'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLACKBERRY_JELLY_SANDWICH:
   name: '&8Braam Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLACKBERRY_JUICE:
   name: '&8Braam Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLACKBERRY_PIE:
   name: '&8Braam Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLACKBERRY_SMOOTHIE:
   name: '&8Braam Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLACK_PEPPER:
@@ -92,6 +124,8 @@ BLACK_PEPPER_BUSH:
   - '&7&oOnderdeel'
 BLT:
   name: '&rBLT-sandwich'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY:
@@ -104,34 +138,50 @@ BLUEBERRY_BUSH:
   - '&7&oOnderdeel'
 BLUEBERRY_CHEESECAKE:
   name: '&9Bosbes Cheesecake'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_JELLY_SANDWICH:
   name: '&9Bosbes Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_JUICE:
   name: '&9Bosbes Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_MUFFIN:
   name: '&rBosbessenmuffin'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_PANCAKES:
   name: '&rBosbessenpannenkoeken'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_PIE:
   name: '&9Bosbes Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_SMOOTHIE:
   name: '&9Bosbes Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BOSTON_CREAM_PIE:
   name: '&rBoston cream pie'
+  stats:
+  - '&7&oHerstelt &b&o4.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BROWN_SUGAR:
@@ -140,6 +190,8 @@ BROWN_SUGAR:
   - '&7&oOnderdeel'
 BURRITO:
   name: '&rBurrito'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CABBAGE:
@@ -152,14 +204,20 @@ CABBAGE_BUSH:
   - '&7&oOnderdeel'
 CARROT_CAKE:
   name: '&rWorteltaart'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHEESEBURGER:
   name: '&rCheeseburger'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHEESECAKE:
   name: '&rCheesecake'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHERRY:
@@ -168,18 +226,26 @@ CHERRY:
   - '&7&oVoedsel'
 CHERRY_CHEESECAKE:
   name: '&cKers Cheesecake'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHERRY_ICED_TEA:
   name: '&cKers IJsthee'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHERRY_JUICE:
   name: '&cKers Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHERRY_PIE:
   name: '&cKers Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHERRY_SAPLING:
@@ -188,46 +254,68 @@ CHERRY_SAPLING:
   - '&7&oOnderdeel'
 CHICKEN_BURGER:
   name: '&rKipburger'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHICKEN_BURRITO:
   name: '&rKipburrito'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHICKEN_CHEESEBURGER:
   name: '&rKip-cheeseburger'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHICKEN_CURRY:
   name: '&rKipkerrie'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHICKEN_POT_PIE:
   name: '&rKippenpastei'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHICKEN_SANDWICH:
   name: '&rKipsandwich'
+  stats:
+  - '&7&oHerstelt &b&o5.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHOCOLATE_BAR:
   name: '&rChocoladereep'
+  stats:
+  - '&7&oHerstelt &b&o1.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHOCOLATE_CAKE:
   name: '&rChocoladetaart'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHOCOLATE_CHIP_MUFFIN:
   name: '&rChocoladeschilfermuffin'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHOCOLATE_PEAR_CAKE:
   name: '&rChocolade-perentaart'
+  stats:
+  - '&7&oHerstelt &b&o9.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CHOCOLATE_STRAWBERRY:
   name: '&cChocoladeaardbei'
+  stats:
+  - '&7&oHerstelt &b&o2.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CILANTRO:
@@ -240,6 +328,8 @@ CILANTRO_BUSH:
   - '&7&oOnderdeel'
 CLUB_SANDWICH:
   name: '&rClubsandwich'
+  stats:
+  - '&7&oHerstelt &b&o9.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COAL_ESSENCE:
@@ -256,10 +346,14 @@ COCONUT:
   - '&7&oVoedsel'
 COCONUT_CHICKEN_CURRY:
   name: '&rKokoskipkerrie'
+  stats:
+  - '&7&oHerstelt &b&o9.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COCONUT_MILK:
   name: '&6Kokosnoot Melk'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COCONUT_SAPLING:
@@ -288,6 +382,8 @@ CORN_BUSH:
   - '&7&oOnderdeel'
 CORN_ON_THE_COB:
   name: '&6Maïskolf'
+  stats:
+  - '&7&oHerstelt &b&o4.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COUNTRY_GRAVY:
@@ -304,18 +400,26 @@ COWBERRY_BUSH:
   - '&7&oOnderdeel'
 COWBERRY_JELLY_SANDWICH:
   name: '&cVossenbes Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COWBERRY_JUICE:
   name: '&cVossenbes Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COWBERRY_PIE:
   name: '&cVossenbes Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 COWBERRY_SMOOTHIE:
   name: '&cVossenbes Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CRANBERRY:
@@ -328,26 +432,38 @@ CRANBERRY_BUSH:
   - '&7&oOnderdeel'
 CRANBERRY_JELLY_SANDWICH:
   name: '&cVeenbes Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CRANBERRY_JUICE:
   name: '&cVeenbes Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CRANBERRY_PIE:
   name: '&cVeenbes Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CRANBERRY_SMOOTHIE:
   name: '&cVeenbes Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CREAMED_CORN:
   name: '&rRoommaïs'
+  stats:
+  - '&7&oHerstelt &b&o4.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CREAM_COOKIE:
   name: '&rRoomkoekje'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 CROOK:
@@ -364,6 +480,8 @@ CURRY_LEAF_BUSH:
   - '&7&oOnderdeel'
 DELUXE_CHEESEBURGER:
   name: '&rDeluxe cheeseburger'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 DIAMOND_ESSENCE:
@@ -388,10 +506,14 @@ DRAGON_FRUIT:
   - '&7&oVoedsel'
 DRAGON_FRUIT_JUICE:
   name: '&dDrakenfruit Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 DRAGON_FRUIT_PIE:
   name: '&dDrakenfruit Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 DRAGON_FRUIT_SAPLING:
@@ -400,6 +522,8 @@ DRAGON_FRUIT_SAPLING:
   - '&7&oOnderdeel'
 EGG_SALAD:
   name: '&rEiersalade'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ELDERBERRY:
@@ -412,18 +536,26 @@ ELDERBERRY_BUSH:
   - '&7&oOnderdeel'
 ELDERBERRY_JELLY_SANDWICH:
   name: '&cVlierbes Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ELDERBERRY_JUICE:
   name: '&cVlierbes Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ELDERBERRY_PIE:
   name: '&cVlierbes Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ELDERBERRY_SMOOTHIE:
   name: '&cVlierbes Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 EMERALD_ESSENCE:
@@ -444,14 +576,20 @@ ENDER_PLANT:
   - '&7&oMagisch'
 FISH_SANDWICH:
   name: '&rVissandwich'
+  stats:
+  - '&7&oHerstelt &b&o5.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 FISH_TACO:
   name: '&rVistaco'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 FRIES:
   name: '&rFriet'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GARLIC:
@@ -460,6 +598,8 @@ GARLIC:
   - '&7&oVoedsel'
 GARLIC_BREAD:
   name: '&rKnoflookbrood'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GARLIC_BUSH:
@@ -468,6 +608,8 @@ GARLIC_BUSH:
   - '&7&oOnderdeel'
 GARLIC_CHEESE_BREAD:
   name: '&rKnoflook-kaasbrood'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GLOWSTONE_ESSENCE:
@@ -496,22 +638,32 @@ GRAPE_BUSH:
   - '&7&oOnderdeel'
 GRAPE_JELLY_SANDWICH:
   name: '&cDruif Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GRAPE_JUICE:
   name: '&cDruif Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GRAPE_PIE:
   name: '&cDruif Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GRAPE_SALAD:
   name: '&cDruivensalade'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GRAPE_SMOOTHIE:
   name: '&cDruif Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 GRASS_SEEDS:
@@ -520,22 +672,32 @@ GRASS_SEEDS:
   - '&7&oGadget'
 GRILLED_SANDWICH:
   name: '&rGegrilde sandwich'
+  stats:
+  - '&7&oHerstelt &b&o5.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 HAMBURGER:
   name: '&rHamburger'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 HOT_CHOCOLATE:
   name: '&6Warme chocolademelk'
+  stats:
+  - '&7&oHerstelt &b&o4.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 HOT_DOG:
   name: '&rHotdog'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ICE_CREAM:
   name: '&rIJs'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ICE_CUBE:
@@ -552,6 +714,8 @@ IRON_PLANT:
   - '&7&oMagisch'
 JAMMY_DODGER:
   name: '&cJammy Dodger'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 KITCHEN:
@@ -560,6 +724,8 @@ KITCHEN:
   - '&7&oMultiblok'
 LAMINGTON:
   name: '&rLamington'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LAPIS_ESSENCE:
@@ -572,6 +738,8 @@ LAPIS_PLANT:
   - '&7&oMagisch'
 LASAGNA:
   name: '&rLasagne'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEAD_ESSENCE:
@@ -584,10 +752,14 @@ LEAD_PLANT:
   - '&7&oMagisch'
 LEAFY_CHICKEN_SANDWICH:
   name: '&rKipsandwich met sla'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEAFY_FISH_SANDWICH:
   name: '&rVissandwich met sla'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEMON:
@@ -596,18 +768,26 @@ LEMON:
   - '&7&oVoedsel'
 LEMONADE:
   name: '&eLimonade'
+  stats:
+  - '&7&oHerstelt &b&o4.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEMON_ICED_TEA:
   name: '&eCitroen IJsthee'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEMON_JUICE:
   name: '&eCitroen Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEMON_PIE:
   name: '&eCitroen Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LEMON_SAPLING:
@@ -628,10 +808,14 @@ LIME:
   - '&7&oVoedsel'
 LIME_JUICE:
   name: '&aLimoen Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LIME_PIE:
   name: '&aLimoen Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 LIME_SAPLING:
@@ -640,6 +824,8 @@ LIME_SAPLING:
   - '&7&oOnderdeel'
 LIME_SMOOTHIE:
   name: '&aLimoen Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 MAYO:
@@ -676,10 +862,14 @@ OAK_APPLE:
   - '&7&oVoedsel'
 OAK_APPLE_JUICE:
   name: '&cEikenappel Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 OAK_APPLE_PIE:
   name: '&cEikenappel Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 OAK_APPLE_SAPLING:
@@ -708,10 +898,14 @@ ORANGE:
   - '&7&oVoedsel'
 ORANGE_JUICE:
   name: '&6Sinaasappel Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ORANGE_PIE:
   name: '&6Sinaasappel Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 ORANGE_SAPLING:
@@ -720,10 +914,14 @@ ORANGE_SAPLING:
   - '&7&oOnderdeel'
 PANCAKES:
   name: '&rPannenkoeken'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PAVLOVA:
   name: '&rPavlova'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PEACH:
@@ -732,14 +930,20 @@ PEACH:
   - '&7&oVoedsel'
 PEACH_ICED_TEA:
   name: '&dPerzik IJsthee'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PEACH_JUICE:
   name: '&5Perzik Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PEACH_PIE:
   name: '&5Perzik Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PEACH_SAPLING:
@@ -752,10 +956,14 @@ PEAR:
   - '&7&oVoedsel'
 PEAR_JUICE:
   name: '&aPeer Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PEAR_PIE:
   name: '&aPeer Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PEAR_SAPLING:
@@ -764,6 +972,8 @@ PEAR_SAPLING:
   - '&7&oOnderdeel'
 PINACOLADA:
   name: '&6Piña colada'
+  stats:
+  - '&7&oHerstelt &b&o7.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PINEAPPLE:
@@ -776,10 +986,14 @@ PINEAPPLE_BUSH:
   - '&7&oOnderdeel'
 PINEAPPLE_JUICE:
   name: '&6Ananas Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PINEAPPLE_SMOOTHIE:
   name: '&6Ananas Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PLUM:
@@ -788,10 +1002,14 @@ PLUM:
   - '&7&oVoedsel'
 PLUM_JUICE:
   name: '&5Pruim Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PLUM_PIE:
   name: '&5Pruim Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PLUM_SAPLING:
@@ -804,10 +1022,14 @@ POMEGRANATE:
   - '&7&oVoedsel'
 POMEGRANATE_JUICE:
   name: '&4Granaatappel Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 POMEGRANATE_PIE:
   name: '&4Granaatappel Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 POMEGRANATE_SAPLING:
@@ -816,22 +1038,32 @@ POMEGRANATE_SAPLING:
   - '&7&oOnderdeel'
 POPCORN:
   name: '&rPopcorn'
+  stats:
+  - '&7&oHerstelt &b&o4.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 POTATO_SALAD:
   name: '&rAardappelsalade'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PUMPKIN_BREAD:
   name: '&rPompoenbrood'
+  stats:
+  - '&7&oHerstelt &b&o4.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PUMPKIN_CHEESECAKE:
   name: '&6Pompoencheesecake'
+  stats:
+  - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 PUMPKIN_MUFFIN:
   name: '&rPompoenmuffin'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 QUARTZ_ESSENCE:
@@ -852,22 +1084,32 @@ RASPBERRY_BUSH:
   - '&7&oOnderdeel'
 RASPBERRY_ICED_TEA:
   name: '&dFramboos IJsthee'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 RASPBERRY_JELLY_SANDWICH:
   name: '&dFramboos Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 RASPBERRY_JUICE:
   name: '&dFramboos Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 RASPBERRY_PIE:
   name: '&dFramboos Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 RASPBERRY_SMOOTHIE:
   name: '&dFramboos Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 REDSTONE_ESSENCE:
@@ -888,14 +1130,20 @@ RED_BELL_PEPPER_BUSH:
   - '&7&oOnderdeel'
 SALTY_POPCORN:
   name: '&rPopcorn &7(Zout)'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SANDWICH:
   name: '&rSandwich'
+  stats:
+  - '&7&oHerstelt &b&o9.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SHEPARDS_PIE:
   name: '&rHerderspastei'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SILVER_ESSENCE:
@@ -924,50 +1172,74 @@ STRAWBERRY_BUSH:
   - '&7&oOnderdeel'
 STRAWBERRY_ICED_TEA:
   name: '&4Aardbei IJsthee'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STRAWBERRY_JELLY_SANDWICH:
   name: '&4Aardbei Jamboterham'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STRAWBERRY_JUICE:
   name: '&4Aardbei Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STRAWBERRY_PIE:
   name: '&4Aardbei Taart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STRAWBERRY_SALAD:
   name: '&cAardbeiensalade'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STRAWBERRY_SMOOTHIE:
   name: '&4Aardbei Smoothie'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STREET_TACO:
   name: '&rStraattaco'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 STUFFED_RED_BELL_PEPPER:
   name: '&cGevulde rode paprika'
+  stats:
+  - '&7&oHerstelt &b&o7.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SWEETENED_PEAR_CHEESECAKE:
   name: '&6Gezoete perencheesecake'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SWEETENED_TEA:
   name: '&aGezoete thee'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SWEET_BERRY_PANCAKES:
   name: '&rZoetebespannenkoeken'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SWEET_POPCORN:
   name: '&rPopcorn &7(Zoet)'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 SWEET_POTATO:
@@ -980,10 +1252,14 @@ SWEET_POTATO_BUSH:
   - '&7&oOnderdeel'
 SWEET_POTATO_PIE:
   name: '&rZoeteaardappeltaart'
+  stats:
+  - '&7&oHerstelt &b&o6.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TACO:
   name: '&rTaco'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TEA_LEAF:
@@ -996,6 +1272,8 @@ TEA_LEAF_BUSH:
   - '&7&oOnderdeel'
 THAI_TEA:
   name: '&6Thaise thee'
+  stats:
+  - '&7&oHerstelt &b&o7.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TIN_ESSENCE:
@@ -1008,18 +1286,26 @@ TIN_PLANT:
   - '&7&oMagisch'
 TIRAMISU:
   name: '&rTiramisu'
+  stats:
+  - '&7&oHerstelt &b&o8.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TIRAMISU_WITH_BLACKBERRIES:
   name: '&rTiramisu met bramen'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TIRAMISU_WITH_RASPBERRIES:
   name: '&rTiramisu met frambozen'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TIRAMISU_WITH_STRAWBERRIES:
   name: '&rTiramisu met aardbeien'
+  stats:
+  - '&7&oHerstelt &b&o9.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TOMATO:
@@ -1032,10 +1318,14 @@ TOMATO_BUSH:
   - '&7&oOnderdeel'
 TOMATO_JUICE:
   name: '&4Tomaat Sap'
+  stats:
+  - '&7&oHerstelt &b&o3.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 TOMATO_SOUP:
   name: '&4Tomatensoep'
+  stats:
+  - '&7&oHerstelt &b&o5.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 VEGETABLE_OIL:
@@ -1044,10 +1334,14 @@ VEGETABLE_OIL:
   - '&7&oOnderdeel'
 WAFFLES:
   name: '&rWafels'
+  stats:
+  - '&7&oHerstelt &b&o6.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 WINE:
   name: '&cWijn'
+  stats:
+  - '&7&oHerstelt &b&o5.0 &7&oHonger'
   type:
   - '&7&oVoedsel'
 YEAST:

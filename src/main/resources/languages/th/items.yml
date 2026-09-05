@@ -5,39 +5,61 @@ ALUMINUM_PLANT:
   type:
   - '&7&oเวทมนตร์'
 APPLE_PEAR_CAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BACON:
+  stats:
+  - '&7&oฟื้นฟู &b&o1.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BACON_BURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BACON_CHEESEBURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BACON_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BAGEL:
+  stats:
+  - '&7&oฟื้นฟู &b&o2.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  stats:
+  - '&7&oฟื้นฟู &b&o10.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BBQ_SAUCE:
   type:
   - '&7&oส่วนประกอบ'
 BISCUIT:
+  stats:
+  - '&7&oฟื้นฟู &b&o2.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BISCUITS_GRAVY:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLACKBERRY:
@@ -47,18 +69,28 @@ BLACKBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 BLACKBERRY_COBBLER:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLACKBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLACKBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLACKBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLACKBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLACK_PEPPER:
@@ -68,6 +100,8 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 BLT:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY:
@@ -77,33 +111,51 @@ BLUEBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 BLUEBERRY_CHEESECAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY_MUFFIN:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY_PANCAKES:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BLUEBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BOSTON_CREAM_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 BROWN_SUGAR:
   type:
   - '&7&oส่วนประกอบ'
 BURRITO:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CABBAGE:
@@ -113,63 +165,99 @@ CABBAGE_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 CARROT_CAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHEESEBURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHEESECAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHERRY:
   type:
   - '&7&oอาหาร'
 CHERRY_CHEESECAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHERRY_ICED_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHERRY_SAPLING:
   type:
   - '&7&oส่วนประกอบ'
 CHICKEN_BURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHICKEN_BURRITO:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHICKEN_CHEESEBURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHICKEN_CURRY:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHICKEN_POT_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHICKEN_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHOCOLATE_BAR:
+  stats:
+  - '&7&oฟื้นฟู &b&o1.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHOCOLATE_CAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHOCOLATE_CHIP_MUFFIN:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHOCOLATE_PEAR_CAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CHOCOLATE_STRAWBERRY:
+  stats:
+  - '&7&oฟื้นฟู &b&o2.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CILANTRO:
@@ -179,6 +267,8 @@ CILANTRO_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 CLUB_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COAL_ESSENCE:
@@ -191,9 +281,13 @@ COCONUT:
   type:
   - '&7&oอาหาร'
 COCONUT_CHICKEN_CURRY:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COCONUT_MILK:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COCONUT_SAPLING:
@@ -215,6 +309,8 @@ CORN_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 CORN_ON_THE_COB:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COUNTRY_GRAVY:
@@ -227,15 +323,23 @@ COWBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 COWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COWBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COWBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 COWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CRANBERRY:
@@ -245,21 +349,33 @@ CRANBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 CRANBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CRANBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CRANBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CRANBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CREAMED_CORN:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CREAM_COOKIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 CROOK:
@@ -272,6 +388,8 @@ CURRY_LEAF_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 DELUXE_CHEESEBURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 DIAMOND_ESSENCE:
@@ -290,15 +408,21 @@ DRAGON_FRUIT:
   type:
   - '&7&oอาหาร'
 DRAGON_FRUIT_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 DRAGON_FRUIT_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 DRAGON_FRUIT_SAPLING:
   type:
   - '&7&oส่วนประกอบ'
 EGG_SALAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ELDERBERRY:
@@ -308,15 +432,23 @@ ELDERBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 ELDERBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ELDERBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ELDERBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ELDERBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 EMERALD_ESSENCE:
@@ -332,24 +464,34 @@ ENDER_PLANT:
   type:
   - '&7&oเวทมนตร์'
 FISH_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 FISH_TACO:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 FRIES:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GARLIC:
   type:
   - '&7&oอาหาร'
 GARLIC_BREAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GARLIC_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 GARLIC_CHEESE_BREAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GLOWSTONE_ESSENCE:
@@ -371,36 +513,56 @@ GRAPE_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 GRAPE_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GRAPE_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GRAPE_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GRAPE_SALAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GRAPE_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 GRASS_SEEDS:
   type:
   - '&7&oอุปกรณ์'
 GRILLED_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 HAMBURGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 HOT_CHOCOLATE:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 HOT_DOG:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ICE_CREAM:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ICE_CUBE:
@@ -413,12 +575,16 @@ IRON_PLANT:
   type:
   - '&7&oเวทมนตร์'
 JAMMY_DODGER:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 KITCHEN:
   type:
   - '&7&oMultiblock'
 LAMINGTON:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LAPIS_ESSENCE:
@@ -428,6 +594,8 @@ LAPIS_PLANT:
   type:
   - '&7&oเวทมนตร์'
 LASAGNA:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEAD_ESSENCE:
@@ -437,24 +605,36 @@ LEAD_PLANT:
   type:
   - '&7&oเวทมนตร์'
 LEAFY_CHICKEN_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEAFY_FISH_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEMON:
   type:
   - '&7&oอาหาร'
 LEMONADE:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEMON_ICED_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEMON_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEMON_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LEMON_SAPLING:
@@ -470,15 +650,21 @@ LIME:
   type:
   - '&7&oอาหาร'
 LIME_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LIME_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 LIME_SAPLING:
   type:
   - '&7&oส่วนประกอบ'
 LIME_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 MAYO:
@@ -506,9 +692,13 @@ OAK_APPLE:
   type:
   - '&7&oอาหาร'
 OAK_APPLE_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 OAK_APPLE_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 OAK_APPLE_SAPLING:
@@ -530,30 +720,44 @@ ORANGE:
   type:
   - '&7&oอาหาร'
 ORANGE_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ORANGE_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 ORANGE_SAPLING:
   type:
   - '&7&oส่วนประกอบ'
 PANCAKES:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PAVLOVA:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PEACH:
   type:
   - '&7&oอาหาร'
 PEACH_ICED_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PEACH_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PEACH_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PEACH_SAPLING:
@@ -563,15 +767,21 @@ PEAR:
   type:
   - '&7&oอาหาร'
 PEAR_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PEAR_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PEAR_SAPLING:
   type:
   - '&7&oส่วนประกอบ'
 PINACOLADA:
+  stats:
+  - '&7&oฟื้นฟู &b&o7.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PINEAPPLE:
@@ -581,18 +791,26 @@ PINEAPPLE_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 PINEAPPLE_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PINEAPPLE_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PLUM:
   type:
   - '&7&oอาหาร'
 PLUM_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PLUM_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PLUM_SAPLING:
@@ -602,27 +820,41 @@ POMEGRANATE:
   type:
   - '&7&oอาหาร'
 POMEGRANATE_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 POMEGRANATE_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 POMEGRANATE_SAPLING:
   type:
   - '&7&oส่วนประกอบ'
 POPCORN:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 POTATO_SALAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PUMPKIN_BREAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o4.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PUMPKIN_CHEESECAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 PUMPKIN_MUFFIN:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 QUARTZ_ESSENCE:
@@ -638,18 +870,28 @@ RASPBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 RASPBERRY_ICED_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 RASPBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 RASPBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 RASPBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 RASPBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 REDSTONE_ESSENCE:
@@ -665,12 +907,18 @@ RED_BELL_PEPPER_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 SALTY_POPCORN:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SHEPARDS_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SILVER_ESSENCE:
@@ -692,39 +940,63 @@ STRAWBERRY_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 STRAWBERRY_ICED_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STRAWBERRY_JELLY_SANDWICH:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STRAWBERRY_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STRAWBERRY_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STRAWBERRY_SALAD:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STRAWBERRY_SMOOTHIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STREET_TACO:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 STUFFED_RED_BELL_PEPPER:
+  stats:
+  - '&7&oฟื้นฟู &b&o7.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SWEETENED_PEAR_CHEESECAKE:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SWEETENED_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SWEET_BERRY_PANCAKES:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SWEET_POPCORN:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 SWEET_POTATO:
@@ -734,9 +1006,13 @@ SWEET_POTATO_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 SWEET_POTATO_PIE:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TACO:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TEA_LEAF:
@@ -746,6 +1022,8 @@ TEA_LEAF_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 THAI_TEA:
+  stats:
+  - '&7&oฟื้นฟู &b&o7.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TIN_ESSENCE:
@@ -755,15 +1033,23 @@ TIN_PLANT:
   type:
   - '&7&oเวทมนตร์'
 TIRAMISU:
+  stats:
+  - '&7&oฟื้นฟู &b&o8.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TIRAMISU_WITH_BLACKBERRIES:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TIRAMISU_WITH_RASPBERRIES:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TIRAMISU_WITH_STRAWBERRIES:
+  stats:
+  - '&7&oฟื้นฟู &b&o9.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TOMATO:
@@ -773,18 +1059,26 @@ TOMATO_BUSH:
   type:
   - '&7&oส่วนประกอบ'
 TOMATO_JUICE:
+  stats:
+  - '&7&oฟื้นฟู &b&o3.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 TOMATO_SOUP:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.5 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 VEGETABLE_OIL:
   type:
   - '&7&oส่วนประกอบ'
 WAFFLES:
+  stats:
+  - '&7&oฟื้นฟู &b&o6.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 WINE:
+  stats:
+  - '&7&oฟื้นฟู &b&o5.0 &7&oความหิว'
   type:
   - '&7&oอาหาร'
 YEAST:

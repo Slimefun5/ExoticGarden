@@ -8,38 +8,56 @@ ALUMINUM_PLANT:
   - '&7&oMagiczny'
 APPLE_PEAR_CAKE:
   name: '&cCiasto jabłkowo-gruszkowe'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BACON:
   name: '&rBekon'
+  stats:
+  - '&7&oPrzywraca &b&o1.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BACON_BURGER:
   name: '&rBurger z bekonem'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BACON_CHEESEBURGER:
   name: '&rCheeseburger z bekonem'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BACON_SANDWICH:
   name: '&rKanapka z bekonem'
+  stats:
+  - '&7&oPrzywraca &b&o9.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
   name: '&rHot dog owinięty bekonem z nadzieniem serowym'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BAGEL:
   name: '&rBajgiel'
+  stats:
+  - '&7&oPrzywraca &b&o2.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BBQ_BACON_WRAPPED_HOT_DOG:
   name: '&rHot dog BBQ owinięty bekonem'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
   name: '&rHot dog BBQ z podwójnym bekonem w tortilli z serem'
+  stats:
+  - '&7&oPrzywraca &b&o10.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BBQ_SAUCE:
@@ -48,10 +66,14 @@ BBQ_SAUCE:
   - '&7&oKomponent'
 BISCUIT:
   name: '&6Herbatnik'
+  stats:
+  - '&7&oPrzywraca &b&o2.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BISCUITS_GRAVY:
   name: '&rHerbatniki z sosem wiejskim'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLACKBERRY:
@@ -64,22 +86,32 @@ BLACKBERRY_BUSH:
   - '&7&oKomponent'
 BLACKBERRY_COBBLER:
   name: '&8Kobler jeżynowy'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLACKBERRY_JELLY_SANDWICH:
   name: '&8Jeżyna Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLACKBERRY_JUICE:
   name: '&8Jeżyna Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLACKBERRY_PIE:
   name: '&8Jeżyna Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLACKBERRY_SMOOTHIE:
   name: '&8Jeżyna Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLACK_PEPPER:
@@ -92,6 +124,8 @@ BLACK_PEPPER_BUSH:
   - '&7&oKomponent'
 BLT:
   name: '&rKanapka BLT'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY:
@@ -104,34 +138,50 @@ BLUEBERRY_BUSH:
   - '&7&oKomponent'
 BLUEBERRY_CHEESECAKE:
   name: '&9Borówka Sernik'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_JELLY_SANDWICH:
   name: '&9Borówka Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_JUICE:
   name: '&9Borówka Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_MUFFIN:
   name: '&rMuffinka z borówkami'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_PANCAKES:
   name: '&rNaleśniki z borówkami'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_PIE:
   name: '&9Borówka Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_SMOOTHIE:
   name: '&9Borówka Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BOSTON_CREAM_PIE:
   name: '&rBoston cream pie'
+  stats:
+  - '&7&oPrzywraca &b&o4.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BROWN_SUGAR:
@@ -140,6 +190,8 @@ BROWN_SUGAR:
   - '&7&oKomponent'
 BURRITO:
   name: '&rBurrito'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CABBAGE:
@@ -152,14 +204,20 @@ CABBAGE_BUSH:
   - '&7&oKomponent'
 CARROT_CAKE:
   name: '&rCiasto marchewkowe'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHEESEBURGER:
   name: '&rCheeseburger'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHEESECAKE:
   name: '&rSernik'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHERRY:
@@ -168,18 +226,26 @@ CHERRY:
   - '&7&oJedzenie'
 CHERRY_CHEESECAKE:
   name: '&cWiśnia Sernik'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHERRY_ICED_TEA:
   name: '&cWiśnia Mrożona herbata'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHERRY_JUICE:
   name: '&cWiśnia Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHERRY_PIE:
   name: '&cWiśnia Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHERRY_SAPLING:
@@ -188,46 +254,68 @@ CHERRY_SAPLING:
   - '&7&oKomponent'
 CHICKEN_BURGER:
   name: '&rBurger z kurczakiem'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHICKEN_BURRITO:
   name: '&rBurrito z kurczakiem'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHICKEN_CHEESEBURGER:
   name: '&rCheeseburger z kurczakiem'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHICKEN_CURRY:
   name: '&rCurry z kurczakiem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHICKEN_POT_PIE:
   name: '&rPlacek z kurczakiem'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHICKEN_SANDWICH:
   name: '&rKanapka z kurczakiem'
+  stats:
+  - '&7&oPrzywraca &b&o5.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHOCOLATE_BAR:
   name: '&rTabliczka czekolady'
+  stats:
+  - '&7&oPrzywraca &b&o1.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHOCOLATE_CAKE:
   name: '&rCiasto czekoladowe'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHOCOLATE_CHIP_MUFFIN:
   name: '&rMuffinka z czekoladą'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHOCOLATE_PEAR_CAKE:
   name: '&rCiasto czekoladowo-gruszkowe'
+  stats:
+  - '&7&oPrzywraca &b&o9.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CHOCOLATE_STRAWBERRY:
   name: '&cTruskawka w czekoladzie'
+  stats:
+  - '&7&oPrzywraca &b&o2.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CILANTRO:
@@ -240,6 +328,8 @@ CILANTRO_BUSH:
   - '&7&oKomponent'
 CLUB_SANDWICH:
   name: '&rKlubowa kanapka'
+  stats:
+  - '&7&oPrzywraca &b&o9.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COAL_ESSENCE:
@@ -256,10 +346,14 @@ COCONUT:
   - '&7&oJedzenie'
 COCONUT_CHICKEN_CURRY:
   name: '&rCurry z kurczakiem i kokosem'
+  stats:
+  - '&7&oPrzywraca &b&o9.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COCONUT_MILK:
   name: '&6Kokos Mleko'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COCONUT_SAPLING:
@@ -288,6 +382,8 @@ CORN_BUSH:
   - '&7&oKomponent'
 CORN_ON_THE_COB:
   name: '&6Kolba kukurydzy'
+  stats:
+  - '&7&oPrzywraca &b&o4.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COUNTRY_GRAVY:
@@ -304,18 +400,26 @@ COWBERRY_BUSH:
   - '&7&oKomponent'
 COWBERRY_JELLY_SANDWICH:
   name: '&cBorówka brusznica Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COWBERRY_JUICE:
   name: '&cBorówka brusznica Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COWBERRY_PIE:
   name: '&cBorówka brusznica Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 COWBERRY_SMOOTHIE:
   name: '&cBorówka brusznica Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CRANBERRY:
@@ -328,26 +432,38 @@ CRANBERRY_BUSH:
   - '&7&oKomponent'
 CRANBERRY_JELLY_SANDWICH:
   name: '&cŻurawina Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CRANBERRY_JUICE:
   name: '&cŻurawina Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CRANBERRY_PIE:
   name: '&cŻurawina Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CRANBERRY_SMOOTHIE:
   name: '&cŻurawina Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CREAMED_CORN:
   name: '&rKukurydza w śmietanie'
+  stats:
+  - '&7&oPrzywraca &b&o4.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CREAM_COOKIE:
   name: '&rCiastko śmietankowe'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 CROOK:
@@ -364,6 +480,8 @@ CURRY_LEAF_BUSH:
   - '&7&oKomponent'
 DELUXE_CHEESEBURGER:
   name: '&rCheeseburger deluxe'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 DIAMOND_ESSENCE:
@@ -388,10 +506,14 @@ DRAGON_FRUIT:
   - '&7&oJedzenie'
 DRAGON_FRUIT_JUICE:
   name: '&dSmoczy owoc Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 DRAGON_FRUIT_PIE:
   name: '&dSmoczy owoc Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 DRAGON_FRUIT_SAPLING:
@@ -400,6 +522,8 @@ DRAGON_FRUIT_SAPLING:
   - '&7&oKomponent'
 EGG_SALAD:
   name: '&rSałatka jajeczna'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ELDERBERRY:
@@ -412,18 +536,26 @@ ELDERBERRY_BUSH:
   - '&7&oKomponent'
 ELDERBERRY_JELLY_SANDWICH:
   name: '&cCzarny bez Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ELDERBERRY_JUICE:
   name: '&cCzarny bez Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ELDERBERRY_PIE:
   name: '&cCzarny bez Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ELDERBERRY_SMOOTHIE:
   name: '&cCzarny bez Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 EMERALD_ESSENCE:
@@ -444,14 +576,20 @@ ENDER_PLANT:
   - '&7&oMagiczny'
 FISH_SANDWICH:
   name: '&rKanapka z rybą'
+  stats:
+  - '&7&oPrzywraca &b&o5.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 FISH_TACO:
   name: '&rTaco z rybą'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 FRIES:
   name: '&rFrytki'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GARLIC:
@@ -460,6 +598,8 @@ GARLIC:
   - '&7&oJedzenie'
 GARLIC_BREAD:
   name: '&rChleb czosnkowy'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GARLIC_BUSH:
@@ -468,6 +608,8 @@ GARLIC_BUSH:
   - '&7&oKomponent'
 GARLIC_CHEESE_BREAD:
   name: '&rChleb czosnkowy z serem'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GLOWSTONE_ESSENCE:
@@ -496,22 +638,32 @@ GRAPE_BUSH:
   - '&7&oKomponent'
 GRAPE_JELLY_SANDWICH:
   name: '&cWinogrono Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GRAPE_JUICE:
   name: '&cWinogrono Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GRAPE_PIE:
   name: '&cWinogrono Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GRAPE_SALAD:
   name: '&cSałatka winogronowa'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GRAPE_SMOOTHIE:
   name: '&cWinogrono Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 GRASS_SEEDS:
@@ -520,22 +672,32 @@ GRASS_SEEDS:
   - '&7&oGadżet'
 GRILLED_SANDWICH:
   name: '&rGrillowana kanapka'
+  stats:
+  - '&7&oPrzywraca &b&o5.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 HAMBURGER:
   name: '&rHamburger'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 HOT_CHOCOLATE:
   name: '&6Gorąca czekolada'
+  stats:
+  - '&7&oPrzywraca &b&o4.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 HOT_DOG:
   name: '&rHot dog'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ICE_CREAM:
   name: '&rLody'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ICE_CUBE:
@@ -552,6 +714,8 @@ IRON_PLANT:
   - '&7&oMagiczny'
 JAMMY_DODGER:
   name: '&cJammy Dodger'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 KITCHEN:
@@ -560,6 +724,8 @@ KITCHEN:
   - '&7&oMultiblok'
 LAMINGTON:
   name: '&rLamington'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LAPIS_ESSENCE:
@@ -572,6 +738,8 @@ LAPIS_PLANT:
   - '&7&oMagiczny'
 LASAGNA:
   name: '&rLasagna'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEAD_ESSENCE:
@@ -584,10 +752,14 @@ LEAD_PLANT:
   - '&7&oMagiczny'
 LEAFY_CHICKEN_SANDWICH:
   name: '&rKanapka z kurczakiem i sałatą'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEAFY_FISH_SANDWICH:
   name: '&rKanapka z rybą i sałatą'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEMON:
@@ -596,18 +768,26 @@ LEMON:
   - '&7&oJedzenie'
 LEMONADE:
   name: '&eLemoniada'
+  stats:
+  - '&7&oPrzywraca &b&o4.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEMON_ICED_TEA:
   name: '&eCytryna Mrożona herbata'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEMON_JUICE:
   name: '&eCytryna Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEMON_PIE:
   name: '&eCytryna Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LEMON_SAPLING:
@@ -628,10 +808,14 @@ LIME:
   - '&7&oJedzenie'
 LIME_JUICE:
   name: '&aLimonka Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LIME_PIE:
   name: '&aLimonka Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 LIME_SAPLING:
@@ -640,6 +824,8 @@ LIME_SAPLING:
   - '&7&oKomponent'
 LIME_SMOOTHIE:
   name: '&aLimonka Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 MAYO:
@@ -676,10 +862,14 @@ OAK_APPLE:
   - '&7&oJedzenie'
 OAK_APPLE_JUICE:
   name: '&cDębowe jabłko Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 OAK_APPLE_PIE:
   name: '&cDębowe jabłko Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 OAK_APPLE_SAPLING:
@@ -708,10 +898,14 @@ ORANGE:
   - '&7&oJedzenie'
 ORANGE_JUICE:
   name: '&6Pomarańcza Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ORANGE_PIE:
   name: '&6Pomarańcza Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 ORANGE_SAPLING:
@@ -720,10 +914,14 @@ ORANGE_SAPLING:
   - '&7&oKomponent'
 PANCAKES:
   name: '&rNaleśniki'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PAVLOVA:
   name: '&rPavlova'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PEACH:
@@ -732,14 +930,20 @@ PEACH:
   - '&7&oJedzenie'
 PEACH_ICED_TEA:
   name: '&dBrzoskwinia Mrożona herbata'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PEACH_JUICE:
   name: '&5Brzoskwinia Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PEACH_PIE:
   name: '&5Brzoskwinia Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PEACH_SAPLING:
@@ -752,10 +956,14 @@ PEAR:
   - '&7&oJedzenie'
 PEAR_JUICE:
   name: '&aGruszka Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PEAR_PIE:
   name: '&aGruszka Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PEAR_SAPLING:
@@ -764,6 +972,8 @@ PEAR_SAPLING:
   - '&7&oKomponent'
 PINACOLADA:
   name: '&6Piña colada'
+  stats:
+  - '&7&oPrzywraca &b&o7.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PINEAPPLE:
@@ -776,10 +986,14 @@ PINEAPPLE_BUSH:
   - '&7&oKomponent'
 PINEAPPLE_JUICE:
   name: '&6Ananas Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PINEAPPLE_SMOOTHIE:
   name: '&6Ananas Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PLUM:
@@ -788,10 +1002,14 @@ PLUM:
   - '&7&oJedzenie'
 PLUM_JUICE:
   name: '&5Śliwka Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PLUM_PIE:
   name: '&5Śliwka Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PLUM_SAPLING:
@@ -804,10 +1022,14 @@ POMEGRANATE:
   - '&7&oJedzenie'
 POMEGRANATE_JUICE:
   name: '&4Granat Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 POMEGRANATE_PIE:
   name: '&4Granat Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 POMEGRANATE_SAPLING:
@@ -816,22 +1038,32 @@ POMEGRANATE_SAPLING:
   - '&7&oKomponent'
 POPCORN:
   name: '&rPopcorn'
+  stats:
+  - '&7&oPrzywraca &b&o4.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 POTATO_SALAD:
   name: '&rSałatka ziemniaczana'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PUMPKIN_BREAD:
   name: '&rChleb dyniowy'
+  stats:
+  - '&7&oPrzywraca &b&o4.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PUMPKIN_CHEESECAKE:
   name: '&6Sernik dyniowy'
+  stats:
+  - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 PUMPKIN_MUFFIN:
   name: '&rMuffinka dyniowa'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 QUARTZ_ESSENCE:
@@ -852,22 +1084,32 @@ RASPBERRY_BUSH:
   - '&7&oKomponent'
 RASPBERRY_ICED_TEA:
   name: '&dMalina Mrożona herbata'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 RASPBERRY_JELLY_SANDWICH:
   name: '&dMalina Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 RASPBERRY_JUICE:
   name: '&dMalina Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 RASPBERRY_PIE:
   name: '&dMalina Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 RASPBERRY_SMOOTHIE:
   name: '&dMalina Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 REDSTONE_ESSENCE:
@@ -888,14 +1130,20 @@ RED_BELL_PEPPER_BUSH:
   - '&7&oKomponent'
 SALTY_POPCORN:
   name: '&rPopcorn &7(Słony)'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SANDWICH:
   name: '&rKanapka'
+  stats:
+  - '&7&oPrzywraca &b&o9.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SHEPARDS_PIE:
   name: '&rPasterski placek'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SILVER_ESSENCE:
@@ -924,50 +1172,74 @@ STRAWBERRY_BUSH:
   - '&7&oKomponent'
 STRAWBERRY_ICED_TEA:
   name: '&4Truskawka Mrożona herbata'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STRAWBERRY_JELLY_SANDWICH:
   name: '&4Truskawka Kanapka z dżemem'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STRAWBERRY_JUICE:
   name: '&4Truskawka Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STRAWBERRY_PIE:
   name: '&4Truskawka Ciasto'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STRAWBERRY_SALAD:
   name: '&cSałatka truskawkowa'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STRAWBERRY_SMOOTHIE:
   name: '&4Truskawka Smoothie'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STREET_TACO:
   name: '&rUliczne taco'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 STUFFED_RED_BELL_PEPPER:
   name: '&cFaszerowana czerwona papryka'
+  stats:
+  - '&7&oPrzywraca &b&o7.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SWEETENED_PEAR_CHEESECAKE:
   name: '&6Słodki sernik gruszkowy'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SWEETENED_TEA:
   name: '&aSłodzona herbata'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SWEET_BERRY_PANCAKES:
   name: '&rNaleśniki ze słodkimi jagodami'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SWEET_POPCORN:
   name: '&rPopcorn &7(Słodki)'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 SWEET_POTATO:
@@ -980,10 +1252,14 @@ SWEET_POTATO_BUSH:
   - '&7&oKomponent'
 SWEET_POTATO_PIE:
   name: '&rPlacek z batatów'
+  stats:
+  - '&7&oPrzywraca &b&o6.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TACO:
   name: '&rTaco'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TEA_LEAF:
@@ -996,6 +1272,8 @@ TEA_LEAF_BUSH:
   - '&7&oKomponent'
 THAI_TEA:
   name: '&6Tajska herbata'
+  stats:
+  - '&7&oPrzywraca &b&o7.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TIN_ESSENCE:
@@ -1008,18 +1286,26 @@ TIN_PLANT:
   - '&7&oMagiczny'
 TIRAMISU:
   name: '&rTiramisu'
+  stats:
+  - '&7&oPrzywraca &b&o8.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TIRAMISU_WITH_BLACKBERRIES:
   name: '&rTiramisu z jeżynami'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TIRAMISU_WITH_RASPBERRIES:
   name: '&rTiramisu z malinami'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TIRAMISU_WITH_STRAWBERRIES:
   name: '&rTiramisu z truskawkami'
+  stats:
+  - '&7&oPrzywraca &b&o9.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TOMATO:
@@ -1032,10 +1318,14 @@ TOMATO_BUSH:
   - '&7&oKomponent'
 TOMATO_JUICE:
   name: '&4Pomidor Sok'
+  stats:
+  - '&7&oPrzywraca &b&o3.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 TOMATO_SOUP:
   name: '&4Zupa pomidorowa'
+  stats:
+  - '&7&oPrzywraca &b&o5.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 VEGETABLE_OIL:
@@ -1044,10 +1334,14 @@ VEGETABLE_OIL:
   - '&7&oKomponent'
 WAFFLES:
   name: '&rGofry'
+  stats:
+  - '&7&oPrzywraca &b&o6.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 WINE:
   name: '&cWino'
+  stats:
+  - '&7&oPrzywraca &b&o5.0 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 YEAST:
