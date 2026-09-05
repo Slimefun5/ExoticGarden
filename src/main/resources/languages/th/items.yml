@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oอาหาร'
+BACON:
+  type:
+  - '&7&oอาหาร'
+BACON_BURGER:
+  type:
+  - '&7&oอาหาร'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oอาหาร'
+BACON_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oอาหาร'
+BAGEL:
+  type:
+  - '&7&oอาหาร'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oอาหาร'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oอาหาร'
+BBQ_SAUCE:
+  type:
+  - '&7&oส่วนประกอบ'
+BISCUIT:
+  type:
+  - '&7&oอาหาร'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oอาหาร'
+BLACKBERRY:
+  type:
+  - '&7&oอาหาร'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oอาหาร'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+BLACK_PEPPER:
+  type:
+  - '&7&oอาหาร'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+BLT:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oอาหาร'
+BROWN_SUGAR:
+  type:
+  - '&7&oส่วนประกอบ'
+BURRITO:
+  type:
+  - '&7&oอาหาร'
+CABBAGE:
+  type:
+  - '&7&oอาหาร'
+CABBAGE_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+CARROT_CAKE:
+  type:
+  - '&7&oอาหาร'
+CHEESEBURGER:
+  type:
+  - '&7&oอาหาร'
+CHEESECAKE:
+  type:
+  - '&7&oอาหาร'
+CHERRY:
+  type:
+  - '&7&oอาหาร'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oอาหาร'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oอาหาร'
+CHERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+CHERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+CHERRY_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+CHICKEN_BURGER:
+  type:
+  - '&7&oอาหาร'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oอาหาร'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oอาหาร'
+CHICKEN_CURRY:
+  type:
+  - '&7&oอาหาร'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oอาหาร'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oอาหาร'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oอาหาร'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oอาหาร'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oอาหาร'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oอาหาร'
+CILANTRO:
+  type:
+  - '&7&oอาหาร'
+CILANTRO_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+CLUB_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+COAL_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+COAL_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+COCONUT:
+  type:
+  - '&7&oอาหาร'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oอาหาร'
+COCONUT_MILK:
+  type:
+  - '&7&oอาหาร'
+COCONUT_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+COPPER_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+COPPER_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+CORN:
+  type:
+  - '&7&oอาหาร'
+CORNMEAL:
+  type:
+  - '&7&oส่วนประกอบ'
+CORN_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oอาหาร'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oส่วนประกอบ'
+COWBERRY:
+  type:
+  - '&7&oอาหาร'
+COWBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+COWBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+COWBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+CRANBERRY:
+  type:
+  - '&7&oอาหาร'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+CRANBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+CREAMED_CORN:
+  type:
+  - '&7&oอาหาร'
+CREAM_COOKIE:
+  type:
+  - '&7&oอาหาร'
+CROOK:
+  type:
+  - '&7&oเครื่องมือ'
+CURRY_LEAF:
+  type:
+  - '&7&oอาหาร'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oอาหาร'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+DIAMOND_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+DIRT_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+DIRT_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+DRAGON_FRUIT:
+  type:
+  - '&7&oอาหาร'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oอาหาร'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oอาหาร'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+EGG_SALAD:
+  type:
+  - '&7&oอาหาร'
+ELDERBERRY:
+  type:
+  - '&7&oอาหาร'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+EMERALD_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+ENDER_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+ENDER_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+FISH_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+FISH_TACO:
+  type:
+  - '&7&oอาหาร'
+FRIES:
+  type:
+  - '&7&oอาหาร'
+GARLIC:
+  type:
+  - '&7&oอาหาร'
+GARLIC_BREAD:
+  type:
+  - '&7&oอาหาร'
+GARLIC_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oอาหาร'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+GOLD_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+GOLD_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+GRAPE:
+  type:
+  - '&7&oอาหาร'
+GRAPE_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+GRAPE_JUICE:
+  type:
+  - '&7&oอาหาร'
+GRAPE_PIE:
+  type:
+  - '&7&oอาหาร'
+GRAPE_SALAD:
+  type:
+  - '&7&oอาหาร'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+GRASS_SEEDS:
+  type:
+  - '&7&oอุปกรณ์'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+HAMBURGER:
+  type:
+  - '&7&oอาหาร'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oอาหาร'
+HOT_DOG:
+  type:
+  - '&7&oอาหาร'
+ICE_CREAM:
+  type:
+  - '&7&oอาหาร'
+ICE_CUBE:
+  type:
+  - '&7&oส่วนประกอบ'
+IRON_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+IRON_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+JAMMY_DODGER:
+  type:
+  - '&7&oอาหาร'
+KITCHEN:
+  type:
+  - '&7&oMultiblock'
+LAMINGTON:
+  type:
+  - '&7&oอาหาร'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+LAPIS_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+LASAGNA:
+  type:
+  - '&7&oอาหาร'
+LEAD_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+LEAD_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+LEMON:
+  type:
+  - '&7&oอาหาร'
+LEMONADE:
+  type:
+  - '&7&oอาหาร'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oอาหาร'
+LEMON_JUICE:
+  type:
+  - '&7&oอาหาร'
+LEMON_PIE:
+  type:
+  - '&7&oอาหาร'
+LEMON_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+LETTUCE:
+  type:
+  - '&7&oอาหาร'
+LETTUCE_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+LIME:
+  type:
+  - '&7&oอาหาร'
+LIME_JUICE:
+  type:
+  - '&7&oอาหาร'
+LIME_PIE:
+  type:
+  - '&7&oอาหาร'
+LIME_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+MAYO:
+  type:
+  - '&7&oส่วนประกอบ'
+MOLASSES:
+  type:
+  - '&7&oส่วนประกอบ'
+MUSTARD:
+  type:
+  - '&7&oส่วนประกอบ'
+MUSTARD_SEED:
+  type:
+  - '&7&oอาหาร'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+NETHERITE_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+OAK_APPLE:
+  type:
+  - '&7&oอาหาร'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oอาหาร'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oอาหาร'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+ONION:
+  type:
+  - '&7&oอาหาร'
+ONION_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+ORANGE:
+  type:
+  - '&7&oอาหาร'
+ORANGE_JUICE:
+  type:
+  - '&7&oอาหาร'
+ORANGE_PIE:
+  type:
+  - '&7&oอาหาร'
+ORANGE_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+PANCAKES:
+  type:
+  - '&7&oอาหาร'
+PAVLOVA:
+  type:
+  - '&7&oอาหาร'
+PEACH:
+  type:
+  - '&7&oอาหาร'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oอาหาร'
+PEACH_JUICE:
+  type:
+  - '&7&oอาหาร'
+PEACH_PIE:
+  type:
+  - '&7&oอาหาร'
+PEACH_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+PEAR:
+  type:
+  - '&7&oอาหาร'
+PEAR_JUICE:
+  type:
+  - '&7&oอาหาร'
+PEAR_PIE:
+  type:
+  - '&7&oอาหาร'
+PEAR_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+PINACOLADA:
+  type:
+  - '&7&oอาหาร'
+PINEAPPLE:
+  type:
+  - '&7&oอาหาร'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oอาหาร'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+PLUM:
+  type:
+  - '&7&oอาหาร'
+PLUM_JUICE:
+  type:
+  - '&7&oอาหาร'
+PLUM_PIE:
+  type:
+  - '&7&oอาหาร'
+PLUM_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+POMEGRANATE:
+  type:
+  - '&7&oอาหาร'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oอาหาร'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oอาหาร'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oส่วนประกอบ'
+POPCORN:
+  type:
+  - '&7&oอาหาร'
+POTATO_SALAD:
+  type:
+  - '&7&oอาหาร'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oอาหาร'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oอาหาร'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oอาหาร'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+QUARTZ_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+RASPBERRY:
+  type:
+  - '&7&oอาหาร'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oอาหาร'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+RASPBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+REDSTONE_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oอาหาร'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+SALTY_POPCORN:
+  type:
+  - '&7&oอาหาร'
+SANDWICH:
+  type:
+  - '&7&oอาหาร'
+SHEPARDS_PIE:
+  type:
+  - '&7&oอาหาร'
+SILVER_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+SILVER_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+SLIME_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+SLIME_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+STRAWBERRY:
+  type:
+  - '&7&oอาหาร'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oอาหาร'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oอาหาร'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oอาหาร'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oอาหาร'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oอาหาร'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oอาหาร'
+STREET_TACO:
+  type:
+  - '&7&oอาหาร'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oอาหาร'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oอาหาร'
+SWEETENED_TEA:
+  type:
+  - '&7&oอาหาร'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oอาหาร'
+SWEET_POPCORN:
+  type:
+  - '&7&oอาหาร'
+SWEET_POTATO:
+  type:
+  - '&7&oอาหาร'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oอาหาร'
+TACO:
+  type:
+  - '&7&oอาหาร'
+TEA_LEAF:
+  type:
+  - '&7&oอาหาร'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+THAI_TEA:
+  type:
+  - '&7&oอาหาร'
+TIN_ESSENCE:
+  type:
+  - '&7&oเวทมนตร์'
+TIN_PLANT:
+  type:
+  - '&7&oเวทมนตร์'
+TIRAMISU:
+  type:
+  - '&7&oอาหาร'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oอาหาร'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oอาหาร'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oอาหาร'
+TOMATO:
+  type:
+  - '&7&oอาหาร'
+TOMATO_BUSH:
+  type:
+  - '&7&oส่วนประกอบ'
+TOMATO_JUICE:
+  type:
+  - '&7&oอาหาร'
+TOMATO_SOUP:
+  type:
+  - '&7&oอาหาร'
+VEGETABLE_OIL:
+  type:
+  - '&7&oส่วนประกอบ'
+WAFFLES:
+  type:
+  - '&7&oอาหาร'
+WINE:
+  type:
+  - '&7&oอาหาร'
+YEAST:
+  type:
+  - '&7&oส่วนประกอบ'

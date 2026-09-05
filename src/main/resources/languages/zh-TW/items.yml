@@ -1,1056 +1,792 @@
 ALUMINUM_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 ALUMINUM_PLANT:
-  name: '&r铝植株'
   type:
   - '&7&o魔法'
 APPLE_PEAR_CAKE:
-  name: '&c苹果梨蛋糕'
   type:
   - '&7&o食物'
 BACON:
-  name: '&r培根'
   type:
   - '&7&o食物'
 BACON_BURGER:
-  name: '&r培根汉堡'
   type:
   - '&7&o食物'
 BACON_CHEESEBURGER:
-  name: '&r培根芝士汉堡'
   type:
   - '&7&o食物'
 BACON_SANDWICH:
-  name: '&r培根三明治'
   type:
   - '&7&o食物'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
-  name: '&r培根芝士夹心热狗'
   type:
   - '&7&o食物'
 BAGEL:
-  name: '&r贝果'
   type:
   - '&7&o食物'
 BBQ_BACON_WRAPPED_HOT_DOG:
-  name: '&r烧烤培根卷热狗'
   type:
   - '&7&o食物'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
-  name: '&r芝士玉米饼双层培根烧烤热狗'
   type:
   - '&7&o食物'
 BBQ_SAUCE:
-  name: '&c烧烤酱'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 BISCUIT:
-  name: '&6饼干'
   type:
   - '&7&o食物'
 BISCUITS_GRAVY:
-  name: '&r饼干配乡村肉汁'
   type:
   - '&7&o食物'
 BLACKBERRY:
-  name: '&8黑莓'
   type:
   - '&7&o食物'
 BLACKBERRY_BUSH:
-  name: '&8黑莓灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 BLACKBERRY_COBBLER:
-  name: '&8黑莓酥派'
   type:
   - '&7&o食物'
 BLACKBERRY_JELLY_SANDWICH:
-  name: '&8黑莓果酱三明治'
   type:
   - '&7&o食物'
 BLACKBERRY_JUICE:
-  name: '&8黑莓果汁'
   type:
   - '&7&o食物'
 BLACKBERRY_PIE:
-  name: '&8黑莓派'
   type:
   - '&7&o食物'
 BLACKBERRY_SMOOTHIE:
-  name: '&8黑莓冰沙'
   type:
   - '&7&o食物'
 BLACK_PEPPER:
-  name: '&8黑胡椒'
   type:
   - '&7&o食物'
 BLACK_PEPPER_BUSH:
-  name: '&8黑胡椒植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 BLT:
-  name: '&rBLT三明治'
   type:
   - '&7&o食物'
 BLUEBERRY:
-  name: '&9蓝莓'
   type:
   - '&7&o食物'
 BLUEBERRY_BUSH:
-  name: '&9蓝莓灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 BLUEBERRY_CHEESECAKE:
-  name: '&9蓝莓芝士蛋糕'
   type:
   - '&7&o食物'
 BLUEBERRY_JELLY_SANDWICH:
-  name: '&9蓝莓果酱三明治'
   type:
   - '&7&o食物'
 BLUEBERRY_JUICE:
-  name: '&9蓝莓果汁'
   type:
   - '&7&o食物'
 BLUEBERRY_MUFFIN:
-  name: '&r蓝莓松饼'
   type:
   - '&7&o食物'
 BLUEBERRY_PANCAKES:
-  name: '&r蓝莓煎饼'
   type:
   - '&7&o食物'
 BLUEBERRY_PIE:
-  name: '&9蓝莓派'
   type:
   - '&7&o食物'
 BLUEBERRY_SMOOTHIE:
-  name: '&9蓝莓冰沙'
   type:
   - '&7&o食物'
 BOSTON_CREAM_PIE:
-  name: '&r波士顿奶油派'
   type:
   - '&7&o食物'
 BROWN_SUGAR:
-  name: '&r红糖'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 BURRITO:
-  name: '&r墨西哥卷饼'
   type:
   - '&7&o食物'
 CABBAGE:
-  name: '&2卷心菜'
   type:
   - '&7&o食物'
 CABBAGE_BUSH:
-  name: '&2卷心菜植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 CARROT_CAKE:
-  name: '&r胡萝卜蛋糕'
   type:
   - '&7&o食物'
 CHEESEBURGER:
-  name: '&r芝士汉堡'
   type:
   - '&7&o食物'
 CHEESECAKE:
-  name: '&r芝士蛋糕'
   type:
   - '&7&o食物'
 CHERRY:
-  name: '&c樱桃'
   type:
   - '&7&o食物'
 CHERRY_CHEESECAKE:
-  name: '&c樱桃芝士蛋糕'
   type:
   - '&7&o食物'
 CHERRY_ICED_TEA:
-  name: '&c樱桃冰茶'
   type:
   - '&7&o食物'
 CHERRY_JUICE:
-  name: '&c樱桃果汁'
   type:
   - '&7&o食物'
 CHERRY_PIE:
-  name: '&c樱桃派'
   type:
   - '&7&o食物'
 CHERRY_SAPLING:
-  name: '&c樱桃树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 CHICKEN_BURGER:
-  name: '&r鸡肉汉堡'
   type:
   - '&7&o食物'
 CHICKEN_BURRITO:
-  name: '&r鸡肉卷饼'
   type:
   - '&7&o食物'
 CHICKEN_CHEESEBURGER:
-  name: '&r鸡肉芝士汉堡'
   type:
   - '&7&o食物'
 CHICKEN_CURRY:
-  name: '&r咖喱鸡'
   type:
   - '&7&o食物'
 CHICKEN_POT_PIE:
-  name: '&r鸡肉派'
   type:
   - '&7&o食物'
 CHICKEN_SANDWICH:
-  name: '&r鸡肉三明治'
   type:
   - '&7&o食物'
 CHOCOLATE_BAR:
-  name: '&r巧克力棒'
   type:
   - '&7&o食物'
 CHOCOLATE_CAKE:
-  name: '&r巧克力蛋糕'
   type:
   - '&7&o食物'
 CHOCOLATE_CHIP_MUFFIN:
-  name: '&r巧克力豆松饼'
   type:
   - '&7&o食物'
 CHOCOLATE_PEAR_CAKE:
-  name: '&r巧克力梨蛋糕'
   type:
   - '&7&o食物'
 CHOCOLATE_STRAWBERRY:
-  name: '&c巧克力草莓'
   type:
   - '&7&o食物'
 CILANTRO:
-  name: '&a香菜'
   type:
   - '&7&o食物'
 CILANTRO_BUSH:
-  name: '&a香菜植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 CLUB_SANDWICH:
-  name: '&r总汇三明治'
   type:
   - '&7&o食物'
 COAL_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 COAL_PLANT:
-  name: '&r煤炭植株'
   type:
   - '&7&o魔法'
 COCONUT:
-  name: '&6椰子'
   type:
   - '&7&o食物'
 COCONUT_CHICKEN_CURRY:
-  name: '&r椰香咖喱鸡'
   type:
   - '&7&o食物'
 COCONUT_MILK:
-  name: '&6椰子奶'
   type:
   - '&7&o食物'
 COCONUT_SAPLING:
-  name: '&6椰子树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 COPPER_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 COPPER_PLANT:
-  name: '&r铜植株'
   type:
   - '&7&o魔法'
 CORN:
-  name: '&6玉米'
   type:
   - '&7&o食物'
 CORNMEAL:
-  name: '&r玉米粉'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 CORN_BUSH:
-  name: '&6玉米植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 CORN_ON_THE_COB:
-  name: '&6玉米棒'
   type:
   - '&7&o食物'
 COUNTRY_GRAVY:
-  name: '&r乡村肉汁'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 COWBERRY:
-  name: '&c越橘'
   type:
   - '&7&o食物'
 COWBERRY_BUSH:
-  name: '&c越橘灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 COWBERRY_JELLY_SANDWICH:
-  name: '&c越橘果酱三明治'
   type:
   - '&7&o食物'
 COWBERRY_JUICE:
-  name: '&c越橘果汁'
   type:
   - '&7&o食物'
 COWBERRY_PIE:
-  name: '&c越橘派'
   type:
   - '&7&o食物'
 COWBERRY_SMOOTHIE:
-  name: '&c越橘冰沙'
   type:
   - '&7&o食物'
 CRANBERRY:
-  name: '&c蔓越莓'
   type:
   - '&7&o食物'
 CRANBERRY_BUSH:
-  name: '&c蔓越莓灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 CRANBERRY_JELLY_SANDWICH:
-  name: '&c蔓越莓果酱三明治'
   type:
   - '&7&o食物'
 CRANBERRY_JUICE:
-  name: '&c蔓越莓果汁'
   type:
   - '&7&o食物'
 CRANBERRY_PIE:
-  name: '&c蔓越莓派'
   type:
   - '&7&o食物'
 CRANBERRY_SMOOTHIE:
-  name: '&c蔓越莓冰沙'
   type:
   - '&7&o食物'
 CREAMED_CORN:
-  name: '&r奶油玉米'
   type:
   - '&7&o食物'
 CREAM_COOKIE:
-  name: '&r奶油饼干'
   type:
   - '&7&o食物'
 CROOK:
-  name: '&r采集钩'
   type:
   - '&7&o工具'
 CURRY_LEAF:
-  name: '&2咖喱叶'
   type:
   - '&7&o食物'
 CURRY_LEAF_BUSH:
-  name: '&2咖喱叶植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 DELUXE_CHEESEBURGER:
-  name: '&r豪华芝士汉堡'
   type:
   - '&7&o食物'
 DIAMOND_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 DIAMOND_PLANT:
-  name: '&r钻石植株'
   type:
   - '&7&o魔法'
 DIRT_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 DIRT_PLANT:
-  name: '&r泥土植株'
   type:
   - '&7&o魔法'
 DRAGON_FRUIT:
-  name: '&d火龙果'
   type:
   - '&7&o食物'
 DRAGON_FRUIT_JUICE:
-  name: '&d火龙果果汁'
   type:
   - '&7&o食物'
 DRAGON_FRUIT_PIE:
-  name: '&d火龙果派'
   type:
   - '&7&o食物'
 DRAGON_FRUIT_SAPLING:
-  name: '&d火龙果树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 EGG_SALAD:
-  name: '&r鸡蛋沙拉'
   type:
   - '&7&o食物'
 ELDERBERRY:
-  name: '&c接骨木莓'
   type:
   - '&7&o食物'
 ELDERBERRY_BUSH:
-  name: '&c接骨木莓灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 ELDERBERRY_JELLY_SANDWICH:
-  name: '&c接骨木莓果酱三明治'
   type:
   - '&7&o食物'
 ELDERBERRY_JUICE:
-  name: '&c接骨木莓果汁'
   type:
   - '&7&o食物'
 ELDERBERRY_PIE:
-  name: '&c接骨木莓派'
   type:
   - '&7&o食物'
 ELDERBERRY_SMOOTHIE:
-  name: '&c接骨木莓冰沙'
   type:
   - '&7&o食物'
 EMERALD_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 EMERALD_PLANT:
-  name: '&r绿宝石植株'
   type:
   - '&7&o魔法'
 ENDER_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 ENDER_PLANT:
-  name: '&r末影植株'
   type:
   - '&7&o魔法'
 FISH_SANDWICH:
-  name: '&r鱼肉三明治'
   type:
   - '&7&o食物'
 FISH_TACO:
-  name: '&r鱼肉塔可'
   type:
   - '&7&o食物'
 FRIES:
-  name: '&r薯条'
   type:
   - '&7&o食物'
 GARLIC:
-  name: '&r大蒜'
   type:
   - '&7&o食物'
 GARLIC_BREAD:
-  name: '&r蒜香面包'
   type:
   - '&7&o食物'
 GARLIC_BUSH:
-  name: '&r大蒜植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 GARLIC_CHEESE_BREAD:
-  name: '&r蒜香芝士面包'
   type:
   - '&7&o食物'
 GLOWSTONE_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 GLOWSTONE_PLANT:
-  name: '&r荧石植株'
   type:
   - '&7&o魔法'
 GOLD_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 GOLD_PLANT:
-  name: '&r金植株'
   type:
   - '&7&o魔法'
 GRAPE:
-  name: '&c葡萄'
   type:
   - '&7&o食物'
 GRAPE_BUSH:
-  name: '&c葡萄灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 GRAPE_JELLY_SANDWICH:
-  name: '&c葡萄果酱三明治'
   type:
   - '&7&o食物'
 GRAPE_JUICE:
-  name: '&c葡萄果汁'
   type:
   - '&7&o食物'
 GRAPE_PIE:
-  name: '&c葡萄派'
   type:
   - '&7&o食物'
 GRAPE_SALAD:
-  name: '&c葡萄沙拉'
   type:
   - '&7&o食物'
 GRAPE_SMOOTHIE:
-  name: '&c葡萄冰沙'
   type:
   - '&7&o食物'
 GRASS_SEEDS:
-  name: '&r草种子'
   type:
-  - '&7&o装置'
+  - '&7&o裝置'
 GRILLED_SANDWICH:
-  name: '&r烤三明治'
   type:
   - '&7&o食物'
 HAMBURGER:
-  name: '&r汉堡'
   type:
   - '&7&o食物'
 HOT_CHOCOLATE:
-  name: '&6热巧克力'
   type:
   - '&7&o食物'
 HOT_DOG:
-  name: '&r热狗'
   type:
   - '&7&o食物'
 ICE_CREAM:
-  name: '&r冰淇淋'
   type:
   - '&7&o食物'
 ICE_CUBE:
-  name: '&b冰块'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 IRON_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 IRON_PLANT:
-  name: '&r铁植株'
   type:
   - '&7&o魔法'
 JAMMY_DODGER:
-  name: '&c果酱夹心饼干'
   type:
   - '&7&o食物'
 KITCHEN:
-  name: '&e厨房'
   type:
-  - '&7&o多方块'
+  - '&7&o多重方塊'
 LAMINGTON:
-  name: '&r拉明顿蛋糕'
   type:
   - '&7&o食物'
 LAPIS_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 LAPIS_PLANT:
-  name: '&r青金石植株'
   type:
   - '&7&o魔法'
 LASAGNA:
-  name: '&r千层面'
   type:
   - '&7&o食物'
 LEAD_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 LEAD_PLANT:
-  name: '&r铅植株'
   type:
   - '&7&o魔法'
 LEAFY_CHICKEN_SANDWICH:
-  name: '&r生菜鸡肉三明治'
   type:
   - '&7&o食物'
 LEAFY_FISH_SANDWICH:
-  name: '&r生菜鱼肉三明治'
   type:
   - '&7&o食物'
 LEMON:
-  name: '&e柠檬'
   type:
   - '&7&o食物'
 LEMONADE:
-  name: '&e柠檬水'
   type:
   - '&7&o食物'
 LEMON_ICED_TEA:
-  name: '&e柠檬冰茶'
   type:
   - '&7&o食物'
 LEMON_JUICE:
-  name: '&e柠檬果汁'
   type:
   - '&7&o食物'
 LEMON_PIE:
-  name: '&e柠檬派'
   type:
   - '&7&o食物'
 LEMON_SAPLING:
-  name: '&e柠檬树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 LETTUCE:
-  name: '&2生菜'
   type:
   - '&7&o食物'
 LETTUCE_BUSH:
-  name: '&2生菜植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 LIME:
-  name: '&a青柠'
   type:
   - '&7&o食物'
 LIME_JUICE:
-  name: '&a青柠果汁'
   type:
   - '&7&o食物'
 LIME_PIE:
-  name: '&a青柠派'
   type:
   - '&7&o食物'
 LIME_SAPLING:
-  name: '&a青柠树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 LIME_SMOOTHIE:
-  name: '&a青柠冰沙'
   type:
   - '&7&o食物'
 MAYO:
-  name: '&r蛋黄酱'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 MOLASSES:
-  name: '&8糖蜜'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 MUSTARD:
-  name: '&e芥末酱'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 MUSTARD_SEED:
-  name: '&e芥菜籽'
   type:
   - '&7&o食物'
 MUSTARD_SEED_BUSH:
-  name: '&e芥菜籽植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 NETHERITE_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 NETHERITE_PLANT:
-  name: '&r下界合金植株'
   type:
   - '&7&o魔法'
 OAK_APPLE:
-  name: '&c橡果苹果'
   type:
   - '&7&o食物'
 OAK_APPLE_JUICE:
-  name: '&c橡果苹果果汁'
   type:
   - '&7&o食物'
 OAK_APPLE_PIE:
-  name: '&c橡果苹果派'
   type:
   - '&7&o食物'
 OAK_APPLE_SAPLING:
-  name: '&c橡果苹果树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 OBSIDIAN_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 OBSIDIAN_PLANT:
-  name: '&r黑曜石植株'
   type:
   - '&7&o魔法'
 ONION:
-  name: '&c洋葱'
   type:
   - '&7&o食物'
 ONION_BUSH:
-  name: '&c洋葱植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 ORANGE:
-  name: '&6橙子'
   type:
   - '&7&o食物'
 ORANGE_JUICE:
-  name: '&6橙子果汁'
   type:
   - '&7&o食物'
 ORANGE_PIE:
-  name: '&6橙子派'
   type:
   - '&7&o食物'
 ORANGE_SAPLING:
-  name: '&6橙子树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 PANCAKES:
-  name: '&r煎饼'
   type:
   - '&7&o食物'
 PAVLOVA:
-  name: '&r帕芙洛娃'
   type:
   - '&7&o食物'
 PEACH:
-  name: '&5桃子'
   type:
   - '&7&o食物'
 PEACH_ICED_TEA:
-  name: '&d桃子冰茶'
   type:
   - '&7&o食物'
 PEACH_JUICE:
-  name: '&5桃子果汁'
   type:
   - '&7&o食物'
 PEACH_PIE:
-  name: '&5桃子派'
   type:
   - '&7&o食物'
 PEACH_SAPLING:
-  name: '&5桃子树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 PEAR:
-  name: '&a梨'
   type:
   - '&7&o食物'
 PEAR_JUICE:
-  name: '&a梨果汁'
   type:
   - '&7&o食物'
 PEAR_PIE:
-  name: '&a梨派'
   type:
   - '&7&o食物'
 PEAR_SAPLING:
-  name: '&a梨树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 PINACOLADA:
-  name: '&6椰林飘香'
   type:
   - '&7&o食物'
 PINEAPPLE:
-  name: '&6菠萝'
   type:
   - '&7&o食物'
 PINEAPPLE_BUSH:
-  name: '&6菠萝植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 PINEAPPLE_JUICE:
-  name: '&6菠萝果汁'
   type:
   - '&7&o食物'
 PINEAPPLE_SMOOTHIE:
-  name: '&6菠萝冰沙'
   type:
   - '&7&o食物'
 PLUM:
-  name: '&5李子'
   type:
   - '&7&o食物'
 PLUM_JUICE:
-  name: '&5李子果汁'
   type:
   - '&7&o食物'
 PLUM_PIE:
-  name: '&5李子派'
   type:
   - '&7&o食物'
 PLUM_SAPLING:
-  name: '&5李子树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 POMEGRANATE:
-  name: '&4石榴'
   type:
   - '&7&o食物'
 POMEGRANATE_JUICE:
-  name: '&4石榴果汁'
   type:
   - '&7&o食物'
 POMEGRANATE_PIE:
-  name: '&4石榴派'
   type:
   - '&7&o食物'
 POMEGRANATE_SAPLING:
-  name: '&4石榴树苗'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 POPCORN:
-  name: '&r爆米花'
   type:
   - '&7&o食物'
 POTATO_SALAD:
-  name: '&r土豆沙拉'
   type:
   - '&7&o食物'
 PUMPKIN_BREAD:
-  name: '&r南瓜面包'
   type:
   - '&7&o食物'
 PUMPKIN_CHEESECAKE:
-  name: '&6南瓜芝士蛋糕'
   type:
   - '&7&o食物'
 PUMPKIN_MUFFIN:
-  name: '&r南瓜松饼'
   type:
   - '&7&o食物'
 QUARTZ_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 QUARTZ_PLANT:
-  name: '&r石英植株'
   type:
   - '&7&o魔法'
 RASPBERRY:
-  name: '&d覆盆子'
   type:
   - '&7&o食物'
 RASPBERRY_BUSH:
-  name: '&d覆盆子灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 RASPBERRY_ICED_TEA:
-  name: '&d覆盆子冰茶'
   type:
   - '&7&o食物'
 RASPBERRY_JELLY_SANDWICH:
-  name: '&d覆盆子果酱三明治'
   type:
   - '&7&o食物'
 RASPBERRY_JUICE:
-  name: '&d覆盆子果汁'
   type:
   - '&7&o食物'
 RASPBERRY_PIE:
-  name: '&d覆盆子派'
   type:
   - '&7&o食物'
 RASPBERRY_SMOOTHIE:
-  name: '&d覆盆子冰沙'
   type:
   - '&7&o食物'
 REDSTONE_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 REDSTONE_PLANT:
-  name: '&r红石植株'
   type:
   - '&7&o魔法'
 RED_BELL_PEPPER:
-  name: '&c红甜椒'
   type:
   - '&7&o食物'
 RED_BELL_PEPPER_BUSH:
-  name: '&c红甜椒植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 SALTY_POPCORN:
-  name: '&r爆米花 &7(咸)'
   type:
   - '&7&o食物'
 SANDWICH:
-  name: '&r三明治'
   type:
   - '&7&o食物'
 SHEPARDS_PIE:
-  name: '&r牧羊人派'
   type:
   - '&7&o食物'
 SILVER_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 SILVER_PLANT:
-  name: '&r银植株'
   type:
   - '&7&o魔法'
 SLIME_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 SLIME_PLANT:
-  name: '&r黏液植株'
   type:
   - '&7&o魔法'
 STRAWBERRY:
-  name: '&4草莓'
   type:
   - '&7&o食物'
 STRAWBERRY_BUSH:
-  name: '&4草莓灌木'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 STRAWBERRY_ICED_TEA:
-  name: '&4草莓冰茶'
   type:
   - '&7&o食物'
 STRAWBERRY_JELLY_SANDWICH:
-  name: '&4草莓果酱三明治'
   type:
   - '&7&o食物'
 STRAWBERRY_JUICE:
-  name: '&4草莓果汁'
   type:
   - '&7&o食物'
 STRAWBERRY_PIE:
-  name: '&4草莓派'
   type:
   - '&7&o食物'
 STRAWBERRY_SALAD:
-  name: '&c草莓沙拉'
   type:
   - '&7&o食物'
 STRAWBERRY_SMOOTHIE:
-  name: '&4草莓冰沙'
   type:
   - '&7&o食物'
 STREET_TACO:
-  name: '&r街头塔可'
   type:
   - '&7&o食物'
 STUFFED_RED_BELL_PEPPER:
-  name: '&c酿红甜椒'
   type:
   - '&7&o食物'
 SWEETENED_PEAR_CHEESECAKE:
-  name: '&6甜梨芝士蛋糕'
   type:
   - '&7&o食物'
 SWEETENED_TEA:
-  name: '&a甜茶'
   type:
   - '&7&o食物'
 SWEET_BERRY_PANCAKES:
-  name: '&r甜浆果煎饼'
   type:
   - '&7&o食物'
 SWEET_POPCORN:
-  name: '&r爆米花 &7(甜)'
   type:
   - '&7&o食物'
 SWEET_POTATO:
-  name: '&6红薯'
   type:
   - '&7&o食物'
 SWEET_POTATO_BUSH:
-  name: '&6红薯植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 SWEET_POTATO_PIE:
-  name: '&r红薯派'
   type:
   - '&7&o食物'
 TACO:
-  name: '&r塔可'
   type:
   - '&7&o食物'
 TEA_LEAF:
-  name: '&a茶叶'
   type:
   - '&7&o食物'
 TEA_LEAF_BUSH:
-  name: '&a茶叶植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 THAI_TEA:
-  name: '&6泰式奶茶'
   type:
   - '&7&o食物'
 TIN_ESSENCE:
-  name: '&r魔法精华'
   type:
   - '&7&o魔法'
 TIN_PLANT:
-  name: '&r锡植株'
   type:
   - '&7&o魔法'
 TIRAMISU:
-  name: '&r提拉米苏'
   type:
   - '&7&o食物'
 TIRAMISU_WITH_BLACKBERRIES:
-  name: '&r黑莓提拉米苏'
   type:
   - '&7&o食物'
 TIRAMISU_WITH_RASPBERRIES:
-  name: '&r覆盆子提拉米苏'
   type:
   - '&7&o食物'
 TIRAMISU_WITH_STRAWBERRIES:
-  name: '&r草莓提拉米苏'
   type:
   - '&7&o食物'
 TOMATO:
-  name: '&4番茄'
   type:
   - '&7&o食物'
 TOMATO_BUSH:
-  name: '&4番茄植株'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 TOMATO_JUICE:
-  name: '&4番茄果汁'
   type:
   - '&7&o食物'
 TOMATO_SOUP:
-  name: '&4番茄汤'
   type:
   - '&7&o食物'
 VEGETABLE_OIL:
-  name: '&r植物油'
   type:
-  - '&7&o组件'
+  - '&7&o元件'
 WAFFLES:
-  name: '&r华夫饼'
   type:
   - '&7&o食物'
 WINE:
-  name: '&c葡萄酒'
   type:
   - '&7&o食物'
 YEAST:
-  name: '&r酵母'
   type:
-  - '&7&o组件'
+  - '&7&o元件'

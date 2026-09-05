@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMagiškas'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oMaistas'
+BACON:
+  type:
+  - '&7&oMaistas'
+BACON_BURGER:
+  type:
+  - '&7&oMaistas'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oMaistas'
+BACON_SANDWICH:
+  type:
+  - '&7&oMaistas'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oMaistas'
+BAGEL:
+  type:
+  - '&7&oMaistas'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oMaistas'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oMaistas'
+BBQ_SAUCE:
+  type:
+  - '&7&oKomponentas'
+BISCUIT:
+  type:
+  - '&7&oMaistas'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oMaistas'
+BLACKBERRY:
+  type:
+  - '&7&oMaistas'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oMaistas'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+BLACK_PEPPER:
+  type:
+  - '&7&oMaistas'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oKomponentas'
+BLT:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oMaistas'
+BROWN_SUGAR:
+  type:
+  - '&7&oKomponentas'
+BURRITO:
+  type:
+  - '&7&oMaistas'
+CABBAGE:
+  type:
+  - '&7&oMaistas'
+CABBAGE_BUSH:
+  type:
+  - '&7&oKomponentas'
+CARROT_CAKE:
+  type:
+  - '&7&oMaistas'
+CHEESEBURGER:
+  type:
+  - '&7&oMaistas'
+CHEESECAKE:
+  type:
+  - '&7&oMaistas'
+CHERRY:
+  type:
+  - '&7&oMaistas'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oMaistas'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oMaistas'
+CHERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+CHERRY_PIE:
+  type:
+  - '&7&oMaistas'
+CHERRY_SAPLING:
+  type:
+  - '&7&oKomponentas'
+CHICKEN_BURGER:
+  type:
+  - '&7&oMaistas'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oMaistas'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oMaistas'
+CHICKEN_CURRY:
+  type:
+  - '&7&oMaistas'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oMaistas'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oMaistas'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oMaistas'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oMaistas'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oMaistas'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oMaistas'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oMaistas'
+CILANTRO:
+  type:
+  - '&7&oMaistas'
+CILANTRO_BUSH:
+  type:
+  - '&7&oKomponentas'
+CLUB_SANDWICH:
+  type:
+  - '&7&oMaistas'
+COAL_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+COAL_PLANT:
+  type:
+  - '&7&oMagiškas'
+COCONUT:
+  type:
+  - '&7&oMaistas'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oMaistas'
+COCONUT_MILK:
+  type:
+  - '&7&oMaistas'
+COCONUT_SAPLING:
+  type:
+  - '&7&oKomponentas'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+COPPER_PLANT:
+  type:
+  - '&7&oMagiškas'
+CORN:
+  type:
+  - '&7&oMaistas'
+CORNMEAL:
+  type:
+  - '&7&oKomponentas'
+CORN_BUSH:
+  type:
+  - '&7&oKomponentas'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oMaistas'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oKomponentas'
+COWBERRY:
+  type:
+  - '&7&oMaistas'
+COWBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+COWBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+COWBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+CRANBERRY:
+  type:
+  - '&7&oMaistas'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+CRANBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+CREAMED_CORN:
+  type:
+  - '&7&oMaistas'
+CREAM_COOKIE:
+  type:
+  - '&7&oMaistas'
+CROOK:
+  type:
+  - '&7&oĮrankis'
+CURRY_LEAF:
+  type:
+  - '&7&oMaistas'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oKomponentas'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oMaistas'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMagiškas'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+DIRT_PLANT:
+  type:
+  - '&7&oMagiškas'
+DRAGON_FRUIT:
+  type:
+  - '&7&oMaistas'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oMaistas'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oMaistas'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oKomponentas'
+EGG_SALAD:
+  type:
+  - '&7&oMaistas'
+ELDERBERRY:
+  type:
+  - '&7&oMaistas'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+EMERALD_PLANT:
+  type:
+  - '&7&oMagiškas'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+ENDER_PLANT:
+  type:
+  - '&7&oMagiškas'
+FISH_SANDWICH:
+  type:
+  - '&7&oMaistas'
+FISH_TACO:
+  type:
+  - '&7&oMaistas'
+FRIES:
+  type:
+  - '&7&oMaistas'
+GARLIC:
+  type:
+  - '&7&oMaistas'
+GARLIC_BREAD:
+  type:
+  - '&7&oMaistas'
+GARLIC_BUSH:
+  type:
+  - '&7&oKomponentas'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oMaistas'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMagiškas'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+GOLD_PLANT:
+  type:
+  - '&7&oMagiškas'
+GRAPE:
+  type:
+  - '&7&oMaistas'
+GRAPE_BUSH:
+  type:
+  - '&7&oKomponentas'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+GRAPE_JUICE:
+  type:
+  - '&7&oMaistas'
+GRAPE_PIE:
+  type:
+  - '&7&oMaistas'
+GRAPE_SALAD:
+  type:
+  - '&7&oMaistas'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+GRASS_SEEDS:
+  type:
+  - '&7&oĮtaisas'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oMaistas'
+HAMBURGER:
+  type:
+  - '&7&oMaistas'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oMaistas'
+HOT_DOG:
+  type:
+  - '&7&oMaistas'
+ICE_CREAM:
+  type:
+  - '&7&oMaistas'
+ICE_CUBE:
+  type:
+  - '&7&oKomponentas'
+IRON_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+IRON_PLANT:
+  type:
+  - '&7&oMagiškas'
+JAMMY_DODGER:
+  type:
+  - '&7&oMaistas'
+KITCHEN:
+  type:
+  - '&7&oDaugiablokis'
+LAMINGTON:
+  type:
+  - '&7&oMaistas'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+LAPIS_PLANT:
+  type:
+  - '&7&oMagiškas'
+LASAGNA:
+  type:
+  - '&7&oMaistas'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+LEAD_PLANT:
+  type:
+  - '&7&oMagiškas'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oMaistas'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oMaistas'
+LEMON:
+  type:
+  - '&7&oMaistas'
+LEMONADE:
+  type:
+  - '&7&oMaistas'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oMaistas'
+LEMON_JUICE:
+  type:
+  - '&7&oMaistas'
+LEMON_PIE:
+  type:
+  - '&7&oMaistas'
+LEMON_SAPLING:
+  type:
+  - '&7&oKomponentas'
+LETTUCE:
+  type:
+  - '&7&oMaistas'
+LETTUCE_BUSH:
+  type:
+  - '&7&oKomponentas'
+LIME:
+  type:
+  - '&7&oMaistas'
+LIME_JUICE:
+  type:
+  - '&7&oMaistas'
+LIME_PIE:
+  type:
+  - '&7&oMaistas'
+LIME_SAPLING:
+  type:
+  - '&7&oKomponentas'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+MAYO:
+  type:
+  - '&7&oKomponentas'
+MOLASSES:
+  type:
+  - '&7&oKomponentas'
+MUSTARD:
+  type:
+  - '&7&oKomponentas'
+MUSTARD_SEED:
+  type:
+  - '&7&oMaistas'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oKomponentas'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMagiškas'
+OAK_APPLE:
+  type:
+  - '&7&oMaistas'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oMaistas'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oMaistas'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oKomponentas'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMagiškas'
+ONION:
+  type:
+  - '&7&oMaistas'
+ONION_BUSH:
+  type:
+  - '&7&oKomponentas'
+ORANGE:
+  type:
+  - '&7&oMaistas'
+ORANGE_JUICE:
+  type:
+  - '&7&oMaistas'
+ORANGE_PIE:
+  type:
+  - '&7&oMaistas'
+ORANGE_SAPLING:
+  type:
+  - '&7&oKomponentas'
+PANCAKES:
+  type:
+  - '&7&oMaistas'
+PAVLOVA:
+  type:
+  - '&7&oMaistas'
+PEACH:
+  type:
+  - '&7&oMaistas'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oMaistas'
+PEACH_JUICE:
+  type:
+  - '&7&oMaistas'
+PEACH_PIE:
+  type:
+  - '&7&oMaistas'
+PEACH_SAPLING:
+  type:
+  - '&7&oKomponentas'
+PEAR:
+  type:
+  - '&7&oMaistas'
+PEAR_JUICE:
+  type:
+  - '&7&oMaistas'
+PEAR_PIE:
+  type:
+  - '&7&oMaistas'
+PEAR_SAPLING:
+  type:
+  - '&7&oKomponentas'
+PINACOLADA:
+  type:
+  - '&7&oMaistas'
+PINEAPPLE:
+  type:
+  - '&7&oMaistas'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oKomponentas'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oMaistas'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+PLUM:
+  type:
+  - '&7&oMaistas'
+PLUM_JUICE:
+  type:
+  - '&7&oMaistas'
+PLUM_PIE:
+  type:
+  - '&7&oMaistas'
+PLUM_SAPLING:
+  type:
+  - '&7&oKomponentas'
+POMEGRANATE:
+  type:
+  - '&7&oMaistas'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oMaistas'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oMaistas'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oKomponentas'
+POPCORN:
+  type:
+  - '&7&oMaistas'
+POTATO_SALAD:
+  type:
+  - '&7&oMaistas'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oMaistas'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oMaistas'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oMaistas'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMagiškas'
+RASPBERRY:
+  type:
+  - '&7&oMaistas'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oMaistas'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+RASPBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMagiškas'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oMaistas'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oKomponentas'
+SALTY_POPCORN:
+  type:
+  - '&7&oMaistas'
+SANDWICH:
+  type:
+  - '&7&oMaistas'
+SHEPARDS_PIE:
+  type:
+  - '&7&oMaistas'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+SILVER_PLANT:
+  type:
+  - '&7&oMagiškas'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+SLIME_PLANT:
+  type:
+  - '&7&oMagiškas'
+STRAWBERRY:
+  type:
+  - '&7&oMaistas'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oKomponentas'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oMaistas'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMaistas'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oMaistas'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oMaistas'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oMaistas'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMaistas'
+STREET_TACO:
+  type:
+  - '&7&oMaistas'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oMaistas'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oMaistas'
+SWEETENED_TEA:
+  type:
+  - '&7&oMaistas'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oMaistas'
+SWEET_POPCORN:
+  type:
+  - '&7&oMaistas'
+SWEET_POTATO:
+  type:
+  - '&7&oMaistas'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oKomponentas'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oMaistas'
+TACO:
+  type:
+  - '&7&oMaistas'
+TEA_LEAF:
+  type:
+  - '&7&oMaistas'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oKomponentas'
+THAI_TEA:
+  type:
+  - '&7&oMaistas'
+TIN_ESSENCE:
+  type:
+  - '&7&oMagiškas'
+TIN_PLANT:
+  type:
+  - '&7&oMagiškas'
+TIRAMISU:
+  type:
+  - '&7&oMaistas'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oMaistas'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oMaistas'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oMaistas'
+TOMATO:
+  type:
+  - '&7&oMaistas'
+TOMATO_BUSH:
+  type:
+  - '&7&oKomponentas'
+TOMATO_JUICE:
+  type:
+  - '&7&oMaistas'
+TOMATO_SOUP:
+  type:
+  - '&7&oMaistas'
+VEGETABLE_OIL:
+  type:
+  - '&7&oKomponentas'
+WAFFLES:
+  type:
+  - '&7&oMaistas'
+WINE:
+  type:
+  - '&7&oMaistas'
+YEAST:
+  type:
+  - '&7&oKomponentas'

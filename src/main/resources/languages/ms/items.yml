@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oSihir'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oSihir'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oMakanan'
+BACON:
+  type:
+  - '&7&oMakanan'
+BACON_BURGER:
+  type:
+  - '&7&oMakanan'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oMakanan'
+BACON_SANDWICH:
+  type:
+  - '&7&oMakanan'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oMakanan'
+BAGEL:
+  type:
+  - '&7&oMakanan'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oMakanan'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oMakanan'
+BBQ_SAUCE:
+  type:
+  - '&7&oKomponen'
+BISCUIT:
+  type:
+  - '&7&oMakanan'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oMakanan'
+BLACKBERRY:
+  type:
+  - '&7&oMakanan'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oMakanan'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+BLACK_PEPPER:
+  type:
+  - '&7&oMakanan'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oKomponen'
+BLT:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oMakanan'
+BROWN_SUGAR:
+  type:
+  - '&7&oKomponen'
+BURRITO:
+  type:
+  - '&7&oMakanan'
+CABBAGE:
+  type:
+  - '&7&oMakanan'
+CABBAGE_BUSH:
+  type:
+  - '&7&oKomponen'
+CARROT_CAKE:
+  type:
+  - '&7&oMakanan'
+CHEESEBURGER:
+  type:
+  - '&7&oMakanan'
+CHEESECAKE:
+  type:
+  - '&7&oMakanan'
+CHERRY:
+  type:
+  - '&7&oMakanan'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oMakanan'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oMakanan'
+CHERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+CHERRY_PIE:
+  type:
+  - '&7&oMakanan'
+CHERRY_SAPLING:
+  type:
+  - '&7&oKomponen'
+CHICKEN_BURGER:
+  type:
+  - '&7&oMakanan'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oMakanan'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oMakanan'
+CHICKEN_CURRY:
+  type:
+  - '&7&oMakanan'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oMakanan'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oMakanan'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oMakanan'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oMakanan'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oMakanan'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oMakanan'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oMakanan'
+CILANTRO:
+  type:
+  - '&7&oMakanan'
+CILANTRO_BUSH:
+  type:
+  - '&7&oKomponen'
+CLUB_SANDWICH:
+  type:
+  - '&7&oMakanan'
+COAL_ESSENCE:
+  type:
+  - '&7&oSihir'
+COAL_PLANT:
+  type:
+  - '&7&oSihir'
+COCONUT:
+  type:
+  - '&7&oMakanan'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oMakanan'
+COCONUT_MILK:
+  type:
+  - '&7&oMakanan'
+COCONUT_SAPLING:
+  type:
+  - '&7&oKomponen'
+COPPER_ESSENCE:
+  type:
+  - '&7&oSihir'
+COPPER_PLANT:
+  type:
+  - '&7&oSihir'
+CORN:
+  type:
+  - '&7&oMakanan'
+CORNMEAL:
+  type:
+  - '&7&oKomponen'
+CORN_BUSH:
+  type:
+  - '&7&oKomponen'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oMakanan'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oKomponen'
+COWBERRY:
+  type:
+  - '&7&oMakanan'
+COWBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+COWBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+COWBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+CRANBERRY:
+  type:
+  - '&7&oMakanan'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+CRANBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+CREAMED_CORN:
+  type:
+  - '&7&oMakanan'
+CREAM_COOKIE:
+  type:
+  - '&7&oMakanan'
+CROOK:
+  type:
+  - '&7&oAlat'
+CURRY_LEAF:
+  type:
+  - '&7&oMakanan'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oKomponen'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oMakanan'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oSihir'
+DIAMOND_PLANT:
+  type:
+  - '&7&oSihir'
+DIRT_ESSENCE:
+  type:
+  - '&7&oSihir'
+DIRT_PLANT:
+  type:
+  - '&7&oSihir'
+DRAGON_FRUIT:
+  type:
+  - '&7&oMakanan'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oMakanan'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oMakanan'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oKomponen'
+EGG_SALAD:
+  type:
+  - '&7&oMakanan'
+ELDERBERRY:
+  type:
+  - '&7&oMakanan'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oSihir'
+EMERALD_PLANT:
+  type:
+  - '&7&oSihir'
+ENDER_ESSENCE:
+  type:
+  - '&7&oSihir'
+ENDER_PLANT:
+  type:
+  - '&7&oSihir'
+FISH_SANDWICH:
+  type:
+  - '&7&oMakanan'
+FISH_TACO:
+  type:
+  - '&7&oMakanan'
+FRIES:
+  type:
+  - '&7&oMakanan'
+GARLIC:
+  type:
+  - '&7&oMakanan'
+GARLIC_BREAD:
+  type:
+  - '&7&oMakanan'
+GARLIC_BUSH:
+  type:
+  - '&7&oKomponen'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oMakanan'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oSihir'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oSihir'
+GOLD_ESSENCE:
+  type:
+  - '&7&oSihir'
+GOLD_PLANT:
+  type:
+  - '&7&oSihir'
+GRAPE:
+  type:
+  - '&7&oMakanan'
+GRAPE_BUSH:
+  type:
+  - '&7&oKomponen'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+GRAPE_JUICE:
+  type:
+  - '&7&oMakanan'
+GRAPE_PIE:
+  type:
+  - '&7&oMakanan'
+GRAPE_SALAD:
+  type:
+  - '&7&oMakanan'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+GRASS_SEEDS:
+  type:
+  - '&7&oGajet'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oMakanan'
+HAMBURGER:
+  type:
+  - '&7&oMakanan'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oMakanan'
+HOT_DOG:
+  type:
+  - '&7&oMakanan'
+ICE_CREAM:
+  type:
+  - '&7&oMakanan'
+ICE_CUBE:
+  type:
+  - '&7&oKomponen'
+IRON_ESSENCE:
+  type:
+  - '&7&oSihir'
+IRON_PLANT:
+  type:
+  - '&7&oSihir'
+JAMMY_DODGER:
+  type:
+  - '&7&oMakanan'
+KITCHEN:
+  type:
+  - '&7&oMultiblok'
+LAMINGTON:
+  type:
+  - '&7&oMakanan'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oSihir'
+LAPIS_PLANT:
+  type:
+  - '&7&oSihir'
+LASAGNA:
+  type:
+  - '&7&oMakanan'
+LEAD_ESSENCE:
+  type:
+  - '&7&oSihir'
+LEAD_PLANT:
+  type:
+  - '&7&oSihir'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oMakanan'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oMakanan'
+LEMON:
+  type:
+  - '&7&oMakanan'
+LEMONADE:
+  type:
+  - '&7&oMakanan'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oMakanan'
+LEMON_JUICE:
+  type:
+  - '&7&oMakanan'
+LEMON_PIE:
+  type:
+  - '&7&oMakanan'
+LEMON_SAPLING:
+  type:
+  - '&7&oKomponen'
+LETTUCE:
+  type:
+  - '&7&oMakanan'
+LETTUCE_BUSH:
+  type:
+  - '&7&oKomponen'
+LIME:
+  type:
+  - '&7&oMakanan'
+LIME_JUICE:
+  type:
+  - '&7&oMakanan'
+LIME_PIE:
+  type:
+  - '&7&oMakanan'
+LIME_SAPLING:
+  type:
+  - '&7&oKomponen'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+MAYO:
+  type:
+  - '&7&oKomponen'
+MOLASSES:
+  type:
+  - '&7&oKomponen'
+MUSTARD:
+  type:
+  - '&7&oKomponen'
+MUSTARD_SEED:
+  type:
+  - '&7&oMakanan'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oKomponen'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oSihir'
+NETHERITE_PLANT:
+  type:
+  - '&7&oSihir'
+OAK_APPLE:
+  type:
+  - '&7&oMakanan'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oMakanan'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oMakanan'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oKomponen'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oSihir'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oSihir'
+ONION:
+  type:
+  - '&7&oMakanan'
+ONION_BUSH:
+  type:
+  - '&7&oKomponen'
+ORANGE:
+  type:
+  - '&7&oMakanan'
+ORANGE_JUICE:
+  type:
+  - '&7&oMakanan'
+ORANGE_PIE:
+  type:
+  - '&7&oMakanan'
+ORANGE_SAPLING:
+  type:
+  - '&7&oKomponen'
+PANCAKES:
+  type:
+  - '&7&oMakanan'
+PAVLOVA:
+  type:
+  - '&7&oMakanan'
+PEACH:
+  type:
+  - '&7&oMakanan'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oMakanan'
+PEACH_JUICE:
+  type:
+  - '&7&oMakanan'
+PEACH_PIE:
+  type:
+  - '&7&oMakanan'
+PEACH_SAPLING:
+  type:
+  - '&7&oKomponen'
+PEAR:
+  type:
+  - '&7&oMakanan'
+PEAR_JUICE:
+  type:
+  - '&7&oMakanan'
+PEAR_PIE:
+  type:
+  - '&7&oMakanan'
+PEAR_SAPLING:
+  type:
+  - '&7&oKomponen'
+PINACOLADA:
+  type:
+  - '&7&oMakanan'
+PINEAPPLE:
+  type:
+  - '&7&oMakanan'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oKomponen'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oMakanan'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+PLUM:
+  type:
+  - '&7&oMakanan'
+PLUM_JUICE:
+  type:
+  - '&7&oMakanan'
+PLUM_PIE:
+  type:
+  - '&7&oMakanan'
+PLUM_SAPLING:
+  type:
+  - '&7&oKomponen'
+POMEGRANATE:
+  type:
+  - '&7&oMakanan'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oMakanan'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oMakanan'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oKomponen'
+POPCORN:
+  type:
+  - '&7&oMakanan'
+POTATO_SALAD:
+  type:
+  - '&7&oMakanan'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oMakanan'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oMakanan'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oMakanan'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oSihir'
+QUARTZ_PLANT:
+  type:
+  - '&7&oSihir'
+RASPBERRY:
+  type:
+  - '&7&oMakanan'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oMakanan'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+RASPBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oSihir'
+REDSTONE_PLANT:
+  type:
+  - '&7&oSihir'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oMakanan'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oKomponen'
+SALTY_POPCORN:
+  type:
+  - '&7&oMakanan'
+SANDWICH:
+  type:
+  - '&7&oMakanan'
+SHEPARDS_PIE:
+  type:
+  - '&7&oMakanan'
+SILVER_ESSENCE:
+  type:
+  - '&7&oSihir'
+SILVER_PLANT:
+  type:
+  - '&7&oSihir'
+SLIME_ESSENCE:
+  type:
+  - '&7&oSihir'
+SLIME_PLANT:
+  type:
+  - '&7&oSihir'
+STRAWBERRY:
+  type:
+  - '&7&oMakanan'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oKomponen'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oMakanan'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMakanan'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oMakanan'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oMakanan'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oMakanan'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMakanan'
+STREET_TACO:
+  type:
+  - '&7&oMakanan'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oMakanan'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oMakanan'
+SWEETENED_TEA:
+  type:
+  - '&7&oMakanan'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oMakanan'
+SWEET_POPCORN:
+  type:
+  - '&7&oMakanan'
+SWEET_POTATO:
+  type:
+  - '&7&oMakanan'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oKomponen'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oMakanan'
+TACO:
+  type:
+  - '&7&oMakanan'
+TEA_LEAF:
+  type:
+  - '&7&oMakanan'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oKomponen'
+THAI_TEA:
+  type:
+  - '&7&oMakanan'
+TIN_ESSENCE:
+  type:
+  - '&7&oSihir'
+TIN_PLANT:
+  type:
+  - '&7&oSihir'
+TIRAMISU:
+  type:
+  - '&7&oMakanan'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oMakanan'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oMakanan'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oMakanan'
+TOMATO:
+  type:
+  - '&7&oMakanan'
+TOMATO_BUSH:
+  type:
+  - '&7&oKomponen'
+TOMATO_JUICE:
+  type:
+  - '&7&oMakanan'
+TOMATO_SOUP:
+  type:
+  - '&7&oMakanan'
+VEGETABLE_OIL:
+  type:
+  - '&7&oKomponen'
+WAFFLES:
+  type:
+  - '&7&oMakanan'
+WINE:
+  type:
+  - '&7&oMakanan'
+YEAST:
+  type:
+  - '&7&oKomponen'

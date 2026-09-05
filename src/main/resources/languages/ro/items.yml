@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMagic'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMagic'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oMâncare'
+BACON:
+  type:
+  - '&7&oMâncare'
+BACON_BURGER:
+  type:
+  - '&7&oMâncare'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oMâncare'
+BACON_SANDWICH:
+  type:
+  - '&7&oMâncare'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oMâncare'
+BAGEL:
+  type:
+  - '&7&oMâncare'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oMâncare'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oMâncare'
+BBQ_SAUCE:
+  type:
+  - '&7&oComponentă'
+BISCUIT:
+  type:
+  - '&7&oMâncare'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oMâncare'
+BLACKBERRY:
+  type:
+  - '&7&oMâncare'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oMâncare'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+BLACK_PEPPER:
+  type:
+  - '&7&oMâncare'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oComponentă'
+BLT:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oMâncare'
+BROWN_SUGAR:
+  type:
+  - '&7&oComponentă'
+BURRITO:
+  type:
+  - '&7&oMâncare'
+CABBAGE:
+  type:
+  - '&7&oMâncare'
+CABBAGE_BUSH:
+  type:
+  - '&7&oComponentă'
+CARROT_CAKE:
+  type:
+  - '&7&oMâncare'
+CHEESEBURGER:
+  type:
+  - '&7&oMâncare'
+CHEESECAKE:
+  type:
+  - '&7&oMâncare'
+CHERRY:
+  type:
+  - '&7&oMâncare'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oMâncare'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oMâncare'
+CHERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+CHERRY_PIE:
+  type:
+  - '&7&oMâncare'
+CHERRY_SAPLING:
+  type:
+  - '&7&oComponentă'
+CHICKEN_BURGER:
+  type:
+  - '&7&oMâncare'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oMâncare'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oMâncare'
+CHICKEN_CURRY:
+  type:
+  - '&7&oMâncare'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oMâncare'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oMâncare'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oMâncare'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oMâncare'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oMâncare'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oMâncare'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oMâncare'
+CILANTRO:
+  type:
+  - '&7&oMâncare'
+CILANTRO_BUSH:
+  type:
+  - '&7&oComponentă'
+CLUB_SANDWICH:
+  type:
+  - '&7&oMâncare'
+COAL_ESSENCE:
+  type:
+  - '&7&oMagic'
+COAL_PLANT:
+  type:
+  - '&7&oMagic'
+COCONUT:
+  type:
+  - '&7&oMâncare'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oMâncare'
+COCONUT_MILK:
+  type:
+  - '&7&oMâncare'
+COCONUT_SAPLING:
+  type:
+  - '&7&oComponentă'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMagic'
+COPPER_PLANT:
+  type:
+  - '&7&oMagic'
+CORN:
+  type:
+  - '&7&oMâncare'
+CORNMEAL:
+  type:
+  - '&7&oComponentă'
+CORN_BUSH:
+  type:
+  - '&7&oComponentă'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oMâncare'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oComponentă'
+COWBERRY:
+  type:
+  - '&7&oMâncare'
+COWBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+COWBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+COWBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+CRANBERRY:
+  type:
+  - '&7&oMâncare'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+CRANBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+CREAMED_CORN:
+  type:
+  - '&7&oMâncare'
+CREAM_COOKIE:
+  type:
+  - '&7&oMâncare'
+CROOK:
+  type:
+  - '&7&oUnealtă'
+CURRY_LEAF:
+  type:
+  - '&7&oMâncare'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oComponentă'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oMâncare'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMagic'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMagic'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMagic'
+DIRT_PLANT:
+  type:
+  - '&7&oMagic'
+DRAGON_FRUIT:
+  type:
+  - '&7&oMâncare'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oMâncare'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oMâncare'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oComponentă'
+EGG_SALAD:
+  type:
+  - '&7&oMâncare'
+ELDERBERRY:
+  type:
+  - '&7&oMâncare'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMagic'
+EMERALD_PLANT:
+  type:
+  - '&7&oMagic'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMagic'
+ENDER_PLANT:
+  type:
+  - '&7&oMagic'
+FISH_SANDWICH:
+  type:
+  - '&7&oMâncare'
+FISH_TACO:
+  type:
+  - '&7&oMâncare'
+FRIES:
+  type:
+  - '&7&oMâncare'
+GARLIC:
+  type:
+  - '&7&oMâncare'
+GARLIC_BREAD:
+  type:
+  - '&7&oMâncare'
+GARLIC_BUSH:
+  type:
+  - '&7&oComponentă'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oMâncare'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMagic'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMagic'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMagic'
+GOLD_PLANT:
+  type:
+  - '&7&oMagic'
+GRAPE:
+  type:
+  - '&7&oMâncare'
+GRAPE_BUSH:
+  type:
+  - '&7&oComponentă'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+GRAPE_JUICE:
+  type:
+  - '&7&oMâncare'
+GRAPE_PIE:
+  type:
+  - '&7&oMâncare'
+GRAPE_SALAD:
+  type:
+  - '&7&oMâncare'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+GRASS_SEEDS:
+  type:
+  - '&7&oGadget'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oMâncare'
+HAMBURGER:
+  type:
+  - '&7&oMâncare'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oMâncare'
+HOT_DOG:
+  type:
+  - '&7&oMâncare'
+ICE_CREAM:
+  type:
+  - '&7&oMâncare'
+ICE_CUBE:
+  type:
+  - '&7&oComponentă'
+IRON_ESSENCE:
+  type:
+  - '&7&oMagic'
+IRON_PLANT:
+  type:
+  - '&7&oMagic'
+JAMMY_DODGER:
+  type:
+  - '&7&oMâncare'
+KITCHEN:
+  type:
+  - '&7&oMultibloc'
+LAMINGTON:
+  type:
+  - '&7&oMâncare'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMagic'
+LAPIS_PLANT:
+  type:
+  - '&7&oMagic'
+LASAGNA:
+  type:
+  - '&7&oMâncare'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMagic'
+LEAD_PLANT:
+  type:
+  - '&7&oMagic'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oMâncare'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oMâncare'
+LEMON:
+  type:
+  - '&7&oMâncare'
+LEMONADE:
+  type:
+  - '&7&oMâncare'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oMâncare'
+LEMON_JUICE:
+  type:
+  - '&7&oMâncare'
+LEMON_PIE:
+  type:
+  - '&7&oMâncare'
+LEMON_SAPLING:
+  type:
+  - '&7&oComponentă'
+LETTUCE:
+  type:
+  - '&7&oMâncare'
+LETTUCE_BUSH:
+  type:
+  - '&7&oComponentă'
+LIME:
+  type:
+  - '&7&oMâncare'
+LIME_JUICE:
+  type:
+  - '&7&oMâncare'
+LIME_PIE:
+  type:
+  - '&7&oMâncare'
+LIME_SAPLING:
+  type:
+  - '&7&oComponentă'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+MAYO:
+  type:
+  - '&7&oComponentă'
+MOLASSES:
+  type:
+  - '&7&oComponentă'
+MUSTARD:
+  type:
+  - '&7&oComponentă'
+MUSTARD_SEED:
+  type:
+  - '&7&oMâncare'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oComponentă'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMagic'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMagic'
+OAK_APPLE:
+  type:
+  - '&7&oMâncare'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oMâncare'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oMâncare'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oComponentă'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMagic'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMagic'
+ONION:
+  type:
+  - '&7&oMâncare'
+ONION_BUSH:
+  type:
+  - '&7&oComponentă'
+ORANGE:
+  type:
+  - '&7&oMâncare'
+ORANGE_JUICE:
+  type:
+  - '&7&oMâncare'
+ORANGE_PIE:
+  type:
+  - '&7&oMâncare'
+ORANGE_SAPLING:
+  type:
+  - '&7&oComponentă'
+PANCAKES:
+  type:
+  - '&7&oMâncare'
+PAVLOVA:
+  type:
+  - '&7&oMâncare'
+PEACH:
+  type:
+  - '&7&oMâncare'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oMâncare'
+PEACH_JUICE:
+  type:
+  - '&7&oMâncare'
+PEACH_PIE:
+  type:
+  - '&7&oMâncare'
+PEACH_SAPLING:
+  type:
+  - '&7&oComponentă'
+PEAR:
+  type:
+  - '&7&oMâncare'
+PEAR_JUICE:
+  type:
+  - '&7&oMâncare'
+PEAR_PIE:
+  type:
+  - '&7&oMâncare'
+PEAR_SAPLING:
+  type:
+  - '&7&oComponentă'
+PINACOLADA:
+  type:
+  - '&7&oMâncare'
+PINEAPPLE:
+  type:
+  - '&7&oMâncare'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oComponentă'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oMâncare'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+PLUM:
+  type:
+  - '&7&oMâncare'
+PLUM_JUICE:
+  type:
+  - '&7&oMâncare'
+PLUM_PIE:
+  type:
+  - '&7&oMâncare'
+PLUM_SAPLING:
+  type:
+  - '&7&oComponentă'
+POMEGRANATE:
+  type:
+  - '&7&oMâncare'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oMâncare'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oMâncare'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oComponentă'
+POPCORN:
+  type:
+  - '&7&oMâncare'
+POTATO_SALAD:
+  type:
+  - '&7&oMâncare'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oMâncare'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oMâncare'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oMâncare'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMagic'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMagic'
+RASPBERRY:
+  type:
+  - '&7&oMâncare'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oMâncare'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+RASPBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMagic'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMagic'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oMâncare'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oComponentă'
+SALTY_POPCORN:
+  type:
+  - '&7&oMâncare'
+SANDWICH:
+  type:
+  - '&7&oMâncare'
+SHEPARDS_PIE:
+  type:
+  - '&7&oMâncare'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMagic'
+SILVER_PLANT:
+  type:
+  - '&7&oMagic'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMagic'
+SLIME_PLANT:
+  type:
+  - '&7&oMagic'
+STRAWBERRY:
+  type:
+  - '&7&oMâncare'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oComponentă'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oMâncare'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMâncare'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oMâncare'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oMâncare'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oMâncare'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMâncare'
+STREET_TACO:
+  type:
+  - '&7&oMâncare'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oMâncare'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oMâncare'
+SWEETENED_TEA:
+  type:
+  - '&7&oMâncare'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oMâncare'
+SWEET_POPCORN:
+  type:
+  - '&7&oMâncare'
+SWEET_POTATO:
+  type:
+  - '&7&oMâncare'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oComponentă'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oMâncare'
+TACO:
+  type:
+  - '&7&oMâncare'
+TEA_LEAF:
+  type:
+  - '&7&oMâncare'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oComponentă'
+THAI_TEA:
+  type:
+  - '&7&oMâncare'
+TIN_ESSENCE:
+  type:
+  - '&7&oMagic'
+TIN_PLANT:
+  type:
+  - '&7&oMagic'
+TIRAMISU:
+  type:
+  - '&7&oMâncare'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oMâncare'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oMâncare'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oMâncare'
+TOMATO:
+  type:
+  - '&7&oMâncare'
+TOMATO_BUSH:
+  type:
+  - '&7&oComponentă'
+TOMATO_JUICE:
+  type:
+  - '&7&oMâncare'
+TOMATO_SOUP:
+  type:
+  - '&7&oMâncare'
+VEGETABLE_OIL:
+  type:
+  - '&7&oComponentă'
+WAFFLES:
+  type:
+  - '&7&oMâncare'
+WINE:
+  type:
+  - '&7&oMâncare'
+YEAST:
+  type:
+  - '&7&oComponentă'

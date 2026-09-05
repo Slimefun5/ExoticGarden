@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oආහාර'
+BACON:
+  type:
+  - '&7&oආහාර'
+BACON_BURGER:
+  type:
+  - '&7&oආහාර'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oආහාර'
+BACON_SANDWICH:
+  type:
+  - '&7&oආහාර'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oආහාර'
+BAGEL:
+  type:
+  - '&7&oආහාර'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oආහාර'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oආහාර'
+BBQ_SAUCE:
+  type:
+  - '&7&oසංරචකය'
+BISCUIT:
+  type:
+  - '&7&oආහාර'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oආහාර'
+BLACKBERRY:
+  type:
+  - '&7&oආහාර'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oආහාර'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+BLACK_PEPPER:
+  type:
+  - '&7&oආහාර'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oසංරචකය'
+BLT:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oආහාර'
+BROWN_SUGAR:
+  type:
+  - '&7&oසංරචකය'
+BURRITO:
+  type:
+  - '&7&oආහාර'
+CABBAGE:
+  type:
+  - '&7&oආහාර'
+CABBAGE_BUSH:
+  type:
+  - '&7&oසංරචකය'
+CARROT_CAKE:
+  type:
+  - '&7&oආහාර'
+CHEESEBURGER:
+  type:
+  - '&7&oආහාර'
+CHEESECAKE:
+  type:
+  - '&7&oආහාර'
+CHERRY:
+  type:
+  - '&7&oආහාර'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oආහාර'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oආහාර'
+CHERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+CHERRY_PIE:
+  type:
+  - '&7&oආහාර'
+CHERRY_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+CHICKEN_BURGER:
+  type:
+  - '&7&oආහාර'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oආහාර'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oආහාර'
+CHICKEN_CURRY:
+  type:
+  - '&7&oආහාර'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oආහාර'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oආහාර'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oආහාර'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oආහාර'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oආහාර'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oආහාර'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oආහාර'
+CILANTRO:
+  type:
+  - '&7&oආහාර'
+CILANTRO_BUSH:
+  type:
+  - '&7&oසංරචකය'
+CLUB_SANDWICH:
+  type:
+  - '&7&oආහාර'
+COAL_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+COAL_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+COCONUT:
+  type:
+  - '&7&oආහාර'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oආහාර'
+COCONUT_MILK:
+  type:
+  - '&7&oආහාර'
+COCONUT_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+COPPER_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+COPPER_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+CORN:
+  type:
+  - '&7&oආහාර'
+CORNMEAL:
+  type:
+  - '&7&oසංරචකය'
+CORN_BUSH:
+  type:
+  - '&7&oසංරචකය'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oආහාර'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oසංරචකය'
+COWBERRY:
+  type:
+  - '&7&oආහාර'
+COWBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+COWBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+COWBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+CRANBERRY:
+  type:
+  - '&7&oආහාර'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+CRANBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+CREAMED_CORN:
+  type:
+  - '&7&oආහාර'
+CREAM_COOKIE:
+  type:
+  - '&7&oආහාර'
+CROOK:
+  type:
+  - '&7&oමෙවලම'
+CURRY_LEAF:
+  type:
+  - '&7&oආහාර'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oසංරචකය'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oආහාර'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+DIAMOND_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+DIRT_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+DIRT_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+DRAGON_FRUIT:
+  type:
+  - '&7&oආහාර'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oආහාර'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oආහාර'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+EGG_SALAD:
+  type:
+  - '&7&oආහාර'
+ELDERBERRY:
+  type:
+  - '&7&oආහාර'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+EMERALD_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+ENDER_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+ENDER_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+FISH_SANDWICH:
+  type:
+  - '&7&oආහාර'
+FISH_TACO:
+  type:
+  - '&7&oආහාර'
+FRIES:
+  type:
+  - '&7&oආහාර'
+GARLIC:
+  type:
+  - '&7&oආහාර'
+GARLIC_BREAD:
+  type:
+  - '&7&oආහාර'
+GARLIC_BUSH:
+  type:
+  - '&7&oසංරචකය'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oආහාර'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+GOLD_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+GOLD_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+GRAPE:
+  type:
+  - '&7&oආහාර'
+GRAPE_BUSH:
+  type:
+  - '&7&oසංරචකය'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+GRAPE_JUICE:
+  type:
+  - '&7&oආහාර'
+GRAPE_PIE:
+  type:
+  - '&7&oආහාර'
+GRAPE_SALAD:
+  type:
+  - '&7&oආහාර'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+GRASS_SEEDS:
+  type:
+  - '&7&oඋපාංගය'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oආහාර'
+HAMBURGER:
+  type:
+  - '&7&oආහාර'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oආහාර'
+HOT_DOG:
+  type:
+  - '&7&oආහාර'
+ICE_CREAM:
+  type:
+  - '&7&oආහාර'
+ICE_CUBE:
+  type:
+  - '&7&oසංරචකය'
+IRON_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+IRON_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+JAMMY_DODGER:
+  type:
+  - '&7&oආහාර'
+KITCHEN:
+  type:
+  - '&7&oබහුකැටය'
+LAMINGTON:
+  type:
+  - '&7&oආහාර'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+LAPIS_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+LASAGNA:
+  type:
+  - '&7&oආහාර'
+LEAD_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+LEAD_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oආහාර'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oආහාර'
+LEMON:
+  type:
+  - '&7&oආහාර'
+LEMONADE:
+  type:
+  - '&7&oආහාර'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oආහාර'
+LEMON_JUICE:
+  type:
+  - '&7&oආහාර'
+LEMON_PIE:
+  type:
+  - '&7&oආහාර'
+LEMON_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+LETTUCE:
+  type:
+  - '&7&oආහාර'
+LETTUCE_BUSH:
+  type:
+  - '&7&oසංරචකය'
+LIME:
+  type:
+  - '&7&oආහාර'
+LIME_JUICE:
+  type:
+  - '&7&oආහාර'
+LIME_PIE:
+  type:
+  - '&7&oආහාර'
+LIME_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+MAYO:
+  type:
+  - '&7&oසංරචකය'
+MOLASSES:
+  type:
+  - '&7&oසංරචකය'
+MUSTARD:
+  type:
+  - '&7&oසංරචකය'
+MUSTARD_SEED:
+  type:
+  - '&7&oආහාර'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oසංරචකය'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+NETHERITE_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+OAK_APPLE:
+  type:
+  - '&7&oආහාර'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oආහාර'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oආහාර'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+ONION:
+  type:
+  - '&7&oආහාර'
+ONION_BUSH:
+  type:
+  - '&7&oසංරචකය'
+ORANGE:
+  type:
+  - '&7&oආහාර'
+ORANGE_JUICE:
+  type:
+  - '&7&oආහාර'
+ORANGE_PIE:
+  type:
+  - '&7&oආහාර'
+ORANGE_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+PANCAKES:
+  type:
+  - '&7&oආහාර'
+PAVLOVA:
+  type:
+  - '&7&oආහාර'
+PEACH:
+  type:
+  - '&7&oආහාර'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oආහාර'
+PEACH_JUICE:
+  type:
+  - '&7&oආහාර'
+PEACH_PIE:
+  type:
+  - '&7&oආහාර'
+PEACH_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+PEAR:
+  type:
+  - '&7&oආහාර'
+PEAR_JUICE:
+  type:
+  - '&7&oආහාර'
+PEAR_PIE:
+  type:
+  - '&7&oආහාර'
+PEAR_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+PINACOLADA:
+  type:
+  - '&7&oආහාර'
+PINEAPPLE:
+  type:
+  - '&7&oආහාර'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oසංරචකය'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oආහාර'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+PLUM:
+  type:
+  - '&7&oආහාර'
+PLUM_JUICE:
+  type:
+  - '&7&oආහාර'
+PLUM_PIE:
+  type:
+  - '&7&oආහාර'
+PLUM_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+POMEGRANATE:
+  type:
+  - '&7&oආහාර'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oආහාර'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oආහාර'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oසංරචකය'
+POPCORN:
+  type:
+  - '&7&oආහාර'
+POTATO_SALAD:
+  type:
+  - '&7&oආහාර'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oආහාර'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oආහාර'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oආහාර'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+QUARTZ_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+RASPBERRY:
+  type:
+  - '&7&oආහාර'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oආහාර'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+RASPBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+REDSTONE_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oආහාර'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oසංරචකය'
+SALTY_POPCORN:
+  type:
+  - '&7&oආහාර'
+SANDWICH:
+  type:
+  - '&7&oආහාර'
+SHEPARDS_PIE:
+  type:
+  - '&7&oආහාර'
+SILVER_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+SILVER_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+SLIME_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+SLIME_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+STRAWBERRY:
+  type:
+  - '&7&oආහාර'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oසංරචකය'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oආහාර'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oආහාර'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oආහාර'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oආහාර'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oආහාර'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oආහාර'
+STREET_TACO:
+  type:
+  - '&7&oආහාර'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oආහාර'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oආහාර'
+SWEETENED_TEA:
+  type:
+  - '&7&oආහාර'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oආහාර'
+SWEET_POPCORN:
+  type:
+  - '&7&oආහාර'
+SWEET_POTATO:
+  type:
+  - '&7&oආහාර'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oසංරචකය'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oආහාර'
+TACO:
+  type:
+  - '&7&oආහාර'
+TEA_LEAF:
+  type:
+  - '&7&oආහාර'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oසංරචකය'
+THAI_TEA:
+  type:
+  - '&7&oආහාර'
+TIN_ESSENCE:
+  type:
+  - '&7&oමායාකාරී'
+TIN_PLANT:
+  type:
+  - '&7&oමායාකාරී'
+TIRAMISU:
+  type:
+  - '&7&oආහාර'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oආහාර'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oආහාර'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oආහාර'
+TOMATO:
+  type:
+  - '&7&oආහාර'
+TOMATO_BUSH:
+  type:
+  - '&7&oසංරචකය'
+TOMATO_JUICE:
+  type:
+  - '&7&oආහාර'
+TOMATO_SOUP:
+  type:
+  - '&7&oආහාර'
+VEGETABLE_OIL:
+  type:
+  - '&7&oසංරචකය'
+WAFFLES:
+  type:
+  - '&7&oආහාර'
+WINE:
+  type:
+  - '&7&oආහාර'
+YEAST:
+  type:
+  - '&7&oසංරචකය'

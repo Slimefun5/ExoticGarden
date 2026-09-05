@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oΜαγικό'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oΦαγητό'
+BACON:
+  type:
+  - '&7&oΦαγητό'
+BACON_BURGER:
+  type:
+  - '&7&oΦαγητό'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oΦαγητό'
+BACON_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oΦαγητό'
+BAGEL:
+  type:
+  - '&7&oΦαγητό'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oΦαγητό'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oΦαγητό'
+BBQ_SAUCE:
+  type:
+  - '&7&oΕξάρτημα'
+BISCUIT:
+  type:
+  - '&7&oΦαγητό'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oΦαγητό'
+BLACKBERRY:
+  type:
+  - '&7&oΦαγητό'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oΦαγητό'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+BLACK_PEPPER:
+  type:
+  - '&7&oΦαγητό'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+BLT:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oΦαγητό'
+BROWN_SUGAR:
+  type:
+  - '&7&oΕξάρτημα'
+BURRITO:
+  type:
+  - '&7&oΦαγητό'
+CABBAGE:
+  type:
+  - '&7&oΦαγητό'
+CABBAGE_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+CARROT_CAKE:
+  type:
+  - '&7&oΦαγητό'
+CHEESEBURGER:
+  type:
+  - '&7&oΦαγητό'
+CHEESECAKE:
+  type:
+  - '&7&oΦαγητό'
+CHERRY:
+  type:
+  - '&7&oΦαγητό'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oΦαγητό'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oΦαγητό'
+CHERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+CHERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+CHERRY_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+CHICKEN_BURGER:
+  type:
+  - '&7&oΦαγητό'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oΦαγητό'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oΦαγητό'
+CHICKEN_CURRY:
+  type:
+  - '&7&oΦαγητό'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oΦαγητό'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oΦαγητό'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oΦαγητό'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oΦαγητό'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oΦαγητό'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oΦαγητό'
+CILANTRO:
+  type:
+  - '&7&oΦαγητό'
+CILANTRO_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+CLUB_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+COAL_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+COAL_PLANT:
+  type:
+  - '&7&oΜαγικό'
+COCONUT:
+  type:
+  - '&7&oΦαγητό'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oΦαγητό'
+COCONUT_MILK:
+  type:
+  - '&7&oΦαγητό'
+COCONUT_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+COPPER_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+COPPER_PLANT:
+  type:
+  - '&7&oΜαγικό'
+CORN:
+  type:
+  - '&7&oΦαγητό'
+CORNMEAL:
+  type:
+  - '&7&oΕξάρτημα'
+CORN_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oΦαγητό'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oΕξάρτημα'
+COWBERRY:
+  type:
+  - '&7&oΦαγητό'
+COWBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+COWBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+COWBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+CRANBERRY:
+  type:
+  - '&7&oΦαγητό'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+CRANBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+CREAMED_CORN:
+  type:
+  - '&7&oΦαγητό'
+CREAM_COOKIE:
+  type:
+  - '&7&oΦαγητό'
+CROOK:
+  type:
+  - '&7&oΕργαλείο'
+CURRY_LEAF:
+  type:
+  - '&7&oΦαγητό'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oΦαγητό'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+DIAMOND_PLANT:
+  type:
+  - '&7&oΜαγικό'
+DIRT_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+DIRT_PLANT:
+  type:
+  - '&7&oΜαγικό'
+DRAGON_FRUIT:
+  type:
+  - '&7&oΦαγητό'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oΦαγητό'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oΦαγητό'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+EGG_SALAD:
+  type:
+  - '&7&oΦαγητό'
+ELDERBERRY:
+  type:
+  - '&7&oΦαγητό'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+EMERALD_PLANT:
+  type:
+  - '&7&oΜαγικό'
+ENDER_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+ENDER_PLANT:
+  type:
+  - '&7&oΜαγικό'
+FISH_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+FISH_TACO:
+  type:
+  - '&7&oΦαγητό'
+FRIES:
+  type:
+  - '&7&oΦαγητό'
+GARLIC:
+  type:
+  - '&7&oΦαγητό'
+GARLIC_BREAD:
+  type:
+  - '&7&oΦαγητό'
+GARLIC_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oΦαγητό'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oΜαγικό'
+GOLD_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+GOLD_PLANT:
+  type:
+  - '&7&oΜαγικό'
+GRAPE:
+  type:
+  - '&7&oΦαγητό'
+GRAPE_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+GRAPE_JUICE:
+  type:
+  - '&7&oΦαγητό'
+GRAPE_PIE:
+  type:
+  - '&7&oΦαγητό'
+GRAPE_SALAD:
+  type:
+  - '&7&oΦαγητό'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+GRASS_SEEDS:
+  type:
+  - '&7&oΣυσκευή'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+HAMBURGER:
+  type:
+  - '&7&oΦαγητό'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oΦαγητό'
+HOT_DOG:
+  type:
+  - '&7&oΦαγητό'
+ICE_CREAM:
+  type:
+  - '&7&oΦαγητό'
+ICE_CUBE:
+  type:
+  - '&7&oΕξάρτημα'
+IRON_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+IRON_PLANT:
+  type:
+  - '&7&oΜαγικό'
+JAMMY_DODGER:
+  type:
+  - '&7&oΦαγητό'
+KITCHEN:
+  type:
+  - '&7&oΠολυμπλόκ'
+LAMINGTON:
+  type:
+  - '&7&oΦαγητό'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+LAPIS_PLANT:
+  type:
+  - '&7&oΜαγικό'
+LASAGNA:
+  type:
+  - '&7&oΦαγητό'
+LEAD_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+LEAD_PLANT:
+  type:
+  - '&7&oΜαγικό'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+LEMON:
+  type:
+  - '&7&oΦαγητό'
+LEMONADE:
+  type:
+  - '&7&oΦαγητό'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oΦαγητό'
+LEMON_JUICE:
+  type:
+  - '&7&oΦαγητό'
+LEMON_PIE:
+  type:
+  - '&7&oΦαγητό'
+LEMON_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+LETTUCE:
+  type:
+  - '&7&oΦαγητό'
+LETTUCE_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+LIME:
+  type:
+  - '&7&oΦαγητό'
+LIME_JUICE:
+  type:
+  - '&7&oΦαγητό'
+LIME_PIE:
+  type:
+  - '&7&oΦαγητό'
+LIME_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+MAYO:
+  type:
+  - '&7&oΕξάρτημα'
+MOLASSES:
+  type:
+  - '&7&oΕξάρτημα'
+MUSTARD:
+  type:
+  - '&7&oΕξάρτημα'
+MUSTARD_SEED:
+  type:
+  - '&7&oΦαγητό'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+NETHERITE_PLANT:
+  type:
+  - '&7&oΜαγικό'
+OAK_APPLE:
+  type:
+  - '&7&oΦαγητό'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oΦαγητό'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oΦαγητό'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oΜαγικό'
+ONION:
+  type:
+  - '&7&oΦαγητό'
+ONION_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+ORANGE:
+  type:
+  - '&7&oΦαγητό'
+ORANGE_JUICE:
+  type:
+  - '&7&oΦαγητό'
+ORANGE_PIE:
+  type:
+  - '&7&oΦαγητό'
+ORANGE_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+PANCAKES:
+  type:
+  - '&7&oΦαγητό'
+PAVLOVA:
+  type:
+  - '&7&oΦαγητό'
+PEACH:
+  type:
+  - '&7&oΦαγητό'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oΦαγητό'
+PEACH_JUICE:
+  type:
+  - '&7&oΦαγητό'
+PEACH_PIE:
+  type:
+  - '&7&oΦαγητό'
+PEACH_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+PEAR:
+  type:
+  - '&7&oΦαγητό'
+PEAR_JUICE:
+  type:
+  - '&7&oΦαγητό'
+PEAR_PIE:
+  type:
+  - '&7&oΦαγητό'
+PEAR_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+PINACOLADA:
+  type:
+  - '&7&oΦαγητό'
+PINEAPPLE:
+  type:
+  - '&7&oΦαγητό'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oΦαγητό'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+PLUM:
+  type:
+  - '&7&oΦαγητό'
+PLUM_JUICE:
+  type:
+  - '&7&oΦαγητό'
+PLUM_PIE:
+  type:
+  - '&7&oΦαγητό'
+PLUM_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+POMEGRANATE:
+  type:
+  - '&7&oΦαγητό'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oΦαγητό'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oΦαγητό'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oΕξάρτημα'
+POPCORN:
+  type:
+  - '&7&oΦαγητό'
+POTATO_SALAD:
+  type:
+  - '&7&oΦαγητό'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oΦαγητό'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oΦαγητό'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oΦαγητό'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+QUARTZ_PLANT:
+  type:
+  - '&7&oΜαγικό'
+RASPBERRY:
+  type:
+  - '&7&oΦαγητό'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oΦαγητό'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+RASPBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+REDSTONE_PLANT:
+  type:
+  - '&7&oΜαγικό'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oΦαγητό'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+SALTY_POPCORN:
+  type:
+  - '&7&oΦαγητό'
+SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+SHEPARDS_PIE:
+  type:
+  - '&7&oΦαγητό'
+SILVER_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+SILVER_PLANT:
+  type:
+  - '&7&oΜαγικό'
+SLIME_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+SLIME_PLANT:
+  type:
+  - '&7&oΜαγικό'
+STRAWBERRY:
+  type:
+  - '&7&oΦαγητό'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oΦαγητό'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oΦαγητό'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oΦαγητό'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oΦαγητό'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oΦαγητό'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oΦαγητό'
+STREET_TACO:
+  type:
+  - '&7&oΦαγητό'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oΦαγητό'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oΦαγητό'
+SWEETENED_TEA:
+  type:
+  - '&7&oΦαγητό'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oΦαγητό'
+SWEET_POPCORN:
+  type:
+  - '&7&oΦαγητό'
+SWEET_POTATO:
+  type:
+  - '&7&oΦαγητό'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oΦαγητό'
+TACO:
+  type:
+  - '&7&oΦαγητό'
+TEA_LEAF:
+  type:
+  - '&7&oΦαγητό'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+THAI_TEA:
+  type:
+  - '&7&oΦαγητό'
+TIN_ESSENCE:
+  type:
+  - '&7&oΜαγικό'
+TIN_PLANT:
+  type:
+  - '&7&oΜαγικό'
+TIRAMISU:
+  type:
+  - '&7&oΦαγητό'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oΦαγητό'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oΦαγητό'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oΦαγητό'
+TOMATO:
+  type:
+  - '&7&oΦαγητό'
+TOMATO_BUSH:
+  type:
+  - '&7&oΕξάρτημα'
+TOMATO_JUICE:
+  type:
+  - '&7&oΦαγητό'
+TOMATO_SOUP:
+  type:
+  - '&7&oΦαγητό'
+VEGETABLE_OIL:
+  type:
+  - '&7&oΕξάρτημα'
+WAFFLES:
+  type:
+  - '&7&oΦαγητό'
+WINE:
+  type:
+  - '&7&oΦαγητό'
+YEAST:
+  type:
+  - '&7&oΕξάρτημα'

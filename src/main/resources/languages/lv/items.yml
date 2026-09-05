@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMaģisks'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oĒdiens'
+BACON:
+  type:
+  - '&7&oĒdiens'
+BACON_BURGER:
+  type:
+  - '&7&oĒdiens'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oĒdiens'
+BACON_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oĒdiens'
+BAGEL:
+  type:
+  - '&7&oĒdiens'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oĒdiens'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oĒdiens'
+BBQ_SAUCE:
+  type:
+  - '&7&oSastāvdaļa'
+BISCUIT:
+  type:
+  - '&7&oĒdiens'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oĒdiens'
+BLACKBERRY:
+  type:
+  - '&7&oĒdiens'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oĒdiens'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+BLACK_PEPPER:
+  type:
+  - '&7&oĒdiens'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+BLT:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oĒdiens'
+BROWN_SUGAR:
+  type:
+  - '&7&oSastāvdaļa'
+BURRITO:
+  type:
+  - '&7&oĒdiens'
+CABBAGE:
+  type:
+  - '&7&oĒdiens'
+CABBAGE_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+CARROT_CAKE:
+  type:
+  - '&7&oĒdiens'
+CHEESEBURGER:
+  type:
+  - '&7&oĒdiens'
+CHEESECAKE:
+  type:
+  - '&7&oĒdiens'
+CHERRY:
+  type:
+  - '&7&oĒdiens'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oĒdiens'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oĒdiens'
+CHERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+CHERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+CHERRY_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+CHICKEN_BURGER:
+  type:
+  - '&7&oĒdiens'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oĒdiens'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oĒdiens'
+CHICKEN_CURRY:
+  type:
+  - '&7&oĒdiens'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oĒdiens'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oĒdiens'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oĒdiens'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oĒdiens'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oĒdiens'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oĒdiens'
+CILANTRO:
+  type:
+  - '&7&oĒdiens'
+CILANTRO_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+CLUB_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+COAL_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+COAL_PLANT:
+  type:
+  - '&7&oMaģisks'
+COCONUT:
+  type:
+  - '&7&oĒdiens'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oĒdiens'
+COCONUT_MILK:
+  type:
+  - '&7&oĒdiens'
+COCONUT_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+COPPER_PLANT:
+  type:
+  - '&7&oMaģisks'
+CORN:
+  type:
+  - '&7&oĒdiens'
+CORNMEAL:
+  type:
+  - '&7&oSastāvdaļa'
+CORN_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oĒdiens'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oSastāvdaļa'
+COWBERRY:
+  type:
+  - '&7&oĒdiens'
+COWBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+COWBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+COWBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+CRANBERRY:
+  type:
+  - '&7&oĒdiens'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+CRANBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+CREAMED_CORN:
+  type:
+  - '&7&oĒdiens'
+CREAM_COOKIE:
+  type:
+  - '&7&oĒdiens'
+CROOK:
+  type:
+  - '&7&oRīks'
+CURRY_LEAF:
+  type:
+  - '&7&oĒdiens'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oĒdiens'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMaģisks'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+DIRT_PLANT:
+  type:
+  - '&7&oMaģisks'
+DRAGON_FRUIT:
+  type:
+  - '&7&oĒdiens'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oĒdiens'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oĒdiens'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+EGG_SALAD:
+  type:
+  - '&7&oĒdiens'
+ELDERBERRY:
+  type:
+  - '&7&oĒdiens'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+EMERALD_PLANT:
+  type:
+  - '&7&oMaģisks'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+ENDER_PLANT:
+  type:
+  - '&7&oMaģisks'
+FISH_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+FISH_TACO:
+  type:
+  - '&7&oĒdiens'
+FRIES:
+  type:
+  - '&7&oĒdiens'
+GARLIC:
+  type:
+  - '&7&oĒdiens'
+GARLIC_BREAD:
+  type:
+  - '&7&oĒdiens'
+GARLIC_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oĒdiens'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMaģisks'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+GOLD_PLANT:
+  type:
+  - '&7&oMaģisks'
+GRAPE:
+  type:
+  - '&7&oĒdiens'
+GRAPE_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+GRAPE_JUICE:
+  type:
+  - '&7&oĒdiens'
+GRAPE_PIE:
+  type:
+  - '&7&oĒdiens'
+GRAPE_SALAD:
+  type:
+  - '&7&oĒdiens'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+GRASS_SEEDS:
+  type:
+  - '&7&oIerīce'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+HAMBURGER:
+  type:
+  - '&7&oĒdiens'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oĒdiens'
+HOT_DOG:
+  type:
+  - '&7&oĒdiens'
+ICE_CREAM:
+  type:
+  - '&7&oĒdiens'
+ICE_CUBE:
+  type:
+  - '&7&oSastāvdaļa'
+IRON_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+IRON_PLANT:
+  type:
+  - '&7&oMaģisks'
+JAMMY_DODGER:
+  type:
+  - '&7&oĒdiens'
+KITCHEN:
+  type:
+  - '&7&oDaudzbloks'
+LAMINGTON:
+  type:
+  - '&7&oĒdiens'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+LAPIS_PLANT:
+  type:
+  - '&7&oMaģisks'
+LASAGNA:
+  type:
+  - '&7&oĒdiens'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+LEAD_PLANT:
+  type:
+  - '&7&oMaģisks'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+LEMON:
+  type:
+  - '&7&oĒdiens'
+LEMONADE:
+  type:
+  - '&7&oĒdiens'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oĒdiens'
+LEMON_JUICE:
+  type:
+  - '&7&oĒdiens'
+LEMON_PIE:
+  type:
+  - '&7&oĒdiens'
+LEMON_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+LETTUCE:
+  type:
+  - '&7&oĒdiens'
+LETTUCE_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+LIME:
+  type:
+  - '&7&oĒdiens'
+LIME_JUICE:
+  type:
+  - '&7&oĒdiens'
+LIME_PIE:
+  type:
+  - '&7&oĒdiens'
+LIME_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+MAYO:
+  type:
+  - '&7&oSastāvdaļa'
+MOLASSES:
+  type:
+  - '&7&oSastāvdaļa'
+MUSTARD:
+  type:
+  - '&7&oSastāvdaļa'
+MUSTARD_SEED:
+  type:
+  - '&7&oĒdiens'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMaģisks'
+OAK_APPLE:
+  type:
+  - '&7&oĒdiens'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oĒdiens'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oĒdiens'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMaģisks'
+ONION:
+  type:
+  - '&7&oĒdiens'
+ONION_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+ORANGE:
+  type:
+  - '&7&oĒdiens'
+ORANGE_JUICE:
+  type:
+  - '&7&oĒdiens'
+ORANGE_PIE:
+  type:
+  - '&7&oĒdiens'
+ORANGE_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+PANCAKES:
+  type:
+  - '&7&oĒdiens'
+PAVLOVA:
+  type:
+  - '&7&oĒdiens'
+PEACH:
+  type:
+  - '&7&oĒdiens'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oĒdiens'
+PEACH_JUICE:
+  type:
+  - '&7&oĒdiens'
+PEACH_PIE:
+  type:
+  - '&7&oĒdiens'
+PEACH_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+PEAR:
+  type:
+  - '&7&oĒdiens'
+PEAR_JUICE:
+  type:
+  - '&7&oĒdiens'
+PEAR_PIE:
+  type:
+  - '&7&oĒdiens'
+PEAR_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+PINACOLADA:
+  type:
+  - '&7&oĒdiens'
+PINEAPPLE:
+  type:
+  - '&7&oĒdiens'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oĒdiens'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+PLUM:
+  type:
+  - '&7&oĒdiens'
+PLUM_JUICE:
+  type:
+  - '&7&oĒdiens'
+PLUM_PIE:
+  type:
+  - '&7&oĒdiens'
+PLUM_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+POMEGRANATE:
+  type:
+  - '&7&oĒdiens'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oĒdiens'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oĒdiens'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oSastāvdaļa'
+POPCORN:
+  type:
+  - '&7&oĒdiens'
+POTATO_SALAD:
+  type:
+  - '&7&oĒdiens'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oĒdiens'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oĒdiens'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oĒdiens'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMaģisks'
+RASPBERRY:
+  type:
+  - '&7&oĒdiens'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oĒdiens'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+RASPBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMaģisks'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oĒdiens'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+SALTY_POPCORN:
+  type:
+  - '&7&oĒdiens'
+SANDWICH:
+  type:
+  - '&7&oĒdiens'
+SHEPARDS_PIE:
+  type:
+  - '&7&oĒdiens'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+SILVER_PLANT:
+  type:
+  - '&7&oMaģisks'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+SLIME_PLANT:
+  type:
+  - '&7&oMaģisks'
+STRAWBERRY:
+  type:
+  - '&7&oĒdiens'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oĒdiens'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oĒdiens'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oĒdiens'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oĒdiens'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oĒdiens'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oĒdiens'
+STREET_TACO:
+  type:
+  - '&7&oĒdiens'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oĒdiens'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oĒdiens'
+SWEETENED_TEA:
+  type:
+  - '&7&oĒdiens'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oĒdiens'
+SWEET_POPCORN:
+  type:
+  - '&7&oĒdiens'
+SWEET_POTATO:
+  type:
+  - '&7&oĒdiens'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oĒdiens'
+TACO:
+  type:
+  - '&7&oĒdiens'
+TEA_LEAF:
+  type:
+  - '&7&oĒdiens'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+THAI_TEA:
+  type:
+  - '&7&oĒdiens'
+TIN_ESSENCE:
+  type:
+  - '&7&oMaģisks'
+TIN_PLANT:
+  type:
+  - '&7&oMaģisks'
+TIRAMISU:
+  type:
+  - '&7&oĒdiens'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oĒdiens'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oĒdiens'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oĒdiens'
+TOMATO:
+  type:
+  - '&7&oĒdiens'
+TOMATO_BUSH:
+  type:
+  - '&7&oSastāvdaļa'
+TOMATO_JUICE:
+  type:
+  - '&7&oĒdiens'
+TOMATO_SOUP:
+  type:
+  - '&7&oĒdiens'
+VEGETABLE_OIL:
+  type:
+  - '&7&oSastāvdaļa'
+WAFFLES:
+  type:
+  - '&7&oĒdiens'
+WINE:
+  type:
+  - '&7&oĒdiens'
+YEAST:
+  type:
+  - '&7&oSastāvdaļa'

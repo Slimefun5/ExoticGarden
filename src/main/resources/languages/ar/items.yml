@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oسحري'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oسحري'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oطعام'
+BACON:
+  type:
+  - '&7&oطعام'
+BACON_BURGER:
+  type:
+  - '&7&oطعام'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oطعام'
+BACON_SANDWICH:
+  type:
+  - '&7&oطعام'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oطعام'
+BAGEL:
+  type:
+  - '&7&oطعام'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oطعام'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oطعام'
+BBQ_SAUCE:
+  type:
+  - '&7&oمكون'
+BISCUIT:
+  type:
+  - '&7&oطعام'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oطعام'
+BLACKBERRY:
+  type:
+  - '&7&oطعام'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oطعام'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oطعام'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+BLACK_PEPPER:
+  type:
+  - '&7&oطعام'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oمكون'
+BLT:
+  type:
+  - '&7&oطعام'
+BLUEBERRY:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oطعام'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oطعام'
+BROWN_SUGAR:
+  type:
+  - '&7&oمكون'
+BURRITO:
+  type:
+  - '&7&oطعام'
+CABBAGE:
+  type:
+  - '&7&oطعام'
+CABBAGE_BUSH:
+  type:
+  - '&7&oمكون'
+CARROT_CAKE:
+  type:
+  - '&7&oطعام'
+CHEESEBURGER:
+  type:
+  - '&7&oطعام'
+CHEESECAKE:
+  type:
+  - '&7&oطعام'
+CHERRY:
+  type:
+  - '&7&oطعام'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oطعام'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oطعام'
+CHERRY_JUICE:
+  type:
+  - '&7&oطعام'
+CHERRY_PIE:
+  type:
+  - '&7&oطعام'
+CHERRY_SAPLING:
+  type:
+  - '&7&oمكون'
+CHICKEN_BURGER:
+  type:
+  - '&7&oطعام'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oطعام'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oطعام'
+CHICKEN_CURRY:
+  type:
+  - '&7&oطعام'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oطعام'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oطعام'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oطعام'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oطعام'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oطعام'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oطعام'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oطعام'
+CILANTRO:
+  type:
+  - '&7&oطعام'
+CILANTRO_BUSH:
+  type:
+  - '&7&oمكون'
+CLUB_SANDWICH:
+  type:
+  - '&7&oطعام'
+COAL_ESSENCE:
+  type:
+  - '&7&oسحري'
+COAL_PLANT:
+  type:
+  - '&7&oسحري'
+COCONUT:
+  type:
+  - '&7&oطعام'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oطعام'
+COCONUT_MILK:
+  type:
+  - '&7&oطعام'
+COCONUT_SAPLING:
+  type:
+  - '&7&oمكون'
+COPPER_ESSENCE:
+  type:
+  - '&7&oسحري'
+COPPER_PLANT:
+  type:
+  - '&7&oسحري'
+CORN:
+  type:
+  - '&7&oطعام'
+CORNMEAL:
+  type:
+  - '&7&oمكون'
+CORN_BUSH:
+  type:
+  - '&7&oمكون'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oطعام'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oمكون'
+COWBERRY:
+  type:
+  - '&7&oطعام'
+COWBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+COWBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+COWBERRY_PIE:
+  type:
+  - '&7&oطعام'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+CRANBERRY:
+  type:
+  - '&7&oطعام'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+CRANBERRY_PIE:
+  type:
+  - '&7&oطعام'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+CREAMED_CORN:
+  type:
+  - '&7&oطعام'
+CREAM_COOKIE:
+  type:
+  - '&7&oطعام'
+CROOK:
+  type:
+  - '&7&oأداة'
+CURRY_LEAF:
+  type:
+  - '&7&oطعام'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oمكون'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oطعام'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oسحري'
+DIAMOND_PLANT:
+  type:
+  - '&7&oسحري'
+DIRT_ESSENCE:
+  type:
+  - '&7&oسحري'
+DIRT_PLANT:
+  type:
+  - '&7&oسحري'
+DRAGON_FRUIT:
+  type:
+  - '&7&oطعام'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oطعام'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oطعام'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oمكون'
+EGG_SALAD:
+  type:
+  - '&7&oطعام'
+ELDERBERRY:
+  type:
+  - '&7&oطعام'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oطعام'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oسحري'
+EMERALD_PLANT:
+  type:
+  - '&7&oسحري'
+ENDER_ESSENCE:
+  type:
+  - '&7&oسحري'
+ENDER_PLANT:
+  type:
+  - '&7&oسحري'
+FISH_SANDWICH:
+  type:
+  - '&7&oطعام'
+FISH_TACO:
+  type:
+  - '&7&oطعام'
+FRIES:
+  type:
+  - '&7&oطعام'
+GARLIC:
+  type:
+  - '&7&oطعام'
+GARLIC_BREAD:
+  type:
+  - '&7&oطعام'
+GARLIC_BUSH:
+  type:
+  - '&7&oمكون'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oطعام'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oسحري'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oسحري'
+GOLD_ESSENCE:
+  type:
+  - '&7&oسحري'
+GOLD_PLANT:
+  type:
+  - '&7&oسحري'
+GRAPE:
+  type:
+  - '&7&oطعام'
+GRAPE_BUSH:
+  type:
+  - '&7&oمكون'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+GRAPE_JUICE:
+  type:
+  - '&7&oطعام'
+GRAPE_PIE:
+  type:
+  - '&7&oطعام'
+GRAPE_SALAD:
+  type:
+  - '&7&oطعام'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+GRASS_SEEDS:
+  type:
+  - '&7&oجهاز'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oطعام'
+HAMBURGER:
+  type:
+  - '&7&oطعام'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oطعام'
+HOT_DOG:
+  type:
+  - '&7&oطعام'
+ICE_CREAM:
+  type:
+  - '&7&oطعام'
+ICE_CUBE:
+  type:
+  - '&7&oمكون'
+IRON_ESSENCE:
+  type:
+  - '&7&oسحري'
+IRON_PLANT:
+  type:
+  - '&7&oسحري'
+JAMMY_DODGER:
+  type:
+  - '&7&oطعام'
+KITCHEN:
+  type:
+  - '&7&oبنية مركبة'
+LAMINGTON:
+  type:
+  - '&7&oطعام'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oسحري'
+LAPIS_PLANT:
+  type:
+  - '&7&oسحري'
+LASAGNA:
+  type:
+  - '&7&oطعام'
+LEAD_ESSENCE:
+  type:
+  - '&7&oسحري'
+LEAD_PLANT:
+  type:
+  - '&7&oسحري'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oطعام'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oطعام'
+LEMON:
+  type:
+  - '&7&oطعام'
+LEMONADE:
+  type:
+  - '&7&oطعام'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oطعام'
+LEMON_JUICE:
+  type:
+  - '&7&oطعام'
+LEMON_PIE:
+  type:
+  - '&7&oطعام'
+LEMON_SAPLING:
+  type:
+  - '&7&oمكون'
+LETTUCE:
+  type:
+  - '&7&oطعام'
+LETTUCE_BUSH:
+  type:
+  - '&7&oمكون'
+LIME:
+  type:
+  - '&7&oطعام'
+LIME_JUICE:
+  type:
+  - '&7&oطعام'
+LIME_PIE:
+  type:
+  - '&7&oطعام'
+LIME_SAPLING:
+  type:
+  - '&7&oمكون'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+MAYO:
+  type:
+  - '&7&oمكون'
+MOLASSES:
+  type:
+  - '&7&oمكون'
+MUSTARD:
+  type:
+  - '&7&oمكون'
+MUSTARD_SEED:
+  type:
+  - '&7&oطعام'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oمكون'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oسحري'
+NETHERITE_PLANT:
+  type:
+  - '&7&oسحري'
+OAK_APPLE:
+  type:
+  - '&7&oطعام'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oطعام'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oطعام'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oمكون'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oسحري'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oسحري'
+ONION:
+  type:
+  - '&7&oطعام'
+ONION_BUSH:
+  type:
+  - '&7&oمكون'
+ORANGE:
+  type:
+  - '&7&oطعام'
+ORANGE_JUICE:
+  type:
+  - '&7&oطعام'
+ORANGE_PIE:
+  type:
+  - '&7&oطعام'
+ORANGE_SAPLING:
+  type:
+  - '&7&oمكون'
+PANCAKES:
+  type:
+  - '&7&oطعام'
+PAVLOVA:
+  type:
+  - '&7&oطعام'
+PEACH:
+  type:
+  - '&7&oطعام'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oطعام'
+PEACH_JUICE:
+  type:
+  - '&7&oطعام'
+PEACH_PIE:
+  type:
+  - '&7&oطعام'
+PEACH_SAPLING:
+  type:
+  - '&7&oمكون'
+PEAR:
+  type:
+  - '&7&oطعام'
+PEAR_JUICE:
+  type:
+  - '&7&oطعام'
+PEAR_PIE:
+  type:
+  - '&7&oطعام'
+PEAR_SAPLING:
+  type:
+  - '&7&oمكون'
+PINACOLADA:
+  type:
+  - '&7&oطعام'
+PINEAPPLE:
+  type:
+  - '&7&oطعام'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oمكون'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oطعام'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+PLUM:
+  type:
+  - '&7&oطعام'
+PLUM_JUICE:
+  type:
+  - '&7&oطعام'
+PLUM_PIE:
+  type:
+  - '&7&oطعام'
+PLUM_SAPLING:
+  type:
+  - '&7&oمكون'
+POMEGRANATE:
+  type:
+  - '&7&oطعام'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oطعام'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oطعام'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oمكون'
+POPCORN:
+  type:
+  - '&7&oطعام'
+POTATO_SALAD:
+  type:
+  - '&7&oطعام'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oطعام'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oطعام'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oطعام'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oسحري'
+QUARTZ_PLANT:
+  type:
+  - '&7&oسحري'
+RASPBERRY:
+  type:
+  - '&7&oطعام'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oطعام'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+RASPBERRY_PIE:
+  type:
+  - '&7&oطعام'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oسحري'
+REDSTONE_PLANT:
+  type:
+  - '&7&oسحري'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oطعام'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oمكون'
+SALTY_POPCORN:
+  type:
+  - '&7&oطعام'
+SANDWICH:
+  type:
+  - '&7&oطعام'
+SHEPARDS_PIE:
+  type:
+  - '&7&oطعام'
+SILVER_ESSENCE:
+  type:
+  - '&7&oسحري'
+SILVER_PLANT:
+  type:
+  - '&7&oسحري'
+SLIME_ESSENCE:
+  type:
+  - '&7&oسحري'
+SLIME_PLANT:
+  type:
+  - '&7&oسحري'
+STRAWBERRY:
+  type:
+  - '&7&oطعام'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oمكون'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oطعام'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oطعام'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oطعام'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oطعام'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oطعام'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oطعام'
+STREET_TACO:
+  type:
+  - '&7&oطعام'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oطعام'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oطعام'
+SWEETENED_TEA:
+  type:
+  - '&7&oطعام'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oطعام'
+SWEET_POPCORN:
+  type:
+  - '&7&oطعام'
+SWEET_POTATO:
+  type:
+  - '&7&oطعام'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oمكون'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oطعام'
+TACO:
+  type:
+  - '&7&oطعام'
+TEA_LEAF:
+  type:
+  - '&7&oطعام'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oمكون'
+THAI_TEA:
+  type:
+  - '&7&oطعام'
+TIN_ESSENCE:
+  type:
+  - '&7&oسحري'
+TIN_PLANT:
+  type:
+  - '&7&oسحري'
+TIRAMISU:
+  type:
+  - '&7&oطعام'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oطعام'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oطعام'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oطعام'
+TOMATO:
+  type:
+  - '&7&oطعام'
+TOMATO_BUSH:
+  type:
+  - '&7&oمكون'
+TOMATO_JUICE:
+  type:
+  - '&7&oطعام'
+TOMATO_SOUP:
+  type:
+  - '&7&oطعام'
+VEGETABLE_OIL:
+  type:
+  - '&7&oمكون'
+WAFFLES:
+  type:
+  - '&7&oطعام'
+WINE:
+  type:
+  - '&7&oطعام'
+YEAST:
+  type:
+  - '&7&oمكون'

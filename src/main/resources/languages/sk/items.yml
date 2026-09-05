@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMagické'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMagické'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oJedlo'
+BACON:
+  type:
+  - '&7&oJedlo'
+BACON_BURGER:
+  type:
+  - '&7&oJedlo'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oJedlo'
+BACON_SANDWICH:
+  type:
+  - '&7&oJedlo'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oJedlo'
+BAGEL:
+  type:
+  - '&7&oJedlo'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oJedlo'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oJedlo'
+BBQ_SAUCE:
+  type:
+  - '&7&oKomponent'
+BISCUIT:
+  type:
+  - '&7&oJedlo'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oJedlo'
+BLACKBERRY:
+  type:
+  - '&7&oJedlo'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oJedlo'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+BLACK_PEPPER:
+  type:
+  - '&7&oJedlo'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oKomponent'
+BLT:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oJedlo'
+BROWN_SUGAR:
+  type:
+  - '&7&oKomponent'
+BURRITO:
+  type:
+  - '&7&oJedlo'
+CABBAGE:
+  type:
+  - '&7&oJedlo'
+CABBAGE_BUSH:
+  type:
+  - '&7&oKomponent'
+CARROT_CAKE:
+  type:
+  - '&7&oJedlo'
+CHEESEBURGER:
+  type:
+  - '&7&oJedlo'
+CHEESECAKE:
+  type:
+  - '&7&oJedlo'
+CHERRY:
+  type:
+  - '&7&oJedlo'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oJedlo'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oJedlo'
+CHERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+CHERRY_PIE:
+  type:
+  - '&7&oJedlo'
+CHERRY_SAPLING:
+  type:
+  - '&7&oKomponent'
+CHICKEN_BURGER:
+  type:
+  - '&7&oJedlo'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oJedlo'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oJedlo'
+CHICKEN_CURRY:
+  type:
+  - '&7&oJedlo'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oJedlo'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oJedlo'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oJedlo'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oJedlo'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oJedlo'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oJedlo'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oJedlo'
+CILANTRO:
+  type:
+  - '&7&oJedlo'
+CILANTRO_BUSH:
+  type:
+  - '&7&oKomponent'
+CLUB_SANDWICH:
+  type:
+  - '&7&oJedlo'
+COAL_ESSENCE:
+  type:
+  - '&7&oMagické'
+COAL_PLANT:
+  type:
+  - '&7&oMagické'
+COCONUT:
+  type:
+  - '&7&oJedlo'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oJedlo'
+COCONUT_MILK:
+  type:
+  - '&7&oJedlo'
+COCONUT_SAPLING:
+  type:
+  - '&7&oKomponent'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMagické'
+COPPER_PLANT:
+  type:
+  - '&7&oMagické'
+CORN:
+  type:
+  - '&7&oJedlo'
+CORNMEAL:
+  type:
+  - '&7&oKomponent'
+CORN_BUSH:
+  type:
+  - '&7&oKomponent'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oJedlo'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oKomponent'
+COWBERRY:
+  type:
+  - '&7&oJedlo'
+COWBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+COWBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+COWBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+CRANBERRY:
+  type:
+  - '&7&oJedlo'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+CRANBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+CREAMED_CORN:
+  type:
+  - '&7&oJedlo'
+CREAM_COOKIE:
+  type:
+  - '&7&oJedlo'
+CROOK:
+  type:
+  - '&7&oNástroj'
+CURRY_LEAF:
+  type:
+  - '&7&oJedlo'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oKomponent'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oJedlo'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMagické'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMagické'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMagické'
+DIRT_PLANT:
+  type:
+  - '&7&oMagické'
+DRAGON_FRUIT:
+  type:
+  - '&7&oJedlo'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oJedlo'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oJedlo'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oKomponent'
+EGG_SALAD:
+  type:
+  - '&7&oJedlo'
+ELDERBERRY:
+  type:
+  - '&7&oJedlo'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMagické'
+EMERALD_PLANT:
+  type:
+  - '&7&oMagické'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMagické'
+ENDER_PLANT:
+  type:
+  - '&7&oMagické'
+FISH_SANDWICH:
+  type:
+  - '&7&oJedlo'
+FISH_TACO:
+  type:
+  - '&7&oJedlo'
+FRIES:
+  type:
+  - '&7&oJedlo'
+GARLIC:
+  type:
+  - '&7&oJedlo'
+GARLIC_BREAD:
+  type:
+  - '&7&oJedlo'
+GARLIC_BUSH:
+  type:
+  - '&7&oKomponent'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oJedlo'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMagické'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMagické'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMagické'
+GOLD_PLANT:
+  type:
+  - '&7&oMagické'
+GRAPE:
+  type:
+  - '&7&oJedlo'
+GRAPE_BUSH:
+  type:
+  - '&7&oKomponent'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+GRAPE_JUICE:
+  type:
+  - '&7&oJedlo'
+GRAPE_PIE:
+  type:
+  - '&7&oJedlo'
+GRAPE_SALAD:
+  type:
+  - '&7&oJedlo'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+GRASS_SEEDS:
+  type:
+  - '&7&oGadget'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oJedlo'
+HAMBURGER:
+  type:
+  - '&7&oJedlo'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oJedlo'
+HOT_DOG:
+  type:
+  - '&7&oJedlo'
+ICE_CREAM:
+  type:
+  - '&7&oJedlo'
+ICE_CUBE:
+  type:
+  - '&7&oKomponent'
+IRON_ESSENCE:
+  type:
+  - '&7&oMagické'
+IRON_PLANT:
+  type:
+  - '&7&oMagické'
+JAMMY_DODGER:
+  type:
+  - '&7&oJedlo'
+KITCHEN:
+  type:
+  - '&7&oMultiblok'
+LAMINGTON:
+  type:
+  - '&7&oJedlo'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMagické'
+LAPIS_PLANT:
+  type:
+  - '&7&oMagické'
+LASAGNA:
+  type:
+  - '&7&oJedlo'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMagické'
+LEAD_PLANT:
+  type:
+  - '&7&oMagické'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oJedlo'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oJedlo'
+LEMON:
+  type:
+  - '&7&oJedlo'
+LEMONADE:
+  type:
+  - '&7&oJedlo'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oJedlo'
+LEMON_JUICE:
+  type:
+  - '&7&oJedlo'
+LEMON_PIE:
+  type:
+  - '&7&oJedlo'
+LEMON_SAPLING:
+  type:
+  - '&7&oKomponent'
+LETTUCE:
+  type:
+  - '&7&oJedlo'
+LETTUCE_BUSH:
+  type:
+  - '&7&oKomponent'
+LIME:
+  type:
+  - '&7&oJedlo'
+LIME_JUICE:
+  type:
+  - '&7&oJedlo'
+LIME_PIE:
+  type:
+  - '&7&oJedlo'
+LIME_SAPLING:
+  type:
+  - '&7&oKomponent'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+MAYO:
+  type:
+  - '&7&oKomponent'
+MOLASSES:
+  type:
+  - '&7&oKomponent'
+MUSTARD:
+  type:
+  - '&7&oKomponent'
+MUSTARD_SEED:
+  type:
+  - '&7&oJedlo'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oKomponent'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMagické'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMagické'
+OAK_APPLE:
+  type:
+  - '&7&oJedlo'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oJedlo'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oJedlo'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oKomponent'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMagické'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMagické'
+ONION:
+  type:
+  - '&7&oJedlo'
+ONION_BUSH:
+  type:
+  - '&7&oKomponent'
+ORANGE:
+  type:
+  - '&7&oJedlo'
+ORANGE_JUICE:
+  type:
+  - '&7&oJedlo'
+ORANGE_PIE:
+  type:
+  - '&7&oJedlo'
+ORANGE_SAPLING:
+  type:
+  - '&7&oKomponent'
+PANCAKES:
+  type:
+  - '&7&oJedlo'
+PAVLOVA:
+  type:
+  - '&7&oJedlo'
+PEACH:
+  type:
+  - '&7&oJedlo'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oJedlo'
+PEACH_JUICE:
+  type:
+  - '&7&oJedlo'
+PEACH_PIE:
+  type:
+  - '&7&oJedlo'
+PEACH_SAPLING:
+  type:
+  - '&7&oKomponent'
+PEAR:
+  type:
+  - '&7&oJedlo'
+PEAR_JUICE:
+  type:
+  - '&7&oJedlo'
+PEAR_PIE:
+  type:
+  - '&7&oJedlo'
+PEAR_SAPLING:
+  type:
+  - '&7&oKomponent'
+PINACOLADA:
+  type:
+  - '&7&oJedlo'
+PINEAPPLE:
+  type:
+  - '&7&oJedlo'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oKomponent'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oJedlo'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+PLUM:
+  type:
+  - '&7&oJedlo'
+PLUM_JUICE:
+  type:
+  - '&7&oJedlo'
+PLUM_PIE:
+  type:
+  - '&7&oJedlo'
+PLUM_SAPLING:
+  type:
+  - '&7&oKomponent'
+POMEGRANATE:
+  type:
+  - '&7&oJedlo'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oJedlo'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oJedlo'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oKomponent'
+POPCORN:
+  type:
+  - '&7&oJedlo'
+POTATO_SALAD:
+  type:
+  - '&7&oJedlo'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oJedlo'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oJedlo'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oJedlo'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMagické'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMagické'
+RASPBERRY:
+  type:
+  - '&7&oJedlo'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oJedlo'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+RASPBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMagické'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMagické'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oJedlo'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oKomponent'
+SALTY_POPCORN:
+  type:
+  - '&7&oJedlo'
+SANDWICH:
+  type:
+  - '&7&oJedlo'
+SHEPARDS_PIE:
+  type:
+  - '&7&oJedlo'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMagické'
+SILVER_PLANT:
+  type:
+  - '&7&oMagické'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMagické'
+SLIME_PLANT:
+  type:
+  - '&7&oMagické'
+STRAWBERRY:
+  type:
+  - '&7&oJedlo'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oJedlo'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oJedlo'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oJedlo'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oJedlo'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oJedlo'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oJedlo'
+STREET_TACO:
+  type:
+  - '&7&oJedlo'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oJedlo'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oJedlo'
+SWEETENED_TEA:
+  type:
+  - '&7&oJedlo'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oJedlo'
+SWEET_POPCORN:
+  type:
+  - '&7&oJedlo'
+SWEET_POTATO:
+  type:
+  - '&7&oJedlo'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oKomponent'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oJedlo'
+TACO:
+  type:
+  - '&7&oJedlo'
+TEA_LEAF:
+  type:
+  - '&7&oJedlo'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oKomponent'
+THAI_TEA:
+  type:
+  - '&7&oJedlo'
+TIN_ESSENCE:
+  type:
+  - '&7&oMagické'
+TIN_PLANT:
+  type:
+  - '&7&oMagické'
+TIRAMISU:
+  type:
+  - '&7&oJedlo'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oJedlo'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oJedlo'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oJedlo'
+TOMATO:
+  type:
+  - '&7&oJedlo'
+TOMATO_BUSH:
+  type:
+  - '&7&oKomponent'
+TOMATO_JUICE:
+  type:
+  - '&7&oJedlo'
+TOMATO_SOUP:
+  type:
+  - '&7&oJedlo'
+VEGETABLE_OIL:
+  type:
+  - '&7&oKomponent'
+WAFFLES:
+  type:
+  - '&7&oJedlo'
+WINE:
+  type:
+  - '&7&oJedlo'
+YEAST:
+  type:
+  - '&7&oKomponent'

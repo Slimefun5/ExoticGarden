@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oVarázslatos'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oÉtel'
+BACON:
+  type:
+  - '&7&oÉtel'
+BACON_BURGER:
+  type:
+  - '&7&oÉtel'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oÉtel'
+BACON_SANDWICH:
+  type:
+  - '&7&oÉtel'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oÉtel'
+BAGEL:
+  type:
+  - '&7&oÉtel'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oÉtel'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oÉtel'
+BBQ_SAUCE:
+  type:
+  - '&7&oAlkatrész'
+BISCUIT:
+  type:
+  - '&7&oÉtel'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oÉtel'
+BLACKBERRY:
+  type:
+  - '&7&oÉtel'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oÉtel'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+BLACK_PEPPER:
+  type:
+  - '&7&oÉtel'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oAlkatrész'
+BLT:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oÉtel'
+BROWN_SUGAR:
+  type:
+  - '&7&oAlkatrész'
+BURRITO:
+  type:
+  - '&7&oÉtel'
+CABBAGE:
+  type:
+  - '&7&oÉtel'
+CABBAGE_BUSH:
+  type:
+  - '&7&oAlkatrész'
+CARROT_CAKE:
+  type:
+  - '&7&oÉtel'
+CHEESEBURGER:
+  type:
+  - '&7&oÉtel'
+CHEESECAKE:
+  type:
+  - '&7&oÉtel'
+CHERRY:
+  type:
+  - '&7&oÉtel'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oÉtel'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oÉtel'
+CHERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+CHERRY_PIE:
+  type:
+  - '&7&oÉtel'
+CHERRY_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+CHICKEN_BURGER:
+  type:
+  - '&7&oÉtel'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oÉtel'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oÉtel'
+CHICKEN_CURRY:
+  type:
+  - '&7&oÉtel'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oÉtel'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oÉtel'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oÉtel'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oÉtel'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oÉtel'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oÉtel'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oÉtel'
+CILANTRO:
+  type:
+  - '&7&oÉtel'
+CILANTRO_BUSH:
+  type:
+  - '&7&oAlkatrész'
+CLUB_SANDWICH:
+  type:
+  - '&7&oÉtel'
+COAL_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+COAL_PLANT:
+  type:
+  - '&7&oVarázslatos'
+COCONUT:
+  type:
+  - '&7&oÉtel'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oÉtel'
+COCONUT_MILK:
+  type:
+  - '&7&oÉtel'
+COCONUT_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+COPPER_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+COPPER_PLANT:
+  type:
+  - '&7&oVarázslatos'
+CORN:
+  type:
+  - '&7&oÉtel'
+CORNMEAL:
+  type:
+  - '&7&oAlkatrész'
+CORN_BUSH:
+  type:
+  - '&7&oAlkatrész'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oÉtel'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oAlkatrész'
+COWBERRY:
+  type:
+  - '&7&oÉtel'
+COWBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+COWBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+COWBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+CRANBERRY:
+  type:
+  - '&7&oÉtel'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+CRANBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+CREAMED_CORN:
+  type:
+  - '&7&oÉtel'
+CREAM_COOKIE:
+  type:
+  - '&7&oÉtel'
+CROOK:
+  type:
+  - '&7&oEszköz'
+CURRY_LEAF:
+  type:
+  - '&7&oÉtel'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oAlkatrész'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oÉtel'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+DIAMOND_PLANT:
+  type:
+  - '&7&oVarázslatos'
+DIRT_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+DIRT_PLANT:
+  type:
+  - '&7&oVarázslatos'
+DRAGON_FRUIT:
+  type:
+  - '&7&oÉtel'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oÉtel'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oÉtel'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+EGG_SALAD:
+  type:
+  - '&7&oÉtel'
+ELDERBERRY:
+  type:
+  - '&7&oÉtel'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+EMERALD_PLANT:
+  type:
+  - '&7&oVarázslatos'
+ENDER_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+ENDER_PLANT:
+  type:
+  - '&7&oVarázslatos'
+FISH_SANDWICH:
+  type:
+  - '&7&oÉtel'
+FISH_TACO:
+  type:
+  - '&7&oÉtel'
+FRIES:
+  type:
+  - '&7&oÉtel'
+GARLIC:
+  type:
+  - '&7&oÉtel'
+GARLIC_BREAD:
+  type:
+  - '&7&oÉtel'
+GARLIC_BUSH:
+  type:
+  - '&7&oAlkatrész'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oÉtel'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oVarázslatos'
+GOLD_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+GOLD_PLANT:
+  type:
+  - '&7&oVarázslatos'
+GRAPE:
+  type:
+  - '&7&oÉtel'
+GRAPE_BUSH:
+  type:
+  - '&7&oAlkatrész'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+GRAPE_JUICE:
+  type:
+  - '&7&oÉtel'
+GRAPE_PIE:
+  type:
+  - '&7&oÉtel'
+GRAPE_SALAD:
+  type:
+  - '&7&oÉtel'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+GRASS_SEEDS:
+  type:
+  - '&7&oKütyü'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oÉtel'
+HAMBURGER:
+  type:
+  - '&7&oÉtel'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oÉtel'
+HOT_DOG:
+  type:
+  - '&7&oÉtel'
+ICE_CREAM:
+  type:
+  - '&7&oÉtel'
+ICE_CUBE:
+  type:
+  - '&7&oAlkatrész'
+IRON_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+IRON_PLANT:
+  type:
+  - '&7&oVarázslatos'
+JAMMY_DODGER:
+  type:
+  - '&7&oÉtel'
+KITCHEN:
+  type:
+  - '&7&oMultiblock'
+LAMINGTON:
+  type:
+  - '&7&oÉtel'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+LAPIS_PLANT:
+  type:
+  - '&7&oVarázslatos'
+LASAGNA:
+  type:
+  - '&7&oÉtel'
+LEAD_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+LEAD_PLANT:
+  type:
+  - '&7&oVarázslatos'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oÉtel'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oÉtel'
+LEMON:
+  type:
+  - '&7&oÉtel'
+LEMONADE:
+  type:
+  - '&7&oÉtel'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oÉtel'
+LEMON_JUICE:
+  type:
+  - '&7&oÉtel'
+LEMON_PIE:
+  type:
+  - '&7&oÉtel'
+LEMON_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+LETTUCE:
+  type:
+  - '&7&oÉtel'
+LETTUCE_BUSH:
+  type:
+  - '&7&oAlkatrész'
+LIME:
+  type:
+  - '&7&oÉtel'
+LIME_JUICE:
+  type:
+  - '&7&oÉtel'
+LIME_PIE:
+  type:
+  - '&7&oÉtel'
+LIME_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+MAYO:
+  type:
+  - '&7&oAlkatrész'
+MOLASSES:
+  type:
+  - '&7&oAlkatrész'
+MUSTARD:
+  type:
+  - '&7&oAlkatrész'
+MUSTARD_SEED:
+  type:
+  - '&7&oÉtel'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oAlkatrész'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+NETHERITE_PLANT:
+  type:
+  - '&7&oVarázslatos'
+OAK_APPLE:
+  type:
+  - '&7&oÉtel'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oÉtel'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oÉtel'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oVarázslatos'
+ONION:
+  type:
+  - '&7&oÉtel'
+ONION_BUSH:
+  type:
+  - '&7&oAlkatrész'
+ORANGE:
+  type:
+  - '&7&oÉtel'
+ORANGE_JUICE:
+  type:
+  - '&7&oÉtel'
+ORANGE_PIE:
+  type:
+  - '&7&oÉtel'
+ORANGE_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+PANCAKES:
+  type:
+  - '&7&oÉtel'
+PAVLOVA:
+  type:
+  - '&7&oÉtel'
+PEACH:
+  type:
+  - '&7&oÉtel'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oÉtel'
+PEACH_JUICE:
+  type:
+  - '&7&oÉtel'
+PEACH_PIE:
+  type:
+  - '&7&oÉtel'
+PEACH_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+PEAR:
+  type:
+  - '&7&oÉtel'
+PEAR_JUICE:
+  type:
+  - '&7&oÉtel'
+PEAR_PIE:
+  type:
+  - '&7&oÉtel'
+PEAR_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+PINACOLADA:
+  type:
+  - '&7&oÉtel'
+PINEAPPLE:
+  type:
+  - '&7&oÉtel'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oAlkatrész'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oÉtel'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+PLUM:
+  type:
+  - '&7&oÉtel'
+PLUM_JUICE:
+  type:
+  - '&7&oÉtel'
+PLUM_PIE:
+  type:
+  - '&7&oÉtel'
+PLUM_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+POMEGRANATE:
+  type:
+  - '&7&oÉtel'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oÉtel'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oÉtel'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oAlkatrész'
+POPCORN:
+  type:
+  - '&7&oÉtel'
+POTATO_SALAD:
+  type:
+  - '&7&oÉtel'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oÉtel'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oÉtel'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oÉtel'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+QUARTZ_PLANT:
+  type:
+  - '&7&oVarázslatos'
+RASPBERRY:
+  type:
+  - '&7&oÉtel'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oÉtel'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+RASPBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+REDSTONE_PLANT:
+  type:
+  - '&7&oVarázslatos'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oÉtel'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oAlkatrész'
+SALTY_POPCORN:
+  type:
+  - '&7&oÉtel'
+SANDWICH:
+  type:
+  - '&7&oÉtel'
+SHEPARDS_PIE:
+  type:
+  - '&7&oÉtel'
+SILVER_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+SILVER_PLANT:
+  type:
+  - '&7&oVarázslatos'
+SLIME_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+SLIME_PLANT:
+  type:
+  - '&7&oVarázslatos'
+STRAWBERRY:
+  type:
+  - '&7&oÉtel'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oAlkatrész'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oÉtel'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oÉtel'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oÉtel'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oÉtel'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oÉtel'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oÉtel'
+STREET_TACO:
+  type:
+  - '&7&oÉtel'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oÉtel'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oÉtel'
+SWEETENED_TEA:
+  type:
+  - '&7&oÉtel'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oÉtel'
+SWEET_POPCORN:
+  type:
+  - '&7&oÉtel'
+SWEET_POTATO:
+  type:
+  - '&7&oÉtel'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oAlkatrész'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oÉtel'
+TACO:
+  type:
+  - '&7&oÉtel'
+TEA_LEAF:
+  type:
+  - '&7&oÉtel'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oAlkatrész'
+THAI_TEA:
+  type:
+  - '&7&oÉtel'
+TIN_ESSENCE:
+  type:
+  - '&7&oVarázslatos'
+TIN_PLANT:
+  type:
+  - '&7&oVarázslatos'
+TIRAMISU:
+  type:
+  - '&7&oÉtel'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oÉtel'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oÉtel'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oÉtel'
+TOMATO:
+  type:
+  - '&7&oÉtel'
+TOMATO_BUSH:
+  type:
+  - '&7&oAlkatrész'
+TOMATO_JUICE:
+  type:
+  - '&7&oÉtel'
+TOMATO_SOUP:
+  type:
+  - '&7&oÉtel'
+VEGETABLE_OIL:
+  type:
+  - '&7&oAlkatrész'
+WAFFLES:
+  type:
+  - '&7&oÉtel'
+WINE:
+  type:
+  - '&7&oÉtel'
+YEAST:
+  type:
+  - '&7&oAlkatrész'

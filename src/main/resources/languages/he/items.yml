@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oקסום'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oקסום'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oמזון'
+BACON:
+  type:
+  - '&7&oמזון'
+BACON_BURGER:
+  type:
+  - '&7&oמזון'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oמזון'
+BACON_SANDWICH:
+  type:
+  - '&7&oמזון'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oמזון'
+BAGEL:
+  type:
+  - '&7&oמזון'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oמזון'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oמזון'
+BBQ_SAUCE:
+  type:
+  - '&7&oרכיב'
+BISCUIT:
+  type:
+  - '&7&oמזון'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oמזון'
+BLACKBERRY:
+  type:
+  - '&7&oמזון'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oמזון'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oמזון'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+BLACK_PEPPER:
+  type:
+  - '&7&oמזון'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oרכיב'
+BLT:
+  type:
+  - '&7&oמזון'
+BLUEBERRY:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oמזון'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oמזון'
+BROWN_SUGAR:
+  type:
+  - '&7&oרכיב'
+BURRITO:
+  type:
+  - '&7&oמזון'
+CABBAGE:
+  type:
+  - '&7&oמזון'
+CABBAGE_BUSH:
+  type:
+  - '&7&oרכיב'
+CARROT_CAKE:
+  type:
+  - '&7&oמזון'
+CHEESEBURGER:
+  type:
+  - '&7&oמזון'
+CHEESECAKE:
+  type:
+  - '&7&oמזון'
+CHERRY:
+  type:
+  - '&7&oמזון'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oמזון'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oמזון'
+CHERRY_JUICE:
+  type:
+  - '&7&oמזון'
+CHERRY_PIE:
+  type:
+  - '&7&oמזון'
+CHERRY_SAPLING:
+  type:
+  - '&7&oרכיב'
+CHICKEN_BURGER:
+  type:
+  - '&7&oמזון'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oמזון'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oמזון'
+CHICKEN_CURRY:
+  type:
+  - '&7&oמזון'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oמזון'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oמזון'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oמזון'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oמזון'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oמזון'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oמזון'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oמזון'
+CILANTRO:
+  type:
+  - '&7&oמזון'
+CILANTRO_BUSH:
+  type:
+  - '&7&oרכיב'
+CLUB_SANDWICH:
+  type:
+  - '&7&oמזון'
+COAL_ESSENCE:
+  type:
+  - '&7&oקסום'
+COAL_PLANT:
+  type:
+  - '&7&oקסום'
+COCONUT:
+  type:
+  - '&7&oמזון'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oמזון'
+COCONUT_MILK:
+  type:
+  - '&7&oמזון'
+COCONUT_SAPLING:
+  type:
+  - '&7&oרכיב'
+COPPER_ESSENCE:
+  type:
+  - '&7&oקסום'
+COPPER_PLANT:
+  type:
+  - '&7&oקסום'
+CORN:
+  type:
+  - '&7&oמזון'
+CORNMEAL:
+  type:
+  - '&7&oרכיב'
+CORN_BUSH:
+  type:
+  - '&7&oרכיב'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oמזון'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oרכיב'
+COWBERRY:
+  type:
+  - '&7&oמזון'
+COWBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+COWBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+COWBERRY_PIE:
+  type:
+  - '&7&oמזון'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+CRANBERRY:
+  type:
+  - '&7&oמזון'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+CRANBERRY_PIE:
+  type:
+  - '&7&oמזון'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+CREAMED_CORN:
+  type:
+  - '&7&oמזון'
+CREAM_COOKIE:
+  type:
+  - '&7&oמזון'
+CROOK:
+  type:
+  - '&7&oכלי'
+CURRY_LEAF:
+  type:
+  - '&7&oמזון'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oרכיב'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oמזון'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oקסום'
+DIAMOND_PLANT:
+  type:
+  - '&7&oקסום'
+DIRT_ESSENCE:
+  type:
+  - '&7&oקסום'
+DIRT_PLANT:
+  type:
+  - '&7&oקסום'
+DRAGON_FRUIT:
+  type:
+  - '&7&oמזון'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oמזון'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oמזון'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oרכיב'
+EGG_SALAD:
+  type:
+  - '&7&oמזון'
+ELDERBERRY:
+  type:
+  - '&7&oמזון'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oמזון'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oקסום'
+EMERALD_PLANT:
+  type:
+  - '&7&oקסום'
+ENDER_ESSENCE:
+  type:
+  - '&7&oקסום'
+ENDER_PLANT:
+  type:
+  - '&7&oקסום'
+FISH_SANDWICH:
+  type:
+  - '&7&oמזון'
+FISH_TACO:
+  type:
+  - '&7&oמזון'
+FRIES:
+  type:
+  - '&7&oמזון'
+GARLIC:
+  type:
+  - '&7&oמזון'
+GARLIC_BREAD:
+  type:
+  - '&7&oמזון'
+GARLIC_BUSH:
+  type:
+  - '&7&oרכיב'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oמזון'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oקסום'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oקסום'
+GOLD_ESSENCE:
+  type:
+  - '&7&oקסום'
+GOLD_PLANT:
+  type:
+  - '&7&oקסום'
+GRAPE:
+  type:
+  - '&7&oמזון'
+GRAPE_BUSH:
+  type:
+  - '&7&oרכיב'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+GRAPE_JUICE:
+  type:
+  - '&7&oמזון'
+GRAPE_PIE:
+  type:
+  - '&7&oמזון'
+GRAPE_SALAD:
+  type:
+  - '&7&oמזון'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+GRASS_SEEDS:
+  type:
+  - '&7&oגאדג׳ט'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oמזון'
+HAMBURGER:
+  type:
+  - '&7&oמזון'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oמזון'
+HOT_DOG:
+  type:
+  - '&7&oמזון'
+ICE_CREAM:
+  type:
+  - '&7&oמזון'
+ICE_CUBE:
+  type:
+  - '&7&oרכיב'
+IRON_ESSENCE:
+  type:
+  - '&7&oקסום'
+IRON_PLANT:
+  type:
+  - '&7&oקסום'
+JAMMY_DODGER:
+  type:
+  - '&7&oמזון'
+KITCHEN:
+  type:
+  - '&7&oרב בלוק'
+LAMINGTON:
+  type:
+  - '&7&oמזון'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oקסום'
+LAPIS_PLANT:
+  type:
+  - '&7&oקסום'
+LASAGNA:
+  type:
+  - '&7&oמזון'
+LEAD_ESSENCE:
+  type:
+  - '&7&oקסום'
+LEAD_PLANT:
+  type:
+  - '&7&oקסום'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oמזון'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oמזון'
+LEMON:
+  type:
+  - '&7&oמזון'
+LEMONADE:
+  type:
+  - '&7&oמזון'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oמזון'
+LEMON_JUICE:
+  type:
+  - '&7&oמזון'
+LEMON_PIE:
+  type:
+  - '&7&oמזון'
+LEMON_SAPLING:
+  type:
+  - '&7&oרכיב'
+LETTUCE:
+  type:
+  - '&7&oמזון'
+LETTUCE_BUSH:
+  type:
+  - '&7&oרכיב'
+LIME:
+  type:
+  - '&7&oמזון'
+LIME_JUICE:
+  type:
+  - '&7&oמזון'
+LIME_PIE:
+  type:
+  - '&7&oמזון'
+LIME_SAPLING:
+  type:
+  - '&7&oרכיב'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+MAYO:
+  type:
+  - '&7&oרכיב'
+MOLASSES:
+  type:
+  - '&7&oרכיב'
+MUSTARD:
+  type:
+  - '&7&oרכיב'
+MUSTARD_SEED:
+  type:
+  - '&7&oמזון'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oרכיב'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oקסום'
+NETHERITE_PLANT:
+  type:
+  - '&7&oקסום'
+OAK_APPLE:
+  type:
+  - '&7&oמזון'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oמזון'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oמזון'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oרכיב'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oקסום'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oקסום'
+ONION:
+  type:
+  - '&7&oמזון'
+ONION_BUSH:
+  type:
+  - '&7&oרכיב'
+ORANGE:
+  type:
+  - '&7&oמזון'
+ORANGE_JUICE:
+  type:
+  - '&7&oמזון'
+ORANGE_PIE:
+  type:
+  - '&7&oמזון'
+ORANGE_SAPLING:
+  type:
+  - '&7&oרכיב'
+PANCAKES:
+  type:
+  - '&7&oמזון'
+PAVLOVA:
+  type:
+  - '&7&oמזון'
+PEACH:
+  type:
+  - '&7&oמזון'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oמזון'
+PEACH_JUICE:
+  type:
+  - '&7&oמזון'
+PEACH_PIE:
+  type:
+  - '&7&oמזון'
+PEACH_SAPLING:
+  type:
+  - '&7&oרכיב'
+PEAR:
+  type:
+  - '&7&oמזון'
+PEAR_JUICE:
+  type:
+  - '&7&oמזון'
+PEAR_PIE:
+  type:
+  - '&7&oמזון'
+PEAR_SAPLING:
+  type:
+  - '&7&oרכיב'
+PINACOLADA:
+  type:
+  - '&7&oמזון'
+PINEAPPLE:
+  type:
+  - '&7&oמזון'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oרכיב'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oמזון'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+PLUM:
+  type:
+  - '&7&oמזון'
+PLUM_JUICE:
+  type:
+  - '&7&oמזון'
+PLUM_PIE:
+  type:
+  - '&7&oמזון'
+PLUM_SAPLING:
+  type:
+  - '&7&oרכיב'
+POMEGRANATE:
+  type:
+  - '&7&oמזון'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oמזון'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oמזון'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oרכיב'
+POPCORN:
+  type:
+  - '&7&oמזון'
+POTATO_SALAD:
+  type:
+  - '&7&oמזון'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oמזון'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oמזון'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oמזון'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oקסום'
+QUARTZ_PLANT:
+  type:
+  - '&7&oקסום'
+RASPBERRY:
+  type:
+  - '&7&oמזון'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oמזון'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+RASPBERRY_PIE:
+  type:
+  - '&7&oמזון'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oקסום'
+REDSTONE_PLANT:
+  type:
+  - '&7&oקסום'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oמזון'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oרכיב'
+SALTY_POPCORN:
+  type:
+  - '&7&oמזון'
+SANDWICH:
+  type:
+  - '&7&oמזון'
+SHEPARDS_PIE:
+  type:
+  - '&7&oמזון'
+SILVER_ESSENCE:
+  type:
+  - '&7&oקסום'
+SILVER_PLANT:
+  type:
+  - '&7&oקסום'
+SLIME_ESSENCE:
+  type:
+  - '&7&oקסום'
+SLIME_PLANT:
+  type:
+  - '&7&oקסום'
+STRAWBERRY:
+  type:
+  - '&7&oמזון'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oרכיב'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oמזון'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oמזון'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oמזון'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oמזון'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oמזון'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oמזון'
+STREET_TACO:
+  type:
+  - '&7&oמזון'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oמזון'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oמזון'
+SWEETENED_TEA:
+  type:
+  - '&7&oמזון'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oמזון'
+SWEET_POPCORN:
+  type:
+  - '&7&oמזון'
+SWEET_POTATO:
+  type:
+  - '&7&oמזון'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oרכיב'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oמזון'
+TACO:
+  type:
+  - '&7&oמזון'
+TEA_LEAF:
+  type:
+  - '&7&oמזון'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oרכיב'
+THAI_TEA:
+  type:
+  - '&7&oמזון'
+TIN_ESSENCE:
+  type:
+  - '&7&oקסום'
+TIN_PLANT:
+  type:
+  - '&7&oקסום'
+TIRAMISU:
+  type:
+  - '&7&oמזון'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oמזון'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oמזון'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oמזון'
+TOMATO:
+  type:
+  - '&7&oמזון'
+TOMATO_BUSH:
+  type:
+  - '&7&oרכיב'
+TOMATO_JUICE:
+  type:
+  - '&7&oמזון'
+TOMATO_SOUP:
+  type:
+  - '&7&oמזון'
+VEGETABLE_OIL:
+  type:
+  - '&7&oרכיב'
+WAFFLES:
+  type:
+  - '&7&oמזון'
+WINE:
+  type:
+  - '&7&oמזון'
+YEAST:
+  type:
+  - '&7&oרכיב'

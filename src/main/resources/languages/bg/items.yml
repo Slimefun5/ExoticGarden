@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oМагическо'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oМагическо'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oХрана'
+BACON:
+  type:
+  - '&7&oХрана'
+BACON_BURGER:
+  type:
+  - '&7&oХрана'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oХрана'
+BACON_SANDWICH:
+  type:
+  - '&7&oХрана'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oХрана'
+BAGEL:
+  type:
+  - '&7&oХрана'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oХрана'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oХрана'
+BBQ_SAUCE:
+  type:
+  - '&7&oКомпонент'
+BISCUIT:
+  type:
+  - '&7&oХрана'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oХрана'
+BLACKBERRY:
+  type:
+  - '&7&oХрана'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oХрана'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oХрана'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+BLACK_PEPPER:
+  type:
+  - '&7&oХрана'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oКомпонент'
+BLT:
+  type:
+  - '&7&oХрана'
+BLUEBERRY:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oХрана'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oХрана'
+BROWN_SUGAR:
+  type:
+  - '&7&oКомпонент'
+BURRITO:
+  type:
+  - '&7&oХрана'
+CABBAGE:
+  type:
+  - '&7&oХрана'
+CABBAGE_BUSH:
+  type:
+  - '&7&oКомпонент'
+CARROT_CAKE:
+  type:
+  - '&7&oХрана'
+CHEESEBURGER:
+  type:
+  - '&7&oХрана'
+CHEESECAKE:
+  type:
+  - '&7&oХрана'
+CHERRY:
+  type:
+  - '&7&oХрана'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oХрана'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oХрана'
+CHERRY_JUICE:
+  type:
+  - '&7&oХрана'
+CHERRY_PIE:
+  type:
+  - '&7&oХрана'
+CHERRY_SAPLING:
+  type:
+  - '&7&oКомпонент'
+CHICKEN_BURGER:
+  type:
+  - '&7&oХрана'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oХрана'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oХрана'
+CHICKEN_CURRY:
+  type:
+  - '&7&oХрана'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oХрана'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oХрана'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oХрана'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oХрана'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oХрана'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oХрана'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oХрана'
+CILANTRO:
+  type:
+  - '&7&oХрана'
+CILANTRO_BUSH:
+  type:
+  - '&7&oКомпонент'
+CLUB_SANDWICH:
+  type:
+  - '&7&oХрана'
+COAL_ESSENCE:
+  type:
+  - '&7&oМагическо'
+COAL_PLANT:
+  type:
+  - '&7&oМагическо'
+COCONUT:
+  type:
+  - '&7&oХрана'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oХрана'
+COCONUT_MILK:
+  type:
+  - '&7&oХрана'
+COCONUT_SAPLING:
+  type:
+  - '&7&oКомпонент'
+COPPER_ESSENCE:
+  type:
+  - '&7&oМагическо'
+COPPER_PLANT:
+  type:
+  - '&7&oМагическо'
+CORN:
+  type:
+  - '&7&oХрана'
+CORNMEAL:
+  type:
+  - '&7&oКомпонент'
+CORN_BUSH:
+  type:
+  - '&7&oКомпонент'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oХрана'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oКомпонент'
+COWBERRY:
+  type:
+  - '&7&oХрана'
+COWBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+COWBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+COWBERRY_PIE:
+  type:
+  - '&7&oХрана'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+CRANBERRY:
+  type:
+  - '&7&oХрана'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+CRANBERRY_PIE:
+  type:
+  - '&7&oХрана'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+CREAMED_CORN:
+  type:
+  - '&7&oХрана'
+CREAM_COOKIE:
+  type:
+  - '&7&oХрана'
+CROOK:
+  type:
+  - '&7&oИнструмент'
+CURRY_LEAF:
+  type:
+  - '&7&oХрана'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oКомпонент'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oХрана'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oМагическо'
+DIAMOND_PLANT:
+  type:
+  - '&7&oМагическо'
+DIRT_ESSENCE:
+  type:
+  - '&7&oМагическо'
+DIRT_PLANT:
+  type:
+  - '&7&oМагическо'
+DRAGON_FRUIT:
+  type:
+  - '&7&oХрана'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oХрана'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oХрана'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oКомпонент'
+EGG_SALAD:
+  type:
+  - '&7&oХрана'
+ELDERBERRY:
+  type:
+  - '&7&oХрана'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oХрана'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oМагическо'
+EMERALD_PLANT:
+  type:
+  - '&7&oМагическо'
+ENDER_ESSENCE:
+  type:
+  - '&7&oМагическо'
+ENDER_PLANT:
+  type:
+  - '&7&oМагическо'
+FISH_SANDWICH:
+  type:
+  - '&7&oХрана'
+FISH_TACO:
+  type:
+  - '&7&oХрана'
+FRIES:
+  type:
+  - '&7&oХрана'
+GARLIC:
+  type:
+  - '&7&oХрана'
+GARLIC_BREAD:
+  type:
+  - '&7&oХрана'
+GARLIC_BUSH:
+  type:
+  - '&7&oКомпонент'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oХрана'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oМагическо'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oМагическо'
+GOLD_ESSENCE:
+  type:
+  - '&7&oМагическо'
+GOLD_PLANT:
+  type:
+  - '&7&oМагическо'
+GRAPE:
+  type:
+  - '&7&oХрана'
+GRAPE_BUSH:
+  type:
+  - '&7&oКомпонент'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+GRAPE_JUICE:
+  type:
+  - '&7&oХрана'
+GRAPE_PIE:
+  type:
+  - '&7&oХрана'
+GRAPE_SALAD:
+  type:
+  - '&7&oХрана'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+GRASS_SEEDS:
+  type:
+  - '&7&oДжаджа'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oХрана'
+HAMBURGER:
+  type:
+  - '&7&oХрана'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oХрана'
+HOT_DOG:
+  type:
+  - '&7&oХрана'
+ICE_CREAM:
+  type:
+  - '&7&oХрана'
+ICE_CUBE:
+  type:
+  - '&7&oКомпонент'
+IRON_ESSENCE:
+  type:
+  - '&7&oМагическо'
+IRON_PLANT:
+  type:
+  - '&7&oМагическо'
+JAMMY_DODGER:
+  type:
+  - '&7&oХрана'
+KITCHEN:
+  type:
+  - '&7&oМултиблок'
+LAMINGTON:
+  type:
+  - '&7&oХрана'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oМагическо'
+LAPIS_PLANT:
+  type:
+  - '&7&oМагическо'
+LASAGNA:
+  type:
+  - '&7&oХрана'
+LEAD_ESSENCE:
+  type:
+  - '&7&oМагическо'
+LEAD_PLANT:
+  type:
+  - '&7&oМагическо'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oХрана'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oХрана'
+LEMON:
+  type:
+  - '&7&oХрана'
+LEMONADE:
+  type:
+  - '&7&oХрана'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oХрана'
+LEMON_JUICE:
+  type:
+  - '&7&oХрана'
+LEMON_PIE:
+  type:
+  - '&7&oХрана'
+LEMON_SAPLING:
+  type:
+  - '&7&oКомпонент'
+LETTUCE:
+  type:
+  - '&7&oХрана'
+LETTUCE_BUSH:
+  type:
+  - '&7&oКомпонент'
+LIME:
+  type:
+  - '&7&oХрана'
+LIME_JUICE:
+  type:
+  - '&7&oХрана'
+LIME_PIE:
+  type:
+  - '&7&oХрана'
+LIME_SAPLING:
+  type:
+  - '&7&oКомпонент'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+MAYO:
+  type:
+  - '&7&oКомпонент'
+MOLASSES:
+  type:
+  - '&7&oКомпонент'
+MUSTARD:
+  type:
+  - '&7&oКомпонент'
+MUSTARD_SEED:
+  type:
+  - '&7&oХрана'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oКомпонент'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oМагическо'
+NETHERITE_PLANT:
+  type:
+  - '&7&oМагическо'
+OAK_APPLE:
+  type:
+  - '&7&oХрана'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oХрана'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oХрана'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oКомпонент'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oМагическо'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oМагическо'
+ONION:
+  type:
+  - '&7&oХрана'
+ONION_BUSH:
+  type:
+  - '&7&oКомпонент'
+ORANGE:
+  type:
+  - '&7&oХрана'
+ORANGE_JUICE:
+  type:
+  - '&7&oХрана'
+ORANGE_PIE:
+  type:
+  - '&7&oХрана'
+ORANGE_SAPLING:
+  type:
+  - '&7&oКомпонент'
+PANCAKES:
+  type:
+  - '&7&oХрана'
+PAVLOVA:
+  type:
+  - '&7&oХрана'
+PEACH:
+  type:
+  - '&7&oХрана'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oХрана'
+PEACH_JUICE:
+  type:
+  - '&7&oХрана'
+PEACH_PIE:
+  type:
+  - '&7&oХрана'
+PEACH_SAPLING:
+  type:
+  - '&7&oКомпонент'
+PEAR:
+  type:
+  - '&7&oХрана'
+PEAR_JUICE:
+  type:
+  - '&7&oХрана'
+PEAR_PIE:
+  type:
+  - '&7&oХрана'
+PEAR_SAPLING:
+  type:
+  - '&7&oКомпонент'
+PINACOLADA:
+  type:
+  - '&7&oХрана'
+PINEAPPLE:
+  type:
+  - '&7&oХрана'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oКомпонент'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oХрана'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+PLUM:
+  type:
+  - '&7&oХрана'
+PLUM_JUICE:
+  type:
+  - '&7&oХрана'
+PLUM_PIE:
+  type:
+  - '&7&oХрана'
+PLUM_SAPLING:
+  type:
+  - '&7&oКомпонент'
+POMEGRANATE:
+  type:
+  - '&7&oХрана'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oХрана'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oХрана'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oКомпонент'
+POPCORN:
+  type:
+  - '&7&oХрана'
+POTATO_SALAD:
+  type:
+  - '&7&oХрана'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oХрана'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oХрана'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oХрана'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oМагическо'
+QUARTZ_PLANT:
+  type:
+  - '&7&oМагическо'
+RASPBERRY:
+  type:
+  - '&7&oХрана'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oХрана'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+RASPBERRY_PIE:
+  type:
+  - '&7&oХрана'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oМагическо'
+REDSTONE_PLANT:
+  type:
+  - '&7&oМагическо'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oХрана'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oКомпонент'
+SALTY_POPCORN:
+  type:
+  - '&7&oХрана'
+SANDWICH:
+  type:
+  - '&7&oХрана'
+SHEPARDS_PIE:
+  type:
+  - '&7&oХрана'
+SILVER_ESSENCE:
+  type:
+  - '&7&oМагическо'
+SILVER_PLANT:
+  type:
+  - '&7&oМагическо'
+SLIME_ESSENCE:
+  type:
+  - '&7&oМагическо'
+SLIME_PLANT:
+  type:
+  - '&7&oМагическо'
+STRAWBERRY:
+  type:
+  - '&7&oХрана'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oКомпонент'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oХрана'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oХрана'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oХрана'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oХрана'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oХрана'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oХрана'
+STREET_TACO:
+  type:
+  - '&7&oХрана'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oХрана'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oХрана'
+SWEETENED_TEA:
+  type:
+  - '&7&oХрана'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oХрана'
+SWEET_POPCORN:
+  type:
+  - '&7&oХрана'
+SWEET_POTATO:
+  type:
+  - '&7&oХрана'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oКомпонент'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oХрана'
+TACO:
+  type:
+  - '&7&oХрана'
+TEA_LEAF:
+  type:
+  - '&7&oХрана'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oКомпонент'
+THAI_TEA:
+  type:
+  - '&7&oХрана'
+TIN_ESSENCE:
+  type:
+  - '&7&oМагическо'
+TIN_PLANT:
+  type:
+  - '&7&oМагическо'
+TIRAMISU:
+  type:
+  - '&7&oХрана'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oХрана'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oХрана'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oХрана'
+TOMATO:
+  type:
+  - '&7&oХрана'
+TOMATO_BUSH:
+  type:
+  - '&7&oКомпонент'
+TOMATO_JUICE:
+  type:
+  - '&7&oХрана'
+TOMATO_SOUP:
+  type:
+  - '&7&oХрана'
+VEGETABLE_OIL:
+  type:
+  - '&7&oКомпонент'
+WAFFLES:
+  type:
+  - '&7&oХрана'
+WINE:
+  type:
+  - '&7&oХрана'
+YEAST:
+  type:
+  - '&7&oКомпонент'

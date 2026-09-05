@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oSihirli'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oSihirli'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oYiyecek'
+BACON:
+  type:
+  - '&7&oYiyecek'
+BACON_BURGER:
+  type:
+  - '&7&oYiyecek'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oYiyecek'
+BACON_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oYiyecek'
+BAGEL:
+  type:
+  - '&7&oYiyecek'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oYiyecek'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oYiyecek'
+BBQ_SAUCE:
+  type:
+  - '&7&oBileşen'
+BISCUIT:
+  type:
+  - '&7&oYiyecek'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oYiyecek'
+BLACKBERRY:
+  type:
+  - '&7&oYiyecek'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oYiyecek'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+BLACK_PEPPER:
+  type:
+  - '&7&oYiyecek'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oBileşen'
+BLT:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oYiyecek'
+BROWN_SUGAR:
+  type:
+  - '&7&oBileşen'
+BURRITO:
+  type:
+  - '&7&oYiyecek'
+CABBAGE:
+  type:
+  - '&7&oYiyecek'
+CABBAGE_BUSH:
+  type:
+  - '&7&oBileşen'
+CARROT_CAKE:
+  type:
+  - '&7&oYiyecek'
+CHEESEBURGER:
+  type:
+  - '&7&oYiyecek'
+CHEESECAKE:
+  type:
+  - '&7&oYiyecek'
+CHERRY:
+  type:
+  - '&7&oYiyecek'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oYiyecek'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oYiyecek'
+CHERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+CHERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+CHERRY_SAPLING:
+  type:
+  - '&7&oBileşen'
+CHICKEN_BURGER:
+  type:
+  - '&7&oYiyecek'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oYiyecek'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oYiyecek'
+CHICKEN_CURRY:
+  type:
+  - '&7&oYiyecek'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oYiyecek'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oYiyecek'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oYiyecek'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oYiyecek'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oYiyecek'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oYiyecek'
+CILANTRO:
+  type:
+  - '&7&oYiyecek'
+CILANTRO_BUSH:
+  type:
+  - '&7&oBileşen'
+CLUB_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+COAL_ESSENCE:
+  type:
+  - '&7&oSihirli'
+COAL_PLANT:
+  type:
+  - '&7&oSihirli'
+COCONUT:
+  type:
+  - '&7&oYiyecek'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oYiyecek'
+COCONUT_MILK:
+  type:
+  - '&7&oYiyecek'
+COCONUT_SAPLING:
+  type:
+  - '&7&oBileşen'
+COPPER_ESSENCE:
+  type:
+  - '&7&oSihirli'
+COPPER_PLANT:
+  type:
+  - '&7&oSihirli'
+CORN:
+  type:
+  - '&7&oYiyecek'
+CORNMEAL:
+  type:
+  - '&7&oBileşen'
+CORN_BUSH:
+  type:
+  - '&7&oBileşen'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oYiyecek'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oBileşen'
+COWBERRY:
+  type:
+  - '&7&oYiyecek'
+COWBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+COWBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+COWBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+CRANBERRY:
+  type:
+  - '&7&oYiyecek'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+CRANBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+CREAMED_CORN:
+  type:
+  - '&7&oYiyecek'
+CREAM_COOKIE:
+  type:
+  - '&7&oYiyecek'
+CROOK:
+  type:
+  - '&7&oAlet'
+CURRY_LEAF:
+  type:
+  - '&7&oYiyecek'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oBileşen'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oYiyecek'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oSihirli'
+DIAMOND_PLANT:
+  type:
+  - '&7&oSihirli'
+DIRT_ESSENCE:
+  type:
+  - '&7&oSihirli'
+DIRT_PLANT:
+  type:
+  - '&7&oSihirli'
+DRAGON_FRUIT:
+  type:
+  - '&7&oYiyecek'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oYiyecek'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oYiyecek'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oBileşen'
+EGG_SALAD:
+  type:
+  - '&7&oYiyecek'
+ELDERBERRY:
+  type:
+  - '&7&oYiyecek'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oSihirli'
+EMERALD_PLANT:
+  type:
+  - '&7&oSihirli'
+ENDER_ESSENCE:
+  type:
+  - '&7&oSihirli'
+ENDER_PLANT:
+  type:
+  - '&7&oSihirli'
+FISH_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+FISH_TACO:
+  type:
+  - '&7&oYiyecek'
+FRIES:
+  type:
+  - '&7&oYiyecek'
+GARLIC:
+  type:
+  - '&7&oYiyecek'
+GARLIC_BREAD:
+  type:
+  - '&7&oYiyecek'
+GARLIC_BUSH:
+  type:
+  - '&7&oBileşen'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oYiyecek'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oSihirli'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oSihirli'
+GOLD_ESSENCE:
+  type:
+  - '&7&oSihirli'
+GOLD_PLANT:
+  type:
+  - '&7&oSihirli'
+GRAPE:
+  type:
+  - '&7&oYiyecek'
+GRAPE_BUSH:
+  type:
+  - '&7&oBileşen'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+GRAPE_JUICE:
+  type:
+  - '&7&oYiyecek'
+GRAPE_PIE:
+  type:
+  - '&7&oYiyecek'
+GRAPE_SALAD:
+  type:
+  - '&7&oYiyecek'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+GRASS_SEEDS:
+  type:
+  - '&7&oCihaz'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+HAMBURGER:
+  type:
+  - '&7&oYiyecek'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oYiyecek'
+HOT_DOG:
+  type:
+  - '&7&oYiyecek'
+ICE_CREAM:
+  type:
+  - '&7&oYiyecek'
+ICE_CUBE:
+  type:
+  - '&7&oBileşen'
+IRON_ESSENCE:
+  type:
+  - '&7&oSihirli'
+IRON_PLANT:
+  type:
+  - '&7&oSihirli'
+JAMMY_DODGER:
+  type:
+  - '&7&oYiyecek'
+KITCHEN:
+  type:
+  - '&7&oYapı'
+LAMINGTON:
+  type:
+  - '&7&oYiyecek'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oSihirli'
+LAPIS_PLANT:
+  type:
+  - '&7&oSihirli'
+LASAGNA:
+  type:
+  - '&7&oYiyecek'
+LEAD_ESSENCE:
+  type:
+  - '&7&oSihirli'
+LEAD_PLANT:
+  type:
+  - '&7&oSihirli'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+LEMON:
+  type:
+  - '&7&oYiyecek'
+LEMONADE:
+  type:
+  - '&7&oYiyecek'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oYiyecek'
+LEMON_JUICE:
+  type:
+  - '&7&oYiyecek'
+LEMON_PIE:
+  type:
+  - '&7&oYiyecek'
+LEMON_SAPLING:
+  type:
+  - '&7&oBileşen'
+LETTUCE:
+  type:
+  - '&7&oYiyecek'
+LETTUCE_BUSH:
+  type:
+  - '&7&oBileşen'
+LIME:
+  type:
+  - '&7&oYiyecek'
+LIME_JUICE:
+  type:
+  - '&7&oYiyecek'
+LIME_PIE:
+  type:
+  - '&7&oYiyecek'
+LIME_SAPLING:
+  type:
+  - '&7&oBileşen'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+MAYO:
+  type:
+  - '&7&oBileşen'
+MOLASSES:
+  type:
+  - '&7&oBileşen'
+MUSTARD:
+  type:
+  - '&7&oBileşen'
+MUSTARD_SEED:
+  type:
+  - '&7&oYiyecek'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oBileşen'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oSihirli'
+NETHERITE_PLANT:
+  type:
+  - '&7&oSihirli'
+OAK_APPLE:
+  type:
+  - '&7&oYiyecek'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oYiyecek'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oYiyecek'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oBileşen'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oSihirli'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oSihirli'
+ONION:
+  type:
+  - '&7&oYiyecek'
+ONION_BUSH:
+  type:
+  - '&7&oBileşen'
+ORANGE:
+  type:
+  - '&7&oYiyecek'
+ORANGE_JUICE:
+  type:
+  - '&7&oYiyecek'
+ORANGE_PIE:
+  type:
+  - '&7&oYiyecek'
+ORANGE_SAPLING:
+  type:
+  - '&7&oBileşen'
+PANCAKES:
+  type:
+  - '&7&oYiyecek'
+PAVLOVA:
+  type:
+  - '&7&oYiyecek'
+PEACH:
+  type:
+  - '&7&oYiyecek'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oYiyecek'
+PEACH_JUICE:
+  type:
+  - '&7&oYiyecek'
+PEACH_PIE:
+  type:
+  - '&7&oYiyecek'
+PEACH_SAPLING:
+  type:
+  - '&7&oBileşen'
+PEAR:
+  type:
+  - '&7&oYiyecek'
+PEAR_JUICE:
+  type:
+  - '&7&oYiyecek'
+PEAR_PIE:
+  type:
+  - '&7&oYiyecek'
+PEAR_SAPLING:
+  type:
+  - '&7&oBileşen'
+PINACOLADA:
+  type:
+  - '&7&oYiyecek'
+PINEAPPLE:
+  type:
+  - '&7&oYiyecek'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oBileşen'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oYiyecek'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+PLUM:
+  type:
+  - '&7&oYiyecek'
+PLUM_JUICE:
+  type:
+  - '&7&oYiyecek'
+PLUM_PIE:
+  type:
+  - '&7&oYiyecek'
+PLUM_SAPLING:
+  type:
+  - '&7&oBileşen'
+POMEGRANATE:
+  type:
+  - '&7&oYiyecek'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oYiyecek'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oYiyecek'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oBileşen'
+POPCORN:
+  type:
+  - '&7&oYiyecek'
+POTATO_SALAD:
+  type:
+  - '&7&oYiyecek'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oYiyecek'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oYiyecek'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oYiyecek'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oSihirli'
+QUARTZ_PLANT:
+  type:
+  - '&7&oSihirli'
+RASPBERRY:
+  type:
+  - '&7&oYiyecek'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oYiyecek'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+RASPBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oSihirli'
+REDSTONE_PLANT:
+  type:
+  - '&7&oSihirli'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oYiyecek'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oBileşen'
+SALTY_POPCORN:
+  type:
+  - '&7&oYiyecek'
+SANDWICH:
+  type:
+  - '&7&oYiyecek'
+SHEPARDS_PIE:
+  type:
+  - '&7&oYiyecek'
+SILVER_ESSENCE:
+  type:
+  - '&7&oSihirli'
+SILVER_PLANT:
+  type:
+  - '&7&oSihirli'
+SLIME_ESSENCE:
+  type:
+  - '&7&oSihirli'
+SLIME_PLANT:
+  type:
+  - '&7&oSihirli'
+STRAWBERRY:
+  type:
+  - '&7&oYiyecek'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oBileşen'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oYiyecek'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oYiyecek'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oYiyecek'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oYiyecek'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oYiyecek'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oYiyecek'
+STREET_TACO:
+  type:
+  - '&7&oYiyecek'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oYiyecek'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oYiyecek'
+SWEETENED_TEA:
+  type:
+  - '&7&oYiyecek'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oYiyecek'
+SWEET_POPCORN:
+  type:
+  - '&7&oYiyecek'
+SWEET_POTATO:
+  type:
+  - '&7&oYiyecek'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oBileşen'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oYiyecek'
+TACO:
+  type:
+  - '&7&oYiyecek'
+TEA_LEAF:
+  type:
+  - '&7&oYiyecek'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oBileşen'
+THAI_TEA:
+  type:
+  - '&7&oYiyecek'
+TIN_ESSENCE:
+  type:
+  - '&7&oSihirli'
+TIN_PLANT:
+  type:
+  - '&7&oSihirli'
+TIRAMISU:
+  type:
+  - '&7&oYiyecek'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oYiyecek'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oYiyecek'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oYiyecek'
+TOMATO:
+  type:
+  - '&7&oYiyecek'
+TOMATO_BUSH:
+  type:
+  - '&7&oBileşen'
+TOMATO_JUICE:
+  type:
+  - '&7&oYiyecek'
+TOMATO_SOUP:
+  type:
+  - '&7&oYiyecek'
+VEGETABLE_OIL:
+  type:
+  - '&7&oBileşen'
+WAFFLES:
+  type:
+  - '&7&oYiyecek'
+WINE:
+  type:
+  - '&7&oYiyecek'
+YEAST:
+  type:
+  - '&7&oBileşen'

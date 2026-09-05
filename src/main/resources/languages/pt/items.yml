@@ -1,1056 +1,792 @@
 ALUMINUM_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 ALUMINUM_PLANT:
-  name: '&rAlumínio Planta'
   type:
   - '&7&oMágico'
 APPLE_PEAR_CAKE:
-  name: '&cBolo de Maçã e Pera'
   type:
   - '&7&oComida'
 BACON:
-  name: '&rBacon'
   type:
   - '&7&oComida'
 BACON_BURGER:
-  name: '&rHambúrguer de Bacon'
   type:
   - '&7&oComida'
 BACON_CHEESEBURGER:
-  name: '&rCheeseburger com Bacon'
   type:
   - '&7&oComida'
 BACON_SANDWICH:
-  name: '&rSanduíche de Bacon'
   type:
   - '&7&oComida'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
-  name: '&rCachorro-quente Enrolado em Bacon e Recheado com Queijo'
   type:
   - '&7&oComida'
 BAGEL:
-  name: '&rBagel'
   type:
   - '&7&oComida'
 BBQ_BACON_WRAPPED_HOT_DOG:
-  name: '&rCachorro-quente BBQ Enrolado em Bacon'
   type:
   - '&7&oComida'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
-  name: '&rCachorro-quente BBQ com Bacon Duplo em Tortilha com Queijo'
   type:
   - '&7&oComida'
 BBQ_SAUCE:
-  name: '&cMolho Barbecue'
   type:
   - '&7&oComponente'
 BISCUIT:
-  name: '&6Biscoito'
   type:
   - '&7&oComida'
 BISCUITS_GRAVY:
-  name: '&rBiscoitos com Molho Caseiro'
   type:
   - '&7&oComida'
 BLACKBERRY:
-  name: '&8Amora'
   type:
   - '&7&oComida'
 BLACKBERRY_BUSH:
-  name: '&8Amora Arbusto'
   type:
   - '&7&oComponente'
 BLACKBERRY_COBBLER:
-  name: '&8Cobbler de Amora'
   type:
   - '&7&oComida'
 BLACKBERRY_JELLY_SANDWICH:
-  name: '&8Amora Sanduíche de Geleia'
   type:
   - '&7&oComida'
 BLACKBERRY_JUICE:
-  name: '&8Amora Suco'
   type:
   - '&7&oComida'
 BLACKBERRY_PIE:
-  name: '&8Amora Torta'
   type:
   - '&7&oComida'
 BLACKBERRY_SMOOTHIE:
-  name: '&8Amora Smoothie'
   type:
   - '&7&oComida'
 BLACK_PEPPER:
-  name: '&8Pimenta-do-reino'
   type:
   - '&7&oComida'
 BLACK_PEPPER_BUSH:
-  name: '&8Pimenta-do-reino Planta'
   type:
   - '&7&oComponente'
 BLT:
-  name: '&rSanduíche BLT'
   type:
   - '&7&oComida'
 BLUEBERRY:
-  name: '&9Mirtilo'
   type:
   - '&7&oComida'
 BLUEBERRY_BUSH:
-  name: '&9Mirtilo Arbusto'
   type:
   - '&7&oComponente'
 BLUEBERRY_CHEESECAKE:
-  name: '&9Mirtilo Cheesecake'
   type:
   - '&7&oComida'
 BLUEBERRY_JELLY_SANDWICH:
-  name: '&9Mirtilo Sanduíche de Geleia'
   type:
   - '&7&oComida'
 BLUEBERRY_JUICE:
-  name: '&9Mirtilo Suco'
   type:
   - '&7&oComida'
 BLUEBERRY_MUFFIN:
-  name: '&rMuffin de Mirtilo'
   type:
   - '&7&oComida'
 BLUEBERRY_PANCAKES:
-  name: '&rPanquecas de Mirtilo'
   type:
   - '&7&oComida'
 BLUEBERRY_PIE:
-  name: '&9Mirtilo Torta'
   type:
   - '&7&oComida'
 BLUEBERRY_SMOOTHIE:
-  name: '&9Mirtilo Smoothie'
   type:
   - '&7&oComida'
 BOSTON_CREAM_PIE:
-  name: '&rBoston Cream Pie'
   type:
   - '&7&oComida'
 BROWN_SUGAR:
-  name: '&rAçúcar Mascavo'
   type:
   - '&7&oComponente'
 BURRITO:
-  name: '&rBurrito'
   type:
   - '&7&oComida'
 CABBAGE:
-  name: '&2Repolho'
   type:
   - '&7&oComida'
 CABBAGE_BUSH:
-  name: '&2Repolho Planta'
   type:
   - '&7&oComponente'
 CARROT_CAKE:
-  name: '&rBolo de Cenoura'
   type:
   - '&7&oComida'
 CHEESEBURGER:
-  name: '&rCheeseburger'
   type:
   - '&7&oComida'
 CHEESECAKE:
-  name: '&rCheesecake'
   type:
   - '&7&oComida'
 CHERRY:
-  name: '&cCereja'
   type:
   - '&7&oComida'
 CHERRY_CHEESECAKE:
-  name: '&cCereja Cheesecake'
   type:
   - '&7&oComida'
 CHERRY_ICED_TEA:
-  name: '&cCereja Chá Gelado'
   type:
   - '&7&oComida'
 CHERRY_JUICE:
-  name: '&cCereja Suco'
   type:
   - '&7&oComida'
 CHERRY_PIE:
-  name: '&cCereja Torta'
   type:
   - '&7&oComida'
 CHERRY_SAPLING:
-  name: '&cCereja Muda'
   type:
   - '&7&oComponente'
 CHICKEN_BURGER:
-  name: '&rHambúrguer de Frango'
   type:
   - '&7&oComida'
 CHICKEN_BURRITO:
-  name: '&rBurrito de Frango'
   type:
   - '&7&oComida'
 CHICKEN_CHEESEBURGER:
-  name: '&rCheeseburger de Frango'
   type:
   - '&7&oComida'
 CHICKEN_CURRY:
-  name: '&rFrango ao Curry'
   type:
   - '&7&oComida'
 CHICKEN_POT_PIE:
-  name: '&rTorta de Frango'
   type:
   - '&7&oComida'
 CHICKEN_SANDWICH:
-  name: '&rSanduíche de Frango'
   type:
   - '&7&oComida'
 CHOCOLATE_BAR:
-  name: '&rBarra de Chocolate'
   type:
   - '&7&oComida'
 CHOCOLATE_CAKE:
-  name: '&rBolo de Chocolate'
   type:
   - '&7&oComida'
 CHOCOLATE_CHIP_MUFFIN:
-  name: '&rMuffin de Gotas de Chocolate'
   type:
   - '&7&oComida'
 CHOCOLATE_PEAR_CAKE:
-  name: '&rBolo de Chocolate e Pera'
   type:
   - '&7&oComida'
 CHOCOLATE_STRAWBERRY:
-  name: '&cMorango com Chocolate'
   type:
   - '&7&oComida'
 CILANTRO:
-  name: '&aCoentro'
   type:
   - '&7&oComida'
 CILANTRO_BUSH:
-  name: '&aCoentro Planta'
   type:
   - '&7&oComponente'
 CLUB_SANDWICH:
-  name: '&rSanduíche Clube'
   type:
   - '&7&oComida'
 COAL_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 COAL_PLANT:
-  name: '&rCarvão Planta'
   type:
   - '&7&oMágico'
 COCONUT:
-  name: '&6Coco'
   type:
   - '&7&oComida'
 COCONUT_CHICKEN_CURRY:
-  name: '&rFrango ao Curry com Coco'
   type:
   - '&7&oComida'
 COCONUT_MILK:
-  name: '&6Coco Leite'
   type:
   - '&7&oComida'
 COCONUT_SAPLING:
-  name: '&6Coco Muda'
   type:
   - '&7&oComponente'
 COPPER_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 COPPER_PLANT:
-  name: '&rCobre Planta'
   type:
   - '&7&oMágico'
 CORN:
-  name: '&6Milho'
   type:
   - '&7&oComida'
 CORNMEAL:
-  name: '&rFubá'
   type:
   - '&7&oComponente'
 CORN_BUSH:
-  name: '&6Milho Planta'
   type:
   - '&7&oComponente'
 CORN_ON_THE_COB:
-  name: '&6Espiga de Milho'
   type:
   - '&7&oComida'
 COUNTRY_GRAVY:
-  name: '&rMolho Caseiro'
   type:
   - '&7&oComponente'
 COWBERRY:
-  name: '&cUva-do-monte'
   type:
   - '&7&oComida'
 COWBERRY_BUSH:
-  name: '&cUva-do-monte Arbusto'
   type:
   - '&7&oComponente'
 COWBERRY_JELLY_SANDWICH:
-  name: '&cUva-do-monte Sanduíche de Geleia'
   type:
   - '&7&oComida'
 COWBERRY_JUICE:
-  name: '&cUva-do-monte Suco'
   type:
   - '&7&oComida'
 COWBERRY_PIE:
-  name: '&cUva-do-monte Torta'
   type:
   - '&7&oComida'
 COWBERRY_SMOOTHIE:
-  name: '&cUva-do-monte Smoothie'
   type:
   - '&7&oComida'
 CRANBERRY:
-  name: '&cCranberry'
   type:
   - '&7&oComida'
 CRANBERRY_BUSH:
-  name: '&cCranberry Arbusto'
   type:
   - '&7&oComponente'
 CRANBERRY_JELLY_SANDWICH:
-  name: '&cCranberry Sanduíche de Geleia'
   type:
   - '&7&oComida'
 CRANBERRY_JUICE:
-  name: '&cCranberry Suco'
   type:
   - '&7&oComida'
 CRANBERRY_PIE:
-  name: '&cCranberry Torta'
   type:
   - '&7&oComida'
 CRANBERRY_SMOOTHIE:
-  name: '&cCranberry Smoothie'
   type:
   - '&7&oComida'
 CREAMED_CORN:
-  name: '&rMilho Cremoso'
   type:
   - '&7&oComida'
 CREAM_COOKIE:
-  name: '&rBiscoito de Creme'
   type:
   - '&7&oComida'
 CROOK:
-  name: '&rCajado'
   type:
   - '&7&oFerramenta'
 CURRY_LEAF:
-  name: '&2Folha de Curry'
   type:
   - '&7&oComida'
 CURRY_LEAF_BUSH:
-  name: '&2Folha de Curry Planta'
   type:
   - '&7&oComponente'
 DELUXE_CHEESEBURGER:
-  name: '&rCheeseburger Deluxe'
   type:
   - '&7&oComida'
 DIAMOND_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 DIAMOND_PLANT:
-  name: '&rDiamante Planta'
   type:
   - '&7&oMágico'
 DIRT_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 DIRT_PLANT:
-  name: '&rTerra Planta'
   type:
   - '&7&oMágico'
 DRAGON_FRUIT:
-  name: '&dFruta do Dragão'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_JUICE:
-  name: '&dFruta do Dragão Suco'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_PIE:
-  name: '&dFruta do Dragão Torta'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_SAPLING:
-  name: '&dFruta do Dragão Muda'
   type:
   - '&7&oComponente'
 EGG_SALAD:
-  name: '&rSalada de Ovo'
   type:
   - '&7&oComida'
 ELDERBERRY:
-  name: '&cSabugueiro'
   type:
   - '&7&oComida'
 ELDERBERRY_BUSH:
-  name: '&cSabugueiro Arbusto'
   type:
   - '&7&oComponente'
 ELDERBERRY_JELLY_SANDWICH:
-  name: '&cSabugueiro Sanduíche de Geleia'
   type:
   - '&7&oComida'
 ELDERBERRY_JUICE:
-  name: '&cSabugueiro Suco'
   type:
   - '&7&oComida'
 ELDERBERRY_PIE:
-  name: '&cSabugueiro Torta'
   type:
   - '&7&oComida'
 ELDERBERRY_SMOOTHIE:
-  name: '&cSabugueiro Smoothie'
   type:
   - '&7&oComida'
 EMERALD_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 EMERALD_PLANT:
-  name: '&rEsmeralda Planta'
   type:
   - '&7&oMágico'
 ENDER_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 ENDER_PLANT:
-  name: '&rEnder Planta'
   type:
   - '&7&oMágico'
 FISH_SANDWICH:
-  name: '&rSanduíche de Peixe'
   type:
   - '&7&oComida'
 FISH_TACO:
-  name: '&rTaco de Peixe'
   type:
   - '&7&oComida'
 FRIES:
-  name: '&rBatata Frita'
   type:
   - '&7&oComida'
 GARLIC:
-  name: '&rAlho'
   type:
   - '&7&oComida'
 GARLIC_BREAD:
-  name: '&rPão de Alho'
   type:
   - '&7&oComida'
 GARLIC_BUSH:
-  name: '&rAlho Planta'
   type:
   - '&7&oComponente'
 GARLIC_CHEESE_BREAD:
-  name: '&rPão de Alho com Queijo'
   type:
   - '&7&oComida'
 GLOWSTONE_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 GLOWSTONE_PLANT:
-  name: '&rPedra Luminosa Planta'
   type:
   - '&7&oMágico'
 GOLD_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 GOLD_PLANT:
-  name: '&rOuro Planta'
   type:
   - '&7&oMágico'
 GRAPE:
-  name: '&cUva'
   type:
   - '&7&oComida'
 GRAPE_BUSH:
-  name: '&cUva Arbusto'
   type:
   - '&7&oComponente'
 GRAPE_JELLY_SANDWICH:
-  name: '&cUva Sanduíche de Geleia'
   type:
   - '&7&oComida'
 GRAPE_JUICE:
-  name: '&cUva Suco'
   type:
   - '&7&oComida'
 GRAPE_PIE:
-  name: '&cUva Torta'
   type:
   - '&7&oComida'
 GRAPE_SALAD:
-  name: '&cSalada de Uva'
   type:
   - '&7&oComida'
 GRAPE_SMOOTHIE:
-  name: '&cUva Smoothie'
   type:
   - '&7&oComida'
 GRASS_SEEDS:
-  name: '&rSementes de Grama'
   type:
-  - '&7&oUtensílio'
+  - '&7&oAcessório'
 GRILLED_SANDWICH:
-  name: '&rSanduíche Grelhado'
   type:
   - '&7&oComida'
 HAMBURGER:
-  name: '&rHambúrguer'
   type:
   - '&7&oComida'
 HOT_CHOCOLATE:
-  name: '&6Chocolate Quente'
   type:
   - '&7&oComida'
 HOT_DOG:
-  name: '&rCachorro-quente'
   type:
   - '&7&oComida'
 ICE_CREAM:
-  name: '&rSorvete'
   type:
   - '&7&oComida'
 ICE_CUBE:
-  name: '&bCubo de Gelo'
   type:
   - '&7&oComponente'
 IRON_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 IRON_PLANT:
-  name: '&rFerro Planta'
   type:
   - '&7&oMágico'
 JAMMY_DODGER:
-  name: '&cJammy Dodger'
   type:
   - '&7&oComida'
 KITCHEN:
-  name: '&eCozinha'
   type:
   - '&7&oMultibloco'
 LAMINGTON:
-  name: '&rLamington'
   type:
   - '&7&oComida'
 LAPIS_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 LAPIS_PLANT:
-  name: '&rLápis-lazúli Planta'
   type:
   - '&7&oMágico'
 LASAGNA:
-  name: '&rLasanha'
   type:
   - '&7&oComida'
 LEAD_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 LEAD_PLANT:
-  name: '&rChumbo Planta'
   type:
   - '&7&oMágico'
 LEAFY_CHICKEN_SANDWICH:
-  name: '&rSanduíche de Frango com Alface'
   type:
   - '&7&oComida'
 LEAFY_FISH_SANDWICH:
-  name: '&rSanduíche de Peixe com Alface'
   type:
   - '&7&oComida'
 LEMON:
-  name: '&eLimão'
   type:
   - '&7&oComida'
 LEMONADE:
-  name: '&eLimonada'
   type:
   - '&7&oComida'
 LEMON_ICED_TEA:
-  name: '&eLimão Chá Gelado'
   type:
   - '&7&oComida'
 LEMON_JUICE:
-  name: '&eLimão Suco'
   type:
   - '&7&oComida'
 LEMON_PIE:
-  name: '&eLimão Torta'
   type:
   - '&7&oComida'
 LEMON_SAPLING:
-  name: '&eLimão Muda'
   type:
   - '&7&oComponente'
 LETTUCE:
-  name: '&2Alface'
   type:
   - '&7&oComida'
 LETTUCE_BUSH:
-  name: '&2Alface Planta'
   type:
   - '&7&oComponente'
 LIME:
-  name: '&aLimão-taiti'
   type:
   - '&7&oComida'
 LIME_JUICE:
-  name: '&aLimão-taiti Suco'
   type:
   - '&7&oComida'
 LIME_PIE:
-  name: '&aLimão-taiti Torta'
   type:
   - '&7&oComida'
 LIME_SAPLING:
-  name: '&aLimão-taiti Muda'
   type:
   - '&7&oComponente'
 LIME_SMOOTHIE:
-  name: '&aLimão-taiti Smoothie'
   type:
   - '&7&oComida'
 MAYO:
-  name: '&rMaionese'
   type:
   - '&7&oComponente'
 MOLASSES:
-  name: '&8Melaço'
   type:
   - '&7&oComponente'
 MUSTARD:
-  name: '&eMostarda'
   type:
   - '&7&oComponente'
 MUSTARD_SEED:
-  name: '&eSemente de Mostarda'
   type:
   - '&7&oComida'
 MUSTARD_SEED_BUSH:
-  name: '&eSemente de Mostarda Planta'
   type:
   - '&7&oComponente'
 NETHERITE_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 NETHERITE_PLANT:
-  name: '&rNetherita Planta'
   type:
   - '&7&oMágico'
 OAK_APPLE:
-  name: '&cMaçã de Carvalho'
   type:
   - '&7&oComida'
 OAK_APPLE_JUICE:
-  name: '&cMaçã de Carvalho Suco'
   type:
   - '&7&oComida'
 OAK_APPLE_PIE:
-  name: '&cMaçã de Carvalho Torta'
   type:
   - '&7&oComida'
 OAK_APPLE_SAPLING:
-  name: '&cMaçã de Carvalho Muda'
   type:
   - '&7&oComponente'
 OBSIDIAN_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 OBSIDIAN_PLANT:
-  name: '&rObsidiana Planta'
   type:
   - '&7&oMágico'
 ONION:
-  name: '&cCebola'
   type:
   - '&7&oComida'
 ONION_BUSH:
-  name: '&cCebola Planta'
   type:
   - '&7&oComponente'
 ORANGE:
-  name: '&6Laranja'
   type:
   - '&7&oComida'
 ORANGE_JUICE:
-  name: '&6Laranja Suco'
   type:
   - '&7&oComida'
 ORANGE_PIE:
-  name: '&6Laranja Torta'
   type:
   - '&7&oComida'
 ORANGE_SAPLING:
-  name: '&6Laranja Muda'
   type:
   - '&7&oComponente'
 PANCAKES:
-  name: '&rPanquecas'
   type:
   - '&7&oComida'
 PAVLOVA:
-  name: '&rPavlova'
   type:
   - '&7&oComida'
 PEACH:
-  name: '&5Pêssego'
   type:
   - '&7&oComida'
 PEACH_ICED_TEA:
-  name: '&dPêssego Chá Gelado'
   type:
   - '&7&oComida'
 PEACH_JUICE:
-  name: '&5Pêssego Suco'
   type:
   - '&7&oComida'
 PEACH_PIE:
-  name: '&5Pêssego Torta'
   type:
   - '&7&oComida'
 PEACH_SAPLING:
-  name: '&5Pêssego Muda'
   type:
   - '&7&oComponente'
 PEAR:
-  name: '&aPera'
   type:
   - '&7&oComida'
 PEAR_JUICE:
-  name: '&aPera Suco'
   type:
   - '&7&oComida'
 PEAR_PIE:
-  name: '&aPera Torta'
   type:
   - '&7&oComida'
 PEAR_SAPLING:
-  name: '&aPera Muda'
   type:
   - '&7&oComponente'
 PINACOLADA:
-  name: '&6Piña Colada'
   type:
   - '&7&oComida'
 PINEAPPLE:
-  name: '&6Abacaxi'
   type:
   - '&7&oComida'
 PINEAPPLE_BUSH:
-  name: '&6Abacaxi Planta'
   type:
   - '&7&oComponente'
 PINEAPPLE_JUICE:
-  name: '&6Abacaxi Suco'
   type:
   - '&7&oComida'
 PINEAPPLE_SMOOTHIE:
-  name: '&6Abacaxi Smoothie'
   type:
   - '&7&oComida'
 PLUM:
-  name: '&5Ameixa'
   type:
   - '&7&oComida'
 PLUM_JUICE:
-  name: '&5Ameixa Suco'
   type:
   - '&7&oComida'
 PLUM_PIE:
-  name: '&5Ameixa Torta'
   type:
   - '&7&oComida'
 PLUM_SAPLING:
-  name: '&5Ameixa Muda'
   type:
   - '&7&oComponente'
 POMEGRANATE:
-  name: '&4Romã'
   type:
   - '&7&oComida'
 POMEGRANATE_JUICE:
-  name: '&4Romã Suco'
   type:
   - '&7&oComida'
 POMEGRANATE_PIE:
-  name: '&4Romã Torta'
   type:
   - '&7&oComida'
 POMEGRANATE_SAPLING:
-  name: '&4Romã Muda'
   type:
   - '&7&oComponente'
 POPCORN:
-  name: '&rPipoca'
   type:
   - '&7&oComida'
 POTATO_SALAD:
-  name: '&rSalada de Batata'
   type:
   - '&7&oComida'
 PUMPKIN_BREAD:
-  name: '&rPão de Abóbora'
   type:
   - '&7&oComida'
 PUMPKIN_CHEESECAKE:
-  name: '&6Cheesecake de Abóbora'
   type:
   - '&7&oComida'
 PUMPKIN_MUFFIN:
-  name: '&rMuffin de Abóbora'
   type:
   - '&7&oComida'
 QUARTZ_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 QUARTZ_PLANT:
-  name: '&rQuartzo Planta'
   type:
   - '&7&oMágico'
 RASPBERRY:
-  name: '&dFramboesa'
   type:
   - '&7&oComida'
 RASPBERRY_BUSH:
-  name: '&dFramboesa Arbusto'
   type:
   - '&7&oComponente'
 RASPBERRY_ICED_TEA:
-  name: '&dFramboesa Chá Gelado'
   type:
   - '&7&oComida'
 RASPBERRY_JELLY_SANDWICH:
-  name: '&dFramboesa Sanduíche de Geleia'
   type:
   - '&7&oComida'
 RASPBERRY_JUICE:
-  name: '&dFramboesa Suco'
   type:
   - '&7&oComida'
 RASPBERRY_PIE:
-  name: '&dFramboesa Torta'
   type:
   - '&7&oComida'
 RASPBERRY_SMOOTHIE:
-  name: '&dFramboesa Smoothie'
   type:
   - '&7&oComida'
 REDSTONE_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 REDSTONE_PLANT:
-  name: '&rRedstone Planta'
   type:
   - '&7&oMágico'
 RED_BELL_PEPPER:
-  name: '&cPimentão Vermelho'
   type:
   - '&7&oComida'
 RED_BELL_PEPPER_BUSH:
-  name: '&cPimentão Vermelho Planta'
   type:
   - '&7&oComponente'
 SALTY_POPCORN:
-  name: '&rPipoca &7(Salgada)'
   type:
   - '&7&oComida'
 SANDWICH:
-  name: '&rSanduíche'
   type:
   - '&7&oComida'
 SHEPARDS_PIE:
-  name: '&rTorta do Pastor'
   type:
   - '&7&oComida'
 SILVER_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 SILVER_PLANT:
-  name: '&rPrata Planta'
   type:
   - '&7&oMágico'
 SLIME_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 SLIME_PLANT:
-  name: '&rSlime Planta'
   type:
   - '&7&oMágico'
 STRAWBERRY:
-  name: '&4Morango'
   type:
   - '&7&oComida'
 STRAWBERRY_BUSH:
-  name: '&4Morango Arbusto'
   type:
   - '&7&oComponente'
 STRAWBERRY_ICED_TEA:
-  name: '&4Morango Chá Gelado'
   type:
   - '&7&oComida'
 STRAWBERRY_JELLY_SANDWICH:
-  name: '&4Morango Sanduíche de Geleia'
   type:
   - '&7&oComida'
 STRAWBERRY_JUICE:
-  name: '&4Morango Suco'
   type:
   - '&7&oComida'
 STRAWBERRY_PIE:
-  name: '&4Morango Torta'
   type:
   - '&7&oComida'
 STRAWBERRY_SALAD:
-  name: '&cSalada de Morango'
   type:
   - '&7&oComida'
 STRAWBERRY_SMOOTHIE:
-  name: '&4Morango Smoothie'
   type:
   - '&7&oComida'
 STREET_TACO:
-  name: '&rTaco de Rua'
   type:
   - '&7&oComida'
 STUFFED_RED_BELL_PEPPER:
-  name: '&cPimentão Vermelho Recheado'
   type:
   - '&7&oComida'
 SWEETENED_PEAR_CHEESECAKE:
-  name: '&6Cheesecake Doce de Pera'
   type:
   - '&7&oComida'
 SWEETENED_TEA:
-  name: '&aChá Doce'
   type:
   - '&7&oComida'
 SWEET_BERRY_PANCAKES:
-  name: '&rPanquecas de Frutas Doces'
   type:
   - '&7&oComida'
 SWEET_POPCORN:
-  name: '&rPipoca &7(Doce)'
   type:
   - '&7&oComida'
 SWEET_POTATO:
-  name: '&6Batata-doce'
   type:
   - '&7&oComida'
 SWEET_POTATO_BUSH:
-  name: '&6Batata-doce Planta'
   type:
   - '&7&oComponente'
 SWEET_POTATO_PIE:
-  name: '&rTorta de Batata-doce'
   type:
   - '&7&oComida'
 TACO:
-  name: '&rTaco'
   type:
   - '&7&oComida'
 TEA_LEAF:
-  name: '&aFolha de Chá'
   type:
   - '&7&oComida'
 TEA_LEAF_BUSH:
-  name: '&aFolha de Chá Planta'
   type:
   - '&7&oComponente'
 THAI_TEA:
-  name: '&6Chá Tailandês'
   type:
   - '&7&oComida'
 TIN_ESSENCE:
-  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 TIN_PLANT:
-  name: '&rEstanho Planta'
   type:
   - '&7&oMágico'
 TIRAMISU:
-  name: '&rTiramisù'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_BLACKBERRIES:
-  name: '&rTiramisù com Amoras'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_RASPBERRIES:
-  name: '&rTiramisù com Framboesas'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_STRAWBERRIES:
-  name: '&rTiramisù com Morangos'
   type:
   - '&7&oComida'
 TOMATO:
-  name: '&4Tomate'
   type:
   - '&7&oComida'
 TOMATO_BUSH:
-  name: '&4Tomate Planta'
   type:
   - '&7&oComponente'
 TOMATO_JUICE:
-  name: '&4Tomate Suco'
   type:
   - '&7&oComida'
 TOMATO_SOUP:
-  name: '&4Sopa de Tomate'
   type:
   - '&7&oComida'
 VEGETABLE_OIL:
-  name: '&rÓleo Vegetal'
   type:
   - '&7&oComponente'
 WAFFLES:
-  name: '&rWaffles'
   type:
   - '&7&oComida'
 WINE:
-  name: '&cVinho'
   type:
   - '&7&oComida'
 YEAST:
-  name: '&rFermento'
   type:
   - '&7&oComponente'

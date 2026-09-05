@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMahikal'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMahikal'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oPagkain'
+BACON:
+  type:
+  - '&7&oPagkain'
+BACON_BURGER:
+  type:
+  - '&7&oPagkain'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oPagkain'
+BACON_SANDWICH:
+  type:
+  - '&7&oPagkain'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oPagkain'
+BAGEL:
+  type:
+  - '&7&oPagkain'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oPagkain'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oPagkain'
+BBQ_SAUCE:
+  type:
+  - '&7&oBahagi'
+BISCUIT:
+  type:
+  - '&7&oPagkain'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oPagkain'
+BLACKBERRY:
+  type:
+  - '&7&oPagkain'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oPagkain'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+BLACK_PEPPER:
+  type:
+  - '&7&oPagkain'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oBahagi'
+BLT:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oPagkain'
+BROWN_SUGAR:
+  type:
+  - '&7&oBahagi'
+BURRITO:
+  type:
+  - '&7&oPagkain'
+CABBAGE:
+  type:
+  - '&7&oPagkain'
+CABBAGE_BUSH:
+  type:
+  - '&7&oBahagi'
+CARROT_CAKE:
+  type:
+  - '&7&oPagkain'
+CHEESEBURGER:
+  type:
+  - '&7&oPagkain'
+CHEESECAKE:
+  type:
+  - '&7&oPagkain'
+CHERRY:
+  type:
+  - '&7&oPagkain'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oPagkain'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oPagkain'
+CHERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+CHERRY_PIE:
+  type:
+  - '&7&oPagkain'
+CHERRY_SAPLING:
+  type:
+  - '&7&oBahagi'
+CHICKEN_BURGER:
+  type:
+  - '&7&oPagkain'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oPagkain'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oPagkain'
+CHICKEN_CURRY:
+  type:
+  - '&7&oPagkain'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oPagkain'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oPagkain'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oPagkain'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oPagkain'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oPagkain'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oPagkain'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oPagkain'
+CILANTRO:
+  type:
+  - '&7&oPagkain'
+CILANTRO_BUSH:
+  type:
+  - '&7&oBahagi'
+CLUB_SANDWICH:
+  type:
+  - '&7&oPagkain'
+COAL_ESSENCE:
+  type:
+  - '&7&oMahikal'
+COAL_PLANT:
+  type:
+  - '&7&oMahikal'
+COCONUT:
+  type:
+  - '&7&oPagkain'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oPagkain'
+COCONUT_MILK:
+  type:
+  - '&7&oPagkain'
+COCONUT_SAPLING:
+  type:
+  - '&7&oBahagi'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMahikal'
+COPPER_PLANT:
+  type:
+  - '&7&oMahikal'
+CORN:
+  type:
+  - '&7&oPagkain'
+CORNMEAL:
+  type:
+  - '&7&oBahagi'
+CORN_BUSH:
+  type:
+  - '&7&oBahagi'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oPagkain'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oBahagi'
+COWBERRY:
+  type:
+  - '&7&oPagkain'
+COWBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+COWBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+COWBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+CRANBERRY:
+  type:
+  - '&7&oPagkain'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+CRANBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+CREAMED_CORN:
+  type:
+  - '&7&oPagkain'
+CREAM_COOKIE:
+  type:
+  - '&7&oPagkain'
+CROOK:
+  type:
+  - '&7&oKasangkapan'
+CURRY_LEAF:
+  type:
+  - '&7&oPagkain'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oBahagi'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oPagkain'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMahikal'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMahikal'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMahikal'
+DIRT_PLANT:
+  type:
+  - '&7&oMahikal'
+DRAGON_FRUIT:
+  type:
+  - '&7&oPagkain'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oPagkain'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oPagkain'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oBahagi'
+EGG_SALAD:
+  type:
+  - '&7&oPagkain'
+ELDERBERRY:
+  type:
+  - '&7&oPagkain'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMahikal'
+EMERALD_PLANT:
+  type:
+  - '&7&oMahikal'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMahikal'
+ENDER_PLANT:
+  type:
+  - '&7&oMahikal'
+FISH_SANDWICH:
+  type:
+  - '&7&oPagkain'
+FISH_TACO:
+  type:
+  - '&7&oPagkain'
+FRIES:
+  type:
+  - '&7&oPagkain'
+GARLIC:
+  type:
+  - '&7&oPagkain'
+GARLIC_BREAD:
+  type:
+  - '&7&oPagkain'
+GARLIC_BUSH:
+  type:
+  - '&7&oBahagi'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oPagkain'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMahikal'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMahikal'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMahikal'
+GOLD_PLANT:
+  type:
+  - '&7&oMahikal'
+GRAPE:
+  type:
+  - '&7&oPagkain'
+GRAPE_BUSH:
+  type:
+  - '&7&oBahagi'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+GRAPE_JUICE:
+  type:
+  - '&7&oPagkain'
+GRAPE_PIE:
+  type:
+  - '&7&oPagkain'
+GRAPE_SALAD:
+  type:
+  - '&7&oPagkain'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+GRASS_SEEDS:
+  type:
+  - '&7&oGadyet'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oPagkain'
+HAMBURGER:
+  type:
+  - '&7&oPagkain'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oPagkain'
+HOT_DOG:
+  type:
+  - '&7&oPagkain'
+ICE_CREAM:
+  type:
+  - '&7&oPagkain'
+ICE_CUBE:
+  type:
+  - '&7&oBahagi'
+IRON_ESSENCE:
+  type:
+  - '&7&oMahikal'
+IRON_PLANT:
+  type:
+  - '&7&oMahikal'
+JAMMY_DODGER:
+  type:
+  - '&7&oPagkain'
+KITCHEN:
+  type:
+  - '&7&oMultiblock'
+LAMINGTON:
+  type:
+  - '&7&oPagkain'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMahikal'
+LAPIS_PLANT:
+  type:
+  - '&7&oMahikal'
+LASAGNA:
+  type:
+  - '&7&oPagkain'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMahikal'
+LEAD_PLANT:
+  type:
+  - '&7&oMahikal'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oPagkain'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oPagkain'
+LEMON:
+  type:
+  - '&7&oPagkain'
+LEMONADE:
+  type:
+  - '&7&oPagkain'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oPagkain'
+LEMON_JUICE:
+  type:
+  - '&7&oPagkain'
+LEMON_PIE:
+  type:
+  - '&7&oPagkain'
+LEMON_SAPLING:
+  type:
+  - '&7&oBahagi'
+LETTUCE:
+  type:
+  - '&7&oPagkain'
+LETTUCE_BUSH:
+  type:
+  - '&7&oBahagi'
+LIME:
+  type:
+  - '&7&oPagkain'
+LIME_JUICE:
+  type:
+  - '&7&oPagkain'
+LIME_PIE:
+  type:
+  - '&7&oPagkain'
+LIME_SAPLING:
+  type:
+  - '&7&oBahagi'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+MAYO:
+  type:
+  - '&7&oBahagi'
+MOLASSES:
+  type:
+  - '&7&oBahagi'
+MUSTARD:
+  type:
+  - '&7&oBahagi'
+MUSTARD_SEED:
+  type:
+  - '&7&oPagkain'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oBahagi'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMahikal'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMahikal'
+OAK_APPLE:
+  type:
+  - '&7&oPagkain'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oPagkain'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oPagkain'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oBahagi'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMahikal'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMahikal'
+ONION:
+  type:
+  - '&7&oPagkain'
+ONION_BUSH:
+  type:
+  - '&7&oBahagi'
+ORANGE:
+  type:
+  - '&7&oPagkain'
+ORANGE_JUICE:
+  type:
+  - '&7&oPagkain'
+ORANGE_PIE:
+  type:
+  - '&7&oPagkain'
+ORANGE_SAPLING:
+  type:
+  - '&7&oBahagi'
+PANCAKES:
+  type:
+  - '&7&oPagkain'
+PAVLOVA:
+  type:
+  - '&7&oPagkain'
+PEACH:
+  type:
+  - '&7&oPagkain'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oPagkain'
+PEACH_JUICE:
+  type:
+  - '&7&oPagkain'
+PEACH_PIE:
+  type:
+  - '&7&oPagkain'
+PEACH_SAPLING:
+  type:
+  - '&7&oBahagi'
+PEAR:
+  type:
+  - '&7&oPagkain'
+PEAR_JUICE:
+  type:
+  - '&7&oPagkain'
+PEAR_PIE:
+  type:
+  - '&7&oPagkain'
+PEAR_SAPLING:
+  type:
+  - '&7&oBahagi'
+PINACOLADA:
+  type:
+  - '&7&oPagkain'
+PINEAPPLE:
+  type:
+  - '&7&oPagkain'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oBahagi'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oPagkain'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+PLUM:
+  type:
+  - '&7&oPagkain'
+PLUM_JUICE:
+  type:
+  - '&7&oPagkain'
+PLUM_PIE:
+  type:
+  - '&7&oPagkain'
+PLUM_SAPLING:
+  type:
+  - '&7&oBahagi'
+POMEGRANATE:
+  type:
+  - '&7&oPagkain'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oPagkain'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oPagkain'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oBahagi'
+POPCORN:
+  type:
+  - '&7&oPagkain'
+POTATO_SALAD:
+  type:
+  - '&7&oPagkain'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oPagkain'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oPagkain'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oPagkain'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMahikal'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMahikal'
+RASPBERRY:
+  type:
+  - '&7&oPagkain'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oPagkain'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+RASPBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMahikal'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMahikal'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oPagkain'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oBahagi'
+SALTY_POPCORN:
+  type:
+  - '&7&oPagkain'
+SANDWICH:
+  type:
+  - '&7&oPagkain'
+SHEPARDS_PIE:
+  type:
+  - '&7&oPagkain'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMahikal'
+SILVER_PLANT:
+  type:
+  - '&7&oMahikal'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMahikal'
+SLIME_PLANT:
+  type:
+  - '&7&oMahikal'
+STRAWBERRY:
+  type:
+  - '&7&oPagkain'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oBahagi'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oPagkain'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oPagkain'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oPagkain'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oPagkain'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oPagkain'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oPagkain'
+STREET_TACO:
+  type:
+  - '&7&oPagkain'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oPagkain'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oPagkain'
+SWEETENED_TEA:
+  type:
+  - '&7&oPagkain'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oPagkain'
+SWEET_POPCORN:
+  type:
+  - '&7&oPagkain'
+SWEET_POTATO:
+  type:
+  - '&7&oPagkain'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oBahagi'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oPagkain'
+TACO:
+  type:
+  - '&7&oPagkain'
+TEA_LEAF:
+  type:
+  - '&7&oPagkain'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oBahagi'
+THAI_TEA:
+  type:
+  - '&7&oPagkain'
+TIN_ESSENCE:
+  type:
+  - '&7&oMahikal'
+TIN_PLANT:
+  type:
+  - '&7&oMahikal'
+TIRAMISU:
+  type:
+  - '&7&oPagkain'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oPagkain'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oPagkain'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oPagkain'
+TOMATO:
+  type:
+  - '&7&oPagkain'
+TOMATO_BUSH:
+  type:
+  - '&7&oBahagi'
+TOMATO_JUICE:
+  type:
+  - '&7&oPagkain'
+TOMATO_SOUP:
+  type:
+  - '&7&oPagkain'
+VEGETABLE_OIL:
+  type:
+  - '&7&oBahagi'
+WAFFLES:
+  type:
+  - '&7&oPagkain'
+WINE:
+  type:
+  - '&7&oPagkain'
+YEAST:
+  type:
+  - '&7&oBahagi'

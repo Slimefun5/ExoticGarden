@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oجادویی'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oجادویی'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oخوراکی'
+BACON:
+  type:
+  - '&7&oخوراکی'
+BACON_BURGER:
+  type:
+  - '&7&oخوراکی'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oخوراکی'
+BACON_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oخوراکی'
+BAGEL:
+  type:
+  - '&7&oخوراکی'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oخوراکی'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oخوراکی'
+BBQ_SAUCE:
+  type:
+  - '&7&oقطعه'
+BISCUIT:
+  type:
+  - '&7&oخوراکی'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oخوراکی'
+BLACKBERRY:
+  type:
+  - '&7&oخوراکی'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oخوراکی'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+BLACK_PEPPER:
+  type:
+  - '&7&oخوراکی'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oقطعه'
+BLT:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oخوراکی'
+BROWN_SUGAR:
+  type:
+  - '&7&oقطعه'
+BURRITO:
+  type:
+  - '&7&oخوراکی'
+CABBAGE:
+  type:
+  - '&7&oخوراکی'
+CABBAGE_BUSH:
+  type:
+  - '&7&oقطعه'
+CARROT_CAKE:
+  type:
+  - '&7&oخوراکی'
+CHEESEBURGER:
+  type:
+  - '&7&oخوراکی'
+CHEESECAKE:
+  type:
+  - '&7&oخوراکی'
+CHERRY:
+  type:
+  - '&7&oخوراکی'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oخوراکی'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oخوراکی'
+CHERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+CHERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+CHERRY_SAPLING:
+  type:
+  - '&7&oقطعه'
+CHICKEN_BURGER:
+  type:
+  - '&7&oخوراکی'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oخوراکی'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oخوراکی'
+CHICKEN_CURRY:
+  type:
+  - '&7&oخوراکی'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oخوراکی'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oخوراکی'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oخوراکی'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oخوراکی'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oخوراکی'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oخوراکی'
+CILANTRO:
+  type:
+  - '&7&oخوراکی'
+CILANTRO_BUSH:
+  type:
+  - '&7&oقطعه'
+CLUB_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+COAL_ESSENCE:
+  type:
+  - '&7&oجادویی'
+COAL_PLANT:
+  type:
+  - '&7&oجادویی'
+COCONUT:
+  type:
+  - '&7&oخوراکی'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oخوراکی'
+COCONUT_MILK:
+  type:
+  - '&7&oخوراکی'
+COCONUT_SAPLING:
+  type:
+  - '&7&oقطعه'
+COPPER_ESSENCE:
+  type:
+  - '&7&oجادویی'
+COPPER_PLANT:
+  type:
+  - '&7&oجادویی'
+CORN:
+  type:
+  - '&7&oخوراکی'
+CORNMEAL:
+  type:
+  - '&7&oقطعه'
+CORN_BUSH:
+  type:
+  - '&7&oقطعه'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oخوراکی'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oقطعه'
+COWBERRY:
+  type:
+  - '&7&oخوراکی'
+COWBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+COWBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+COWBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+CRANBERRY:
+  type:
+  - '&7&oخوراکی'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+CRANBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+CREAMED_CORN:
+  type:
+  - '&7&oخوراکی'
+CREAM_COOKIE:
+  type:
+  - '&7&oخوراکی'
+CROOK:
+  type:
+  - '&7&oابزار'
+CURRY_LEAF:
+  type:
+  - '&7&oخوراکی'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oقطعه'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oخوراکی'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oجادویی'
+DIAMOND_PLANT:
+  type:
+  - '&7&oجادویی'
+DIRT_ESSENCE:
+  type:
+  - '&7&oجادویی'
+DIRT_PLANT:
+  type:
+  - '&7&oجادویی'
+DRAGON_FRUIT:
+  type:
+  - '&7&oخوراکی'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oخوراکی'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oخوراکی'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oقطعه'
+EGG_SALAD:
+  type:
+  - '&7&oخوراکی'
+ELDERBERRY:
+  type:
+  - '&7&oخوراکی'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oجادویی'
+EMERALD_PLANT:
+  type:
+  - '&7&oجادویی'
+ENDER_ESSENCE:
+  type:
+  - '&7&oجادویی'
+ENDER_PLANT:
+  type:
+  - '&7&oجادویی'
+FISH_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+FISH_TACO:
+  type:
+  - '&7&oخوراکی'
+FRIES:
+  type:
+  - '&7&oخوراکی'
+GARLIC:
+  type:
+  - '&7&oخوراکی'
+GARLIC_BREAD:
+  type:
+  - '&7&oخوراکی'
+GARLIC_BUSH:
+  type:
+  - '&7&oقطعه'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oخوراکی'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oجادویی'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oجادویی'
+GOLD_ESSENCE:
+  type:
+  - '&7&oجادویی'
+GOLD_PLANT:
+  type:
+  - '&7&oجادویی'
+GRAPE:
+  type:
+  - '&7&oخوراکی'
+GRAPE_BUSH:
+  type:
+  - '&7&oقطعه'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+GRAPE_JUICE:
+  type:
+  - '&7&oخوراکی'
+GRAPE_PIE:
+  type:
+  - '&7&oخوراکی'
+GRAPE_SALAD:
+  type:
+  - '&7&oخوراکی'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+GRASS_SEEDS:
+  type:
+  - '&7&oابزارک'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+HAMBURGER:
+  type:
+  - '&7&oخوراکی'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oخوراکی'
+HOT_DOG:
+  type:
+  - '&7&oخوراکی'
+ICE_CREAM:
+  type:
+  - '&7&oخوراکی'
+ICE_CUBE:
+  type:
+  - '&7&oقطعه'
+IRON_ESSENCE:
+  type:
+  - '&7&oجادویی'
+IRON_PLANT:
+  type:
+  - '&7&oجادویی'
+JAMMY_DODGER:
+  type:
+  - '&7&oخوراکی'
+KITCHEN:
+  type:
+  - '&7&oچندبلوکی'
+LAMINGTON:
+  type:
+  - '&7&oخوراکی'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oجادویی'
+LAPIS_PLANT:
+  type:
+  - '&7&oجادویی'
+LASAGNA:
+  type:
+  - '&7&oخوراکی'
+LEAD_ESSENCE:
+  type:
+  - '&7&oجادویی'
+LEAD_PLANT:
+  type:
+  - '&7&oجادویی'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+LEMON:
+  type:
+  - '&7&oخوراکی'
+LEMONADE:
+  type:
+  - '&7&oخوراکی'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oخوراکی'
+LEMON_JUICE:
+  type:
+  - '&7&oخوراکی'
+LEMON_PIE:
+  type:
+  - '&7&oخوراکی'
+LEMON_SAPLING:
+  type:
+  - '&7&oقطعه'
+LETTUCE:
+  type:
+  - '&7&oخوراکی'
+LETTUCE_BUSH:
+  type:
+  - '&7&oقطعه'
+LIME:
+  type:
+  - '&7&oخوراکی'
+LIME_JUICE:
+  type:
+  - '&7&oخوراکی'
+LIME_PIE:
+  type:
+  - '&7&oخوراکی'
+LIME_SAPLING:
+  type:
+  - '&7&oقطعه'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+MAYO:
+  type:
+  - '&7&oقطعه'
+MOLASSES:
+  type:
+  - '&7&oقطعه'
+MUSTARD:
+  type:
+  - '&7&oقطعه'
+MUSTARD_SEED:
+  type:
+  - '&7&oخوراکی'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oقطعه'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oجادویی'
+NETHERITE_PLANT:
+  type:
+  - '&7&oجادویی'
+OAK_APPLE:
+  type:
+  - '&7&oخوراکی'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oخوراکی'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oخوراکی'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oقطعه'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oجادویی'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oجادویی'
+ONION:
+  type:
+  - '&7&oخوراکی'
+ONION_BUSH:
+  type:
+  - '&7&oقطعه'
+ORANGE:
+  type:
+  - '&7&oخوراکی'
+ORANGE_JUICE:
+  type:
+  - '&7&oخوراکی'
+ORANGE_PIE:
+  type:
+  - '&7&oخوراکی'
+ORANGE_SAPLING:
+  type:
+  - '&7&oقطعه'
+PANCAKES:
+  type:
+  - '&7&oخوراکی'
+PAVLOVA:
+  type:
+  - '&7&oخوراکی'
+PEACH:
+  type:
+  - '&7&oخوراکی'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oخوراکی'
+PEACH_JUICE:
+  type:
+  - '&7&oخوراکی'
+PEACH_PIE:
+  type:
+  - '&7&oخوراکی'
+PEACH_SAPLING:
+  type:
+  - '&7&oقطعه'
+PEAR:
+  type:
+  - '&7&oخوراکی'
+PEAR_JUICE:
+  type:
+  - '&7&oخوراکی'
+PEAR_PIE:
+  type:
+  - '&7&oخوراکی'
+PEAR_SAPLING:
+  type:
+  - '&7&oقطعه'
+PINACOLADA:
+  type:
+  - '&7&oخوراکی'
+PINEAPPLE:
+  type:
+  - '&7&oخوراکی'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oقطعه'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oخوراکی'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+PLUM:
+  type:
+  - '&7&oخوراکی'
+PLUM_JUICE:
+  type:
+  - '&7&oخوراکی'
+PLUM_PIE:
+  type:
+  - '&7&oخوراکی'
+PLUM_SAPLING:
+  type:
+  - '&7&oقطعه'
+POMEGRANATE:
+  type:
+  - '&7&oخوراکی'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oخوراکی'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oخوراکی'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oقطعه'
+POPCORN:
+  type:
+  - '&7&oخوراکی'
+POTATO_SALAD:
+  type:
+  - '&7&oخوراکی'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oخوراکی'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oخوراکی'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oخوراکی'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oجادویی'
+QUARTZ_PLANT:
+  type:
+  - '&7&oجادویی'
+RASPBERRY:
+  type:
+  - '&7&oخوراکی'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oخوراکی'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+RASPBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oجادویی'
+REDSTONE_PLANT:
+  type:
+  - '&7&oجادویی'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oخوراکی'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oقطعه'
+SALTY_POPCORN:
+  type:
+  - '&7&oخوراکی'
+SANDWICH:
+  type:
+  - '&7&oخوراکی'
+SHEPARDS_PIE:
+  type:
+  - '&7&oخوراکی'
+SILVER_ESSENCE:
+  type:
+  - '&7&oجادویی'
+SILVER_PLANT:
+  type:
+  - '&7&oجادویی'
+SLIME_ESSENCE:
+  type:
+  - '&7&oجادویی'
+SLIME_PLANT:
+  type:
+  - '&7&oجادویی'
+STRAWBERRY:
+  type:
+  - '&7&oخوراکی'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oقطعه'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oخوراکی'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oخوراکی'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oخوراکی'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oخوراکی'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oخوراکی'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oخوراکی'
+STREET_TACO:
+  type:
+  - '&7&oخوراکی'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oخوراکی'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oخوراکی'
+SWEETENED_TEA:
+  type:
+  - '&7&oخوراکی'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oخوراکی'
+SWEET_POPCORN:
+  type:
+  - '&7&oخوراکی'
+SWEET_POTATO:
+  type:
+  - '&7&oخوراکی'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oقطعه'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oخوراکی'
+TACO:
+  type:
+  - '&7&oخوراکی'
+TEA_LEAF:
+  type:
+  - '&7&oخوراکی'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oقطعه'
+THAI_TEA:
+  type:
+  - '&7&oخوراکی'
+TIN_ESSENCE:
+  type:
+  - '&7&oجادویی'
+TIN_PLANT:
+  type:
+  - '&7&oجادویی'
+TIRAMISU:
+  type:
+  - '&7&oخوراکی'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oخوراکی'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oخوراکی'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oخوراکی'
+TOMATO:
+  type:
+  - '&7&oخوراکی'
+TOMATO_BUSH:
+  type:
+  - '&7&oقطعه'
+TOMATO_JUICE:
+  type:
+  - '&7&oخوراکی'
+TOMATO_SOUP:
+  type:
+  - '&7&oخوراکی'
+VEGETABLE_OIL:
+  type:
+  - '&7&oقطعه'
+WAFFLES:
+  type:
+  - '&7&oخوراکی'
+WINE:
+  type:
+  - '&7&oخوراکی'
+YEAST:
+  type:
+  - '&7&oقطعه'

@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMagiskt'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oMat'
+BACON:
+  type:
+  - '&7&oMat'
+BACON_BURGER:
+  type:
+  - '&7&oMat'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oMat'
+BACON_SANDWICH:
+  type:
+  - '&7&oMat'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oMat'
+BAGEL:
+  type:
+  - '&7&oMat'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oMat'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oMat'
+BBQ_SAUCE:
+  type:
+  - '&7&oKomponent'
+BISCUIT:
+  type:
+  - '&7&oMat'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oMat'
+BLACKBERRY:
+  type:
+  - '&7&oMat'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oMat'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oMat'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oMat'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+BLACK_PEPPER:
+  type:
+  - '&7&oMat'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oKomponent'
+BLT:
+  type:
+  - '&7&oMat'
+BLUEBERRY:
+  type:
+  - '&7&oMat'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oMat'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oMat'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oMat'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oMat'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oMat'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oMat'
+BROWN_SUGAR:
+  type:
+  - '&7&oKomponent'
+BURRITO:
+  type:
+  - '&7&oMat'
+CABBAGE:
+  type:
+  - '&7&oMat'
+CABBAGE_BUSH:
+  type:
+  - '&7&oKomponent'
+CARROT_CAKE:
+  type:
+  - '&7&oMat'
+CHEESEBURGER:
+  type:
+  - '&7&oMat'
+CHEESECAKE:
+  type:
+  - '&7&oMat'
+CHERRY:
+  type:
+  - '&7&oMat'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oMat'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oMat'
+CHERRY_JUICE:
+  type:
+  - '&7&oMat'
+CHERRY_PIE:
+  type:
+  - '&7&oMat'
+CHERRY_SAPLING:
+  type:
+  - '&7&oKomponent'
+CHICKEN_BURGER:
+  type:
+  - '&7&oMat'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oMat'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oMat'
+CHICKEN_CURRY:
+  type:
+  - '&7&oMat'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oMat'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oMat'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oMat'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oMat'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oMat'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oMat'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oMat'
+CILANTRO:
+  type:
+  - '&7&oMat'
+CILANTRO_BUSH:
+  type:
+  - '&7&oKomponent'
+CLUB_SANDWICH:
+  type:
+  - '&7&oMat'
+COAL_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+COAL_PLANT:
+  type:
+  - '&7&oMagiskt'
+COCONUT:
+  type:
+  - '&7&oMat'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oMat'
+COCONUT_MILK:
+  type:
+  - '&7&oMat'
+COCONUT_SAPLING:
+  type:
+  - '&7&oKomponent'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+COPPER_PLANT:
+  type:
+  - '&7&oMagiskt'
+CORN:
+  type:
+  - '&7&oMat'
+CORNMEAL:
+  type:
+  - '&7&oKomponent'
+CORN_BUSH:
+  type:
+  - '&7&oKomponent'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oMat'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oKomponent'
+COWBERRY:
+  type:
+  - '&7&oMat'
+COWBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+COWBERRY_JUICE:
+  type:
+  - '&7&oMat'
+COWBERRY_PIE:
+  type:
+  - '&7&oMat'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+CRANBERRY:
+  type:
+  - '&7&oMat'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oMat'
+CRANBERRY_PIE:
+  type:
+  - '&7&oMat'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+CREAMED_CORN:
+  type:
+  - '&7&oMat'
+CREAM_COOKIE:
+  type:
+  - '&7&oMat'
+CROOK:
+  type:
+  - '&7&oVerktyg'
+CURRY_LEAF:
+  type:
+  - '&7&oMat'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oKomponent'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oMat'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMagiskt'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+DIRT_PLANT:
+  type:
+  - '&7&oMagiskt'
+DRAGON_FRUIT:
+  type:
+  - '&7&oMat'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oMat'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oMat'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oKomponent'
+EGG_SALAD:
+  type:
+  - '&7&oMat'
+ELDERBERRY:
+  type:
+  - '&7&oMat'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oMat'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oMat'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+EMERALD_PLANT:
+  type:
+  - '&7&oMagiskt'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+ENDER_PLANT:
+  type:
+  - '&7&oMagiskt'
+FISH_SANDWICH:
+  type:
+  - '&7&oMat'
+FISH_TACO:
+  type:
+  - '&7&oMat'
+FRIES:
+  type:
+  - '&7&oMat'
+GARLIC:
+  type:
+  - '&7&oMat'
+GARLIC_BREAD:
+  type:
+  - '&7&oMat'
+GARLIC_BUSH:
+  type:
+  - '&7&oKomponent'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oMat'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMagiskt'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+GOLD_PLANT:
+  type:
+  - '&7&oMagiskt'
+GRAPE:
+  type:
+  - '&7&oMat'
+GRAPE_BUSH:
+  type:
+  - '&7&oKomponent'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+GRAPE_JUICE:
+  type:
+  - '&7&oMat'
+GRAPE_PIE:
+  type:
+  - '&7&oMat'
+GRAPE_SALAD:
+  type:
+  - '&7&oMat'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oMat'
+GRASS_SEEDS:
+  type:
+  - '&7&oPryl'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oMat'
+HAMBURGER:
+  type:
+  - '&7&oMat'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oMat'
+HOT_DOG:
+  type:
+  - '&7&oMat'
+ICE_CREAM:
+  type:
+  - '&7&oMat'
+ICE_CUBE:
+  type:
+  - '&7&oKomponent'
+IRON_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+IRON_PLANT:
+  type:
+  - '&7&oMagiskt'
+JAMMY_DODGER:
+  type:
+  - '&7&oMat'
+KITCHEN:
+  type:
+  - '&7&oMultiblock'
+LAMINGTON:
+  type:
+  - '&7&oMat'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+LAPIS_PLANT:
+  type:
+  - '&7&oMagiskt'
+LASAGNA:
+  type:
+  - '&7&oMat'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+LEAD_PLANT:
+  type:
+  - '&7&oMagiskt'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oMat'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oMat'
+LEMON:
+  type:
+  - '&7&oMat'
+LEMONADE:
+  type:
+  - '&7&oMat'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oMat'
+LEMON_JUICE:
+  type:
+  - '&7&oMat'
+LEMON_PIE:
+  type:
+  - '&7&oMat'
+LEMON_SAPLING:
+  type:
+  - '&7&oKomponent'
+LETTUCE:
+  type:
+  - '&7&oMat'
+LETTUCE_BUSH:
+  type:
+  - '&7&oKomponent'
+LIME:
+  type:
+  - '&7&oMat'
+LIME_JUICE:
+  type:
+  - '&7&oMat'
+LIME_PIE:
+  type:
+  - '&7&oMat'
+LIME_SAPLING:
+  type:
+  - '&7&oKomponent'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oMat'
+MAYO:
+  type:
+  - '&7&oKomponent'
+MOLASSES:
+  type:
+  - '&7&oKomponent'
+MUSTARD:
+  type:
+  - '&7&oKomponent'
+MUSTARD_SEED:
+  type:
+  - '&7&oMat'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oKomponent'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMagiskt'
+OAK_APPLE:
+  type:
+  - '&7&oMat'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oMat'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oMat'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oKomponent'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMagiskt'
+ONION:
+  type:
+  - '&7&oMat'
+ONION_BUSH:
+  type:
+  - '&7&oKomponent'
+ORANGE:
+  type:
+  - '&7&oMat'
+ORANGE_JUICE:
+  type:
+  - '&7&oMat'
+ORANGE_PIE:
+  type:
+  - '&7&oMat'
+ORANGE_SAPLING:
+  type:
+  - '&7&oKomponent'
+PANCAKES:
+  type:
+  - '&7&oMat'
+PAVLOVA:
+  type:
+  - '&7&oMat'
+PEACH:
+  type:
+  - '&7&oMat'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oMat'
+PEACH_JUICE:
+  type:
+  - '&7&oMat'
+PEACH_PIE:
+  type:
+  - '&7&oMat'
+PEACH_SAPLING:
+  type:
+  - '&7&oKomponent'
+PEAR:
+  type:
+  - '&7&oMat'
+PEAR_JUICE:
+  type:
+  - '&7&oMat'
+PEAR_PIE:
+  type:
+  - '&7&oMat'
+PEAR_SAPLING:
+  type:
+  - '&7&oKomponent'
+PINACOLADA:
+  type:
+  - '&7&oMat'
+PINEAPPLE:
+  type:
+  - '&7&oMat'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oKomponent'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oMat'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oMat'
+PLUM:
+  type:
+  - '&7&oMat'
+PLUM_JUICE:
+  type:
+  - '&7&oMat'
+PLUM_PIE:
+  type:
+  - '&7&oMat'
+PLUM_SAPLING:
+  type:
+  - '&7&oKomponent'
+POMEGRANATE:
+  type:
+  - '&7&oMat'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oMat'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oMat'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oKomponent'
+POPCORN:
+  type:
+  - '&7&oMat'
+POTATO_SALAD:
+  type:
+  - '&7&oMat'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oMat'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oMat'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oMat'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMagiskt'
+RASPBERRY:
+  type:
+  - '&7&oMat'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oMat'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oMat'
+RASPBERRY_PIE:
+  type:
+  - '&7&oMat'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMagiskt'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oMat'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oKomponent'
+SALTY_POPCORN:
+  type:
+  - '&7&oMat'
+SANDWICH:
+  type:
+  - '&7&oMat'
+SHEPARDS_PIE:
+  type:
+  - '&7&oMat'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+SILVER_PLANT:
+  type:
+  - '&7&oMagiskt'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+SLIME_PLANT:
+  type:
+  - '&7&oMagiskt'
+STRAWBERRY:
+  type:
+  - '&7&oMat'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oKomponent'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oMat'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oMat'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oMat'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oMat'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oMat'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oMat'
+STREET_TACO:
+  type:
+  - '&7&oMat'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oMat'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oMat'
+SWEETENED_TEA:
+  type:
+  - '&7&oMat'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oMat'
+SWEET_POPCORN:
+  type:
+  - '&7&oMat'
+SWEET_POTATO:
+  type:
+  - '&7&oMat'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oKomponent'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oMat'
+TACO:
+  type:
+  - '&7&oMat'
+TEA_LEAF:
+  type:
+  - '&7&oMat'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oKomponent'
+THAI_TEA:
+  type:
+  - '&7&oMat'
+TIN_ESSENCE:
+  type:
+  - '&7&oMagiskt'
+TIN_PLANT:
+  type:
+  - '&7&oMagiskt'
+TIRAMISU:
+  type:
+  - '&7&oMat'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oMat'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oMat'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oMat'
+TOMATO:
+  type:
+  - '&7&oMat'
+TOMATO_BUSH:
+  type:
+  - '&7&oKomponent'
+TOMATO_JUICE:
+  type:
+  - '&7&oMat'
+TOMATO_SOUP:
+  type:
+  - '&7&oMat'
+VEGETABLE_OIL:
+  type:
+  - '&7&oKomponent'
+WAFFLES:
+  type:
+  - '&7&oMat'
+WINE:
+  type:
+  - '&7&oMat'
+YEAST:
+  type:
+  - '&7&oKomponent'

@@ -1,0 +1,792 @@
+ALUMINUM_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+ALUMINUM_PLANT:
+  type:
+  - '&7&oMa Thuật'
+APPLE_PEAR_CAKE:
+  type:
+  - '&7&oThức Ăn'
+BACON:
+  type:
+  - '&7&oThức Ăn'
+BACON_BURGER:
+  type:
+  - '&7&oThức Ăn'
+BACON_CHEESEBURGER:
+  type:
+  - '&7&oThức Ăn'
+BACON_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  type:
+  - '&7&oThức Ăn'
+BAGEL:
+  type:
+  - '&7&oThức Ăn'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  type:
+  - '&7&oThức Ăn'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  type:
+  - '&7&oThức Ăn'
+BBQ_SAUCE:
+  type:
+  - '&7&oThành Phần'
+BISCUIT:
+  type:
+  - '&7&oThức Ăn'
+BISCUITS_GRAVY:
+  type:
+  - '&7&oThức Ăn'
+BLACKBERRY:
+  type:
+  - '&7&oThức Ăn'
+BLACKBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+BLACKBERRY_COBBLER:
+  type:
+  - '&7&oThức Ăn'
+BLACKBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+BLACKBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+BLACKBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+BLACKBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+BLACK_PEPPER:
+  type:
+  - '&7&oThức Ăn'
+BLACK_PEPPER_BUSH:
+  type:
+  - '&7&oThành Phần'
+BLT:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+BLUEBERRY_CHEESECAKE:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_MUFFIN:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_PANCAKES:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+BLUEBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+BOSTON_CREAM_PIE:
+  type:
+  - '&7&oThức Ăn'
+BROWN_SUGAR:
+  type:
+  - '&7&oThành Phần'
+BURRITO:
+  type:
+  - '&7&oThức Ăn'
+CABBAGE:
+  type:
+  - '&7&oThức Ăn'
+CABBAGE_BUSH:
+  type:
+  - '&7&oThành Phần'
+CARROT_CAKE:
+  type:
+  - '&7&oThức Ăn'
+CHEESEBURGER:
+  type:
+  - '&7&oThức Ăn'
+CHEESECAKE:
+  type:
+  - '&7&oThức Ăn'
+CHERRY:
+  type:
+  - '&7&oThức Ăn'
+CHERRY_CHEESECAKE:
+  type:
+  - '&7&oThức Ăn'
+CHERRY_ICED_TEA:
+  type:
+  - '&7&oThức Ăn'
+CHERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+CHERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+CHERRY_SAPLING:
+  type:
+  - '&7&oThành Phần'
+CHICKEN_BURGER:
+  type:
+  - '&7&oThức Ăn'
+CHICKEN_BURRITO:
+  type:
+  - '&7&oThức Ăn'
+CHICKEN_CHEESEBURGER:
+  type:
+  - '&7&oThức Ăn'
+CHICKEN_CURRY:
+  type:
+  - '&7&oThức Ăn'
+CHICKEN_POT_PIE:
+  type:
+  - '&7&oThức Ăn'
+CHICKEN_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+CHOCOLATE_BAR:
+  type:
+  - '&7&oThức Ăn'
+CHOCOLATE_CAKE:
+  type:
+  - '&7&oThức Ăn'
+CHOCOLATE_CHIP_MUFFIN:
+  type:
+  - '&7&oThức Ăn'
+CHOCOLATE_PEAR_CAKE:
+  type:
+  - '&7&oThức Ăn'
+CHOCOLATE_STRAWBERRY:
+  type:
+  - '&7&oThức Ăn'
+CILANTRO:
+  type:
+  - '&7&oThức Ăn'
+CILANTRO_BUSH:
+  type:
+  - '&7&oThành Phần'
+CLUB_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+COAL_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+COAL_PLANT:
+  type:
+  - '&7&oMa Thuật'
+COCONUT:
+  type:
+  - '&7&oThức Ăn'
+COCONUT_CHICKEN_CURRY:
+  type:
+  - '&7&oThức Ăn'
+COCONUT_MILK:
+  type:
+  - '&7&oThức Ăn'
+COCONUT_SAPLING:
+  type:
+  - '&7&oThành Phần'
+COPPER_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+COPPER_PLANT:
+  type:
+  - '&7&oMa Thuật'
+CORN:
+  type:
+  - '&7&oThức Ăn'
+CORNMEAL:
+  type:
+  - '&7&oThành Phần'
+CORN_BUSH:
+  type:
+  - '&7&oThành Phần'
+CORN_ON_THE_COB:
+  type:
+  - '&7&oThức Ăn'
+COUNTRY_GRAVY:
+  type:
+  - '&7&oThành Phần'
+COWBERRY:
+  type:
+  - '&7&oThức Ăn'
+COWBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+COWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+COWBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+COWBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+COWBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+CRANBERRY:
+  type:
+  - '&7&oThức Ăn'
+CRANBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+CRANBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+CRANBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+CRANBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+CRANBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+CREAMED_CORN:
+  type:
+  - '&7&oThức Ăn'
+CREAM_COOKIE:
+  type:
+  - '&7&oThức Ăn'
+CROOK:
+  type:
+  - '&7&oDụng Cụ'
+CURRY_LEAF:
+  type:
+  - '&7&oThức Ăn'
+CURRY_LEAF_BUSH:
+  type:
+  - '&7&oThành Phần'
+DELUXE_CHEESEBURGER:
+  type:
+  - '&7&oThức Ăn'
+DIAMOND_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+DIAMOND_PLANT:
+  type:
+  - '&7&oMa Thuật'
+DIRT_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+DIRT_PLANT:
+  type:
+  - '&7&oMa Thuật'
+DRAGON_FRUIT:
+  type:
+  - '&7&oThức Ăn'
+DRAGON_FRUIT_JUICE:
+  type:
+  - '&7&oThức Ăn'
+DRAGON_FRUIT_PIE:
+  type:
+  - '&7&oThức Ăn'
+DRAGON_FRUIT_SAPLING:
+  type:
+  - '&7&oThành Phần'
+EGG_SALAD:
+  type:
+  - '&7&oThức Ăn'
+ELDERBERRY:
+  type:
+  - '&7&oThức Ăn'
+ELDERBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+ELDERBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+ELDERBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+ELDERBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+ELDERBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+EMERALD_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+EMERALD_PLANT:
+  type:
+  - '&7&oMa Thuật'
+ENDER_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+ENDER_PLANT:
+  type:
+  - '&7&oMa Thuật'
+FISH_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+FISH_TACO:
+  type:
+  - '&7&oThức Ăn'
+FRIES:
+  type:
+  - '&7&oThức Ăn'
+GARLIC:
+  type:
+  - '&7&oThức Ăn'
+GARLIC_BREAD:
+  type:
+  - '&7&oThức Ăn'
+GARLIC_BUSH:
+  type:
+  - '&7&oThành Phần'
+GARLIC_CHEESE_BREAD:
+  type:
+  - '&7&oThức Ăn'
+GLOWSTONE_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+GLOWSTONE_PLANT:
+  type:
+  - '&7&oMa Thuật'
+GOLD_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+GOLD_PLANT:
+  type:
+  - '&7&oMa Thuật'
+GRAPE:
+  type:
+  - '&7&oThức Ăn'
+GRAPE_BUSH:
+  type:
+  - '&7&oThành Phần'
+GRAPE_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+GRAPE_JUICE:
+  type:
+  - '&7&oThức Ăn'
+GRAPE_PIE:
+  type:
+  - '&7&oThức Ăn'
+GRAPE_SALAD:
+  type:
+  - '&7&oThức Ăn'
+GRAPE_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+GRASS_SEEDS:
+  type:
+  - '&7&oThiết Bị'
+GRILLED_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+HAMBURGER:
+  type:
+  - '&7&oThức Ăn'
+HOT_CHOCOLATE:
+  type:
+  - '&7&oThức Ăn'
+HOT_DOG:
+  type:
+  - '&7&oThức Ăn'
+ICE_CREAM:
+  type:
+  - '&7&oThức Ăn'
+ICE_CUBE:
+  type:
+  - '&7&oThành Phần'
+IRON_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+IRON_PLANT:
+  type:
+  - '&7&oMa Thuật'
+JAMMY_DODGER:
+  type:
+  - '&7&oThức Ăn'
+KITCHEN:
+  type:
+  - '&7&oĐa khối'
+LAMINGTON:
+  type:
+  - '&7&oThức Ăn'
+LAPIS_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+LAPIS_PLANT:
+  type:
+  - '&7&oMa Thuật'
+LASAGNA:
+  type:
+  - '&7&oThức Ăn'
+LEAD_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+LEAD_PLANT:
+  type:
+  - '&7&oMa Thuật'
+LEAFY_CHICKEN_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+LEAFY_FISH_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+LEMON:
+  type:
+  - '&7&oThức Ăn'
+LEMONADE:
+  type:
+  - '&7&oThức Ăn'
+LEMON_ICED_TEA:
+  type:
+  - '&7&oThức Ăn'
+LEMON_JUICE:
+  type:
+  - '&7&oThức Ăn'
+LEMON_PIE:
+  type:
+  - '&7&oThức Ăn'
+LEMON_SAPLING:
+  type:
+  - '&7&oThành Phần'
+LETTUCE:
+  type:
+  - '&7&oThức Ăn'
+LETTUCE_BUSH:
+  type:
+  - '&7&oThành Phần'
+LIME:
+  type:
+  - '&7&oThức Ăn'
+LIME_JUICE:
+  type:
+  - '&7&oThức Ăn'
+LIME_PIE:
+  type:
+  - '&7&oThức Ăn'
+LIME_SAPLING:
+  type:
+  - '&7&oThành Phần'
+LIME_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+MAYO:
+  type:
+  - '&7&oThành Phần'
+MOLASSES:
+  type:
+  - '&7&oThành Phần'
+MUSTARD:
+  type:
+  - '&7&oThành Phần'
+MUSTARD_SEED:
+  type:
+  - '&7&oThức Ăn'
+MUSTARD_SEED_BUSH:
+  type:
+  - '&7&oThành Phần'
+NETHERITE_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+NETHERITE_PLANT:
+  type:
+  - '&7&oMa Thuật'
+OAK_APPLE:
+  type:
+  - '&7&oThức Ăn'
+OAK_APPLE_JUICE:
+  type:
+  - '&7&oThức Ăn'
+OAK_APPLE_PIE:
+  type:
+  - '&7&oThức Ăn'
+OAK_APPLE_SAPLING:
+  type:
+  - '&7&oThành Phần'
+OBSIDIAN_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+OBSIDIAN_PLANT:
+  type:
+  - '&7&oMa Thuật'
+ONION:
+  type:
+  - '&7&oThức Ăn'
+ONION_BUSH:
+  type:
+  - '&7&oThành Phần'
+ORANGE:
+  type:
+  - '&7&oThức Ăn'
+ORANGE_JUICE:
+  type:
+  - '&7&oThức Ăn'
+ORANGE_PIE:
+  type:
+  - '&7&oThức Ăn'
+ORANGE_SAPLING:
+  type:
+  - '&7&oThành Phần'
+PANCAKES:
+  type:
+  - '&7&oThức Ăn'
+PAVLOVA:
+  type:
+  - '&7&oThức Ăn'
+PEACH:
+  type:
+  - '&7&oThức Ăn'
+PEACH_ICED_TEA:
+  type:
+  - '&7&oThức Ăn'
+PEACH_JUICE:
+  type:
+  - '&7&oThức Ăn'
+PEACH_PIE:
+  type:
+  - '&7&oThức Ăn'
+PEACH_SAPLING:
+  type:
+  - '&7&oThành Phần'
+PEAR:
+  type:
+  - '&7&oThức Ăn'
+PEAR_JUICE:
+  type:
+  - '&7&oThức Ăn'
+PEAR_PIE:
+  type:
+  - '&7&oThức Ăn'
+PEAR_SAPLING:
+  type:
+  - '&7&oThành Phần'
+PINACOLADA:
+  type:
+  - '&7&oThức Ăn'
+PINEAPPLE:
+  type:
+  - '&7&oThức Ăn'
+PINEAPPLE_BUSH:
+  type:
+  - '&7&oThành Phần'
+PINEAPPLE_JUICE:
+  type:
+  - '&7&oThức Ăn'
+PINEAPPLE_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+PLUM:
+  type:
+  - '&7&oThức Ăn'
+PLUM_JUICE:
+  type:
+  - '&7&oThức Ăn'
+PLUM_PIE:
+  type:
+  - '&7&oThức Ăn'
+PLUM_SAPLING:
+  type:
+  - '&7&oThành Phần'
+POMEGRANATE:
+  type:
+  - '&7&oThức Ăn'
+POMEGRANATE_JUICE:
+  type:
+  - '&7&oThức Ăn'
+POMEGRANATE_PIE:
+  type:
+  - '&7&oThức Ăn'
+POMEGRANATE_SAPLING:
+  type:
+  - '&7&oThành Phần'
+POPCORN:
+  type:
+  - '&7&oThức Ăn'
+POTATO_SALAD:
+  type:
+  - '&7&oThức Ăn'
+PUMPKIN_BREAD:
+  type:
+  - '&7&oThức Ăn'
+PUMPKIN_CHEESECAKE:
+  type:
+  - '&7&oThức Ăn'
+PUMPKIN_MUFFIN:
+  type:
+  - '&7&oThức Ăn'
+QUARTZ_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+QUARTZ_PLANT:
+  type:
+  - '&7&oMa Thuật'
+RASPBERRY:
+  type:
+  - '&7&oThức Ăn'
+RASPBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+RASPBERRY_ICED_TEA:
+  type:
+  - '&7&oThức Ăn'
+RASPBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+RASPBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+RASPBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+RASPBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+REDSTONE_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+REDSTONE_PLANT:
+  type:
+  - '&7&oMa Thuật'
+RED_BELL_PEPPER:
+  type:
+  - '&7&oThức Ăn'
+RED_BELL_PEPPER_BUSH:
+  type:
+  - '&7&oThành Phần'
+SALTY_POPCORN:
+  type:
+  - '&7&oThức Ăn'
+SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+SHEPARDS_PIE:
+  type:
+  - '&7&oThức Ăn'
+SILVER_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+SILVER_PLANT:
+  type:
+  - '&7&oMa Thuật'
+SLIME_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+SLIME_PLANT:
+  type:
+  - '&7&oMa Thuật'
+STRAWBERRY:
+  type:
+  - '&7&oThức Ăn'
+STRAWBERRY_BUSH:
+  type:
+  - '&7&oThành Phần'
+STRAWBERRY_ICED_TEA:
+  type:
+  - '&7&oThức Ăn'
+STRAWBERRY_JELLY_SANDWICH:
+  type:
+  - '&7&oThức Ăn'
+STRAWBERRY_JUICE:
+  type:
+  - '&7&oThức Ăn'
+STRAWBERRY_PIE:
+  type:
+  - '&7&oThức Ăn'
+STRAWBERRY_SALAD:
+  type:
+  - '&7&oThức Ăn'
+STRAWBERRY_SMOOTHIE:
+  type:
+  - '&7&oThức Ăn'
+STREET_TACO:
+  type:
+  - '&7&oThức Ăn'
+STUFFED_RED_BELL_PEPPER:
+  type:
+  - '&7&oThức Ăn'
+SWEETENED_PEAR_CHEESECAKE:
+  type:
+  - '&7&oThức Ăn'
+SWEETENED_TEA:
+  type:
+  - '&7&oThức Ăn'
+SWEET_BERRY_PANCAKES:
+  type:
+  - '&7&oThức Ăn'
+SWEET_POPCORN:
+  type:
+  - '&7&oThức Ăn'
+SWEET_POTATO:
+  type:
+  - '&7&oThức Ăn'
+SWEET_POTATO_BUSH:
+  type:
+  - '&7&oThành Phần'
+SWEET_POTATO_PIE:
+  type:
+  - '&7&oThức Ăn'
+TACO:
+  type:
+  - '&7&oThức Ăn'
+TEA_LEAF:
+  type:
+  - '&7&oThức Ăn'
+TEA_LEAF_BUSH:
+  type:
+  - '&7&oThành Phần'
+THAI_TEA:
+  type:
+  - '&7&oThức Ăn'
+TIN_ESSENCE:
+  type:
+  - '&7&oMa Thuật'
+TIN_PLANT:
+  type:
+  - '&7&oMa Thuật'
+TIRAMISU:
+  type:
+  - '&7&oThức Ăn'
+TIRAMISU_WITH_BLACKBERRIES:
+  type:
+  - '&7&oThức Ăn'
+TIRAMISU_WITH_RASPBERRIES:
+  type:
+  - '&7&oThức Ăn'
+TIRAMISU_WITH_STRAWBERRIES:
+  type:
+  - '&7&oThức Ăn'
+TOMATO:
+  type:
+  - '&7&oThức Ăn'
+TOMATO_BUSH:
+  type:
+  - '&7&oThành Phần'
+TOMATO_JUICE:
+  type:
+  - '&7&oThức Ăn'
+TOMATO_SOUP:
+  type:
+  - '&7&oThức Ăn'
+VEGETABLE_OIL:
+  type:
+  - '&7&oThành Phần'
+WAFFLES:
+  type:
+  - '&7&oThức Ăn'
+WINE:
+  type:
+  - '&7&oThức Ăn'
+YEAST:
+  type:
+  - '&7&oThành Phần'
