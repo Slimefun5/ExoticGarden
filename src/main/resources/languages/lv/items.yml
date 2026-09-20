@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Alumīnijs'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 ALUMINUM_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rAlumīnija augs'
   type:
   - '&7&oMaģisks'
 APPLE_PEAR_CAKE:
+  name: '&cĀbolu bumbieru kūka'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON:
+  name: '&rBekons'
   stats:
   - '&7&oAtjauno &b&o1.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_BURGER:
+  name: '&rBekona burgers'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_CHEESEBURGER:
+  name: '&rBekona siera burgers'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_SANDWICH:
+  name: '&rBekona sviestmaize'
   stats:
   - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Kad es gatavoju" - @Eyamaz'
+  name: '&rBekonā tīts hotdogs ar siera pildījumu'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BAGEL:
+  name: '&rBeigelis'
   stats:
   - '&7&oAtjauno &b&o2.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"gribi parunāt par hotdogiem?" - @Pahimar'
+  name: '&rGrila mērces bekonā tīts hotdogs'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Kad es gatavoju" - @Eyamaz'
+  name: '&rDubultā bekonā tīts hotdogs ar grila mērci tortiljā ar sieru'
   stats:
   - '&7&oAtjauno &b&o10.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BBQ_SAUCE:
+  name: '&cGrila mērce'
   type:
   - '&7&oSastāvdaļa'
 BISCUIT:
+  name: '&6Cepums'
   stats:
   - '&7&oAtjauno &b&o2.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BISCUITS_GRAVY:
+  name: '&rCepumi ar lauku mērci'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&8Kazene'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&8Kazeņu krūms'
   type:
   - '&7&oSastāvdaļa'
 BLACKBERRY_COBBLER:
+  name: '&8Kazeņu drupatu kūka'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Kazeņu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_JUICE:
+  name: '&8Kazeņu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_PIE:
+  name: '&8Kazeņu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Kazeņu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLACK_PEPPER:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&8Melnie pipari'
   type:
   - '&7&oĒdiens'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&8Melno piparu augs'
   type:
   - '&7&oSastāvdaļa'
 BLT:
+  name: '&rBekona, salātu un tomātu sviestmaize'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&9Mellene'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&9Melleņu krūms'
   type:
   - '&7&oSastāvdaļa'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Melleņu siera kūka'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Melleņu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_JUICE:
+  name: '&9Melleņu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_MUFFIN:
+  name: '&rMelleņu mafins'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_PANCAKES:
+  name: '&rMelleņu pankūkas'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_PIE:
+  name: '&9Melleņu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Melleņu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BOSTON_CREAM_PIE:
+  name: '&rBostonas krēma kūka'
   stats:
   - '&7&oAtjauno &b&o4.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 BROWN_SUGAR:
+  name: '&rBrūnais cukurs'
   type:
   - '&7&oSastāvdaļa'
 BURRITO:
+  name: '&rBurito'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CABBAGE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&2Kāposts'
   type:
   - '&7&oĒdiens'
 CABBAGE_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&2Kāpostu augs'
   type:
   - '&7&oSastāvdaļa'
 CARROT_CAKE:
+  name: '&rBurkānu kūka'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHEESEBURGER:
+  name: '&rSiera burgers'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHEESECAKE:
+  name: '&rSiera kūka'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cĶirsis'
   type:
   - '&7&oĒdiens'
 CHERRY_CHEESECAKE:
+  name: '&cĶiršu siera kūka'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_ICED_TEA:
+  name: '&cĶiršu ledus tēja'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_JUICE:
+  name: '&cĶiršu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_PIE:
+  name: '&cĶiršu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHERRY_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&cĶirša stāds'
   type:
   - '&7&oSastāvdaļa'
 CHICKEN_BURGER:
+  name: '&rVistas burgers'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_BURRITO:
+  name: '&rVistas burito'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_CHEESEBURGER:
+  name: '&rVistas siera burgers'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_CURRY:
+  name: '&rVistas karijs'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_POT_PIE:
+  name: '&rVistas pīrāgs'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHICKEN_SANDWICH:
+  name: '&rVistas sviestmaize'
   stats:
   - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_BAR:
+  name: '&rŠokolādes tāfelīte'
   stats:
   - '&7&oAtjauno &b&o1.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_CAKE:
+  name: '&rŠokolādes kūka'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rŠokolādes gabaliņu mafins'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rŠokolādes bumbieru kūka'
   stats:
   - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CHOCOLATE_STRAWBERRY:
+  name: '&cŠokolādes zemene'
   stats:
   - '&7&oAtjauno &b&o2.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CILANTRO:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&aKoriandrs'
   type:
   - '&7&oĒdiens'
 CILANTRO_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&aKoriandra augs'
   type:
   - '&7&oSastāvdaļa'
 CLUB_SANDWICH:
+  name: '&rKluba sviestmaize'
   stats:
   - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COAL_ESSENCE:
+  description:
+  - '&7Ogles'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 COAL_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rOgļu augs'
   type:
   - '&7&oMaģisks'
 COCONUT:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&6Kokosrieksts'
   type:
   - '&7&oĒdiens'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKokosriekstu vistas karijs'
   stats:
   - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COCONUT_MILK:
+  name: '&6Kokosriekstu piens'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COCONUT_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&6Kokosrieksta stāds'
   type:
   - '&7&oSastāvdaļa'
 COPPER_ESSENCE:
+  description:
+  - '&7Varš'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 COPPER_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rVara augs'
   type:
   - '&7&oMaģisks'
 CORN:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&6Kukurūza'
   type:
   - '&7&oĒdiens'
 CORNMEAL:
+  name: '&rKukurūzas milti'
   type:
   - '&7&oSastāvdaļa'
 CORN_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&6Kukurūzas augs'
   type:
   - '&7&oSastāvdaļa'
 CORN_ON_THE_COB:
+  name: '&6Kukurūzas vālīte'
   stats:
   - '&7&oAtjauno &b&o4.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COUNTRY_GRAVY:
+  name: '&rLauku mērce'
   type:
   - '&7&oSastāvdaļa'
 COWBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cBrūklene'
   type:
   - '&7&oĒdiens'
 COWBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&cBrūkleņu krūms'
   type:
   - '&7&oSastāvdaļa'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cBrūkleņu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COWBERRY_JUICE:
+  name: '&cBrūkleņu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COWBERRY_PIE:
+  name: '&cBrūkleņu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 COWBERRY_SMOOTHIE:
+  name: '&cBrūkleņu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cDzērvene'
   type:
   - '&7&oĒdiens'
 CRANBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&cDzērveņu krūms'
   type:
   - '&7&oSastāvdaļa'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cDzērveņu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY_JUICE:
+  name: '&cDzērveņu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY_PIE:
+  name: '&cDzērveņu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CRANBERRY_SMOOTHIE:
+  name: '&cDzērveņu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CREAMED_CORN:
+  name: '&rKukurūza krējuma mērcē'
   stats:
   - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CREAM_COOKIE:
+  name: '&rKrēma cepums'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 CROOK:
+  description:
+  - '&7Koka kaplis dārza augu novākšanai.'
+  name: '&rKāsis'
+  stats:
+  - '&7+ &b25% &7stādu izkrišanas iespēja'
   type:
   - '&7&oRīks'
 CURRY_LEAF:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&2Karija lapa'
   type:
   - '&7&oĒdiens'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&2Karija lapu augs'
   type:
   - '&7&oSastāvdaļa'
 DELUXE_CHEESEBURGER:
+  name: '&rGreznais siera burgers'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Dimants'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 DIAMOND_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rDimanta augs'
   type:
   - '&7&oMaģisks'
 DIRT_ESSENCE:
+  description:
+  - '&7Zeme'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 DIRT_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rZemes augs'
   type:
   - '&7&oMaģisks'
 DRAGON_FRUIT:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&dPūķauglis'
   type:
   - '&7&oĒdiens'
 DRAGON_FRUIT_JUICE:
+  name: '&dPūķaugļu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 DRAGON_FRUIT_PIE:
+  name: '&dPūķaugļu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&dPūķauglja stāds'
   type:
   - '&7&oSastāvdaļa'
 EGG_SALAD:
+  name: '&rOlu salāti'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cPlūškoka oga'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&cPlūškoka krūms'
   type:
   - '&7&oSastāvdaļa'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cPlūškoka ogu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_JUICE:
+  name: '&cPlūškoka ogu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_PIE:
+  name: '&cPlūškoka ogu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ELDERBERRY_SMOOTHIE:
+  name: '&cPlūškoka ogu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragds'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 EMERALD_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rSmaragda augs'
   type:
   - '&7&oMaģisks'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 ENDER_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rEnder augs'
   type:
   - '&7&oMaģisks'
 FISH_SANDWICH:
+  name: '&rZivs sviestmaize'
   stats:
   - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 FISH_TACO:
+  name: '&rZivs tako'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 FRIES:
+  name: '&rFritēti kartupeļi'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GARLIC:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&rĶiploks'
   type:
   - '&7&oĒdiens'
 GARLIC_BREAD:
+  name: '&rĶiploku maize'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GARLIC_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&rĶiploku augs'
   type:
   - '&7&oSastāvdaļa'
 GARLIC_CHEESE_BREAD:
+  name: '&rĶiploku siera maize'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Gaismakmens'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rGaismakmens augs'
   type:
   - '&7&oMaģisks'
 GOLD_ESSENCE:
+  description:
+  - '&7Zelts'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 GOLD_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rZelta augs'
   type:
   - '&7&oMaģisks'
 GRAPE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cVīnoga'
   type:
   - '&7&oĒdiens'
 GRAPE_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&cVīnogu krūms'
   type:
   - '&7&oSastāvdaļa'
 GRAPE_JELLY_SANDWICH:
+  name: '&cVīnogu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_JUICE:
+  name: '&cVīnogu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_PIE:
+  name: '&cVīnogu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_SALAD:
+  name: '&cVīnogu salāti'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRAPE_SMOOTHIE:
+  name: '&cVīnogu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 GRASS_SEEDS:
+  description:
+  - '&7Atjaunojams garās zāles avots - nopļauj to, lai iegūtu stādus un krūmu sēklas.'
+  name: '&rZāles sēklas'
   type:
   - '&7&oIerīce'
+  usage:
+  - '&7&oVar iestādīt uz zemes'
 GRILLED_SANDWICH:
+  name: '&rGrilēta sviestmaize'
   stats:
   - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 HAMBURGER:
+  name: '&rHamburgers'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 HOT_CHOCOLATE:
+  name: '&6Karstā šokolāde'
   stats:
   - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 HOT_DOG:
+  name: '&rHotdogs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ICE_CREAM:
+  name: '&rSaldējums'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ICE_CUBE:
+  name: '&bLedus kubiks'
   type:
   - '&7&oSastāvdaļa'
 IRON_ESSENCE:
+  description:
+  - '&7Dzelzs'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 IRON_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rDzelzs augs'
   type:
   - '&7&oMaģisks'
 JAMMY_DODGER:
+  name: '&cIevārījuma cepums'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 KITCHEN:
+  description:
+  - '&a&oŠeit var pagatavot daudz dažādu gardumu!'
+  name: '&eVirtuve'
   type:
   - '&7&oDaudzbloks'
+  usage:
+  - '&a&oRezultāts nonāk krāsns izvades slotā'
 LAMINGTON:
+  name: '&rLamingtons'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lazurīts'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 LAPIS_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rLazurīta augs'
   type:
   - '&7&oMaģisks'
 LASAGNA:
+  name: '&rLazanja'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEAD_ESSENCE:
+  description:
+  - '&7Svins'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 LEAD_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rSvina augs'
   type:
   - '&7&oMaģisks'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rVistas sviestmaize ar salātiem'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEAFY_FISH_SANDWICH:
+  name: '&rZivs sviestmaize ar salātiem'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&eCitrons'
   type:
   - '&7&oĒdiens'
 LEMONADE:
+  name: '&eLimonāde'
   stats:
   - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_ICED_TEA:
+  name: '&eCitronu ledus tēja'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_JUICE:
+  name: '&eCitronu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_PIE:
+  name: '&eCitronu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LEMON_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&eCitrona stāds'
   type:
   - '&7&oSastāvdaļa'
 LETTUCE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&2Salāti'
   type:
   - '&7&oĒdiens'
 LETTUCE_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&2Salātu augs'
   type:
   - '&7&oSastāvdaļa'
 LIME:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&aLaims'
   type:
   - '&7&oĒdiens'
 LIME_JUICE:
+  name: '&aLaimu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LIME_PIE:
+  name: '&aLaimu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 LIME_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&aLaima stāds'
   type:
   - '&7&oSastāvdaļa'
 LIME_SMOOTHIE:
+  name: '&aLaimu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 MAYO:
+  name: '&rMajonēze'
   type:
   - '&7&oSastāvdaļa'
 MOLASSES:
+  name: '&8Melase'
   type:
   - '&7&oSastāvdaļa'
 MUSTARD:
+  name: '&eSinepes'
   type:
   - '&7&oSastāvdaļa'
 MUSTARD_SEED:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&eSinepju sēkla'
   type:
   - '&7&oĒdiens'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&eSinepju augs'
   type:
   - '&7&oSastāvdaļa'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherīts'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 NETHERITE_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rNetherīta augs'
   type:
   - '&7&oMaģisks'
 OAK_APPLE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cOzola ābols'
   type:
   - '&7&oĒdiens'
 OAK_APPLE_JUICE:
+  name: '&cOzola ābolu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 OAK_APPLE_PIE:
+  name: '&cOzola ābolu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&cOzola ābola stāds'
   type:
   - '&7&oSastāvdaļa'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiāns'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rObsidiāna augs'
   type:
   - '&7&oMaģisks'
 ONION:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cSīpols'
   type:
   - '&7&oĒdiens'
 ONION_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&cSīpolu augs'
   type:
   - '&7&oSastāvdaļa'
 ORANGE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&6Apelsīns'
   type:
   - '&7&oĒdiens'
 ORANGE_JUICE:
+  name: '&6Apelsīnu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ORANGE_PIE:
+  name: '&6Apelsīnu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 ORANGE_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&6Apelsīna stāds'
   type:
   - '&7&oSastāvdaļa'
 PANCAKES:
+  name: '&rPankūkas'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&5Persiks'
   type:
   - '&7&oĒdiens'
 PEACH_ICED_TEA:
+  name: '&dPersiku ledus tēja'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH_JUICE:
+  name: '&5Persiku sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH_PIE:
+  name: '&5Persiku pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEACH_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&5Persika stāds'
   type:
   - '&7&oSastāvdaļa'
 PEAR:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&aBumbieris'
   type:
   - '&7&oĒdiens'
 PEAR_JUICE:
+  name: '&aBumbieru sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEAR_PIE:
+  name: '&aBumbieru pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PEAR_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&aBumbiera stāds'
   type:
   - '&7&oSastāvdaļa'
 PINACOLADA:
+  name: '&6Pinakolada'
   stats:
   - '&7&oAtjauno &b&o7.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PINEAPPLE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&6Ananass'
   type:
   - '&7&oĒdiens'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&6Ananasu augs'
   type:
   - '&7&oSastāvdaļa'
 PINEAPPLE_JUICE:
+  name: '&6Ananasu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananasu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PLUM:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&5Plūme'
   type:
   - '&7&oĒdiens'
 PLUM_JUICE:
+  name: '&5Plūmju sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PLUM_PIE:
+  name: '&5Plūmju pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PLUM_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&5Plūmes stāds'
   type:
   - '&7&oSastāvdaļa'
 POMEGRANATE:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&4Granātābols'
   type:
   - '&7&oĒdiens'
 POMEGRANATE_JUICE:
+  name: '&4Granātābolu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 POMEGRANATE_PIE:
+  name: '&4Granātābolu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Iestādi uz zemes, lai izaudzētu augļu koku.'
+  - '&7Sit pa augļu blokiem, ko tas nes, lai novāktu.'
+  name: '&4Granātābola stāds'
   type:
   - '&7&oSastāvdaļa'
 POPCORN:
+  name: '&rPopkorns'
   stats:
   - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 POTATO_SALAD:
+  name: '&rKartupeļu salāti'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PUMPKIN_BREAD:
+  name: '&rĶirbju maize'
   stats:
   - '&7&oAtjauno &b&o4.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PUMPKIN_CHEESECAKE:
+  name: '&6Ķirbju siera kūka'
   stats:
   - '&7&oAtjauno &b&o8.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 PUMPKIN_MUFFIN:
+  name: '&rĶirbju mafins'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kvarcs'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 QUARTZ_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rKvarca augs'
   type:
   - '&7&oMaģisks'
 RASPBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&dAvene'
   type:
   - '&7&oĒdiens'
 RASPBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&dAveņu krūms'
   type:
   - '&7&oSastāvdaļa'
 RASPBERRY_ICED_TEA:
+  name: '&dAveņu ledus tēja'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dAveņu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_JUICE:
+  name: '&dAveņu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_PIE:
+  name: '&dAveņu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 RASPBERRY_SMOOTHIE:
+  name: '&dAveņu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Sarkanakmens'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 REDSTONE_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rSarkanakmens augs'
   type:
   - '&7&oMaģisks'
 RED_BELL_PEPPER:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&cSarkanā paprika'
   type:
   - '&7&oĒdiens'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&cSarkanās paprikas augs'
   type:
   - '&7&oSastāvdaļa'
 SALTY_POPCORN:
+  name: '&rPopkorns &7(sāļš)'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SANDWICH:
+  name: '&rSviestmaize'
   stats:
   - '&7&oAtjauno &b&o9.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SHEPARDS_PIE:
+  name: '&rGanu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SILVER_ESSENCE:
+  description:
+  - '&7Sudrabs'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 SILVER_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rSudraba augs'
   type:
   - '&7&oMaģisks'
 SLIME_ESSENCE:
+  description:
+  - '&7Gļotas'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 SLIME_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rGļotu augs'
   type:
   - '&7&oMaģisks'
 STRAWBERRY:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&4Zemene'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&4Zemeņu krūms'
   type:
   - '&7&oSastāvdaļa'
 STRAWBERRY_ICED_TEA:
+  name: '&4Zemeņu ledus tēja'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Zemeņu ievārījuma sviestmaize'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_JUICE:
+  name: '&4Zemeņu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_PIE:
+  name: '&4Zemeņu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_SALAD:
+  name: '&cZemeņu salāti'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Zemeņu smūtijs'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STREET_TACO:
+  name: '&rIelas tako'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cPildīta sarkanā paprika'
   stats:
   - '&7&oAtjauno &b&o7.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Saldināta bumbieru siera kūka'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEETENED_TEA:
+  name: '&aSaldināta tēja'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEET_BERRY_PANCAKES:
+  name: '&rSaldo ogu pankūkas'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEET_POPCORN:
+  name: '&rPopkorns &7(salds)'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 SWEET_POTATO:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&6Saldais kartupelis'
   type:
   - '&7&oĒdiens'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&6Saldo kartupeļu augs'
   type:
   - '&7&oSastāvdaļa'
 SWEET_POTATO_PIE:
+  name: '&rSaldo kartupeļu pīrāgs'
   stats:
   - '&7&oAtjauno &b&o6.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TACO:
+  name: '&rTako'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TEA_LEAF:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&aTējas lapa'
   type:
   - '&7&oĒdiens'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&aTējas lapu augs'
   type:
   - '&7&oSastāvdaļa'
 THAI_TEA:
+  name: '&6Taju tēja'
   stats:
   - '&7&oAtjauno &b&o7.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIN_ESSENCE:
+  description:
+  - '&7Alva'
+  - '&7Izgatavo no tās atbilstošo augu, lai izaudzētu resursu.'
+  name: '&rMaģiskā esence'
   type:
   - '&7&oMaģisks'
 TIN_PLANT:
+  description:
+  - '&7Maģisks kultūraugs. Iestādi uz zemes un ļauj tam augt, tad novāc tā resursu.'
+  - '&7Augstākiem līmeņiem receptē nepieciešams iepriekšējā līmeņa augs.'
+  name: '&rAlvas augs'
   type:
   - '&7&oMaģisks'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oAtjauno &b&o8.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu ar kazenēm'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu ar avenēm'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu ar zemenēm'
   stats:
   - '&7&oAtjauno &b&o9.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TOMATO:
+  description:
+  - '&7Svaiga Eksotiskā dārza raža.'
+  - '&7Ēd to jēlu, spied no tā sulu vai pagatavo ēdienu.'
+  name: '&4Tomāts'
   type:
   - '&7&oĒdiens'
 TOMATO_BUSH:
+  description:
+  - '&7Iestādi uz zemes, un tas lēni nogatavojas.'
+  - '&7Labais klikšķis, kad gatavs, lai novāktu bez iznīcināšanas.'
+  name: '&4Tomātu augs'
   type:
   - '&7&oSastāvdaļa'
 TOMATO_JUICE:
+  name: '&4Tomātu sula'
   stats:
   - '&7&oAtjauno &b&o3.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 TOMATO_SOUP:
+  name: '&4Tomātu zupa'
   stats:
   - '&7&oAtjauno &b&o5.5 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 VEGETABLE_OIL:
+  name: '&rAugu eļļa'
   type:
   - '&7&oSastāvdaļa'
 WAFFLES:
+  name: '&rVafeles'
   stats:
   - '&7&oAtjauno &b&o6.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 WINE:
+  name: '&cVīns'
   stats:
   - '&7&oAtjauno &b&o5.0 &7&obada punktu'
   type:
   - '&7&oĒdiens'
 YEAST:
+  name: '&rRaugs'
   type:
   - '&7&oSastāvdaļa'
