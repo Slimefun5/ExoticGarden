@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminij'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 ALUMINUM_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka aluminija'
   type:
   - '&7&oMagično'
 APPLE_PEAR_CAKE:
+  name: '&cKolač s jabukama i kruškama'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON:
+  name: '&rSlanina'
   stats:
   - '&7&oVraća &b&o1.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_BURGER:
+  name: '&rBurger sa slaninom'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_CHEESEBURGER:
+  name: '&rČizburger sa slaninom'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_SANDWICH:
+  name: '&rSendvič sa slaninom'
   stats:
   - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Kad ja kuham" - @Eyamaz'
+  name: '&rHot dog u slanini punjen sirom'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BAGEL:
+  name: '&rBejgl'
   stats:
   - '&7&oVraća &b&o2.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"želiš razgovarati o hrenovkama?" - @Pahimar'
+  name: '&rHot dog u slanini s roštiljskim umakom'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Kad ja kuham" - @Eyamaz'
+  name: '&rHot dog u dvostrukoj slanini s roštiljskim umakom u tortilji sa sirom'
   stats:
   - '&7&oVraća &b&o10.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BBQ_SAUCE:
+  name: '&cRoštiljski umak'
   type:
   - '&7&oKomponenta'
 BISCUIT:
+  name: '&6Pogačica'
   stats:
   - '&7&oVraća &b&o2.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BISCUITS_GRAVY:
+  name: '&rPogačice sa seoskim umakom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&8Kupina'
   type:
   - '&7&oHrana'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&8Grm kupine'
   type:
   - '&7&oKomponenta'
 BLACKBERRY_COBBLER:
+  name: '&8Kolač od kupina'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Žele sendvič od kupina'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_JUICE:
+  name: '&8Sok od kupina'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_PIE:
+  name: '&8Pita od kupina'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Smoothie od kupina'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLACK_PEPPER:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&8Crni papar'
   type:
   - '&7&oHrana'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&8Biljka crnog papra'
   type:
   - '&7&oKomponenta'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&9Borovnica'
   type:
   - '&7&oHrana'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&9Grm borovnice'
   type:
   - '&7&oKomponenta'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Kolač od sira s borovnicama'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Žele sendvič od borovnica'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_JUICE:
+  name: '&9Sok od borovnica'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_MUFFIN:
+  name: '&rMafin s borovnicama'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_PANCAKES:
+  name: '&rPalačinke s borovnicama'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_PIE:
+  name: '&9Pita od borovnica'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Smoothie od borovnica'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 BOSTON_CREAM_PIE:
+  name: '&rBostonska kremna pita'
   stats:
   - '&7&oVraća &b&o4.5 &7&ogladi'
   type:
   - '&7&oHrana'
 BROWN_SUGAR:
+  name: '&rSmeđi šećer'
   type:
   - '&7&oKomponenta'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CABBAGE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&2Kupus'
   type:
   - '&7&oHrana'
 CABBAGE_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&2Biljka kupusa'
   type:
   - '&7&oKomponenta'
 CARROT_CAKE:
+  name: '&rKolač od mrkve'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHEESEBURGER:
+  name: '&rČizburger'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHEESECAKE:
+  name: '&rKolač od sira'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cTrešnja'
   type:
   - '&7&oHrana'
 CHERRY_CHEESECAKE:
+  name: '&cKolač od sira s trešnjama'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_ICED_TEA:
+  name: '&cLedeni čaj s trešnjama'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_JUICE:
+  name: '&cSok od trešanja'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_PIE:
+  name: '&cPita od trešanja'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHERRY_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&cSadnica trešnje'
   type:
   - '&7&oKomponenta'
 CHICKEN_BURGER:
+  name: '&rPileći burger'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_BURRITO:
+  name: '&rBurrito s piletinom'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_CHEESEBURGER:
+  name: '&rPileći čizburger'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_CURRY:
+  name: '&rPileći kari'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_POT_PIE:
+  name: '&rPileća pita'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHICKEN_SANDWICH:
+  name: '&rSendvič s piletinom'
   stats:
   - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_BAR:
+  name: '&rČokoladica'
   stats:
   - '&7&oVraća &b&o1.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_CAKE:
+  name: '&rČokoladna torta'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rMafin s komadićima čokolade'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rČokoladni kolač s kruškama'
   stats:
   - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CHOCOLATE_STRAWBERRY:
+  name: '&cJagoda u čokoladi'
   stats:
   - '&7&oVraća &b&o2.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CILANTRO:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&aKorijandar'
   type:
   - '&7&oHrana'
 CILANTRO_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&aBiljka korijandra'
   type:
   - '&7&oKomponenta'
 CLUB_SANDWICH:
+  name: '&rKlub sendvič'
   stats:
   - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COAL_ESSENCE:
+  description:
+  - '&7Ugljen'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 COAL_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka ugljena'
   type:
   - '&7&oMagično'
 COCONUT:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&6Kokos'
   type:
   - '&7&oHrana'
 COCONUT_CHICKEN_CURRY:
+  name: '&rPileći kari s kokosom'
   stats:
   - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COCONUT_MILK:
+  name: '&6Kokosovo mlijeko'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 COCONUT_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&6Sadnica kokosa'
   type:
   - '&7&oKomponenta'
 COPPER_ESSENCE:
+  description:
+  - '&7Bakar'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 COPPER_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka bakra'
   type:
   - '&7&oMagično'
 CORN:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&6Kukuruz'
   type:
   - '&7&oHrana'
 CORNMEAL:
+  name: '&rKukuruzno brašno'
   type:
   - '&7&oKomponenta'
 CORN_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&6Biljka kukuruza'
   type:
   - '&7&oKomponenta'
 CORN_ON_THE_COB:
+  name: '&6Klip kukuruza'
   stats:
   - '&7&oVraća &b&o4.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COUNTRY_GRAVY:
+  name: '&rSeoski umak'
   type:
   - '&7&oKomponenta'
 COWBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cCrvena borovnica'
   type:
   - '&7&oHrana'
 COWBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&cGrm crvene borovnice'
   type:
   - '&7&oKomponenta'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cŽele sendvič od crvenih borovnica'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 COWBERRY_JUICE:
+  name: '&cSok od crvenih borovnica'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 COWBERRY_PIE:
+  name: '&cPita od crvenih borovnica'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 COWBERRY_SMOOTHIE:
+  name: '&cSmoothie od crvenih borovnica'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cBrusnica'
   type:
   - '&7&oHrana'
 CRANBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&cGrm brusnice'
   type:
   - '&7&oKomponenta'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cŽele sendvič od brusnica'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY_JUICE:
+  name: '&cSok od brusnica'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY_PIE:
+  name: '&cPita od brusnica'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 CRANBERRY_SMOOTHIE:
+  name: '&cSmoothie od brusnica'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CREAMED_CORN:
+  name: '&rKukuruz u vrhnju'
   stats:
   - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CREAM_COOKIE:
+  name: '&rKeks s kremom'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 CROOK:
+  description:
+  - '&7Drvena motika za žetvu vrtnih biljaka.'
+  name: '&rKuka'
+  stats:
+  - '&7+ &b25% &7stope ispuštanja sadnica'
   type:
   - '&7&oAlat'
 CURRY_LEAF:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&2List karija'
   type:
   - '&7&oHrana'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&2Biljka karija'
   type:
   - '&7&oKomponenta'
 DELUXE_CHEESEBURGER:
+  name: '&rLuksuzni čizburger'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Dijamant'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 DIAMOND_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka dijamanta'
   type:
   - '&7&oMagično'
 DIRT_ESSENCE:
+  description:
+  - '&7Zemlja'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 DIRT_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka zemlje'
   type:
   - '&7&oMagično'
 DRAGON_FRUIT:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&dZmajevo voće'
   type:
   - '&7&oHrana'
 DRAGON_FRUIT_JUICE:
+  name: '&dSok od zmajevog voća'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 DRAGON_FRUIT_PIE:
+  name: '&dPita od zmajevog voća'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&dSadnica zmajevog voća'
   type:
   - '&7&oKomponenta'
 EGG_SALAD:
+  name: '&rSalata od jaja'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cBazga'
   type:
   - '&7&oHrana'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&cGrm bazge'
   type:
   - '&7&oKomponenta'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cŽele sendvič od bazge'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY_JUICE:
+  name: '&cSok od bazge'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY_PIE:
+  name: '&cPita od bazge'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 ELDERBERRY_SMOOTHIE:
+  name: '&cSmoothie od bazge'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragd'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 EMERALD_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka smaragda'
   type:
   - '&7&oMagično'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 ENDER_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka endera'
   type:
   - '&7&oMagično'
 FISH_SANDWICH:
+  name: '&rSendvič s ribom'
   stats:
   - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 FISH_TACO:
+  name: '&rTaco s ribom'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 FRIES:
+  name: '&rPomfrit'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GARLIC:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&rČešnjak'
   type:
   - '&7&oHrana'
 GARLIC_BREAD:
+  name: '&rKruh s češnjakom'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GARLIC_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&rBiljka češnjaka'
   type:
   - '&7&oKomponenta'
 GARLIC_CHEESE_BREAD:
+  name: '&rKruh s češnjakom i sirom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Sjajni kamen'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka sjajnog kamena'
   type:
   - '&7&oMagično'
 GOLD_ESSENCE:
+  description:
+  - '&7Zlato'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 GOLD_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka zlata'
   type:
   - '&7&oMagično'
 GRAPE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cGrožđe'
   type:
   - '&7&oHrana'
 GRAPE_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&cGrm grožđa'
   type:
   - '&7&oKomponenta'
 GRAPE_JELLY_SANDWICH:
+  name: '&cŽele sendvič od grožđa'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_JUICE:
+  name: '&cSok od grožđa'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_PIE:
+  name: '&cPita od grožđa'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_SALAD:
+  name: '&cSalata od grožđa'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRAPE_SMOOTHIE:
+  name: '&cSmoothie od grožđa'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 GRASS_SEEDS:
+  description:
+  - '&7Obnovljivi izvor visoke trave - pokosi je za sadnice i sjeme grmova.'
+  name: '&rSjeme trave'
   type:
   - '&7&oNaprava'
+  usage:
+  - '&7&oMože se posaditi na zemlju'
 GRILLED_SANDWICH:
+  name: '&rTostirani sendvič'
   stats:
   - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 HOT_CHOCOLATE:
+  name: '&6Vruća čokolada'
   stats:
   - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 HOT_DOG:
+  name: '&rHot dog'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ICE_CREAM:
+  name: '&rSladoled'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ICE_CUBE:
+  name: '&bLedena kocka'
   type:
   - '&7&oKomponenta'
 IRON_ESSENCE:
+  description:
+  - '&7Željezo'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 IRON_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka željeza'
   type:
   - '&7&oMagično'
 JAMMY_DODGER:
+  name: '&cJammy Dodger'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 KITCHEN:
+  description:
+  - '&a&oOvdje možeš napraviti hrpu raznih slastica!'
+  name: '&eKuhinja'
   type:
   - '&7&oVišeblok'
+  usage:
+  - '&a&oRezultat ide u izlazni utor peći'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 LAPIS_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka lapisa'
   type:
   - '&7&oMagično'
 LASAGNA:
+  name: '&rLazanje'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEAD_ESSENCE:
+  description:
+  - '&7Olovo'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 LEAD_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka olova'
   type:
   - '&7&oMagično'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rSendvič s piletinom i salatom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEAFY_FISH_SANDWICH:
+  name: '&rSendvič s ribom i salatom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&eLimun'
   type:
   - '&7&oHrana'
 LEMONADE:
+  name: '&eLimunada'
   stats:
   - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_ICED_TEA:
+  name: '&eLedeni čaj s limunom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_JUICE:
+  name: '&eSok od limuna'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_PIE:
+  name: '&ePita od limuna'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LEMON_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&eSadnica limuna'
   type:
   - '&7&oKomponenta'
 LETTUCE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&2Zelena salata'
   type:
   - '&7&oHrana'
 LETTUCE_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&2Biljka zelene salate'
   type:
   - '&7&oKomponenta'
 LIME:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&aLimeta'
   type:
   - '&7&oHrana'
 LIME_JUICE:
+  name: '&aSok od limete'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 LIME_PIE:
+  name: '&aPita od limete'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 LIME_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&aSadnica limete'
   type:
   - '&7&oKomponenta'
 LIME_SMOOTHIE:
+  name: '&aSmoothie od limete'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 MAYO:
+  name: '&rMajoneza'
   type:
   - '&7&oKomponenta'
 MOLASSES:
+  name: '&8Melasa'
   type:
   - '&7&oKomponenta'
 MUSTARD:
+  name: '&eSenf'
   type:
   - '&7&oKomponenta'
 MUSTARD_SEED:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&eSjeme senfa'
   type:
   - '&7&oHrana'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&eBiljka senfa'
   type:
   - '&7&oKomponenta'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherit'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 NETHERITE_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka netherita'
   type:
   - '&7&oMagično'
 OAK_APPLE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cHrastova jabuka'
   type:
   - '&7&oHrana'
 OAK_APPLE_JUICE:
+  name: '&cSok od hrastove jabuke'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 OAK_APPLE_PIE:
+  name: '&cPita od hrastove jabuke'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&cSadnica hrastove jabuke'
   type:
   - '&7&oKomponenta'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Opsidijan'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka opsidijana'
   type:
   - '&7&oMagično'
 ONION:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cLuk'
   type:
   - '&7&oHrana'
 ONION_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&cBiljka luka'
   type:
   - '&7&oKomponenta'
 ORANGE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&6Naranča'
   type:
   - '&7&oHrana'
 ORANGE_JUICE:
+  name: '&6Sok od naranče'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 ORANGE_PIE:
+  name: '&6Pita od naranče'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 ORANGE_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&6Sadnica naranče'
   type:
   - '&7&oKomponenta'
 PANCAKES:
+  name: '&rPalačinke'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&5Breskva'
   type:
   - '&7&oHrana'
 PEACH_ICED_TEA:
+  name: '&dLedeni čaj s breskvom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH_JUICE:
+  name: '&5Sok od bresaka'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH_PIE:
+  name: '&5Pita od bresaka'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PEACH_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&5Sadnica breskve'
   type:
   - '&7&oKomponenta'
 PEAR:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&aKruška'
   type:
   - '&7&oHrana'
 PEAR_JUICE:
+  name: '&aSok od krušaka'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PEAR_PIE:
+  name: '&aPita od krušaka'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PEAR_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&aSadnica kruške'
   type:
   - '&7&oKomponenta'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oVraća &b&o7.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PINEAPPLE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&6Ananas'
   type:
   - '&7&oHrana'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&6Biljka ananasa'
   type:
   - '&7&oKomponenta'
 PINEAPPLE_JUICE:
+  name: '&6Sok od ananasa'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Smoothie od ananasa'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PLUM:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&5Šljiva'
   type:
   - '&7&oHrana'
 PLUM_JUICE:
+  name: '&5Sok od šljiva'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PLUM_PIE:
+  name: '&5Pita od šljiva'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PLUM_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&5Sadnica šljive'
   type:
   - '&7&oKomponenta'
 POMEGRANATE:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&4Nar'
   type:
   - '&7&oHrana'
 POMEGRANATE_JUICE:
+  name: '&4Sok od nara'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 POMEGRANATE_PIE:
+  name: '&4Pita od nara'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Posadi na zemlju da uzgojiš voćno stablo.'
+  - '&7Udari blokove voća koje rađa da ih požanješ.'
+  name: '&4Sadnica nara'
   type:
   - '&7&oKomponenta'
 POPCORN:
+  name: '&rKokice'
   stats:
   - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 POTATO_SALAD:
+  name: '&rSalata od krumpira'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PUMPKIN_BREAD:
+  name: '&rKruh od bundeve'
   stats:
   - '&7&oVraća &b&o4.0 &7&ogladi'
   type:
   - '&7&oHrana'
 PUMPKIN_CHEESECAKE:
+  name: '&6Kolač od sira s bundevom'
   stats:
   - '&7&oVraća &b&o8.5 &7&ogladi'
   type:
   - '&7&oHrana'
 PUMPKIN_MUFFIN:
+  name: '&rMafin s bundevom'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kvarc'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 QUARTZ_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka kvarca'
   type:
   - '&7&oMagično'
 RASPBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&dMalina'
   type:
   - '&7&oHrana'
 RASPBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&dGrm maline'
   type:
   - '&7&oKomponenta'
 RASPBERRY_ICED_TEA:
+  name: '&dLedeni čaj s malinama'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dŽele sendvič od malina'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_JUICE:
+  name: '&dSok od malina'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_PIE:
+  name: '&dPita od malina'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 RASPBERRY_SMOOTHIE:
+  name: '&dSmoothie od malina'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 REDSTONE_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka redstonea'
   type:
   - '&7&oMagično'
 RED_BELL_PEPPER:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&cCrvena paprika'
   type:
   - '&7&oHrana'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&cBiljka crvene paprike'
   type:
   - '&7&oKomponenta'
 SALTY_POPCORN:
+  name: '&rKokice &7(Slane)'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SANDWICH:
+  name: '&rSendvič'
   stats:
   - '&7&oVraća &b&o9.5 &7&ogladi'
   type:
   - '&7&oHrana'
 SHEPARDS_PIE:
+  name: '&rPastirska pita'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SILVER_ESSENCE:
+  description:
+  - '&7Srebro'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 SILVER_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka srebra'
   type:
   - '&7&oMagično'
 SLIME_ESSENCE:
+  description:
+  - '&7Sluz'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 SLIME_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka sluzi'
   type:
   - '&7&oMagično'
 STRAWBERRY:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&4Jagoda'
   type:
   - '&7&oHrana'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&4Grm jagode'
   type:
   - '&7&oKomponenta'
 STRAWBERRY_ICED_TEA:
+  name: '&4Ledeni čaj s jagodama'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Žele sendvič od jagoda'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_JUICE:
+  name: '&4Sok od jagoda'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_PIE:
+  name: '&4Pita od jagoda'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_SALAD:
+  name: '&cSalata od jagoda'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Smoothie od jagoda'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STREET_TACO:
+  name: '&rUlični taco'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cPunjena crvena paprika'
   stats:
   - '&7&oVraća &b&o7.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Zaslađeni kolač od sira s kruškama'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEETENED_TEA:
+  name: '&aZaslađeni čaj'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEET_BERRY_PANCAKES:
+  name: '&rPalačinke sa slatkim bobicama'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEET_POPCORN:
+  name: '&rKokice &7(Slatke)'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 SWEET_POTATO:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&6Slatki krumpir'
   type:
   - '&7&oHrana'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&6Biljka slatkog krumpira'
   type:
   - '&7&oKomponenta'
 SWEET_POTATO_PIE:
+  name: '&rPita od slatkog krumpira'
   stats:
   - '&7&oVraća &b&o6.5 &7&ogladi'
   type:
   - '&7&oHrana'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TEA_LEAF:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&aList čaja'
   type:
   - '&7&oHrana'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&aBiljka čaja'
   type:
   - '&7&oKomponenta'
 THAI_TEA:
+  name: '&6Tajlandski čaj'
   stats:
   - '&7&oVraća &b&o7.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIN_ESSENCE:
+  description:
+  - '&7Kositar'
+  - '&7Izradi od nje odgovarajuću biljku da uzgojiš resurs.'
+  name: '&rČarobna esencija'
   type:
   - '&7&oMagično'
 TIN_PLANT:
+  description:
+  - '&7Čarobni usjev. Posadi na zemlju i pusti da raste, zatim požanji njegov resurs.'
+  - '&7Viši stupnjevi trebaju biljku prethodnog stupnja u receptu.'
+  name: '&rBiljka kositra'
   type:
   - '&7&oMagično'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oVraća &b&o8.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu s kupinama'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu s malinama'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu s jagodama'
   stats:
   - '&7&oVraća &b&o9.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TOMATO:
+  description:
+  - '&7Svježa žetva Egzotičnog vrta.'
+  - '&7Pojedi ga sirovog, iscijedi u sok ili skuhaj u jelo.'
+  name: '&4Rajčica'
   type:
   - '&7&oHrana'
 TOMATO_BUSH:
+  description:
+  - '&7Posadi na zemlju i polako sazrijeva.'
+  - '&7Desni klik kad je zrelo da ga požanješ bez uništavanja.'
+  name: '&4Biljka rajčice'
   type:
   - '&7&oKomponenta'
 TOMATO_JUICE:
+  name: '&4Sok od rajčice'
   stats:
   - '&7&oVraća &b&o3.0 &7&ogladi'
   type:
   - '&7&oHrana'
 TOMATO_SOUP:
+  name: '&4Juha od rajčice'
   stats:
   - '&7&oVraća &b&o5.5 &7&ogladi'
   type:
   - '&7&oHrana'
 VEGETABLE_OIL:
+  name: '&rBiljno ulje'
   type:
   - '&7&oKomponenta'
 WAFFLES:
+  name: '&rVafli'
   stats:
   - '&7&oVraća &b&o6.0 &7&ogladi'
   type:
   - '&7&oHrana'
 WINE:
+  name: '&cVino'
   stats:
   - '&7&oVraća &b&o5.0 &7&ogladi'
   type:
   - '&7&oHrana'
 YEAST:
+  name: '&rKvasac'
   type:
   - '&7&oKomponenta'
