@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aliuminis'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 ALUMINUM_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rAliuminio augalas'
   type:
   - '&7&oMagiškas'
 APPLE_PEAR_CAKE:
+  name: '&cObuolių ir kriaušių tortas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BACON:
+  name: '&rŠoninė'
   stats:
   - '&7&oAtstato &b&o1.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BACON_BURGER:
+  name: '&rŠoninės mėsainis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BACON_CHEESEBURGER:
+  name: '&rŠoninės ir sūrio mėsainis'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BACON_SANDWICH:
+  name: '&rSumuštinis su šonine'
   stats:
   - '&7&oAtstato &b&o9.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Kai aš gaminu" - @Eyamaz'
+  name: '&rŠonine apvyniotas dešrainis su sūrio įdaru'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BAGEL:
+  name: '&rBeigelis'
   stats:
   - '&7&oAtstato &b&o2.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"nori pakalbėti apie dešrainius?" - @Pahimar'
+  name: '&rBBQ šonine apvyniotas dešrainis'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Kai aš gaminu" - @Eyamaz'
+  name: '&rBBQ dviguba šonine apvyniotas dešrainis tortilijoje su sūriu'
   stats:
   - '&7&oAtstato &b&o10.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BBQ_SAUCE:
+  name: '&cBBQ padažas'
   type:
   - '&7&oKomponentas'
 BISCUIT:
+  name: '&6Sausainis'
   stats:
   - '&7&oAtstato &b&o2.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BISCUITS_GRAVY:
+  name: '&rSausainiai su kaimišku padažu'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLACKBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&8Gervuogė'
   type:
   - '&7&oMaistas'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&8Gervuogių krūmas'
   type:
   - '&7&oKomponentas'
 BLACKBERRY_COBBLER:
+  name: '&8Gervuogių apkepas'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Gervuogių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLACKBERRY_JUICE:
+  name: '&8Gervuogių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLACKBERRY_PIE:
+  name: '&8Gervuogių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Gervuogių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLACK_PEPPER:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&8Juodieji pipirai'
   type:
   - '&7&oMaistas'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&8Juodųjų pipirų augalas'
   type:
   - '&7&oKomponentas'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&9Mėlynė'
   type:
   - '&7&oMaistas'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&9Mėlynių krūmas'
   type:
   - '&7&oKomponentas'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Mėlynių varškės pyragas'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Mėlynių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY_JUICE:
+  name: '&9Mėlynių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY_MUFFIN:
+  name: '&rMėlynių keksiukas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY_PANCAKES:
+  name: '&rMėlynių blynai'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY_PIE:
+  name: '&9Mėlynių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Mėlynių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BOSTON_CREAM_PIE:
+  name: '&rBostoniškas grietinėlės pyragas'
   stats:
   - '&7&oAtstato &b&o4.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 BROWN_SUGAR:
+  name: '&rRudasis cukrus'
   type:
   - '&7&oKomponentas'
 BURRITO:
+  name: '&rBuritas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CABBAGE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&2Kopūstas'
   type:
   - '&7&oMaistas'
 CABBAGE_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&2Kopūstų augalas'
   type:
   - '&7&oKomponentas'
 CARROT_CAKE:
+  name: '&rMorkų pyragas'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHEESEBURGER:
+  name: '&rSūrio mėsainis'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHEESECAKE:
+  name: '&rVarškės pyragas'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cVyšnia'
   type:
   - '&7&oMaistas'
 CHERRY_CHEESECAKE:
+  name: '&cVyšnių varškės pyragas'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHERRY_ICED_TEA:
+  name: '&cŠaltoji vyšnių arbata'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHERRY_JUICE:
+  name: '&cVyšnių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHERRY_PIE:
+  name: '&cVyšnių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHERRY_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&cVyšnios daigas'
   type:
   - '&7&oKomponentas'
 CHICKEN_BURGER:
+  name: '&rVištienos mėsainis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHICKEN_BURRITO:
+  name: '&rVištienos buritas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHICKEN_CHEESEBURGER:
+  name: '&rVištienos sūrio mėsainis'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHICKEN_CURRY:
+  name: '&rVištiena su kariu'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHICKEN_POT_PIE:
+  name: '&rVištienos apkepas'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHICKEN_SANDWICH:
+  name: '&rSumuštinis su vištiena'
   stats:
   - '&7&oAtstato &b&o5.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHOCOLATE_BAR:
+  name: '&rŠokolado plytelė'
   stats:
   - '&7&oAtstato &b&o1.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHOCOLATE_CAKE:
+  name: '&rŠokoladinis tortas'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rŠokolado gabaliukų keksiukas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rŠokoladinis kriaušių tortas'
   stats:
   - '&7&oAtstato &b&o9.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CHOCOLATE_STRAWBERRY:
+  name: '&cŠokoladinė braškė'
   stats:
   - '&7&oAtstato &b&o2.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CILANTRO:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&aKalendra'
   type:
   - '&7&oMaistas'
 CILANTRO_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&aKalendrų augalas'
   type:
   - '&7&oKomponentas'
 CLUB_SANDWICH:
+  name: '&rKlubinis sumuštinis'
   stats:
   - '&7&oAtstato &b&o9.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COAL_ESSENCE:
+  description:
+  - '&7Anglis'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 COAL_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rAnglies augalas'
   type:
   - '&7&oMagiškas'
 COCONUT:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&6Kokosas'
   type:
   - '&7&oMaistas'
 COCONUT_CHICKEN_CURRY:
+  name: '&rVištiena su kariu ir kokosu'
   stats:
   - '&7&oAtstato &b&o9.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COCONUT_MILK:
+  name: '&6Kokoso pienas'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COCONUT_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&6Kokoso daigas'
   type:
   - '&7&oKomponentas'
 COPPER_ESSENCE:
+  description:
+  - '&7Varis'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 COPPER_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rVario augalas'
   type:
   - '&7&oMagiškas'
 CORN:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&6Kukurūzas'
   type:
   - '&7&oMaistas'
 CORNMEAL:
+  name: '&rKukurūzų miltai'
   type:
   - '&7&oKomponentas'
 CORN_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&6Kukurūzų augalas'
   type:
   - '&7&oKomponentas'
 CORN_ON_THE_COB:
+  name: '&6Kukurūzo burbuolė'
   stats:
   - '&7&oAtstato &b&o4.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COUNTRY_GRAVY:
+  name: '&rKaimiškas padažas'
   type:
   - '&7&oKomponentas'
 COWBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cBruknė'
   type:
   - '&7&oMaistas'
 COWBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&cBruknių krūmas'
   type:
   - '&7&oKomponentas'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cBruknių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COWBERRY_JUICE:
+  name: '&cBruknių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COWBERRY_PIE:
+  name: '&cBruknių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 COWBERRY_SMOOTHIE:
+  name: '&cBruknių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CRANBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cSpanguolė'
   type:
   - '&7&oMaistas'
 CRANBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&cSpanguolių krūmas'
   type:
   - '&7&oKomponentas'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cSpanguolių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CRANBERRY_JUICE:
+  name: '&cSpanguolių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CRANBERRY_PIE:
+  name: '&cSpanguolių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CRANBERRY_SMOOTHIE:
+  name: '&cSpanguolių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CREAMED_CORN:
+  name: '&rKukurūzai su grietinėle'
   stats:
   - '&7&oAtstato &b&o4.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CREAM_COOKIE:
+  name: '&rSausainis su kremu'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 CROOK:
+  description:
+  - '&7Medinis kaplys, naudojamas sodo augalų derliui nuimti.'
+  name: '&rKablys'
+  stats:
+  - '&7+ &b25% &7Daigų iškritimo tikimybė'
   type:
   - '&7&oĮrankis'
 CURRY_LEAF:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&2Kario lapas'
   type:
   - '&7&oMaistas'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&2Kario lapų augalas'
   type:
   - '&7&oKomponentas'
 DELUXE_CHEESEBURGER:
+  name: '&rPrabangus sūrio mėsainis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Deimantas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 DIAMOND_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rDeimanto augalas'
   type:
   - '&7&oMagiškas'
 DIRT_ESSENCE:
+  description:
+  - '&7Žemė'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 DIRT_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rŽemės augalas'
   type:
   - '&7&oMagiškas'
 DRAGON_FRUIT:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&dDrakono vaisius'
   type:
   - '&7&oMaistas'
 DRAGON_FRUIT_JUICE:
+  name: '&dDrakono vaisiaus sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 DRAGON_FRUIT_PIE:
+  name: '&dDrakono vaisiaus pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&dDrakono vaisiaus daigas'
   type:
   - '&7&oKomponentas'
 EGG_SALAD:
+  name: '&rKiaušinių salotos'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ELDERBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cŠeivamedžio uoga'
   type:
   - '&7&oMaistas'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&cŠeivamedžio krūmas'
   type:
   - '&7&oKomponentas'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cŠeivamedžio uogų džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ELDERBERRY_JUICE:
+  name: '&cŠeivamedžio uogų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ELDERBERRY_PIE:
+  name: '&cŠeivamedžio uogų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ELDERBERRY_SMOOTHIE:
+  name: '&cŠeivamedžio uogų kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragdas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 EMERALD_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rSmaragdo augalas'
   type:
   - '&7&oMagiškas'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 ENDER_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rEnder augalas'
   type:
   - '&7&oMagiškas'
 FISH_SANDWICH:
+  name: '&rSumuštinis su žuvimi'
   stats:
   - '&7&oAtstato &b&o5.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 FISH_TACO:
+  name: '&rŽuvies takosas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 FRIES:
+  name: '&rBulvytės'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GARLIC:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&rČesnakas'
   type:
   - '&7&oMaistas'
 GARLIC_BREAD:
+  name: '&rČesnakinė duona'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GARLIC_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&rČesnakų augalas'
   type:
   - '&7&oKomponentas'
 GARLIC_CHEESE_BREAD:
+  name: '&rČesnakinė duona su sūriu'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Šviesakmenis'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rŠviesakmenio augalas'
   type:
   - '&7&oMagiškas'
 GOLD_ESSENCE:
+  description:
+  - '&7Auksas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 GOLD_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rAukso augalas'
   type:
   - '&7&oMagiškas'
 GRAPE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cVynuogė'
   type:
   - '&7&oMaistas'
 GRAPE_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&cVynuogių krūmas'
   type:
   - '&7&oKomponentas'
 GRAPE_JELLY_SANDWICH:
+  name: '&cVynuogių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GRAPE_JUICE:
+  name: '&cVynuogių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GRAPE_PIE:
+  name: '&cVynuogių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GRAPE_SALAD:
+  name: '&cVynuogių salotos'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GRAPE_SMOOTHIE:
+  name: '&cVynuogių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 GRASS_SEEDS:
+  description:
+  - '&7Atsinaujinantis aukštos žolės šaltinis - kirskite ją, kad gautumėte daigų ir krūmų sėklų.'
+  name: '&rŽolės sėklos'
   type:
   - '&7&oĮtaisas'
+  usage:
+  - '&7&oGalima sodinti ant žemės'
 GRILLED_SANDWICH:
+  name: '&rKeptas sumuštinis'
   stats:
   - '&7&oAtstato &b&o5.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 HAMBURGER:
+  name: '&rMėsainis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 HOT_CHOCOLATE:
+  name: '&6Karštas šokoladas'
   stats:
   - '&7&oAtstato &b&o4.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 HOT_DOG:
+  name: '&rDešrainis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ICE_CREAM:
+  name: '&rLedai'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ICE_CUBE:
+  name: '&bLedo kubelis'
   type:
   - '&7&oKomponentas'
 IRON_ESSENCE:
+  description:
+  - '&7Geležis'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 IRON_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rGeležies augalas'
   type:
   - '&7&oMagiškas'
 JAMMY_DODGER:
+  name: '&cSausainis su uogiene'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 KITCHEN:
+  description:
+  - '&a&oČia gali pagaminti daugybę įvairių skanėstų!'
+  name: '&eVirtuvė'
   type:
   - '&7&oDaugiablokis'
+  usage:
+  - '&a&oRezultatas atsiranda krosnies išvesties langelyje'
 LAMINGTON:
+  name: '&rLamingtonas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lazuritas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 LAPIS_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rLazurito augalas'
   type:
   - '&7&oMagiškas'
 LASAGNA:
+  name: '&rLazanija'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEAD_ESSENCE:
+  description:
+  - '&7Švinas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 LEAD_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rŠvino augalas'
   type:
   - '&7&oMagiškas'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rSumuštinis su vištiena ir salotomis'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEAFY_FISH_SANDWICH:
+  name: '&rSumuštinis su žuvimi ir salotomis'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEMON:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&eCitrina'
   type:
   - '&7&oMaistas'
 LEMONADE:
+  name: '&eLimonadas'
   stats:
   - '&7&oAtstato &b&o4.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEMON_ICED_TEA:
+  name: '&eŠaltoji citrinų arbata'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEMON_JUICE:
+  name: '&eCitrinų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEMON_PIE:
+  name: '&eCitrinų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LEMON_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&eCitrinos daigas'
   type:
   - '&7&oKomponentas'
 LETTUCE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&2Salotos'
   type:
   - '&7&oMaistas'
 LETTUCE_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&2Salotų augalas'
   type:
   - '&7&oKomponentas'
 LIME:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&aLaimas'
   type:
   - '&7&oMaistas'
 LIME_JUICE:
+  name: '&aLaimų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LIME_PIE:
+  name: '&aLaimų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 LIME_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&aLaimo daigas'
   type:
   - '&7&oKomponentas'
 LIME_SMOOTHIE:
+  name: '&aLaimų kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 MAYO:
+  name: '&rMajonezas'
   type:
   - '&7&oKomponentas'
 MOLASSES:
+  name: '&8Melasa'
   type:
   - '&7&oKomponentas'
 MUSTARD:
+  name: '&eGarstyčios'
   type:
   - '&7&oKomponentas'
 MUSTARD_SEED:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&eGarstyčių sėkla'
   type:
   - '&7&oMaistas'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&eGarstyčių augalas'
   type:
   - '&7&oKomponentas'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netheritas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 NETHERITE_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rNetherito augalas'
   type:
   - '&7&oMagiškas'
 OAK_APPLE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cĄžuolo obuolys'
   type:
   - '&7&oMaistas'
 OAK_APPLE_JUICE:
+  name: '&cĄžuolo obuolių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 OAK_APPLE_PIE:
+  name: '&cĄžuolo obuolių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&cĄžuolo obuolio daigas'
   type:
   - '&7&oKomponentas'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidianas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rObsidiano augalas'
   type:
   - '&7&oMagiškas'
 ONION:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cSvogūnas'
   type:
   - '&7&oMaistas'
 ONION_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&cSvogūnų augalas'
   type:
   - '&7&oKomponentas'
 ORANGE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&6Apelsinas'
   type:
   - '&7&oMaistas'
 ORANGE_JUICE:
+  name: '&6Apelsinų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ORANGE_PIE:
+  name: '&6Apelsinų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 ORANGE_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&6Apelsino daigas'
   type:
   - '&7&oKomponentas'
 PANCAKES:
+  name: '&rBlynai'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PEACH:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&5Persikas'
   type:
   - '&7&oMaistas'
 PEACH_ICED_TEA:
+  name: '&dŠaltoji persikų arbata'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PEACH_JUICE:
+  name: '&5Persikų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PEACH_PIE:
+  name: '&5Persikų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PEACH_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&5Persiko daigas'
   type:
   - '&7&oKomponentas'
 PEAR:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&aKriaušė'
   type:
   - '&7&oMaistas'
 PEAR_JUICE:
+  name: '&aKriaušių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PEAR_PIE:
+  name: '&aKriaušių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PEAR_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&aKriaušės daigas'
   type:
   - '&7&oKomponentas'
 PINACOLADA:
+  name: '&6Pina kolada'
   stats:
   - '&7&oAtstato &b&o7.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PINEAPPLE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&6Ananasas'
   type:
   - '&7&oMaistas'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&6Ananasų augalas'
   type:
   - '&7&oKomponentas'
 PINEAPPLE_JUICE:
+  name: '&6Ananasų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananasų kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PLUM:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&5Slyva'
   type:
   - '&7&oMaistas'
 PLUM_JUICE:
+  name: '&5Slyvų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PLUM_PIE:
+  name: '&5Slyvų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PLUM_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&5Slyvos daigas'
   type:
   - '&7&oKomponentas'
 POMEGRANATE:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&4Granatas'
   type:
   - '&7&oMaistas'
 POMEGRANATE_JUICE:
+  name: '&4Granatų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 POMEGRANATE_PIE:
+  name: '&4Granatų pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Pasodinkite ant žemės, kad užaugtų vaismedis.'
+  - '&7Trenkite į jo nešamus vaisių blokus, kad nuimtumėte derlių.'
+  name: '&4Granato daigas'
   type:
   - '&7&oKomponentas'
 POPCORN:
+  name: '&rSpragėsiai'
   stats:
   - '&7&oAtstato &b&o4.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 POTATO_SALAD:
+  name: '&rBulvių salotos'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PUMPKIN_BREAD:
+  name: '&rMoliūgų duona'
   stats:
   - '&7&oAtstato &b&o4.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PUMPKIN_CHEESECAKE:
+  name: '&6Moliūgų varškės pyragas'
   stats:
   - '&7&oAtstato &b&o8.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 PUMPKIN_MUFFIN:
+  name: '&rMoliūgų keksiukas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kvarcas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 QUARTZ_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rKvarco augalas'
   type:
   - '&7&oMagiškas'
 RASPBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&dAvietė'
   type:
   - '&7&oMaistas'
 RASPBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&dAviečių krūmas'
   type:
   - '&7&oKomponentas'
 RASPBERRY_ICED_TEA:
+  name: '&dŠaltoji aviečių arbata'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dAviečių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 RASPBERRY_JUICE:
+  name: '&dAviečių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 RASPBERRY_PIE:
+  name: '&dAviečių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 RASPBERRY_SMOOTHIE:
+  name: '&dAviečių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Raudonakmenis'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 REDSTONE_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rRaudonakmenio augalas'
   type:
   - '&7&oMagiškas'
 RED_BELL_PEPPER:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&cRaudonoji paprika'
   type:
   - '&7&oMaistas'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&cRaudonųjų paprikų augalas'
   type:
   - '&7&oKomponentas'
 SALTY_POPCORN:
+  name: '&rSpragėsiai &7(sūrūs)'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SANDWICH:
+  name: '&rSumuštinis'
   stats:
   - '&7&oAtstato &b&o9.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SHEPARDS_PIE:
+  name: '&rPiemens pyragas'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SILVER_ESSENCE:
+  description:
+  - '&7Sidabras'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 SILVER_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rSidabro augalas'
   type:
   - '&7&oMagiškas'
 SLIME_ESSENCE:
+  description:
+  - '&7Gleivės'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 SLIME_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rGleivių augalas'
   type:
   - '&7&oMagiškas'
 STRAWBERRY:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&4Braškė'
   type:
   - '&7&oMaistas'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&4Braškių krūmas'
   type:
   - '&7&oKomponentas'
 STRAWBERRY_ICED_TEA:
+  name: '&4Šaltoji braškių arbata'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Braškių džemo sumuštinis'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STRAWBERRY_JUICE:
+  name: '&4Braškių sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STRAWBERRY_PIE:
+  name: '&4Braškių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STRAWBERRY_SALAD:
+  name: '&cBraškių salotos'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Braškių kokteilis'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STREET_TACO:
+  name: '&rGatvės takosas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cĮdaryta raudonoji paprika'
   stats:
   - '&7&oAtstato &b&o7.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Saldintas kriaušių varškės pyragas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SWEETENED_TEA:
+  name: '&aSaldinta arbata'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SWEET_BERRY_PANCAKES:
+  name: '&rSaldžiųjų uogų blynai'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SWEET_POPCORN:
+  name: '&rSpragėsiai &7(saldūs)'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 SWEET_POTATO:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&6Saldžioji bulvė'
   type:
   - '&7&oMaistas'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&6Saldžiųjų bulvių augalas'
   type:
   - '&7&oKomponentas'
 SWEET_POTATO_PIE:
+  name: '&rSaldžiųjų bulvių pyragas'
   stats:
   - '&7&oAtstato &b&o6.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TACO:
+  name: '&rTakosas'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TEA_LEAF:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&aArbatos lapas'
   type:
   - '&7&oMaistas'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&aArbatos augalas'
   type:
   - '&7&oKomponentas'
 THAI_TEA:
+  name: '&6Tailandietiška arbata'
   stats:
   - '&7&oAtstato &b&o7.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TIN_ESSENCE:
+  description:
+  - '&7Alavas'
+  - '&7Pagaminkite iš jos atitinkamą augalą, kad užsiaugintumėte išteklių.'
+  name: '&rMagiška esencija'
   type:
   - '&7&oMagiškas'
 TIN_PLANT:
+  description:
+  - '&7Magiškas pasėlis. Pasodinkite ant žemės, leiskite užaugti ir nuimkite jo išteklių.'
+  - '&7Aukštesnėms pakopoms recepte reikia ankstesnės pakopos augalo.'
+  name: '&rAlavo augalas'
   type:
   - '&7&oMagiškas'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oAtstato &b&o8.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu su gervuogėmis'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu su avietėmis'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu su braškėmis'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TOMATO:
+  description:
+  - '&7Šviežias egzotiško sodo derlius.'
+  - '&7Valgykite žalią, spauskite sultis arba išvirkite patiekalą.'
+  name: '&4Pomidoras'
   type:
   - '&7&oMaistas'
 TOMATO_BUSH:
+  description:
+  - '&7Pasodinkite ant žemės ir jis lėtai noksta.'
+  - '&7Prinokusį spustelėkite dešiniu, kad nuimtumėte derlių jo nesunaikindami.'
+  name: '&4Pomidorų augalas'
   type:
   - '&7&oKomponentas'
 TOMATO_JUICE:
+  name: '&4Pomidorų sultys'
   stats:
   - '&7&oAtstato &b&o3.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 TOMATO_SOUP:
+  name: '&4Pomidorų sriuba'
   stats:
   - '&7&oAtstato &b&o5.5 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 VEGETABLE_OIL:
+  name: '&rAugalinis aliejus'
   type:
   - '&7&oKomponentas'
 WAFFLES:
+  name: '&rVafliai'
   stats:
   - '&7&oAtstato &b&o6.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 WINE:
+  name: '&cVynas'
   stats:
   - '&7&oAtstato &b&o5.0 &7&oalkio taškų'
   type:
   - '&7&oMaistas'
 YEAST:
+  name: '&rMielės'
   type:
   - '&7&oKomponentas'
