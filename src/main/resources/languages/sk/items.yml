@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Hliník'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 ALUMINUM_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina hliníka'
   type:
   - '&7&oMagické'
 APPLE_PEAR_CAKE:
+  name: '&cJablkovo-hrušková torta'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BACON:
+  name: '&rSlanina'
   stats:
   - '&7&oObnoví &b&o1.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BACON_BURGER:
+  name: '&rSlaninový burger'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BACON_CHEESEBURGER:
+  name: '&rSlaninový syrový burger'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BACON_SANDWICH:
+  name: '&rSlaninový sendvič'
   stats:
   - '&7&oObnoví &b&o9.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Keď varím ja" - @Eyamaz'
+  name: '&rHotdog v slanine plnený syrom'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oObnoví &b&o2.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"chceš sa baviť o hotdogoch?" - @Pahimar'
+  name: '&rBBQ hotdog v slanine'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Keď varím ja" - @Eyamaz'
+  name: '&rBBQ hotdog v dvojitej slanine v tortille so syrom'
   stats:
   - '&7&oObnoví &b&o10.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BBQ_SAUCE:
+  name: '&cBBQ omáčka'
   type:
   - '&7&oKomponent'
 BISCUIT:
+  name: '&6Sušienka'
   stats:
   - '&7&oObnoví &b&o2.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BISCUITS_GRAVY:
+  name: '&rSušienky s vidieckou omáčkou'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLACKBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&8Černica'
   type:
   - '&7&oJedlo'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&8Ker černíc'
   type:
   - '&7&oKomponent'
 BLACKBERRY_COBBLER:
+  name: '&8Černicový drobenkový koláč'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Černicový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLACKBERRY_JUICE:
+  name: '&8Černicová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLACKBERRY_PIE:
+  name: '&8Černicový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Černicové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLACK_PEPPER:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&8Čierne korenie'
   type:
   - '&7&oJedlo'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&8Rastlina čierneho korenia'
   type:
   - '&7&oKomponent'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&9Čučoriedka'
   type:
   - '&7&oJedlo'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&9Ker čučoriedok'
   type:
   - '&7&oKomponent'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Čučoriedkový tvarohový koláč'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Čučoriedkový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY_JUICE:
+  name: '&9Čučoriedková šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY_MUFFIN:
+  name: '&rČučoriedkový muffin'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY_PANCAKES:
+  name: '&rČučoriedkové palacinky'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY_PIE:
+  name: '&9Čučoriedkový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Čučoriedkové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 BOSTON_CREAM_PIE:
+  name: '&rBostonská krémová torta'
   stats:
   - '&7&oObnoví &b&o4.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 BROWN_SUGAR:
+  name: '&rHnedý cukor'
   type:
   - '&7&oKomponent'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CABBAGE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&2Kapusta'
   type:
   - '&7&oJedlo'
 CABBAGE_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&2Rastlina kapusty'
   type:
   - '&7&oKomponent'
 CARROT_CAKE:
+  name: '&rMrkvová torta'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHEESEBURGER:
+  name: '&rSyrový burger'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHEESECAKE:
+  name: '&rTvarohový koláč'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cČerešňa'
   type:
   - '&7&oJedlo'
 CHERRY_CHEESECAKE:
+  name: '&cČerešňový tvarohový koláč'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHERRY_ICED_TEA:
+  name: '&cČerešňový ľadový čaj'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHERRY_JUICE:
+  name: '&cČerešňová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHERRY_PIE:
+  name: '&cČerešňový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHERRY_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&cSadenica čerešne'
   type:
   - '&7&oKomponent'
 CHICKEN_BURGER:
+  name: '&rKurací burger'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHICKEN_BURRITO:
+  name: '&rKuracie burrito'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHICKEN_CHEESEBURGER:
+  name: '&rKurací syrový burger'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHICKEN_CURRY:
+  name: '&rKuracie karí'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHICKEN_POT_PIE:
+  name: '&rKurací mäsový koláč'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHICKEN_SANDWICH:
+  name: '&rKurací sendvič'
   stats:
   - '&7&oObnoví &b&o5.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHOCOLATE_BAR:
+  name: '&rČokoládová tyčinka'
   stats:
   - '&7&oObnoví &b&o1.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHOCOLATE_CAKE:
+  name: '&rČokoládová torta'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rMuffin s čokoládou'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rČokoládovo-hrušková torta'
   stats:
   - '&7&oObnoví &b&o9.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CHOCOLATE_STRAWBERRY:
+  name: '&cČokoládová jahoda'
   stats:
   - '&7&oObnoví &b&o2.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CILANTRO:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&aKoriander'
   type:
   - '&7&oJedlo'
 CILANTRO_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&aRastlina koriandra'
   type:
   - '&7&oKomponent'
 CLUB_SANDWICH:
+  name: '&rKlubový sendvič'
   stats:
   - '&7&oObnoví &b&o9.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 COAL_ESSENCE:
+  description:
+  - '&7Uhlie'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 COAL_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina uhlia'
   type:
   - '&7&oMagické'
 COCONUT:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&6Kokos'
   type:
   - '&7&oJedlo'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKokosové kuracie karí'
   stats:
   - '&7&oObnoví &b&o9.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 COCONUT_MILK:
+  name: '&6Kokosové mlieko'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 COCONUT_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&6Sadenica kokosu'
   type:
   - '&7&oKomponent'
 COPPER_ESSENCE:
+  description:
+  - '&7Meď'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 COPPER_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina medi'
   type:
   - '&7&oMagické'
 CORN:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&6Kukurica'
   type:
   - '&7&oJedlo'
 CORNMEAL:
+  name: '&rKukuričná múka'
   type:
   - '&7&oKomponent'
 CORN_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&6Rastlina kukurice'
   type:
   - '&7&oKomponent'
 CORN_ON_THE_COB:
+  name: '&6Kukuričný klas'
   stats:
   - '&7&oObnoví &b&o4.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 COUNTRY_GRAVY:
+  name: '&rVidiecka omáčka'
   type:
   - '&7&oKomponent'
 COWBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cBrusnica'
   type:
   - '&7&oJedlo'
 COWBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&cKer brusníc'
   type:
   - '&7&oKomponent'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cBrusnicový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 COWBERRY_JUICE:
+  name: '&cBrusnicová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 COWBERRY_PIE:
+  name: '&cBrusnicový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 COWBERRY_SMOOTHIE:
+  name: '&cBrusnicové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CRANBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cKľukva'
   type:
   - '&7&oJedlo'
 CRANBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&cKer kľukvy'
   type:
   - '&7&oKomponent'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cKľukvový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CRANBERRY_JUICE:
+  name: '&cKľukvová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CRANBERRY_PIE:
+  name: '&cKľukvový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 CRANBERRY_SMOOTHIE:
+  name: '&cKľukvové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CREAMED_CORN:
+  name: '&rKukurica na smotane'
   stats:
   - '&7&oObnoví &b&o4.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CREAM_COOKIE:
+  name: '&rKrémová sušienka'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 CROOK:
+  description:
+  - '&7Drevená motyka na zber záhradných rastlín.'
+  name: '&rHák'
+  stats:
+  - '&7+ &b25% &7Šanca na sadenicu'
   type:
   - '&7&oNástroj'
 CURRY_LEAF:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&2Karí list'
   type:
   - '&7&oJedlo'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&2Rastlina karí listov'
   type:
   - '&7&oKomponent'
 DELUXE_CHEESEBURGER:
+  name: '&rLuxusný syrový burger'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 DIAMOND_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina diamantu'
   type:
   - '&7&oMagické'
 DIRT_ESSENCE:
+  description:
+  - '&7Hlina'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 DIRT_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina hliny'
   type:
   - '&7&oMagické'
 DRAGON_FRUIT:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&dDračie ovocie'
   type:
   - '&7&oJedlo'
 DRAGON_FRUIT_JUICE:
+  name: '&dŠťava z dračieho ovocia'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 DRAGON_FRUIT_PIE:
+  name: '&dKoláč z dračieho ovocia'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&dSadenica dračieho ovocia'
   type:
   - '&7&oKomponent'
 EGG_SALAD:
+  name: '&rVajíčkový šalát'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 ELDERBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cBaza'
   type:
   - '&7&oJedlo'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&cKer bazy'
   type:
   - '&7&oKomponent'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cBazový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 ELDERBERRY_JUICE:
+  name: '&cBazová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 ELDERBERRY_PIE:
+  name: '&cBazový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 ELDERBERRY_SMOOTHIE:
+  name: '&cBazové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragd'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 EMERALD_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina smaragdu'
   type:
   - '&7&oMagické'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 ENDER_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina enderu'
   type:
   - '&7&oMagické'
 FISH_SANDWICH:
+  name: '&rRybací sendvič'
   stats:
   - '&7&oObnoví &b&o5.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 FISH_TACO:
+  name: '&rRybacie taco'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 FRIES:
+  name: '&rHranolky'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 GARLIC:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&rCesnak'
   type:
   - '&7&oJedlo'
 GARLIC_BREAD:
+  name: '&rCesnakový chlieb'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 GARLIC_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&rRastlina cesnaku'
   type:
   - '&7&oKomponent'
 GARLIC_CHEESE_BREAD:
+  name: '&rCesnakový chlieb so syrom'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Žiarivý kameň'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina žiarivého kameňa'
   type:
   - '&7&oMagické'
 GOLD_ESSENCE:
+  description:
+  - '&7Zlato'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 GOLD_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina zlata'
   type:
   - '&7&oMagické'
 GRAPE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cHrozno'
   type:
   - '&7&oJedlo'
 GRAPE_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&cKer hrozna'
   type:
   - '&7&oKomponent'
 GRAPE_JELLY_SANDWICH:
+  name: '&cHroznový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 GRAPE_JUICE:
+  name: '&cHroznová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 GRAPE_PIE:
+  name: '&cHroznový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 GRAPE_SALAD:
+  name: '&cHroznový šalát'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 GRAPE_SMOOTHIE:
+  name: '&cHroznové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 GRASS_SEEDS:
+  description:
+  - '&7Obnoviteľný zdroj vysokej trávy - pokos ju pre sadenice a semená krov.'
+  name: '&rSemená trávy'
   type:
   - '&7&oGadget'
+  usage:
+  - '&7&oDá sa zasadiť na hlinu'
 GRILLED_SANDWICH:
+  name: '&rGrilovaný sendvič'
   stats:
   - '&7&oObnoví &b&o5.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 HOT_CHOCOLATE:
+  name: '&6Horúca čokoláda'
   stats:
   - '&7&oObnoví &b&o4.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 HOT_DOG:
+  name: '&rHotdog'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 ICE_CREAM:
+  name: '&rZmrzlina'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 ICE_CUBE:
+  name: '&bKocka ľadu'
   type:
   - '&7&oKomponent'
 IRON_ESSENCE:
+  description:
+  - '&7Železo'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 IRON_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina železa'
   type:
   - '&7&oMagické'
 JAMMY_DODGER:
+  name: '&cJammy Dodger'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 KITCHEN:
+  description:
+  - '&a&oMôžeš si tu pripraviť kopu rôznych dobrôt!'
+  name: '&eKuchyňa'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&a&oVýsledok sa objaví vo výstupnom slote pece'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lazurit'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 LAPIS_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina lazuritu'
   type:
   - '&7&oMagické'
 LASAGNA:
+  name: '&rLazane'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEAD_ESSENCE:
+  description:
+  - '&7Olovo'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 LEAD_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina olova'
   type:
   - '&7&oMagické'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rKurací sendvič so šalátom'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEAFY_FISH_SANDWICH:
+  name: '&rRybací sendvič so šalátom'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEMON:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&eCitrón'
   type:
   - '&7&oJedlo'
 LEMONADE:
+  name: '&eLimonáda'
   stats:
   - '&7&oObnoví &b&o4.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEMON_ICED_TEA:
+  name: '&eCitrónový ľadový čaj'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEMON_JUICE:
+  name: '&eCitrónová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEMON_PIE:
+  name: '&eCitrónový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 LEMON_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&eSadenica citrónovníka'
   type:
   - '&7&oKomponent'
 LETTUCE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&2Šalát'
   type:
   - '&7&oJedlo'
 LETTUCE_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&2Rastlina šalátu'
   type:
   - '&7&oKomponent'
 LIME:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&aLimetka'
   type:
   - '&7&oJedlo'
 LIME_JUICE:
+  name: '&aLimetková šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 LIME_PIE:
+  name: '&aLimetkový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 LIME_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&aSadenica limetky'
   type:
   - '&7&oKomponent'
 LIME_SMOOTHIE:
+  name: '&aLimetkové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 MAYO:
+  name: '&rMajonéza'
   type:
   - '&7&oKomponent'
 MOLASSES:
+  name: '&8Melasa'
   type:
   - '&7&oKomponent'
 MUSTARD:
+  name: '&eHorčica'
   type:
   - '&7&oKomponent'
 MUSTARD_SEED:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&eHorčicové semeno'
   type:
   - '&7&oJedlo'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&eRastlina horčice'
   type:
   - '&7&oKomponent'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherit'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 NETHERITE_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina netheritu'
   type:
   - '&7&oMagické'
 OAK_APPLE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cDubové jablko'
   type:
   - '&7&oJedlo'
 OAK_APPLE_JUICE:
+  name: '&cŠťava z dubového jablka'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 OAK_APPLE_PIE:
+  name: '&cKoláč z dubového jablka'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&cSadenica dubového jablka'
   type:
   - '&7&oKomponent'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidián'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina obsidiánu'
   type:
   - '&7&oMagické'
 ONION:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cCibuľa'
   type:
   - '&7&oJedlo'
 ONION_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&cRastlina cibule'
   type:
   - '&7&oKomponent'
 ORANGE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&6Pomaranč'
   type:
   - '&7&oJedlo'
 ORANGE_JUICE:
+  name: '&6Pomarančová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 ORANGE_PIE:
+  name: '&6Pomarančový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 ORANGE_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&6Sadenica pomaranča'
   type:
   - '&7&oKomponent'
 PANCAKES:
+  name: '&rPalacinky'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PEACH:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&5Broskyňa'
   type:
   - '&7&oJedlo'
 PEACH_ICED_TEA:
+  name: '&dBroskyňový ľadový čaj'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 PEACH_JUICE:
+  name: '&5Broskyňová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PEACH_PIE:
+  name: '&5Broskyňový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 PEACH_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&5Sadenica broskyne'
   type:
   - '&7&oKomponent'
 PEAR:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&aHruška'
   type:
   - '&7&oJedlo'
 PEAR_JUICE:
+  name: '&aHrušková šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PEAR_PIE:
+  name: '&aHruškový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 PEAR_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&aSadenica hrušky'
   type:
   - '&7&oKomponent'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oObnoví &b&o7.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PINEAPPLE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&6Ananás'
   type:
   - '&7&oJedlo'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&6Rastlina ananásu'
   type:
   - '&7&oKomponent'
 PINEAPPLE_JUICE:
+  name: '&6Ananásová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananásové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PLUM:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&5Slivka'
   type:
   - '&7&oJedlo'
 PLUM_JUICE:
+  name: '&5Slivková šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PLUM_PIE:
+  name: '&5Slivkový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 PLUM_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&5Sadenica slivky'
   type:
   - '&7&oKomponent'
 POMEGRANATE:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&4Granátové jablko'
   type:
   - '&7&oJedlo'
 POMEGRANATE_JUICE:
+  name: '&4Šťava z granátového jablka'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 POMEGRANATE_PIE:
+  name: '&4Koláč z granátového jablka'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Zasaď na hlinu, aby vyrástol ovocný strom.'
+  - '&7Udri ovocné bloky, ktoré plodí, a zožneš úrodu.'
+  name: '&4Sadenica granátového jablka'
   type:
   - '&7&oKomponent'
 POPCORN:
+  name: '&rPukance'
   stats:
   - '&7&oObnoví &b&o4.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 POTATO_SALAD:
+  name: '&rZemiakový šalát'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PUMPKIN_BREAD:
+  name: '&rTekvicový chlieb'
   stats:
   - '&7&oObnoví &b&o4.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 PUMPKIN_CHEESECAKE:
+  name: '&6Tekvicový tvarohový koláč'
   stats:
   - '&7&oObnoví &b&o8.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 PUMPKIN_MUFFIN:
+  name: '&rTekvicový muffin'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kremeň'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 QUARTZ_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina kremeňa'
   type:
   - '&7&oMagické'
 RASPBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&dMalina'
   type:
   - '&7&oJedlo'
 RASPBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&dKer malín'
   type:
   - '&7&oKomponent'
 RASPBERRY_ICED_TEA:
+  name: '&dMalinový ľadový čaj'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dMalinový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 RASPBERRY_JUICE:
+  name: '&dMalinová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 RASPBERRY_PIE:
+  name: '&dMalinový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 RASPBERRY_SMOOTHIE:
+  name: '&dMalinové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 REDSTONE_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina redstonu'
   type:
   - '&7&oMagické'
 RED_BELL_PEPPER:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&cČervená paprika'
   type:
   - '&7&oJedlo'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&cRastlina červenej papriky'
   type:
   - '&7&oKomponent'
 SALTY_POPCORN:
+  name: '&rPukance &7(slané)'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 SANDWICH:
+  name: '&rSendvič'
   stats:
   - '&7&oObnoví &b&o9.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 SHEPARDS_PIE:
+  name: '&rPastiersky mäsový koláč'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 SILVER_ESSENCE:
+  description:
+  - '&7Striebro'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 SILVER_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina striebra'
   type:
   - '&7&oMagické'
 SLIME_ESSENCE:
+  description:
+  - '&7Sliz'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 SLIME_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina slizu'
   type:
   - '&7&oMagické'
 STRAWBERRY:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&4Jahoda'
   type:
   - '&7&oJedlo'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&4Ker jahôd'
   type:
   - '&7&oKomponent'
 STRAWBERRY_ICED_TEA:
+  name: '&4Jahodový ľadový čaj'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Jahodový džemový sendvič'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 STRAWBERRY_JUICE:
+  name: '&4Jahodová šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 STRAWBERRY_PIE:
+  name: '&4Jahodový koláč'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 STRAWBERRY_SALAD:
+  name: '&cJahodový šalát'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Jahodové smoothie'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 STREET_TACO:
+  name: '&rPouličné taco'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cPlnená červená paprika'
   stats:
   - '&7&oObnoví &b&o7.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Sladený hruškový tvarohový koláč'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 SWEETENED_TEA:
+  name: '&aSladený čaj'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 SWEET_BERRY_PANCAKES:
+  name: '&rPalacinky so sladkými bobuľami'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 SWEET_POPCORN:
+  name: '&rPukance &7(sladké)'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 SWEET_POTATO:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&6Sladký zemiak'
   type:
   - '&7&oJedlo'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&6Rastlina sladkých zemiakov'
   type:
   - '&7&oKomponent'
 SWEET_POTATO_PIE:
+  name: '&rKoláč zo sladkých zemiakov'
   stats:
   - '&7&oObnoví &b&o6.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TEA_LEAF:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&aČajový list'
   type:
   - '&7&oJedlo'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&aRastlina čajovníka'
   type:
   - '&7&oKomponent'
 THAI_TEA:
+  name: '&6Thajský čaj'
   stats:
   - '&7&oObnoví &b&o7.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TIN_ESSENCE:
+  description:
+  - '&7Cín'
+  - '&7Vyrob z nej zodpovedajúcu rastlinu a môžeš pestovať surovinu.'
+  name: '&rMagická esencia'
   type:
   - '&7&oMagické'
 TIN_PLANT:
+  description:
+  - '&7Magická plodina. Zasaď na hlinu, nechaj ju rásť a potom zožni jej surovinu.'
+  - '&7Vyššie stupne potrebujú v recepte rastlinu predchádzajúceho stupňa.'
+  name: '&rRastlina cínu'
   type:
   - '&7&oMagické'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oObnoví &b&o8.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu s černicami'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu s malinami'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu s jahodami'
   stats:
   - '&7&oObnoví &b&o9.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TOMATO:
+  description:
+  - '&7Čerstvý zber z Exotickej záhrady.'
+  - '&7Zjedz to surové, vylisuj šťavu alebo uvar z toho jedlo.'
+  name: '&4Paradajka'
   type:
   - '&7&oJedlo'
 TOMATO_BUSH:
+  description:
+  - '&7Zasaď na hlinu a pomaly dozrieva.'
+  - '&7Pravým klikom po dozretí zbieraš bez ničenia.'
+  name: '&4Rastlina paradajky'
   type:
   - '&7&oKomponent'
 TOMATO_JUICE:
+  name: '&4Paradajková šťava'
   stats:
   - '&7&oObnoví &b&o3.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 TOMATO_SOUP:
+  name: '&4Paradajková polievka'
   stats:
   - '&7&oObnoví &b&o5.5 &7&ohladu'
   type:
   - '&7&oJedlo'
 VEGETABLE_OIL:
+  name: '&rRastlinný olej'
   type:
   - '&7&oKomponent'
 WAFFLES:
+  name: '&rVafle'
   stats:
   - '&7&oObnoví &b&o6.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 WINE:
+  name: '&cVíno'
   stats:
   - '&7&oObnoví &b&o5.0 &7&ohladu'
   type:
   - '&7&oJedlo'
 YEAST:
+  name: '&rDroždie'
   type:
   - '&7&oKomponent'
