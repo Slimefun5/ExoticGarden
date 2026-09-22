@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminium'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 ALUMINUM_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rAluminiumsplante'
   type:
   - '&7&oMagisk'
 APPLE_PEAR_CAKE:
+  name: '&cEple- og pærekake'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 BACON:
+  name: '&rBacon'
   stats:
   - '&7&oGjenoppretter &b&o1.5 &7&osult'
   type:
   - '&7&oMat'
 BACON_BURGER:
+  name: '&rBaconburger'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 BACON_CHEESEBURGER:
+  name: '&rBaconosteburger'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 BACON_SANDWICH:
+  name: '&rBaconsmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o9.5 &7&osult'
   type:
   - '&7&oMat'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Når jeg kokkelerer" - @Eyamaz'
+  name: '&rBaconsurret pølse i brød med ostefyll'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oGjenoppretter &b&o2.0 &7&osult'
   type:
   - '&7&oMat'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"vil du snakke om pølser?" - @Pahimar'
+  name: '&rBaconsurret BBQ-pølse i brød'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Når jeg kokkelerer" - @Eyamaz'
+  name: '&rDobbelt baconsurret BBQ-pølse i tortilla med ost'
   stats:
   - '&7&oGjenoppretter &b&o10.0 &7&osult'
   type:
   - '&7&oMat'
 BBQ_SAUCE:
+  name: '&cBBQ-saus'
   type:
   - '&7&oKomponent'
 BISCUIT:
+  name: '&6Scone'
   stats:
   - '&7&oGjenoppretter &b&o2.0 &7&osult'
   type:
   - '&7&oMat'
 BISCUITS_GRAVY:
+  name: '&rScones med bondesaus'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 BLACKBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&8Bjørnebær'
   type:
   - '&7&oMat'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&8Bjørnebærbusk'
   type:
   - '&7&oKomponent'
 BLACKBERRY_COBBLER:
+  name: '&8Bjørnebærsmuldrepai'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Bjørnebærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 BLACKBERRY_JUICE:
+  name: '&8Bjørnebærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 BLACKBERRY_PIE:
+  name: '&8Bjørnebærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Bjørnebærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 BLACK_PEPPER:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&8Svart pepper'
   type:
   - '&7&oMat'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&8Svartpepperplante'
   type:
   - '&7&oKomponent'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&9Blåbær'
   type:
   - '&7&oMat'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&9Blåbærbusk'
   type:
   - '&7&oKomponent'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Blåbærostekake'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Blåbærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY_JUICE:
+  name: '&9Blåbærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY_MUFFIN:
+  name: '&rBlåbærmuffins'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY_PANCAKES:
+  name: '&rBlåbærpannekaker'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY_PIE:
+  name: '&9Blåbærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Blåbærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 BOSTON_CREAM_PIE:
+  name: '&rBostonkremkake'
   stats:
   - '&7&oGjenoppretter &b&o4.5 &7&osult'
   type:
   - '&7&oMat'
 BROWN_SUGAR:
+  name: '&rBrunt sukker'
   type:
   - '&7&oKomponent'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 CABBAGE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&2Kål'
   type:
   - '&7&oMat'
 CABBAGE_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&2Kålplante'
   type:
   - '&7&oKomponent'
 CARROT_CAKE:
+  name: '&rGulrotkake'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 CHEESEBURGER:
+  name: '&rOsteburger'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 CHEESECAKE:
+  name: '&rOstekake'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 CHERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cKirsebær'
   type:
   - '&7&oMat'
 CHERRY_CHEESECAKE:
+  name: '&cKirsebærostekake'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 CHERRY_ICED_TEA:
+  name: '&cKirsebæriste'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 CHERRY_JUICE:
+  name: '&cKirsebærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 CHERRY_PIE:
+  name: '&cKirsebærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 CHERRY_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&cKirsebærspire'
   type:
   - '&7&oKomponent'
 CHICKEN_BURGER:
+  name: '&rKyllingburger'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 CHICKEN_BURRITO:
+  name: '&rKyllingburrito'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 CHICKEN_CHEESEBURGER:
+  name: '&rKyllingosteburger'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 CHICKEN_CURRY:
+  name: '&rKyllingkarri'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 CHICKEN_POT_PIE:
+  name: '&rKyllingpai'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 CHICKEN_SANDWICH:
+  name: '&rKyllingsmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o5.5 &7&osult'
   type:
   - '&7&oMat'
 CHOCOLATE_BAR:
+  name: '&rSjokoladeplate'
   stats:
   - '&7&oGjenoppretter &b&o1.5 &7&osult'
   type:
   - '&7&oMat'
 CHOCOLATE_CAKE:
+  name: '&rSjokoladekake'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rSjokoladebitmuffins'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rSjokolade- og pærekake'
   stats:
   - '&7&oGjenoppretter &b&o9.5 &7&osult'
   type:
   - '&7&oMat'
 CHOCOLATE_STRAWBERRY:
+  name: '&cSjokoladetrukket jordbær'
   stats:
   - '&7&oGjenoppretter &b&o2.5 &7&osult'
   type:
   - '&7&oMat'
 CILANTRO:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&aKoriander'
   type:
   - '&7&oMat'
 CILANTRO_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&aKorianderplante'
   type:
   - '&7&oKomponent'
 CLUB_SANDWICH:
+  name: '&rKlubbsmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o9.5 &7&osult'
   type:
   - '&7&oMat'
 COAL_ESSENCE:
+  description:
+  - '&7Kull'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 COAL_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rKullplante'
   type:
   - '&7&oMagisk'
 COCONUT:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&6Kokosnøtt'
   type:
   - '&7&oMat'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKokoskyllingkarri'
   stats:
   - '&7&oGjenoppretter &b&o9.5 &7&osult'
   type:
   - '&7&oMat'
 COCONUT_MILK:
+  name: '&6Kokosmelk'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 COCONUT_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&6Kokosnøttspire'
   type:
   - '&7&oKomponent'
 COPPER_ESSENCE:
+  description:
+  - '&7Kobber'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 COPPER_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rKobberplante'
   type:
   - '&7&oMagisk'
 CORN:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&6Mais'
   type:
   - '&7&oMat'
 CORNMEAL:
+  name: '&rMaismel'
   type:
   - '&7&oKomponent'
 CORN_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&6Maisplante'
   type:
   - '&7&oKomponent'
 CORN_ON_THE_COB:
+  name: '&6Maiskolbe'
   stats:
   - '&7&oGjenoppretter &b&o4.5 &7&osult'
   type:
   - '&7&oMat'
 COUNTRY_GRAVY:
+  name: '&rBondesaus'
   type:
   - '&7&oKomponent'
 COWBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cTyttebær'
   type:
   - '&7&oMat'
 COWBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&cTyttebærbusk'
   type:
   - '&7&oKomponent'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cTyttebærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 COWBERRY_JUICE:
+  name: '&cTyttebærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 COWBERRY_PIE:
+  name: '&cTyttebærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 COWBERRY_SMOOTHIE:
+  name: '&cTyttebærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 CRANBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cTranebær'
   type:
   - '&7&oMat'
 CRANBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&cTranebærbusk'
   type:
   - '&7&oKomponent'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cTranebærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 CRANBERRY_JUICE:
+  name: '&cTranebærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 CRANBERRY_PIE:
+  name: '&cTranebærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 CRANBERRY_SMOOTHIE:
+  name: '&cTranebærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 CREAMED_CORN:
+  name: '&rMais i fløtesaus'
   stats:
   - '&7&oGjenoppretter &b&o4.0 &7&osult'
   type:
   - '&7&oMat'
 CREAM_COOKIE:
+  name: '&rKremkjeks'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 CROOK:
+  description:
+  - '&7En åkerhakke av tre som brukes til å høste hageplanter.'
+  name: '&rKrok'
+  stats:
+  - '&7+ &b25% &7Spirefallrate'
   type:
   - '&7&oVerktøy'
 CURRY_LEAF:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&2Karriblad'
   type:
   - '&7&oMat'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&2Karribladplante'
   type:
   - '&7&oKomponent'
 DELUXE_CHEESEBURGER:
+  name: '&rLuksusosteburger'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 DIAMOND_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rDiamantplante'
   type:
   - '&7&oMagisk'
 DIRT_ESSENCE:
+  description:
+  - '&7Jord'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 DIRT_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rJordplante'
   type:
   - '&7&oMagisk'
 DRAGON_FRUIT:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&dDragefrukt'
   type:
   - '&7&oMat'
 DRAGON_FRUIT_JUICE:
+  name: '&dDragefruktjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 DRAGON_FRUIT_PIE:
+  name: '&dDragefruktpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&dDragefruktspire'
   type:
   - '&7&oKomponent'
 EGG_SALAD:
+  name: '&rEggesalat'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 ELDERBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cHyllebær'
   type:
   - '&7&oMat'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&cHyllebærbusk'
   type:
   - '&7&oKomponent'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cHyllebærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 ELDERBERRY_JUICE:
+  name: '&cHyllebærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 ELDERBERRY_PIE:
+  name: '&cHyllebærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 ELDERBERRY_SMOOTHIE:
+  name: '&cHyllebærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragd'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 EMERALD_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rSmaragdplante'
   type:
   - '&7&oMagisk'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 ENDER_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rEnderplante'
   type:
   - '&7&oMagisk'
 FISH_SANDWICH:
+  name: '&rFiskesmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o5.5 &7&osult'
   type:
   - '&7&oMat'
 FISH_TACO:
+  name: '&rFisketaco'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 FRIES:
+  name: '&rPommes frites'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 GARLIC:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&rHvitløk'
   type:
   - '&7&oMat'
 GARLIC_BREAD:
+  name: '&rHvitløksbrød'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 GARLIC_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&rHvitløkplante'
   type:
   - '&7&oKomponent'
 GARLIC_CHEESE_BREAD:
+  name: '&rHvitløksbrød med ost'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Lysstein'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 GLOWSTONE_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rLyssteinplante'
   type:
   - '&7&oMagisk'
 GOLD_ESSENCE:
+  description:
+  - '&7Gull'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 GOLD_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rGullplante'
   type:
   - '&7&oMagisk'
 GRAPE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cDrue'
   type:
   - '&7&oMat'
 GRAPE_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&cDruebusk'
   type:
   - '&7&oKomponent'
 GRAPE_JELLY_SANDWICH:
+  name: '&cDruegelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 GRAPE_JUICE:
+  name: '&cDruejuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 GRAPE_PIE:
+  name: '&cDruepai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 GRAPE_SALAD:
+  name: '&cDruesalat'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 GRAPE_SMOOTHIE:
+  name: '&cDruesmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 GRASS_SEEDS:
+  description:
+  - '&7En fornybar kilde til høyt gress - kutt det for spirer og buskfrø.'
+  name: '&rGressfrø'
   type:
   - '&7&oDings'
+  usage:
+  - '&7&oKan plantes på jord'
 GRILLED_SANDWICH:
+  name: '&rGrillet smørbrød'
   stats:
   - '&7&oGjenoppretter &b&o5.5 &7&osult'
   type:
   - '&7&oMat'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 HOT_CHOCOLATE:
+  name: '&6Varm sjokolade'
   stats:
   - '&7&oGjenoppretter &b&o4.0 &7&osult'
   type:
   - '&7&oMat'
 HOT_DOG:
+  name: '&rPølse i brød'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 ICE_CREAM:
+  name: '&rIskrem'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 ICE_CUBE:
+  name: '&bIsbit'
   type:
   - '&7&oKomponent'
 IRON_ESSENCE:
+  description:
+  - '&7Jern'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 IRON_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rJernplante'
   type:
   - '&7&oMagisk'
 JAMMY_DODGER:
+  name: '&cSyltetøykjeks'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 KITCHEN:
+  description:
+  - '&a&oHer kan du lage en haug med forskjellige godsaker!'
+  name: '&eKjøkken'
   type:
   - '&7&oMultiblokk'
+  usage:
+  - '&a&oResultatet havner i utgangssporet på ovnen'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 LAPIS_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rLapisplante'
   type:
   - '&7&oMagisk'
 LASAGNA:
+  name: '&rLasagne'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 LEAD_ESSENCE:
+  description:
+  - '&7Bly'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 LEAD_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rBlyplante'
   type:
   - '&7&oMagisk'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rKyllingsmørbrød med salat'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 LEAFY_FISH_SANDWICH:
+  name: '&rFiskesmørbrød med salat'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 LEMON:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&eSitron'
   type:
   - '&7&oMat'
 LEMONADE:
+  name: '&eLimonade'
   stats:
   - '&7&oGjenoppretter &b&o4.0 &7&osult'
   type:
   - '&7&oMat'
 LEMON_ICED_TEA:
+  name: '&eSitroniste'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 LEMON_JUICE:
+  name: '&eSitronjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 LEMON_PIE:
+  name: '&eSitronpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 LEMON_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&eSitronspire'
   type:
   - '&7&oKomponent'
 LETTUCE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&2Salat'
   type:
   - '&7&oMat'
 LETTUCE_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&2Salatplante'
   type:
   - '&7&oKomponent'
 LIME:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&aLime'
   type:
   - '&7&oMat'
 LIME_JUICE:
+  name: '&aLimejuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 LIME_PIE:
+  name: '&aLimepai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 LIME_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&aLimespire'
   type:
   - '&7&oKomponent'
 LIME_SMOOTHIE:
+  name: '&aLimesmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 MAYO:
+  name: '&rMajones'
   type:
   - '&7&oKomponent'
 MOLASSES:
+  name: '&8Melasse'
   type:
   - '&7&oKomponent'
 MUSTARD:
+  name: '&eSennep'
   type:
   - '&7&oKomponent'
 MUSTARD_SEED:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&eSennepsfrø'
   type:
   - '&7&oMat'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&eSennepsfrøplante'
   type:
   - '&7&oKomponent'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 NETHERITE_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rNetheriteplante'
   type:
   - '&7&oMagisk'
 OAK_APPLE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cEikeeple'
   type:
   - '&7&oMat'
 OAK_APPLE_JUICE:
+  name: '&cEikeeplejuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 OAK_APPLE_PIE:
+  name: '&cEikeeplepai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&cEikeeplespire'
   type:
   - '&7&oKomponent'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidian'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 OBSIDIAN_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rObsidianplante'
   type:
   - '&7&oMagisk'
 ONION:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cLøk'
   type:
   - '&7&oMat'
 ONION_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&cLøkplante'
   type:
   - '&7&oKomponent'
 ORANGE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&6Appelsin'
   type:
   - '&7&oMat'
 ORANGE_JUICE:
+  name: '&6Appelsinjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 ORANGE_PIE:
+  name: '&6Appelsinpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 ORANGE_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&6Appelsinspire'
   type:
   - '&7&oKomponent'
 PANCAKES:
+  name: '&rPannekaker'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 PEACH:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&5Fersken'
   type:
   - '&7&oMat'
 PEACH_ICED_TEA:
+  name: '&dFerskeniste'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 PEACH_JUICE:
+  name: '&5Ferskenjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 PEACH_PIE:
+  name: '&5Ferskenpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 PEACH_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&5Ferskenspire'
   type:
   - '&7&oKomponent'
 PEAR:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&aPære'
   type:
   - '&7&oMat'
 PEAR_JUICE:
+  name: '&aPærejuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 PEAR_PIE:
+  name: '&aPærepai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 PEAR_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&aPærespire'
   type:
   - '&7&oKomponent'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oGjenoppretter &b&o7.0 &7&osult'
   type:
   - '&7&oMat'
 PINEAPPLE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&6Ananas'
   type:
   - '&7&oMat'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&6Ananasplante'
   type:
   - '&7&oKomponent'
 PINEAPPLE_JUICE:
+  name: '&6Ananasjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananassmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 PLUM:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&5Plomme'
   type:
   - '&7&oMat'
 PLUM_JUICE:
+  name: '&5Plommejuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 PLUM_PIE:
+  name: '&5Plommepai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 PLUM_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&5Plommespire'
   type:
   - '&7&oKomponent'
 POMEGRANATE:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&4Granateple'
   type:
   - '&7&oMat'
 POMEGRANATE_JUICE:
+  name: '&4Granateplejuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 POMEGRANATE_PIE:
+  name: '&4Granateplepai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Plant på jord for å dyrke et frukttre.'
+  - '&7Slå på fruktblokkene den bærer for å høste.'
+  name: '&4Granateplespire'
   type:
   - '&7&oKomponent'
 POPCORN:
+  name: '&rPopkorn'
   stats:
   - '&7&oGjenoppretter &b&o4.0 &7&osult'
   type:
   - '&7&oMat'
 POTATO_SALAD:
+  name: '&rPotetsalat'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 PUMPKIN_BREAD:
+  name: '&rGresskarbrød'
   stats:
   - '&7&oGjenoppretter &b&o4.0 &7&osult'
   type:
   - '&7&oMat'
 PUMPKIN_CHEESECAKE:
+  name: '&6Gresskarostekake'
   stats:
   - '&7&oGjenoppretter &b&o8.5 &7&osult'
   type:
   - '&7&oMat'
 PUMPKIN_MUFFIN:
+  name: '&rGresskarmuffins'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kvarts'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 QUARTZ_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rKvartsplante'
   type:
   - '&7&oMagisk'
 RASPBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&dBringebær'
   type:
   - '&7&oMat'
 RASPBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&dBringebærbusk'
   type:
   - '&7&oKomponent'
 RASPBERRY_ICED_TEA:
+  name: '&dBringebæriste'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dBringebærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 RASPBERRY_JUICE:
+  name: '&dBringebærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 RASPBERRY_PIE:
+  name: '&dBringebærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 RASPBERRY_SMOOTHIE:
+  name: '&dBringebærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 REDSTONE_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rRedstoneplante'
   type:
   - '&7&oMagisk'
 RED_BELL_PEPPER:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&cRød paprika'
   type:
   - '&7&oMat'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&cRød paprikaplante'
   type:
   - '&7&oKomponent'
 SALTY_POPCORN:
+  name: '&rPopkorn &7(Salt)'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 SANDWICH:
+  name: '&rSmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o9.5 &7&osult'
   type:
   - '&7&oMat'
 SHEPARDS_PIE:
+  name: '&rGjeterpai'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 SILVER_ESSENCE:
+  description:
+  - '&7Sølv'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 SILVER_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rSølvplante'
   type:
   - '&7&oMagisk'
 SLIME_ESSENCE:
+  description:
+  - '&7Slim'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 SLIME_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rSlimplante'
   type:
   - '&7&oMagisk'
 STRAWBERRY:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&4Jordbær'
   type:
   - '&7&oMat'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&4Jordbærbusk'
   type:
   - '&7&oKomponent'
 STRAWBERRY_ICED_TEA:
+  name: '&4Jordbæriste'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Jordbærgelésmørbrød'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 STRAWBERRY_JUICE:
+  name: '&4Jordbærjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 STRAWBERRY_PIE:
+  name: '&4Jordbærpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 STRAWBERRY_SALAD:
+  name: '&cJordbærsalat'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Jordbærsmoothie'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 STREET_TACO:
+  name: '&rGatetaco'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cFylt rød paprika'
   stats:
   - '&7&oGjenoppretter &b&o7.0 &7&osult'
   type:
   - '&7&oMat'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Søtet pæreostekake'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 SWEETENED_TEA:
+  name: '&aSøtet te'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 SWEET_BERRY_PANCAKES:
+  name: '&rSøtbærpannekaker'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 SWEET_POPCORN:
+  name: '&rPopkorn &7(Søtt)'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 SWEET_POTATO:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&6Søtpotet'
   type:
   - '&7&oMat'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&6Søtpotetplante'
   type:
   - '&7&oKomponent'
 SWEET_POTATO_PIE:
+  name: '&rSøtpotetpai'
   stats:
   - '&7&oGjenoppretter &b&o6.5 &7&osult'
   type:
   - '&7&oMat'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 TEA_LEAF:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&aTeblad'
   type:
   - '&7&oMat'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&aTebladplante'
   type:
   - '&7&oKomponent'
 THAI_TEA:
+  name: '&6Thailandsk te'
   stats:
   - '&7&oGjenoppretter &b&o7.0 &7&osult'
   type:
   - '&7&oMat'
 TIN_ESSENCE:
+  description:
+  - '&7Tinn'
+  - '&7Lag den om til tilsvarende plante for å dyrke ressursen.'
+  name: '&rMagisk essens'
   type:
   - '&7&oMagisk'
 TIN_PLANT:
+  description:
+  - '&7En magisk avling. Plant på jord og la den vokse, høst den så for ressursen.'
+  - '&7Høyere nivåer trenger forrige nivås plante i oppskriften.'
+  name: '&rTinnplante'
   type:
   - '&7&oMagisk'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oGjenoppretter &b&o8.0 &7&osult'
   type:
   - '&7&oMat'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu med bjørnebær'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu med bringebær'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu med jordbær'
   stats:
   - '&7&oGjenoppretter &b&o9.0 &7&osult'
   type:
   - '&7&oMat'
 TOMATO:
+  description:
+  - '&7En fersk eksotisk hagehøst.'
+  - '&7Spis den rå, lag juice av den, eller kok den til en rett.'
+  name: '&4Tomat'
   type:
   - '&7&oMat'
 TOMATO_BUSH:
+  description:
+  - '&7Plant på jord, så modnes den sakte.'
+  - '&7Høyreklikk når den er moden for å høste uten å ødelegge den.'
+  name: '&4Tomatplante'
   type:
   - '&7&oKomponent'
 TOMATO_JUICE:
+  name: '&4Tomatjuice'
   stats:
   - '&7&oGjenoppretter &b&o3.0 &7&osult'
   type:
   - '&7&oMat'
 TOMATO_SOUP:
+  name: '&4Tomatsuppe'
   stats:
   - '&7&oGjenoppretter &b&o5.5 &7&osult'
   type:
   - '&7&oMat'
 VEGETABLE_OIL:
+  name: '&rPlanteolje'
   type:
   - '&7&oKomponent'
 WAFFLES:
+  name: '&rVafler'
   stats:
   - '&7&oGjenoppretter &b&o6.0 &7&osult'
   type:
   - '&7&oMat'
 WINE:
+  name: '&cVin'
   stats:
   - '&7&oGjenoppretter &b&o5.0 &7&osult'
   type:
   - '&7&oMat'
 YEAST:
+  name: '&rGjær'
   type:
   - '&7&oKomponent'
