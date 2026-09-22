@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminium'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 ALUMINUM_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rAluminiumplant'
   type:
   - '&7&oMagies'
 APPLE_PEAR_CAKE:
+  name: '&cAppel-peerkoek'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 BACON:
+  name: '&rSpek'
   stats:
   - '&7&oHerstel &b&o1.5 &7&oHonger'
   type:
   - '&7&oKos'
 BACON_BURGER:
+  name: '&rSpekburger'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 BACON_CHEESEBURGER:
+  name: '&rSpekkaasburger'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 BACON_SANDWICH:
+  name: '&rSpektoebroodjie'
   stats:
   - '&7&oHerstel &b&o9.5 &7&oHonger'
   type:
   - '&7&oKos'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Wanneer ek kok speel" - @Eyamaz'
+  name: '&rSpekgewikkelde kaasgevulde Worsbroodjie'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oHerstel &b&o2.0 &7&oHonger'
   type:
   - '&7&oKos'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"wil jy oor worsbroodjies gesels?" - @Pahimar'
+  name: '&rBBQ-spekgewikkelde Worsbroodjie'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Wanneer ek kok speel" - @Eyamaz'
+  name: '&rBBQ dubbelspekgewikkelde Worsbroodjie in ''n Tortilla met Kaas'
   stats:
   - '&7&oHerstel &b&o10.0 &7&oHonger'
   type:
   - '&7&oKos'
 BBQ_SAUCE:
+  name: '&cBBQ-sous'
   type:
   - '&7&oKomponent'
 BISCUIT:
+  name: '&6Skon'
   stats:
   - '&7&oHerstel &b&o2.0 &7&oHonger'
   type:
   - '&7&oKos'
 BISCUITS_GRAVY:
+  name: '&rSkons en Plaassous'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 BLACKBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&8Braambessie'
   type:
   - '&7&oKos'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&8Braambessiestruik'
   type:
   - '&7&oKomponent'
 BLACKBERRY_COBBLER:
+  name: '&8Braambessiekruimelpoeding'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Braambessiejellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLACKBERRY_JUICE:
+  name: '&8Braambessiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLACKBERRY_PIE:
+  name: '&8Braambessiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Braambessie-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLACK_PEPPER:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&8Swartpeper'
   type:
   - '&7&oKos'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&8Swartpeperplant'
   type:
   - '&7&oKomponent'
 BLT:
+  name: '&rSBT'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&9Bloubessie'
   type:
   - '&7&oKos'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&9Bloubessiestruik'
   type:
   - '&7&oKomponent'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Bloubessiekaaskoek'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Bloubessiejellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY_JUICE:
+  name: '&9Bloubessiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY_MUFFIN:
+  name: '&rBloubessiemuffin'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY_PANCAKES:
+  name: '&rBloubessiepannekoeke'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY_PIE:
+  name: '&9Bloubessiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Bloubessie-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 BOSTON_CREAM_PIE:
+  name: '&rBoston-roompastei'
   stats:
   - '&7&oHerstel &b&o4.5 &7&oHonger'
   type:
   - '&7&oKos'
 BROWN_SUGAR:
+  name: '&rBruinsuiker'
   type:
   - '&7&oKomponent'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 CABBAGE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&2Kool'
   type:
   - '&7&oKos'
 CABBAGE_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&2Koolplant'
   type:
   - '&7&oKomponent'
 CARROT_CAKE:
+  name: '&rWortelkoek'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 CHEESEBURGER:
+  name: '&rKaasburger'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHEESECAKE:
+  name: '&rKaaskoek'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 CHERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cKersie'
   type:
   - '&7&oKos'
 CHERRY_CHEESECAKE:
+  name: '&cKersiekaaskoek'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHERRY_ICED_TEA:
+  name: '&cKersie-ystee'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHERRY_JUICE:
+  name: '&cKersiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 CHERRY_PIE:
+  name: '&cKersiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHERRY_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&cKersiesaailing'
   type:
   - '&7&oKomponent'
 CHICKEN_BURGER:
+  name: '&rHoenderburger'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 CHICKEN_BURRITO:
+  name: '&rHoenderburrito'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 CHICKEN_CHEESEBURGER:
+  name: '&rHoenderkaasburger'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHICKEN_CURRY:
+  name: '&rHoenderkerrie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 CHICKEN_POT_PIE:
+  name: '&rHoenderpotpastei'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHICKEN_SANDWICH:
+  name: '&rHoendertoebroodjie'
   stats:
   - '&7&oHerstel &b&o5.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHOCOLATE_BAR:
+  name: '&rSjokoladestaaf'
   stats:
   - '&7&oHerstel &b&o1.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHOCOLATE_CAKE:
+  name: '&rSjokoladekoek'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rSjokoladeskyfiemuffin'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rSjokolade-peerkoek'
   stats:
   - '&7&oHerstel &b&o9.5 &7&oHonger'
   type:
   - '&7&oKos'
 CHOCOLATE_STRAWBERRY:
+  name: '&cSjokolade-aarbei'
   stats:
   - '&7&oHerstel &b&o2.5 &7&oHonger'
   type:
   - '&7&oKos'
 CILANTRO:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&aKoljander'
   type:
   - '&7&oKos'
 CILANTRO_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&aKoljanderplant'
   type:
   - '&7&oKomponent'
 CLUB_SANDWICH:
+  name: '&rKlubtoebroodjie'
   stats:
   - '&7&oHerstel &b&o9.5 &7&oHonger'
   type:
   - '&7&oKos'
 COAL_ESSENCE:
+  description:
+  - '&7Steenkool'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 COAL_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rSteenkoolplant'
   type:
   - '&7&oMagies'
 COCONUT:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&6Klapper'
   type:
   - '&7&oKos'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKlapperhoenderkerrie'
   stats:
   - '&7&oHerstel &b&o9.5 &7&oHonger'
   type:
   - '&7&oKos'
 COCONUT_MILK:
+  name: '&6Klappermelk'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 COCONUT_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&6Klappersaailing'
   type:
   - '&7&oKomponent'
 COPPER_ESSENCE:
+  description:
+  - '&7Koper'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 COPPER_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rKoperplant'
   type:
   - '&7&oMagies'
 CORN:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&6Mielie'
   type:
   - '&7&oKos'
 CORNMEAL:
+  name: '&rMieliemeel'
   type:
   - '&7&oKomponent'
 CORN_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&6Mielieplant'
   type:
   - '&7&oKomponent'
 CORN_ON_THE_COB:
+  name: '&6Mielie op die Stronk'
   stats:
   - '&7&oHerstel &b&o4.5 &7&oHonger'
   type:
   - '&7&oKos'
 COUNTRY_GRAVY:
+  name: '&rPlaassous'
   type:
   - '&7&oKomponent'
 COWBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cRooibessie'
   type:
   - '&7&oKos'
 COWBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&cRooibessiestruik'
   type:
   - '&7&oKomponent'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cRooibessiejellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 COWBERRY_JUICE:
+  name: '&cRooibessiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 COWBERRY_PIE:
+  name: '&cRooibessiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 COWBERRY_SMOOTHIE:
+  name: '&cRooibessie-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 CRANBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cVeenbessie'
   type:
   - '&7&oKos'
 CRANBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&cVeenbessiestruik'
   type:
   - '&7&oKomponent'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cVeenbessiejellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 CRANBERRY_JUICE:
+  name: '&cVeenbessiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 CRANBERRY_PIE:
+  name: '&cVeenbessiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 CRANBERRY_SMOOTHIE:
+  name: '&cVeenbessie-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 CREAMED_CORN:
+  name: '&rRoomsmielies'
   stats:
   - '&7&oHerstel &b&o4.0 &7&oHonger'
   type:
   - '&7&oKos'
 CREAM_COOKIE:
+  name: '&rRoomkoekie'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 CROOK:
+  description:
+  - '&7''n Houtskoffel wat gebruik word om tuinplante te oes.'
+  name: '&rHaakstok'
+  stats:
+  - '&7+ &b25% &7Saailing-valtempo'
   type:
   - '&7&oGereedskap'
 CURRY_LEAF:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&2Kerrieblaar'
   type:
   - '&7&oKos'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&2Kerrieblaarplant'
   type:
   - '&7&oKomponent'
 DELUXE_CHEESEBURGER:
+  name: '&rLuukse Kaasburger'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 DIAMOND_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rDiamantplant'
   type:
   - '&7&oMagies'
 DIRT_ESSENCE:
+  description:
+  - '&7Grond'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 DIRT_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rGrondplant'
   type:
   - '&7&oMagies'
 DRAGON_FRUIT:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&dDraakvrug'
   type:
   - '&7&oKos'
 DRAGON_FRUIT_JUICE:
+  name: '&dDraakvrugsap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 DRAGON_FRUIT_PIE:
+  name: '&dDraakvrugpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&dDraakvrugsaailing'
   type:
   - '&7&oKomponent'
 EGG_SALAD:
+  name: '&rEierslaai'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 ELDERBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cVlierbessie'
   type:
   - '&7&oKos'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&cVlierbessiestruik'
   type:
   - '&7&oKomponent'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cVlierbessiejellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 ELDERBERRY_JUICE:
+  name: '&cVlierbessiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 ELDERBERRY_PIE:
+  name: '&cVlierbessiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 ELDERBERRY_SMOOTHIE:
+  name: '&cVlierbessie-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smarag'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 EMERALD_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rSmaragplant'
   type:
   - '&7&oMagies'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 ENDER_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rEnderplant'
   type:
   - '&7&oMagies'
 FISH_SANDWICH:
+  name: '&rVistoebroodjie'
   stats:
   - '&7&oHerstel &b&o5.5 &7&oHonger'
   type:
   - '&7&oKos'
 FISH_TACO:
+  name: '&rVistaco'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 FRIES:
+  name: '&rTjips'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 GARLIC:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&rKnoffel'
   type:
   - '&7&oKos'
 GARLIC_BREAD:
+  name: '&rKnoffelbrood'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 GARLIC_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&rKnoffelplant'
   type:
   - '&7&oKomponent'
 GARLIC_CHEESE_BREAD:
+  name: '&rKnoffelkaasbrood'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Gloeiklip'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 GLOWSTONE_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rGloeiklipplant'
   type:
   - '&7&oMagies'
 GOLD_ESSENCE:
+  description:
+  - '&7Goud'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 GOLD_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rGoudplant'
   type:
   - '&7&oMagies'
 GRAPE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cDruif'
   type:
   - '&7&oKos'
 GRAPE_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&cDruifstruik'
   type:
   - '&7&oKomponent'
 GRAPE_JELLY_SANDWICH:
+  name: '&cDruiwejellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 GRAPE_JUICE:
+  name: '&cDruiwesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 GRAPE_PIE:
+  name: '&cDruiwepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 GRAPE_SALAD:
+  name: '&cDruiweslaai'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 GRAPE_SMOOTHIE:
+  name: '&cDruiwe-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 GRASS_SEEDS:
+  description:
+  - '&7''n Hernubare bron van lang gras - sny dit vir saailinge en struiksade.'
+  name: '&rGrassade'
   type:
   - '&7&oToestel'
+  usage:
+  - '&7&oKan op Grond geplant word'
 GRILLED_SANDWICH:
+  name: '&rGeroosterde Toebroodjie'
   stats:
   - '&7&oHerstel &b&o5.5 &7&oHonger'
   type:
   - '&7&oKos'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 HOT_CHOCOLATE:
+  name: '&6Warm Sjokolade'
   stats:
   - '&7&oHerstel &b&o4.0 &7&oHonger'
   type:
   - '&7&oKos'
 HOT_DOG:
+  name: '&rWorsbroodjie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 ICE_CREAM:
+  name: '&rRoomys'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 ICE_CUBE:
+  name: '&bYskubus'
   type:
   - '&7&oKomponent'
 IRON_ESSENCE:
+  description:
+  - '&7Yster'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 IRON_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rYsterplant'
   type:
   - '&7&oMagies'
 JAMMY_DODGER:
+  name: '&cKonfytkoekie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 KITCHEN:
+  description:
+  - '&a&oJy kan ''n klomp verskillende lekkernye hier maak!'
+  name: '&eKombuis'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&a&oDie resultaat gaan in die Oond se uitsetgleuf'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 LAPIS_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rLapisplant'
   type:
   - '&7&oMagies'
 LASAGNA:
+  name: '&rLasagne'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 LEAD_ESSENCE:
+  description:
+  - '&7Lood'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 LEAD_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rLoodplant'
   type:
   - '&7&oMagies'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rBlaarryke Hoendertoebroodjie'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 LEAFY_FISH_SANDWICH:
+  name: '&rBlaarryke Vistoebroodjie'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 LEMON:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&eSuurlemoen'
   type:
   - '&7&oKos'
 LEMONADE:
+  name: '&eLimonade'
   stats:
   - '&7&oHerstel &b&o4.0 &7&oHonger'
   type:
   - '&7&oKos'
 LEMON_ICED_TEA:
+  name: '&eSuurlemoen-ystee'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 LEMON_JUICE:
+  name: '&eSuurlemoensap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 LEMON_PIE:
+  name: '&eSuurlemoenpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 LEMON_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&eSuurlemoensaailing'
   type:
   - '&7&oKomponent'
 LETTUCE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&2Blaarslaai'
   type:
   - '&7&oKos'
 LETTUCE_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&2Blaarslaaiplant'
   type:
   - '&7&oKomponent'
 LIME:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&aLemmetjie'
   type:
   - '&7&oKos'
 LIME_JUICE:
+  name: '&aLemmetjiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 LIME_PIE:
+  name: '&aLemmetjiepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 LIME_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&aLemmetjiesaailing'
   type:
   - '&7&oKomponent'
 LIME_SMOOTHIE:
+  name: '&aLemmetjie-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 MAYO:
+  name: '&rMayonnaise'
   type:
   - '&7&oKomponent'
 MOLASSES:
+  name: '&8Melasse'
   type:
   - '&7&oKomponent'
 MUSTARD:
+  name: '&eMosterd'
   type:
   - '&7&oKomponent'
 MUSTARD_SEED:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&eMosterdsaad'
   type:
   - '&7&oKos'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&eMosterdsaadplant'
   type:
   - '&7&oKomponent'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netheriet'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 NETHERITE_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rNetherietplant'
   type:
   - '&7&oMagies'
 OAK_APPLE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cEikeappel'
   type:
   - '&7&oKos'
 OAK_APPLE_JUICE:
+  name: '&cEikeappelsap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 OAK_APPLE_PIE:
+  name: '&cEikeappelpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&cEikeappelsaailing'
   type:
   - '&7&oKomponent'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiaan'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 OBSIDIAN_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rObsidiaanplant'
   type:
   - '&7&oMagies'
 ONION:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cUi'
   type:
   - '&7&oKos'
 ONION_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&cUieplant'
   type:
   - '&7&oKomponent'
 ORANGE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&6Lemoen'
   type:
   - '&7&oKos'
 ORANGE_JUICE:
+  name: '&6Lemoensap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 ORANGE_PIE:
+  name: '&6Lemoenpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 ORANGE_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&6Lemoensaailing'
   type:
   - '&7&oKomponent'
 PANCAKES:
+  name: '&rPannekoeke'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 PEACH:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&5Perske'
   type:
   - '&7&oKos'
 PEACH_ICED_TEA:
+  name: '&dPerske-ystee'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 PEACH_JUICE:
+  name: '&5Perskesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 PEACH_PIE:
+  name: '&5Perskepastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 PEACH_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&5Perskesaailing'
   type:
   - '&7&oKomponent'
 PEAR:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&aPeer'
   type:
   - '&7&oKos'
 PEAR_JUICE:
+  name: '&aPeersap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 PEAR_PIE:
+  name: '&aPeerpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 PEAR_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&aPeersaailing'
   type:
   - '&7&oKomponent'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oHerstel &b&o7.0 &7&oHonger'
   type:
   - '&7&oKos'
 PINEAPPLE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&6Pynappel'
   type:
   - '&7&oKos'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&6Pynappelplant'
   type:
   - '&7&oKomponent'
 PINEAPPLE_JUICE:
+  name: '&6Pynappelsap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Pynappel-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 PLUM:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&5Pruim'
   type:
   - '&7&oKos'
 PLUM_JUICE:
+  name: '&5Pruimsap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 PLUM_PIE:
+  name: '&5Pruimpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 PLUM_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&5Pruimsaailing'
   type:
   - '&7&oKomponent'
 POMEGRANATE:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&4Granaat'
   type:
   - '&7&oKos'
 POMEGRANATE_JUICE:
+  name: '&4Granaatsap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 POMEGRANATE_PIE:
+  name: '&4Granaatpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Plant op grond om ''n vrugteboom te kweek.'
+  - '&7Slaan die vrugteblokke wat dit dra om te oes.'
+  name: '&4Granaatsaailing'
   type:
   - '&7&oKomponent'
 POPCORN:
+  name: '&rSpringmielies'
   stats:
   - '&7&oHerstel &b&o4.0 &7&oHonger'
   type:
   - '&7&oKos'
 POTATO_SALAD:
+  name: '&rAartappelslaai'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 PUMPKIN_BREAD:
+  name: '&rPampoenbrood'
   stats:
   - '&7&oHerstel &b&o4.0 &7&oHonger'
   type:
   - '&7&oKos'
 PUMPKIN_CHEESECAKE:
+  name: '&6Pampoenkaaskoek'
   stats:
   - '&7&oHerstel &b&o8.5 &7&oHonger'
   type:
   - '&7&oKos'
 PUMPKIN_MUFFIN:
+  name: '&rPampoenmuffin'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kwarts'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 QUARTZ_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rKwartsplant'
   type:
   - '&7&oMagies'
 RASPBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&dFramboos'
   type:
   - '&7&oKos'
 RASPBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&dFramboosstruik'
   type:
   - '&7&oKomponent'
 RASPBERRY_ICED_TEA:
+  name: '&dFramboos-ystee'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dFramboosjellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 RASPBERRY_JUICE:
+  name: '&dFramboossap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 RASPBERRY_PIE:
+  name: '&dFramboospastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 RASPBERRY_SMOOTHIE:
+  name: '&dFramboos-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Rooiklip'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 REDSTONE_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rRooiklipplant'
   type:
   - '&7&oMagies'
 RED_BELL_PEPPER:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&cRooi Soetrissie'
   type:
   - '&7&oKos'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&cRooi Soetrissieplant'
   type:
   - '&7&oKomponent'
 SALTY_POPCORN:
+  name: '&rSpringmielies &7(Sout)'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 SANDWICH:
+  name: '&rToebroodjie'
   stats:
   - '&7&oHerstel &b&o9.5 &7&oHonger'
   type:
   - '&7&oKos'
 SHEPARDS_PIE:
+  name: '&rHerderspastei'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 SILVER_ESSENCE:
+  description:
+  - '&7Silwer'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 SILVER_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rSilwerplant'
   type:
   - '&7&oMagies'
 SLIME_ESSENCE:
+  description:
+  - '&7Slym'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 SLIME_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rSlymplant'
   type:
   - '&7&oMagies'
 STRAWBERRY:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&4Aarbei'
   type:
   - '&7&oKos'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&4Aarbeistruik'
   type:
   - '&7&oKomponent'
 STRAWBERRY_ICED_TEA:
+  name: '&4Aarbei-ystee'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Aarbeijellie-toebroodjie'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 STRAWBERRY_JUICE:
+  name: '&4Aarbeisap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 STRAWBERRY_PIE:
+  name: '&4Aarbeipastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 STRAWBERRY_SALAD:
+  name: '&cAarbeislaai'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Aarbei-smoothie'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 STREET_TACO:
+  name: '&rStraattaco'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cGevulde Rooi Soetrissie'
   stats:
   - '&7&oHerstel &b&o7.0 &7&oHonger'
   type:
   - '&7&oKos'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Versoete Peerkaaskoek'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 SWEETENED_TEA:
+  name: '&aVersoete Tee'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 SWEET_BERRY_PANCAKES:
+  name: '&rSoetbessiepannekoeke'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 SWEET_POPCORN:
+  name: '&rSpringmielies &7(Soet)'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 SWEET_POTATO:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&6Patat'
   type:
   - '&7&oKos'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&6Patatplant'
   type:
   - '&7&oKomponent'
 SWEET_POTATO_PIE:
+  name: '&rPatatpastei'
   stats:
   - '&7&oHerstel &b&o6.5 &7&oHonger'
   type:
   - '&7&oKos'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 TEA_LEAF:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&aTeeblaar'
   type:
   - '&7&oKos'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&aTeeblaarplant'
   type:
   - '&7&oKomponent'
 THAI_TEA:
+  name: '&6Thaise Tee'
   stats:
   - '&7&oHerstel &b&o7.0 &7&oHonger'
   type:
   - '&7&oKos'
 TIN_ESSENCE:
+  description:
+  - '&7Tin'
+  - '&7Vervaardig dit tot die passende Plant om die hulpbron te kweek.'
+  name: '&rMagiese Essens'
   type:
   - '&7&oMagies'
 TIN_PLANT:
+  description:
+  - '&7''n Magiese gewas. Plant op grond en laat dit groei, oes dit dan vir sy hulpbron.'
+  - '&7Hoër vlakke benodig die vorige vlak se plant in die resep.'
+  name: '&rTinplant'
   type:
   - '&7&oMagies'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oHerstel &b&o8.0 &7&oHonger'
   type:
   - '&7&oKos'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu met Braambessies'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu met Frambose'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu met Aarbeie'
   stats:
   - '&7&oHerstel &b&o9.0 &7&oHonger'
   type:
   - '&7&oKos'
 TOMATO:
+  description:
+  - '&7''n Vars oes uit die Eksotiese Tuin.'
+  - '&7Eet dit rou, pers dit tot sap, of kook dit in ''n gereg.'
+  name: '&4Tamatie'
   type:
   - '&7&oKos'
 TOMATO_BUSH:
+  description:
+  - '&7Plant op grond en dit word stadig ryp.'
+  - '&7Regsklik wanneer dit ryp is om te oes sonder om dit te vernietig.'
+  name: '&4Tamatieplant'
   type:
   - '&7&oKomponent'
 TOMATO_JUICE:
+  name: '&4Tamatiesap'
   stats:
   - '&7&oHerstel &b&o3.0 &7&oHonger'
   type:
   - '&7&oKos'
 TOMATO_SOUP:
+  name: '&4Tamatiesop'
   stats:
   - '&7&oHerstel &b&o5.5 &7&oHonger'
   type:
   - '&7&oKos'
 VEGETABLE_OIL:
+  name: '&rGroente-olie'
   type:
   - '&7&oKomponent'
 WAFFLES:
+  name: '&rWafels'
   stats:
   - '&7&oHerstel &b&o6.0 &7&oHonger'
   type:
   - '&7&oKos'
 WINE:
+  name: '&cWyn'
   stats:
   - '&7&oHerstel &b&o5.0 &7&oHonger'
   type:
   - '&7&oKos'
 YEAST:
+  name: '&rGis'
   type:
   - '&7&oKomponent'
