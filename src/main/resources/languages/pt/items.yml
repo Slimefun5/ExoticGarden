@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Alumínio'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 ALUMINUM_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Alumínio'
   type:
   - '&7&oMágico'
 APPLE_PEAR_CAKE:
+  name: '&cBolo de Maçã e Pera'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON:
+  name: '&rBacon'
   stats:
   - '&7&oRestaura &b&o1.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_BURGER:
+  name: '&rHambúrguer de Bacon'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_CHEESEBURGER:
+  name: '&rHambúrguer com Queijo e Bacon'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_SANDWICH:
+  name: '&rSandes de Bacon'
   stats:
   - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Quando eu cozinho" - @Eyamaz'
+  name: '&rCachorro-quente Recheado com Queijo e Envolto em Bacon'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oRestaura &b&o2.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"queres falar de cachorros-quentes?" - @Pahimar'
+  name: '&rCachorro-quente BBQ Envolto em Bacon'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Quando eu cozinho" - @Eyamaz'
+  name: '&rCachorro-quente BBQ Envolto em Bacon Duplo numa Tortilha com Queijo'
   stats:
   - '&7&oRestaura &b&o10.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BBQ_SAUCE:
+  name: '&cMolho BBQ'
   type:
   - '&7&oComponente'
 BISCUIT:
+  name: '&6Pãozinho'
   stats:
   - '&7&oRestaura &b&o2.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BISCUITS_GRAVY:
+  name: '&rPãezinhos com Molho Rústico'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&8Amora'
   type:
   - '&7&oComida'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&8Arbusto de Amora'
   type:
   - '&7&oComponente'
 BLACKBERRY_COBBLER:
+  name: '&8Crumble de Amora'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Sandes de Geleia de Amora'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_JUICE:
+  name: '&8Sumo de Amora'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_PIE:
+  name: '&8Tarte de Amora'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Batido de Amora'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLACK_PEPPER:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&8Pimenta-preta'
   type:
   - '&7&oComida'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&8Planta de Pimenta-preta'
   type:
   - '&7&oComponente'
 BLT:
+  name: '&rSandes BLT'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&9Mirtilo'
   type:
   - '&7&oComida'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&9Arbusto de Mirtilo'
   type:
   - '&7&oComponente'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Tarte de Queijo com Mirtilo'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Sandes de Geleia de Mirtilo'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_JUICE:
+  name: '&9Sumo de Mirtilo'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_MUFFIN:
+  name: '&rQueque de Mirtilo'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_PANCAKES:
+  name: '&rPanquecas de Mirtilo'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_PIE:
+  name: '&9Tarte de Mirtilo'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Batido de Mirtilo'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 BOSTON_CREAM_PIE:
+  name: '&rBolo de Creme de Boston'
   stats:
   - '&7&oRestaura &b&o4.5 &7&ode Fome'
   type:
   - '&7&oComida'
 BROWN_SUGAR:
+  name: '&rAçúcar Mascavado'
   type:
   - '&7&oComponente'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CABBAGE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&2Couve'
   type:
   - '&7&oComida'
 CABBAGE_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&2Planta de Couve'
   type:
   - '&7&oComponente'
 CARROT_CAKE:
+  name: '&rBolo de Cenoura'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHEESEBURGER:
+  name: '&rHambúrguer com Queijo'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHEESECAKE:
+  name: '&rTarte de Queijo'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cCereja'
   type:
   - '&7&oComida'
 CHERRY_CHEESECAKE:
+  name: '&cTarte de Queijo com Cereja'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_ICED_TEA:
+  name: '&cChá Gelado de Cereja'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_JUICE:
+  name: '&cSumo de Cereja'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_PIE:
+  name: '&cTarte de Cereja'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHERRY_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&cRebento de Cereja'
   type:
   - '&7&oComponente'
 CHICKEN_BURGER:
+  name: '&rHambúrguer de Frango'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_BURRITO:
+  name: '&rBurrito de Frango'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_CHEESEBURGER:
+  name: '&rHambúrguer de Frango com Queijo'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_CURRY:
+  name: '&rCaril de Frango'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_POT_PIE:
+  name: '&rEmpadão de Frango'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHICKEN_SANDWICH:
+  name: '&rSandes de Frango'
   stats:
   - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_BAR:
+  name: '&rBarra de Chocolate'
   stats:
   - '&7&oRestaura &b&o1.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_CAKE:
+  name: '&rBolo de Chocolate'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rQueque de Pepitas de Chocolate'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rBolo de Pera com Chocolate'
   stats:
   - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CHOCOLATE_STRAWBERRY:
+  name: '&cMorango com Chocolate'
   stats:
   - '&7&oRestaura &b&o2.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CILANTRO:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&aCoentro'
   type:
   - '&7&oComida'
 CILANTRO_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&aPlanta de Coentro'
   type:
   - '&7&oComponente'
 CLUB_SANDWICH:
+  name: '&rSandes Club'
   stats:
   - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COAL_ESSENCE:
+  description:
+  - '&7Carvão'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 COAL_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Carvão'
   type:
   - '&7&oMágico'
 COCONUT:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&6Coco'
   type:
   - '&7&oComida'
 COCONUT_CHICKEN_CURRY:
+  name: '&rCaril de Frango com Coco'
   stats:
   - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COCONUT_MILK:
+  name: '&6Leite de Coco'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COCONUT_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&6Rebento de Coco'
   type:
   - '&7&oComponente'
 COPPER_ESSENCE:
+  description:
+  - '&7Cobre'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 COPPER_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Cobre'
   type:
   - '&7&oMágico'
 CORN:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&6Milho'
   type:
   - '&7&oComida'
 CORNMEAL:
+  name: '&rFarinha de Milho'
   type:
   - '&7&oComponente'
 CORN_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&6Planta de Milho'
   type:
   - '&7&oComponente'
 CORN_ON_THE_COB:
+  name: '&6Espiga de Milho'
   stats:
   - '&7&oRestaura &b&o4.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COUNTRY_GRAVY:
+  name: '&rMolho Rústico'
   type:
   - '&7&oComponente'
 COWBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cAirela'
   type:
   - '&7&oComida'
 COWBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&cArbusto de Airela'
   type:
   - '&7&oComponente'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cSandes de Geleia de Airela'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_JUICE:
+  name: '&cSumo de Airela'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_PIE:
+  name: '&cTarte de Airela'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 COWBERRY_SMOOTHIE:
+  name: '&cBatido de Airela'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cArando'
   type:
   - '&7&oComida'
 CRANBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&cArbusto de Arando'
   type:
   - '&7&oComponente'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cSandes de Geleia de Arando'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_JUICE:
+  name: '&cSumo de Arando'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_PIE:
+  name: '&cTarte de Arando'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 CRANBERRY_SMOOTHIE:
+  name: '&cBatido de Arando'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CREAMED_CORN:
+  name: '&rMilho com Natas'
   stats:
   - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CREAM_COOKIE:
+  name: '&rBolacha de Creme'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 CROOK:
+  description:
+  - '&7Uma enxada de madeira usada para colher plantas do jardim.'
+  name: '&rCajado'
+  stats:
+  - '&7+ &b25% &7Taxa de Queda de Rebentos'
   type:
   - '&7&oFerramenta'
 CURRY_LEAF:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&2Folha de Caril'
   type:
   - '&7&oComida'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&2Planta de Folha de Caril'
   type:
   - '&7&oComponente'
 DELUXE_CHEESEBURGER:
+  name: '&rHambúrguer com Queijo de Luxo'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamante'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 DIAMOND_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Diamante'
   type:
   - '&7&oMágico'
 DIRT_ESSENCE:
+  description:
+  - '&7Terra'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 DIRT_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Terra'
   type:
   - '&7&oMágico'
 DRAGON_FRUIT:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&dFruta do Dragão'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_JUICE:
+  name: '&dSumo de Fruta do Dragão'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_PIE:
+  name: '&dTarte de Fruta do Dragão'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&dRebento de Fruta do Dragão'
   type:
   - '&7&oComponente'
 EGG_SALAD:
+  name: '&rSalada de Ovo'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cBaga de Sabugueiro'
   type:
   - '&7&oComida'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&cArbusto de Sabugueiro'
   type:
   - '&7&oComponente'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cSandes de Geleia de Sabugueiro'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_JUICE:
+  name: '&cSumo de Sabugueiro'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_PIE:
+  name: '&cTarte de Sabugueiro'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 ELDERBERRY_SMOOTHIE:
+  name: '&cBatido de Sabugueiro'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 EMERALD_ESSENCE:
+  description:
+  - '&7Esmeralda'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 EMERALD_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Esmeralda'
   type:
   - '&7&oMágico'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 ENDER_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Ender'
   type:
   - '&7&oMágico'
 FISH_SANDWICH:
+  name: '&rSandes de Peixe'
   stats:
   - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 FISH_TACO:
+  name: '&rTaco de Peixe'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 FRIES:
+  name: '&rBatatas Fritas'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GARLIC:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&rAlho'
   type:
   - '&7&oComida'
 GARLIC_BREAD:
+  name: '&rPão de Alho'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GARLIC_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&rPlanta de Alho'
   type:
   - '&7&oComponente'
 GARLIC_CHEESE_BREAD:
+  name: '&rPão de Alho com Queijo'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Pedra Luminosa'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Pedra Luminosa'
   type:
   - '&7&oMágico'
 GOLD_ESSENCE:
+  description:
+  - '&7Ouro'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 GOLD_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Ouro'
   type:
   - '&7&oMágico'
 GRAPE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cUva'
   type:
   - '&7&oComida'
 GRAPE_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&cArbusto de Uva'
   type:
   - '&7&oComponente'
 GRAPE_JELLY_SANDWICH:
+  name: '&cSandes de Geleia de Uva'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_JUICE:
+  name: '&cSumo de Uva'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_PIE:
+  name: '&cTarte de Uva'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_SALAD:
+  name: '&cSalada de Uva'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRAPE_SMOOTHIE:
+  name: '&cBatido de Uva'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 GRASS_SEEDS:
+  description:
+  - '&7Uma fonte renovável de erva alta - corta-a para obter rebentos e sementes de arbustos.'
+  name: '&rSementes de Erva'
   type:
   - '&7&oAcessório'
+  usage:
+  - '&7&oPode ser plantada em terra'
 GRILLED_SANDWICH:
+  name: '&rSandes Grelhada'
   stats:
   - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 HAMBURGER:
+  name: '&rHambúrguer'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 HOT_CHOCOLATE:
+  name: '&6Chocolate Quente'
   stats:
   - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 HOT_DOG:
+  name: '&rCachorro-quente'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ICE_CREAM:
+  name: '&rGelado'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ICE_CUBE:
+  name: '&bCubo de Gelo'
   type:
   - '&7&oComponente'
 IRON_ESSENCE:
+  description:
+  - '&7Ferro'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 IRON_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Ferro'
   type:
   - '&7&oMágico'
 JAMMY_DODGER:
+  name: '&cBolacha de Doce'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 KITCHEN:
+  description:
+  - '&a&oPodes fazer aqui montes de petiscos diferentes!'
+  name: '&eCozinha'
   type:
   - '&7&oMultibloco'
+  usage:
+  - '&a&oO resultado vai para o espaço de saída da Fornalha'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lápis-lazúli'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 LAPIS_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Lápis-lazúli'
   type:
   - '&7&oMágico'
 LASAGNA:
+  name: '&rLasanha'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEAD_ESSENCE:
+  description:
+  - '&7Chumbo'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 LEAD_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Chumbo'
   type:
   - '&7&oMágico'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rSandes de Frango com Alface'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEAFY_FISH_SANDWICH:
+  name: '&rSandes de Peixe com Alface'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&eLimão'
   type:
   - '&7&oComida'
 LEMONADE:
+  name: '&eLimonada'
   stats:
   - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_ICED_TEA:
+  name: '&eChá Gelado de Limão'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_JUICE:
+  name: '&eSumo de Limão'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_PIE:
+  name: '&eTarte de Limão'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LEMON_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&eRebento de Limão'
   type:
   - '&7&oComponente'
 LETTUCE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&2Alface'
   type:
   - '&7&oComida'
 LETTUCE_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&2Planta de Alface'
   type:
   - '&7&oComponente'
 LIME:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&aLima'
   type:
   - '&7&oComida'
 LIME_JUICE:
+  name: '&aSumo de Lima'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 LIME_PIE:
+  name: '&aTarte de Lima'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 LIME_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&aRebento de Lima'
   type:
   - '&7&oComponente'
 LIME_SMOOTHIE:
+  name: '&aBatido de Lima'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 MAYO:
+  name: '&rMaionese'
   type:
   - '&7&oComponente'
 MOLASSES:
+  name: '&8Melaço'
   type:
   - '&7&oComponente'
 MUSTARD:
+  name: '&eMostarda'
   type:
   - '&7&oComponente'
 MUSTARD_SEED:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&eSemente de Mostarda'
   type:
   - '&7&oComida'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&ePlanta de Semente de Mostarda'
   type:
   - '&7&oComponente'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 NETHERITE_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Netherite'
   type:
   - '&7&oMágico'
 OAK_APPLE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cMaçã de Carvalho'
   type:
   - '&7&oComida'
 OAK_APPLE_JUICE:
+  name: '&cSumo de Maçã de Carvalho'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 OAK_APPLE_PIE:
+  name: '&cTarte de Maçã de Carvalho'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&cRebento de Maçã de Carvalho'
   type:
   - '&7&oComponente'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiana'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Obsidiana'
   type:
   - '&7&oMágico'
 ONION:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cCebola'
   type:
   - '&7&oComida'
 ONION_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&cPlanta de Cebola'
   type:
   - '&7&oComponente'
 ORANGE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&6Laranja'
   type:
   - '&7&oComida'
 ORANGE_JUICE:
+  name: '&6Sumo de Laranja'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 ORANGE_PIE:
+  name: '&6Tarte de Laranja'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 ORANGE_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&6Rebento de Laranja'
   type:
   - '&7&oComponente'
 PANCAKES:
+  name: '&rPanquecas'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&5Pêssego'
   type:
   - '&7&oComida'
 PEACH_ICED_TEA:
+  name: '&dChá Gelado de Pêssego'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_JUICE:
+  name: '&5Sumo de Pêssego'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_PIE:
+  name: '&5Tarte de Pêssego'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEACH_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&5Rebento de Pêssego'
   type:
   - '&7&oComponente'
 PEAR:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&aPera'
   type:
   - '&7&oComida'
 PEAR_JUICE:
+  name: '&aSumo de Pera'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PEAR_PIE:
+  name: '&aTarte de Pera'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PEAR_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&aRebento de Pera'
   type:
   - '&7&oComponente'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PINEAPPLE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&6Ananás'
   type:
   - '&7&oComida'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&6Planta de Ananás'
   type:
   - '&7&oComponente'
 PINEAPPLE_JUICE:
+  name: '&6Sumo de Ananás'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Batido de Ananás'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&5Ameixa'
   type:
   - '&7&oComida'
 PLUM_JUICE:
+  name: '&5Sumo de Ameixa'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM_PIE:
+  name: '&5Tarte de Ameixa'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PLUM_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&5Rebento de Ameixa'
   type:
   - '&7&oComponente'
 POMEGRANATE:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&4Romã'
   type:
   - '&7&oComida'
 POMEGRANATE_JUICE:
+  name: '&4Sumo de Romã'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 POMEGRANATE_PIE:
+  name: '&4Tarte de Romã'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Planta em terra para cultivar uma árvore de fruto.'
+  - '&7Bate nos blocos de fruta que ela dá para colher.'
+  name: '&4Rebento de Romã'
   type:
   - '&7&oComponente'
 POPCORN:
+  name: '&rPipocas'
   stats:
   - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 POTATO_SALAD:
+  name: '&rSalada de Batata'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_BREAD:
+  name: '&rPão de Abóbora'
   stats:
   - '&7&oRestaura &b&o4.0 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_CHEESECAKE:
+  name: '&6Tarte de Queijo com Abóbora'
   stats:
   - '&7&oRestaura &b&o8.5 &7&ode Fome'
   type:
   - '&7&oComida'
 PUMPKIN_MUFFIN:
+  name: '&rQueque de Abóbora'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Quartzo'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 QUARTZ_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Quartzo'
   type:
   - '&7&oMágico'
 RASPBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&dFramboesa'
   type:
   - '&7&oComida'
 RASPBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&dArbusto de Framboesa'
   type:
   - '&7&oComponente'
 RASPBERRY_ICED_TEA:
+  name: '&dChá Gelado de Framboesa'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dSandes de Geleia de Framboesa'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_JUICE:
+  name: '&dSumo de Framboesa'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_PIE:
+  name: '&dTarte de Framboesa'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 RASPBERRY_SMOOTHIE:
+  name: '&dBatido de Framboesa'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 REDSTONE_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Redstone'
   type:
   - '&7&oMágico'
 RED_BELL_PEPPER:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&cPimento Vermelho'
   type:
   - '&7&oComida'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&cPlanta de Pimento Vermelho'
   type:
   - '&7&oComponente'
 SALTY_POPCORN:
+  name: '&rPipocas &7(Salgadas)'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SANDWICH:
+  name: '&rSandes'
   stats:
   - '&7&oRestaura &b&o9.5 &7&ode Fome'
   type:
   - '&7&oComida'
 SHEPARDS_PIE:
+  name: '&rEmpadão de Carne'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SILVER_ESSENCE:
+  description:
+  - '&7Prata'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 SILVER_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Prata'
   type:
   - '&7&oMágico'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 SLIME_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Slime'
   type:
   - '&7&oMágico'
 STRAWBERRY:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&4Morango'
   type:
   - '&7&oComida'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&4Arbusto de Morango'
   type:
   - '&7&oComponente'
 STRAWBERRY_ICED_TEA:
+  name: '&4Chá Gelado de Morango'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Sandes de Geleia de Morango'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_JUICE:
+  name: '&4Sumo de Morango'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_PIE:
+  name: '&4Tarte de Morango'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_SALAD:
+  name: '&cSalada de Morango'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Batido de Morango'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STREET_TACO:
+  name: '&rTaco de Rua'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cPimento Vermelho Recheado'
   stats:
   - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Tarte de Queijo com Pera Adoçada'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEETENED_TEA:
+  name: '&aChá Adoçado'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_BERRY_PANCAKES:
+  name: '&rPanquecas de Bagas Doces'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_POPCORN:
+  name: '&rPipocas &7(Doces)'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 SWEET_POTATO:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&6Batata-doce'
   type:
   - '&7&oComida'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&6Planta de Batata-doce'
   type:
   - '&7&oComponente'
 SWEET_POTATO_PIE:
+  name: '&rTarte de Batata-doce'
   stats:
   - '&7&oRestaura &b&o6.5 &7&ode Fome'
   type:
   - '&7&oComida'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TEA_LEAF:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&aFolha de Chá'
   type:
   - '&7&oComida'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&aPlanta de Folha de Chá'
   type:
   - '&7&oComponente'
 THAI_TEA:
+  name: '&6Chá Tailandês'
   stats:
   - '&7&oRestaura &b&o7.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIN_ESSENCE:
+  description:
+  - '&7Estanho'
+  - '&7Fabrica-a na Planta correspondente para cultivar o recurso.'
+  name: '&rEssência Mágica'
   type:
   - '&7&oMágico'
 TIN_PLANT:
+  description:
+  - '&7Uma cultura mágica. Planta em terra e deixa-a crescer, depois colhe para obter o recurso.'
+  - '&7Níveis superiores precisam da planta do nível anterior na receita.'
+  name: '&rPlanta de Estanho'
   type:
   - '&7&oMágico'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oRestaura &b&o8.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu com Amoras'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu com Framboesas'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu com Morangos'
   stats:
   - '&7&oRestaura &b&o9.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TOMATO:
+  description:
+  - '&7Uma colheita fresca do Jardim Exótico.'
+  - '&7Come-a crua, faz sumo ou cozinha-a num prato.'
+  name: '&4Tomate'
   type:
   - '&7&oComida'
 TOMATO_BUSH:
+  description:
+  - '&7Planta em terra e amadurece lentamente.'
+  - '&7Clique direito quando maduro para colher sem o destruir.'
+  name: '&4Planta de Tomate'
   type:
   - '&7&oComponente'
 TOMATO_JUICE:
+  name: '&4Sumo de Tomate'
   stats:
   - '&7&oRestaura &b&o3.0 &7&ode Fome'
   type:
   - '&7&oComida'
 TOMATO_SOUP:
+  name: '&4Sopa de Tomate'
   stats:
   - '&7&oRestaura &b&o5.5 &7&ode Fome'
   type:
   - '&7&oComida'
 VEGETABLE_OIL:
+  name: '&rÓleo Vegetal'
   type:
   - '&7&oComponente'
 WAFFLES:
+  name: '&rWaffles'
   stats:
   - '&7&oRestaura &b&o6.0 &7&ode Fome'
   type:
   - '&7&oComida'
 WINE:
+  name: '&cVinho'
   stats:
   - '&7&oRestaura &b&o5.0 &7&ode Fome'
   type:
   - '&7&oComida'
 YEAST:
+  name: '&rFermento'
   type:
   - '&7&oComponente'
