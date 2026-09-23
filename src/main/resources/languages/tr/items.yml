@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Alüminyum'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 ALUMINUM_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rAlüminyum Bitkisi'
   type:
   - '&7&oSihirli'
 APPLE_PEAR_CAKE:
+  name: '&cElmalı Armutlu Kek'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON:
+  name: '&rPastırma'
   stats:
   - '&7&oAçlığı &b&o1.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_BURGER:
+  name: '&rPastırmalı Burger'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_CHEESEBURGER:
+  name: '&rPastırmalı Çizburger'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_SANDWICH:
+  name: '&rPastırmalı Sandviç'
   stats:
   - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Şeflik bende" - @Eyamaz'
+  name: '&rPastırmaya Sarılı Peynir Dolgulu Sosisli'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BAGEL:
+  name: '&rHalka Ekmek'
   stats:
   - '&7&oAçlığı &b&o2.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"sosislilerden konuşmak ister misin?" - @Pahimar'
+  name: '&rBarbekülü Pastırmaya Sarılı Sosisli'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Şeflik bende" - @Eyamaz'
+  name: '&rTortillada Peynirli Barbekülü Çift Pastırmaya Sarılı Sosisli'
   stats:
   - '&7&oAçlığı &b&o10.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BBQ_SAUCE:
+  name: '&cBarbekü Sosu'
   type:
   - '&7&oBileşen'
 BISCUIT:
+  name: '&6Bisküvi'
   stats:
   - '&7&oAçlığı &b&o2.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BISCUITS_GRAVY:
+  name: '&rBisküvi ve Köy Sosu'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&8Böğürtlen'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&8Böğürtlen Çalısı'
   type:
   - '&7&oBileşen'
 BLACKBERRY_COBBLER:
+  name: '&8Böğürtlenli Meyve Tatlısı'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Böğürtlen Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_JUICE:
+  name: '&8Böğürtlen Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_PIE:
+  name: '&8Böğürtlen Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Böğürtlen Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLACK_PEPPER:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&8Karabiber'
   type:
   - '&7&oYiyecek'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&8Karabiber Bitkisi'
   type:
   - '&7&oBileşen'
 BLT:
+  name: '&rPastırmalı Marullu Domatesli Sandviç'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&9Yaban Mersini'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&9Yaban Mersini Çalısı'
   type:
   - '&7&oBileşen'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Yaban Mersinli Peynirli Kek'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Yaban Mersini Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_JUICE:
+  name: '&9Yaban Mersini Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_MUFFIN:
+  name: '&rYaban Mersinli Kek'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_PANCAKES:
+  name: '&rYaban Mersinli Pankek'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_PIE:
+  name: '&9Yaban Mersini Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Yaban Mersini Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BOSTON_CREAM_PIE:
+  name: '&rBoston Kremalı Pasta'
   stats:
   - '&7&oAçlığı &b&o4.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 BROWN_SUGAR:
+  name: '&rEsmer Şeker'
   type:
   - '&7&oBileşen'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CABBAGE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&2Lahana'
   type:
   - '&7&oYiyecek'
 CABBAGE_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&2Lahana Bitkisi'
   type:
   - '&7&oBileşen'
 CARROT_CAKE:
+  name: '&rHavuçlu Kek'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHEESEBURGER:
+  name: '&rÇizburger'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHEESECAKE:
+  name: '&rPeynirli Kek'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cKiraz'
   type:
   - '&7&oYiyecek'
 CHERRY_CHEESECAKE:
+  name: '&cKirazlı Peynirli Kek'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_ICED_TEA:
+  name: '&cBuzlu Kirazlı Çay'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_JUICE:
+  name: '&cKiraz Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_PIE:
+  name: '&cKiraz Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHERRY_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&cKiraz Fidanı'
   type:
   - '&7&oBileşen'
 CHICKEN_BURGER:
+  name: '&rTavuk Burger'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_BURRITO:
+  name: '&rTavuklu Burrito'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_CHEESEBURGER:
+  name: '&rTavuklu Çizburger'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_CURRY:
+  name: '&rTavuklu Köri'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_POT_PIE:
+  name: '&rTavuklu Turta'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHICKEN_SANDWICH:
+  name: '&rTavuklu Sandviç'
   stats:
   - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_BAR:
+  name: '&rÇikolata Barı'
   stats:
   - '&7&oAçlığı &b&o1.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_CAKE:
+  name: '&rÇikolatalı Kek'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rDamla Çikolatalı Kek'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rÇikolatalı Armutlu Kek'
   stats:
   - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CHOCOLATE_STRAWBERRY:
+  name: '&cÇikolatalı Çilek'
   stats:
   - '&7&oAçlığı &b&o2.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CILANTRO:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&aKişniş'
   type:
   - '&7&oYiyecek'
 CILANTRO_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&aKişniş Bitkisi'
   type:
   - '&7&oBileşen'
 CLUB_SANDWICH:
+  name: '&rKulüp Sandviç'
   stats:
   - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COAL_ESSENCE:
+  description:
+  - '&7Kömür'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 COAL_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rKömür Bitkisi'
   type:
   - '&7&oSihirli'
 COCONUT:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&6Hindistan Cevizi'
   type:
   - '&7&oYiyecek'
 COCONUT_CHICKEN_CURRY:
+  name: '&rHindistan Cevizli Tavuk Körisi'
   stats:
   - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COCONUT_MILK:
+  name: '&6Hindistan Cevizi Sütü'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COCONUT_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&6Hindistan Cevizi Fidanı'
   type:
   - '&7&oBileşen'
 COPPER_ESSENCE:
+  description:
+  - '&7Bakır'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 COPPER_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rBakır Bitkisi'
   type:
   - '&7&oSihirli'
 CORN:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&6Mısır'
   type:
   - '&7&oYiyecek'
 CORNMEAL:
+  name: '&rMısır Unu'
   type:
   - '&7&oBileşen'
 CORN_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&6Mısır Bitkisi'
   type:
   - '&7&oBileşen'
 CORN_ON_THE_COB:
+  name: '&6Koçanda Mısır'
   stats:
   - '&7&oAçlığı &b&o4.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COUNTRY_GRAVY:
+  name: '&rKöy Sosu'
   type:
   - '&7&oBileşen'
 COWBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cKızılcık'
   type:
   - '&7&oYiyecek'
 COWBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&cKızılcık Çalısı'
   type:
   - '&7&oBileşen'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cKızılcık Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COWBERRY_JUICE:
+  name: '&cKızılcık Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COWBERRY_PIE:
+  name: '&cKızılcık Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 COWBERRY_SMOOTHIE:
+  name: '&cKızılcık Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cTurna Yemişi'
   type:
   - '&7&oYiyecek'
 CRANBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&cTurna Yemişi Çalısı'
   type:
   - '&7&oBileşen'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cTurna Yemişi Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY_JUICE:
+  name: '&cTurna Yemişi Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY_PIE:
+  name: '&cTurna Yemişi Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CRANBERRY_SMOOTHIE:
+  name: '&cTurna Yemişi Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CREAMED_CORN:
+  name: '&rKremalı Mısır'
   stats:
   - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CREAM_COOKIE:
+  name: '&rKremalı Kurabiye'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 CROOK:
+  description:
+  - '&7Bahçe bitkilerini hasat etmek için kullanılan tahta çapa.'
+  name: '&rÇengel'
+  stats:
+  - '&7+ &b25% &7Fidan Düşme Şansı'
   type:
   - '&7&oAlet'
 CURRY_LEAF:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&2Köri Yaprağı'
   type:
   - '&7&oYiyecek'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&2Köri Yaprağı Bitkisi'
   type:
   - '&7&oBileşen'
 DELUXE_CHEESEBURGER:
+  name: '&rLüks Çizburger'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Elmas'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 DIAMOND_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rElmas Bitkisi'
   type:
   - '&7&oSihirli'
 DIRT_ESSENCE:
+  description:
+  - '&7Toprak'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 DIRT_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rToprak Bitkisi'
   type:
   - '&7&oSihirli'
 DRAGON_FRUIT:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&dEjderha Meyvesi'
   type:
   - '&7&oYiyecek'
 DRAGON_FRUIT_JUICE:
+  name: '&dEjderha Meyvesi Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 DRAGON_FRUIT_PIE:
+  name: '&dEjderha Meyvesi Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&dEjderha Meyvesi Fidanı'
   type:
   - '&7&oBileşen'
 EGG_SALAD:
+  name: '&rYumurta Salatası'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cMürver'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&cMürver Çalısı'
   type:
   - '&7&oBileşen'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cMürver Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_JUICE:
+  name: '&cMürver Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_PIE:
+  name: '&cMürver Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ELDERBERRY_SMOOTHIE:
+  name: '&cMürver Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 EMERALD_ESSENCE:
+  description:
+  - '&7Zümrüt'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 EMERALD_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rZümrüt Bitkisi'
   type:
   - '&7&oSihirli'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 ENDER_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rEnder Bitkisi'
   type:
   - '&7&oSihirli'
 FISH_SANDWICH:
+  name: '&rBalıklı Sandviç'
   stats:
   - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 FISH_TACO:
+  name: '&rBalıklı Tako'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 FRIES:
+  name: '&rPatates Kızartması'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GARLIC:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&rSarımsak'
   type:
   - '&7&oYiyecek'
 GARLIC_BREAD:
+  name: '&rSarımsaklı Ekmek'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GARLIC_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&rSarımsak Bitkisi'
   type:
   - '&7&oBileşen'
 GARLIC_CHEESE_BREAD:
+  name: '&rSarımsaklı Peynirli Ekmek'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Işıktaşı'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rIşıktaşı Bitkisi'
   type:
   - '&7&oSihirli'
 GOLD_ESSENCE:
+  description:
+  - '&7Altın'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 GOLD_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rAltın Bitkisi'
   type:
   - '&7&oSihirli'
 GRAPE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cÜzüm'
   type:
   - '&7&oYiyecek'
 GRAPE_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&cÜzüm Çalısı'
   type:
   - '&7&oBileşen'
 GRAPE_JELLY_SANDWICH:
+  name: '&cÜzüm Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_JUICE:
+  name: '&cÜzüm Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_PIE:
+  name: '&cÜzüm Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_SALAD:
+  name: '&cÜzümlü Salata'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRAPE_SMOOTHIE:
+  name: '&cÜzüm Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 GRASS_SEEDS:
+  description:
+  - '&7Yenilenebilir bir uzun çim kaynağı - fidan ve çalı tohumu için kes.'
+  name: '&rÇim Tohumu'
   type:
   - '&7&oCihaz'
+  usage:
+  - '&7&oToprağa ekilebilir'
 GRILLED_SANDWICH:
+  name: '&rIzgara Sandviç'
   stats:
   - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 HOT_CHOCOLATE:
+  name: '&6Sıcak Çikolata'
   stats:
   - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 HOT_DOG:
+  name: '&rSosisli Sandviç'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ICE_CREAM:
+  name: '&rDondurma'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ICE_CUBE:
+  name: '&bBuz Küpü'
   type:
   - '&7&oBileşen'
 IRON_ESSENCE:
+  description:
+  - '&7Demir'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 IRON_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rDemir Bitkisi'
   type:
   - '&7&oSihirli'
 JAMMY_DODGER:
+  name: '&cReçelli Bisküvi'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 KITCHEN:
+  description:
+  - '&a&oBurada bir sürü farklı lezzet hazırlayabilirsin!'
+  name: '&eMutfak'
   type:
   - '&7&oYapı'
+  usage:
+  - '&a&oSonuç Fırının çıkış yuvasına gelir'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 LAPIS_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rLapis Bitkisi'
   type:
   - '&7&oSihirli'
 LASAGNA:
+  name: '&rLazanya'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEAD_ESSENCE:
+  description:
+  - '&7Kurşun'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 LEAD_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rKurşun Bitkisi'
   type:
   - '&7&oSihirli'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rMarullu Tavuklu Sandviç'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEAFY_FISH_SANDWICH:
+  name: '&rMarullu Balıklı Sandviç'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&eLimon'
   type:
   - '&7&oYiyecek'
 LEMONADE:
+  name: '&eLimonata'
   stats:
   - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_ICED_TEA:
+  name: '&eBuzlu Limonlu Çay'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_JUICE:
+  name: '&eLimon Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_PIE:
+  name: '&eLimon Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LEMON_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&eLimon Fidanı'
   type:
   - '&7&oBileşen'
 LETTUCE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&2Marul'
   type:
   - '&7&oYiyecek'
 LETTUCE_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&2Marul Bitkisi'
   type:
   - '&7&oBileşen'
 LIME:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&aMisket Limonu'
   type:
   - '&7&oYiyecek'
 LIME_JUICE:
+  name: '&aMisket Limonu Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LIME_PIE:
+  name: '&aMisket Limonu Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 LIME_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&aMisket Limonu Fidanı'
   type:
   - '&7&oBileşen'
 LIME_SMOOTHIE:
+  name: '&aMisket Limonu Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 MAYO:
+  name: '&rMayonez'
   type:
   - '&7&oBileşen'
 MOLASSES:
+  name: '&8Pekmez'
   type:
   - '&7&oBileşen'
 MUSTARD:
+  name: '&eHardal'
   type:
   - '&7&oBileşen'
 MUSTARD_SEED:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&eHardal Tohumu'
   type:
   - '&7&oYiyecek'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&eHardal Tohumu Bitkisi'
   type:
   - '&7&oBileşen'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherit'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 NETHERITE_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rNetherit Bitkisi'
   type:
   - '&7&oSihirli'
 OAK_APPLE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cMeşe Elması'
   type:
   - '&7&oYiyecek'
 OAK_APPLE_JUICE:
+  name: '&cMeşe Elması Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 OAK_APPLE_PIE:
+  name: '&cMeşe Elması Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&cMeşe Elması Fidanı'
   type:
   - '&7&oBileşen'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidyen'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rObsidyen Bitkisi'
   type:
   - '&7&oSihirli'
 ONION:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cSoğan'
   type:
   - '&7&oYiyecek'
 ONION_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&cSoğan Bitkisi'
   type:
   - '&7&oBileşen'
 ORANGE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&6Portakal'
   type:
   - '&7&oYiyecek'
 ORANGE_JUICE:
+  name: '&6Portakal Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ORANGE_PIE:
+  name: '&6Portakal Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 ORANGE_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&6Portakal Fidanı'
   type:
   - '&7&oBileşen'
 PANCAKES:
+  name: '&rPankek'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&5Şeftali'
   type:
   - '&7&oYiyecek'
 PEACH_ICED_TEA:
+  name: '&dBuzlu Şeftalili Çay'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH_JUICE:
+  name: '&5Şeftali Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH_PIE:
+  name: '&5Şeftali Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEACH_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&5Şeftali Fidanı'
   type:
   - '&7&oBileşen'
 PEAR:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&aArmut'
   type:
   - '&7&oYiyecek'
 PEAR_JUICE:
+  name: '&aArmut Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEAR_PIE:
+  name: '&aArmut Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PEAR_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&aArmut Fidanı'
   type:
   - '&7&oBileşen'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oAçlığı &b&o7.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PINEAPPLE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&6Ananas'
   type:
   - '&7&oYiyecek'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&6Ananas Bitkisi'
   type:
   - '&7&oBileşen'
 PINEAPPLE_JUICE:
+  name: '&6Ananas Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananas Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PLUM:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&5Erik'
   type:
   - '&7&oYiyecek'
 PLUM_JUICE:
+  name: '&5Erik Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PLUM_PIE:
+  name: '&5Erik Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PLUM_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&5Erik Fidanı'
   type:
   - '&7&oBileşen'
 POMEGRANATE:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&4Nar'
   type:
   - '&7&oYiyecek'
 POMEGRANATE_JUICE:
+  name: '&4Nar Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 POMEGRANATE_PIE:
+  name: '&4Nar Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Meyve ağacı büyütmek için toprağa ek.'
+  - '&7Hasat için verdiği meyve bloklarına vur.'
+  name: '&4Nar Fidanı'
   type:
   - '&7&oBileşen'
 POPCORN:
+  name: '&rPatlamış Mısır'
   stats:
   - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 POTATO_SALAD:
+  name: '&rPatates Salatası'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PUMPKIN_BREAD:
+  name: '&rBalkabaklı Ekmek'
   stats:
   - '&7&oAçlığı &b&o4.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PUMPKIN_CHEESECAKE:
+  name: '&6Balkabaklı Peynirli Kek'
   stats:
   - '&7&oAçlığı &b&o8.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 PUMPKIN_MUFFIN:
+  name: '&rBalkabaklı Kek'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kuvars'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 QUARTZ_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rKuvars Bitkisi'
   type:
   - '&7&oSihirli'
 RASPBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&dAhududu'
   type:
   - '&7&oYiyecek'
 RASPBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&dAhududu Çalısı'
   type:
   - '&7&oBileşen'
 RASPBERRY_ICED_TEA:
+  name: '&dBuzlu Ahududulu Çay'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dAhududu Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_JUICE:
+  name: '&dAhududu Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_PIE:
+  name: '&dAhududu Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 RASPBERRY_SMOOTHIE:
+  name: '&dAhududu Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Kızıltaş'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 REDSTONE_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rKızıltaş Bitkisi'
   type:
   - '&7&oSihirli'
 RED_BELL_PEPPER:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&cKırmızı Dolmalık Biber'
   type:
   - '&7&oYiyecek'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&cKırmızı Dolmalık Biber Bitkisi'
   type:
   - '&7&oBileşen'
 SALTY_POPCORN:
+  name: '&rPatlamış Mısır &7(Tuzlu)'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SANDWICH:
+  name: '&rSandviç'
   stats:
   - '&7&oAçlığı &b&o9.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SHEPARDS_PIE:
+  name: '&rÇoban Turtası'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SILVER_ESSENCE:
+  description:
+  - '&7Gümüş'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 SILVER_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rGümüş Bitkisi'
   type:
   - '&7&oSihirli'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 SLIME_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rSlime Bitkisi'
   type:
   - '&7&oSihirli'
 STRAWBERRY:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&4Çilek'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&4Çilek Çalısı'
   type:
   - '&7&oBileşen'
 STRAWBERRY_ICED_TEA:
+  name: '&4Buzlu Çilekli Çay'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Çilek Reçelli Sandviç'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_JUICE:
+  name: '&4Çilek Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_PIE:
+  name: '&4Çilek Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_SALAD:
+  name: '&cÇilekli Salata'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Çilek Smoothie'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STREET_TACO:
+  name: '&rSokak Takosu'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cKırmızı Biber Dolması'
   stats:
   - '&7&oAçlığı &b&o7.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Şekerli Armutlu Peynirli Kek'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEETENED_TEA:
+  name: '&aŞekerli Çay'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEET_BERRY_PANCAKES:
+  name: '&rTatlı Meyveli Pankek'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEET_POPCORN:
+  name: '&rPatlamış Mısır &7(Tatlı)'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 SWEET_POTATO:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&6Tatlı Patates'
   type:
   - '&7&oYiyecek'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&6Tatlı Patates Bitkisi'
   type:
   - '&7&oBileşen'
 SWEET_POTATO_PIE:
+  name: '&rTatlı Patates Turtası'
   stats:
   - '&7&oAçlığı &b&o6.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TACO:
+  name: '&rTako'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TEA_LEAF:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&aÇay Yaprağı'
   type:
   - '&7&oYiyecek'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&aÇay Yaprağı Bitkisi'
   type:
   - '&7&oBileşen'
 THAI_TEA:
+  name: '&6Tayland Çayı'
   stats:
   - '&7&oAçlığı &b&o7.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIN_ESSENCE:
+  description:
+  - '&7Kalay'
+  - '&7Kaynağı büyütmek için eşleşen Bitkiyi üret.'
+  name: '&rBüyülü Öz'
   type:
   - '&7&oSihirli'
 TIN_PLANT:
+  description:
+  - '&7Büyülü bir ekin. Toprağa ek, bırak büyüsün, sonra kaynağı için hasat et.'
+  - '&7Daha yüksek kademeler tarifte önceki kademenin bitkisini gerektirir.'
+  name: '&rKalay Bitkisi'
   type:
   - '&7&oSihirli'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oAçlığı &b&o8.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rBöğürtlenli Tiramisu'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rAhududulu Tiramisu'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rÇilekli Tiramisu'
   stats:
   - '&7&oAçlığı &b&o9.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TOMATO:
+  description:
+  - '&7Taze bir Egzotik Bahçe hasadı.'
+  - '&7Çiğ ye, meyve suyu yap ya da bir yemeğe pişir.'
+  name: '&4Domates'
   type:
   - '&7&oYiyecek'
 TOMATO_BUSH:
+  description:
+  - '&7Toprağa ek, yavaşça olgunlaşır.'
+  - '&7Olgunken sağ tıkla, yok etmeden hasat et.'
+  name: '&4Domates Bitkisi'
   type:
   - '&7&oBileşen'
 TOMATO_JUICE:
+  name: '&4Domates Suyu'
   stats:
   - '&7&oAçlığı &b&o3.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 TOMATO_SOUP:
+  name: '&4Domates Çorbası'
   stats:
   - '&7&oAçlığı &b&o5.5 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 VEGETABLE_OIL:
+  name: '&rBitkisel Yağ'
   type:
   - '&7&oBileşen'
 WAFFLES:
+  name: '&rWaffle'
   stats:
   - '&7&oAçlığı &b&o6.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 WINE:
+  name: '&cŞarap'
   stats:
   - '&7&oAçlığı &b&o5.0 &7&odoldurur'
   type:
   - '&7&oYiyecek'
 YEAST:
+  name: '&rMaya'
   type:
   - '&7&oBileşen'
