@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Alluminio'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 ALUMINUM_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rAlluminio Pianta'
   type:
   - '&7&oMagico'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&oCibo'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Quando cucino" - @Eyamaz'
   name: '&rHot dog avvolto nella pancetta e ripieno di formaggio'
   stats:
   - '&7&oRipristina &b&o8.5 &7&opunti Fame'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&oCibo'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"vuoi parlare di hot dog?" - @Pahimar'
   name: '&rHot dog BBQ avvolto nella pancetta'
   stats:
   - '&7&oRipristina &b&o8.5 &7&opunti Fame'
   type:
   - '&7&oCibo'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Quando cucino" - @Eyamaz'
   name: '&rHot dog BBQ con doppia pancetta in tortilla con formaggio'
   stats:
   - '&7&oRipristina &b&o10.0 &7&opunti Fame'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&oCibo'
 BLACKBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&8Mora'
   type:
   - '&7&oCibo'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&8Mora Cespuglio'
   type:
   - '&7&oComponente'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&oCibo'
 BLACK_PEPPER:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&8Pepe nero'
   type:
   - '&7&oCibo'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&8Pepe nero Pianta'
   type:
   - '&7&oComponente'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&oCibo'
 BLUEBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&9Mirtillo'
   type:
   - '&7&oCibo'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&9Mirtillo Cespuglio'
   type:
   - '&7&oComponente'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&oCibo'
 CABBAGE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&2Cavolo'
   type:
   - '&7&oCibo'
 CABBAGE_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&2Cavolo Pianta'
   type:
   - '&7&oComponente'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&oCibo'
 CHERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cCiliegia'
   type:
   - '&7&oCibo'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&oCibo'
 CHERRY_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&cCiliegia Alberello'
   type:
   - '&7&oComponente'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&oCibo'
 CILANTRO:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&aCoriandolo'
   type:
   - '&7&oCibo'
 CILANTRO_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&aCoriandolo Pianta'
   type:
   - '&7&oComponente'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&oCibo'
 COAL_ESSENCE:
+  description:
+  - '&7Carbone'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 COAL_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rCarbone Pianta'
   type:
   - '&7&oMagico'
 COCONUT:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&6Cocco'
   type:
   - '&7&oCibo'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&oCibo'
 COCONUT_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&6Cocco Alberello'
   type:
   - '&7&oComponente'
 COPPER_ESSENCE:
+  description:
+  - '&7Rame'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 COPPER_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rRame Pianta'
   type:
   - '&7&oMagico'
 CORN:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&6Mais'
   type:
   - '&7&oCibo'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&oComponente'
 CORN_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&6Mais Pianta'
   type:
   - '&7&oComponente'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&oComponente'
 COWBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cMirtillo rosso di bosco'
   type:
   - '&7&oCibo'
 COWBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&cMirtillo rosso di bosco Cespuglio'
   type:
   - '&7&oComponente'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&oCibo'
 CRANBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cMirtillo rosso'
   type:
   - '&7&oCibo'
 CRANBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&cMirtillo rosso Cespuglio'
   type:
   - '&7&oComponente'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&oCibo'
 CROOK:
+  description:
+  - '&7Una zappa di legno usata per raccogliere le piante del giardino.'
   name: '&rFalcetto'
+  stats:
+  - '&7+ &b25% &7di Probabilità di Alberelli'
   type:
   - '&7&oStrumento'
 CURRY_LEAF:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&2Foglia di curry'
   type:
   - '&7&oCibo'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&2Foglia di curry Pianta'
   type:
   - '&7&oComponente'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&oCibo'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamante'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 DIAMOND_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rDiamante Pianta'
   type:
   - '&7&oMagico'
 DIRT_ESSENCE:
+  description:
+  - '&7Terra'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 DIRT_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rTerra Pianta'
   type:
   - '&7&oMagico'
 DRAGON_FRUIT:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&dFrutto del drago'
   type:
   - '&7&oCibo'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&oCibo'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&dFrutto del drago Alberello'
   type:
   - '&7&oComponente'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&oCibo'
 ELDERBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cBacca di sambuco'
   type:
   - '&7&oCibo'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&cBacca di sambuco Cespuglio'
   type:
   - '&7&oComponente'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&oCibo'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smeraldo'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 EMERALD_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rSmeraldo Pianta'
   type:
   - '&7&oMagico'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 ENDER_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rEnder Pianta'
   type:
   - '&7&oMagico'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&oCibo'
 GARLIC:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&rAglio'
   type:
   - '&7&oCibo'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&oCibo'
 GARLIC_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&rAglio Pianta'
   type:
   - '&7&oComponente'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&oCibo'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Pietraluminosa'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rPietraluminosa Pianta'
   type:
   - '&7&oMagico'
 GOLD_ESSENCE:
+  description:
+  - '&7Oro'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 GOLD_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rOro Pianta'
   type:
   - '&7&oMagico'
 GRAPE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cUva'
   type:
   - '&7&oCibo'
 GRAPE_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&cUva Cespuglio'
   type:
   - '&7&oComponente'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&oCibo'
 GRASS_SEEDS:
+  description:
+  - '&7Una fonte rinnovabile di erba alta - tagliala per alberelli e semi di cespuglio.'
   name: '&rSemi d''erba'
   type:
   - '&7&oGadget'
+  usage:
+  - '&7&oPuò essere piantata sulla terra'
 GRILLED_SANDWICH:
   name: '&rPanino alla griglia'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&oComponente'
 IRON_ESSENCE:
+  description:
+  - '&7Ferro'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 IRON_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rFerro Pianta'
   type:
   - '&7&oMagico'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&oCibo'
 KITCHEN:
+  description:
+  - '&a&oQui puoi preparare un sacco di bontà diverse!'
   name: '&eCucina'
   type:
   - '&7&oMultiblocco'
+  usage:
+  - '&a&oIl risultato finisce nello slot di uscita della Fornace'
 LAMINGTON:
   name: '&rLamington'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&oCibo'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 LAPIS_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rLapislazzuli Pianta'
   type:
   - '&7&oMagico'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&oCibo'
 LEAD_ESSENCE:
+  description:
+  - '&7Piombo'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 LEAD_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rPiombo Pianta'
   type:
   - '&7&oMagico'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&oCibo'
 LEMON:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&eLimone'
   type:
   - '&7&oCibo'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&oCibo'
 LEMON_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&eLimone Alberello'
   type:
   - '&7&oComponente'
 LETTUCE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&2Lattuga'
   type:
   - '&7&oCibo'
 LETTUCE_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&2Lattuga Pianta'
   type:
   - '&7&oComponente'
 LIME:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&aLime'
   type:
   - '&7&oCibo'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&oCibo'
 LIME_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&aLime Alberello'
   type:
   - '&7&oComponente'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&oComponente'
 MUSTARD_SEED:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&eSeme di senape'
   type:
   - '&7&oCibo'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&eSeme di senape Pianta'
   type:
   - '&7&oComponente'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 NETHERITE_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rNetherite Pianta'
   type:
   - '&7&oMagico'
 OAK_APPLE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cMela di quercia'
   type:
   - '&7&oCibo'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&oCibo'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&cMela di quercia Alberello'
   type:
   - '&7&oComponente'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Ossidiana'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rOssidiana Pianta'
   type:
   - '&7&oMagico'
 ONION:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cCipolla'
   type:
   - '&7&oCibo'
 ONION_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&cCipolla Pianta'
   type:
   - '&7&oComponente'
 ORANGE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&6Arancia'
   type:
   - '&7&oCibo'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&oCibo'
 ORANGE_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&6Arancia Alberello'
   type:
   - '&7&oComponente'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&oCibo'
 PEACH:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&5Pesca'
   type:
   - '&7&oCibo'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&oCibo'
 PEACH_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&5Pesca Alberello'
   type:
   - '&7&oComponente'
 PEAR:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&aPera'
   type:
   - '&7&oCibo'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&oCibo'
 PEAR_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&aPera Alberello'
   type:
   - '&7&oComponente'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&oCibo'
 PINEAPPLE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&6Ananas'
   type:
   - '&7&oCibo'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&6Ananas Pianta'
   type:
   - '&7&oComponente'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&oCibo'
 PLUM:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&5Prugna'
   type:
   - '&7&oCibo'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&oCibo'
 PLUM_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&5Prugna Alberello'
   type:
   - '&7&oComponente'
 POMEGRANATE:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&4Melagrana'
   type:
   - '&7&oCibo'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&oCibo'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Piantalo sulla terra per far crescere un albero da frutto.'
+  - '&7Colpisci i Blocchi di frutta che produce per raccoglierli.'
   name: '&4Melagrana Alberello'
   type:
   - '&7&oComponente'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&oCibo'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Quarzo'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 QUARTZ_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rQuarzo Pianta'
   type:
   - '&7&oMagico'
 RASPBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&dLampone'
   type:
   - '&7&oCibo'
 RASPBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&dLampone Cespuglio'
   type:
   - '&7&oComponente'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&oCibo'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 REDSTONE_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rRedstone Pianta'
   type:
   - '&7&oMagico'
 RED_BELL_PEPPER:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&cPeperone rosso'
   type:
   - '&7&oCibo'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&cPeperone rosso Pianta'
   type:
   - '&7&oComponente'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&oCibo'
 SILVER_ESSENCE:
+  description:
+  - '&7Argento'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 SILVER_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rArgento Pianta'
   type:
   - '&7&oMagico'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 SLIME_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rMelma Pianta'
   type:
   - '&7&oMagico'
 STRAWBERRY:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&4Fragola'
   type:
   - '&7&oCibo'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&4Fragola Cespuglio'
   type:
   - '&7&oComponente'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&oCibo'
 SWEET_POTATO:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&6Patata dolce'
   type:
   - '&7&oCibo'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&6Patata dolce Pianta'
   type:
   - '&7&oComponente'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&oCibo'
 TEA_LEAF:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&aFoglia di tè'
   type:
   - '&7&oCibo'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&aFoglia di tè Pianta'
   type:
   - '&7&oComponente'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&oCibo'
 TIN_ESSENCE:
+  description:
+  - '&7Stagno'
+  - '&7Fabbricala nella Pianta corrispondente per coltivare la risorsa.'
   name: '&rEssenza magica'
   type:
   - '&7&oMagico'
 TIN_PLANT:
+  description:
+  - '&7Una coltura magica. Piantala sulla terra e lasciala crescere, poi raccoglila per la sua risorsa.'
+  - '&7I livelli superiori richiedono la Pianta del livello precedente nella ricetta.'
   name: '&rStagno Pianta'
   type:
   - '&7&oMagico'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&oCibo'
 TOMATO:
+  description:
+  - '&7Un fresco raccolto del Giardino Esotico.'
+  - '&7Mangialo crudo, fanne succo o cuocilo in un piatto.'
   name: '&4Pomodoro'
   type:
   - '&7&oCibo'
 TOMATO_BUSH:
+  description:
+  - '&7Piantalo sulla terra e matura lentamente.'
+  - '&7Clic destro quando è maturo per raccoglierlo senza distruggerlo.'
   name: '&4Pomodoro Pianta'
   type:
   - '&7&oComponente'
