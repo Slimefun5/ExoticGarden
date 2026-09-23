@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7铝'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 ALUMINUM_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r铝植株'
   type:
   - '&7&o魔法'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&o食物'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o“当我下厨时” - @Eyamaz'
   name: '&r培根芝士夹心热狗'
   stats:
   - '&7&o恢复 &b&o8.5 &7&o点饥饿值'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&o食物'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o“想聊聊热狗吗？” - @Pahimar'
   name: '&r烧烤培根卷热狗'
   stats:
   - '&7&o恢复 &b&o8.5 &7&o点饥饿值'
   type:
   - '&7&o食物'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o“当我下厨时” - @Eyamaz'
   name: '&r芝士玉米饼双层培根烧烤热狗'
   stats:
   - '&7&o恢复 &b&o10.0 &7&o点饥饿值'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&o食物'
 BLACKBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&8黑莓'
   type:
   - '&7&o食物'
 BLACKBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&8黑莓灌木'
   type:
   - '&7&o组件'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&o食物'
 BLACK_PEPPER:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&8黑胡椒'
   type:
   - '&7&o食物'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&8黑胡椒植株'
   type:
   - '&7&o组件'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&o食物'
 BLUEBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&9蓝莓'
   type:
   - '&7&o食物'
 BLUEBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&9蓝莓灌木'
   type:
   - '&7&o组件'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&o食物'
 CABBAGE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&2卷心菜'
   type:
   - '&7&o食物'
 CABBAGE_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&2卷心菜植株'
   type:
   - '&7&o组件'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&o食物'
 CHERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c樱桃'
   type:
   - '&7&o食物'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&o食物'
 CHERRY_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&c樱桃树苗'
   type:
   - '&7&o组件'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&o食物'
 CILANTRO:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&a香菜'
   type:
   - '&7&o食物'
 CILANTRO_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&a香菜植株'
   type:
   - '&7&o组件'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&o食物'
 COAL_ESSENCE:
+  description:
+  - '&7煤炭'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 COAL_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r煤炭植株'
   type:
   - '&7&o魔法'
 COCONUT:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&6椰子'
   type:
   - '&7&o食物'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&o食物'
 COCONUT_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&6椰子树苗'
   type:
   - '&7&o组件'
 COPPER_ESSENCE:
+  description:
+  - '&7铜'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 COPPER_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r铜植株'
   type:
   - '&7&o魔法'
 CORN:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&6玉米'
   type:
   - '&7&o食物'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&o组件'
 CORN_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&6玉米植株'
   type:
   - '&7&o组件'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&o组件'
 COWBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c越橘'
   type:
   - '&7&o食物'
 COWBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&c越橘灌木'
   type:
   - '&7&o组件'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&o食物'
 CRANBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c蔓越莓'
   type:
   - '&7&o食物'
 CRANBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&c蔓越莓灌木'
   type:
   - '&7&o组件'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&o食物'
 CROOK:
+  description:
+  - '&7一把木锄，用于收获花园植物。'
   name: '&r采集钩'
+  stats:
+  - '&7+ &b25% &7树苗掉落率'
   type:
   - '&7&o工具'
 CURRY_LEAF:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&2咖喱叶'
   type:
   - '&7&o食物'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&2咖喱叶植株'
   type:
   - '&7&o组件'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&o食物'
 DIAMOND_ESSENCE:
+  description:
+  - '&7钻石'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 DIAMOND_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r钻石植株'
   type:
   - '&7&o魔法'
 DIRT_ESSENCE:
+  description:
+  - '&7泥土'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 DIRT_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r泥土植株'
   type:
   - '&7&o魔法'
 DRAGON_FRUIT:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&d火龙果'
   type:
   - '&7&o食物'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&o食物'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&d火龙果树苗'
   type:
   - '&7&o组件'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&o食物'
 ELDERBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c接骨木莓'
   type:
   - '&7&o食物'
 ELDERBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&c接骨木莓灌木'
   type:
   - '&7&o组件'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&o食物'
 EMERALD_ESSENCE:
+  description:
+  - '&7绿宝石'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 EMERALD_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r绿宝石植株'
   type:
   - '&7&o魔法'
 ENDER_ESSENCE:
+  description:
+  - '&7末影'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 ENDER_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r末影植株'
   type:
   - '&7&o魔法'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&o食物'
 GARLIC:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&r大蒜'
   type:
   - '&7&o食物'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&o食物'
 GARLIC_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&r大蒜植株'
   type:
   - '&7&o组件'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&o食物'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7萤石'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 GLOWSTONE_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r荧石植株'
   type:
   - '&7&o魔法'
 GOLD_ESSENCE:
+  description:
+  - '&7金'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 GOLD_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r金植株'
   type:
   - '&7&o魔法'
 GRAPE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c葡萄'
   type:
   - '&7&o食物'
 GRAPE_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&c葡萄灌木'
   type:
   - '&7&o组件'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&o食物'
 GRASS_SEEDS:
+  description:
+  - '&7可再生的高草来源 - 割取它可获得树苗和灌木种子。'
   name: '&r草种子'
   type:
   - '&7&o装置'
+  usage:
+  - '&7&o可以种在泥土上'
 GRILLED_SANDWICH:
   name: '&r烤三明治'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&o组件'
 IRON_ESSENCE:
+  description:
+  - '&7铁'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 IRON_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r铁植株'
   type:
   - '&7&o魔法'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&o食物'
 KITCHEN:
+  description:
+  - '&a&o你可以在这里做出许多不同的美食！'
   name: '&e厨房'
   type:
   - '&7&o多方块'
+  usage:
+  - '&a&o成品会出现在熔炉的输出槽位中'
 LAMINGTON:
   name: '&r拉明顿蛋糕'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&o食物'
 LAPIS_ESSENCE:
+  description:
+  - '&7青金石'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 LAPIS_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r青金石植株'
   type:
   - '&7&o魔法'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&o食物'
 LEAD_ESSENCE:
+  description:
+  - '&7铅'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 LEAD_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r铅植株'
   type:
   - '&7&o魔法'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&o食物'
 LEMON:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&e柠檬'
   type:
   - '&7&o食物'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&o食物'
 LEMON_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&e柠檬树苗'
   type:
   - '&7&o组件'
 LETTUCE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&2生菜'
   type:
   - '&7&o食物'
 LETTUCE_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&2生菜植株'
   type:
   - '&7&o组件'
 LIME:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&a青柠'
   type:
   - '&7&o食物'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&o食物'
 LIME_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&a青柠树苗'
   type:
   - '&7&o组件'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&o组件'
 MUSTARD_SEED:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&e芥菜籽'
   type:
   - '&7&o食物'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&e芥菜籽植株'
   type:
   - '&7&o组件'
 NETHERITE_ESSENCE:
+  description:
+  - '&7下界合金'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 NETHERITE_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r下界合金植株'
   type:
   - '&7&o魔法'
 OAK_APPLE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c橡果苹果'
   type:
   - '&7&o食物'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&o食物'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&c橡果苹果树苗'
   type:
   - '&7&o组件'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7黑曜石'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 OBSIDIAN_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r黑曜石植株'
   type:
   - '&7&o魔法'
 ONION:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c洋葱'
   type:
   - '&7&o食物'
 ONION_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&c洋葱植株'
   type:
   - '&7&o组件'
 ORANGE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&6橙子'
   type:
   - '&7&o食物'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&o食物'
 ORANGE_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&6橙子树苗'
   type:
   - '&7&o组件'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&o食物'
 PEACH:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&5桃子'
   type:
   - '&7&o食物'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&o食物'
 PEACH_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&5桃子树苗'
   type:
   - '&7&o组件'
 PEAR:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&a梨'
   type:
   - '&7&o食物'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&o食物'
 PEAR_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&a梨树苗'
   type:
   - '&7&o组件'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&o食物'
 PINEAPPLE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&6菠萝'
   type:
   - '&7&o食物'
 PINEAPPLE_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&6菠萝植株'
   type:
   - '&7&o组件'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&o食物'
 PLUM:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&5李子'
   type:
   - '&7&o食物'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&o食物'
 PLUM_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&5李子树苗'
   type:
   - '&7&o组件'
 POMEGRANATE:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&4石榴'
   type:
   - '&7&o食物'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&o食物'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7种在泥土上即可生长出果树。'
+  - '&7敲击它结出的水果方块即可收获。'
   name: '&4石榴树苗'
   type:
   - '&7&o组件'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&o食物'
 QUARTZ_ESSENCE:
+  description:
+  - '&7石英'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 QUARTZ_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r石英植株'
   type:
   - '&7&o魔法'
 RASPBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&d覆盆子'
   type:
   - '&7&o食物'
 RASPBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&d覆盆子灌木'
   type:
   - '&7&o组件'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&o食物'
 REDSTONE_ESSENCE:
+  description:
+  - '&7红石'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 REDSTONE_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r红石植株'
   type:
   - '&7&o魔法'
 RED_BELL_PEPPER:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&c红甜椒'
   type:
   - '&7&o食物'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&c红甜椒植株'
   type:
   - '&7&o组件'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&o食物'
 SILVER_ESSENCE:
+  description:
+  - '&7银'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 SILVER_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r银植株'
   type:
   - '&7&o魔法'
 SLIME_ESSENCE:
+  description:
+  - '&7史莱姆'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 SLIME_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r黏液植株'
   type:
   - '&7&o魔法'
 STRAWBERRY:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&4草莓'
   type:
   - '&7&o食物'
 STRAWBERRY_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&4草莓灌木'
   type:
   - '&7&o组件'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&o食物'
 SWEET_POTATO:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&6红薯'
   type:
   - '&7&o食物'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&6红薯植株'
   type:
   - '&7&o组件'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&o食物'
 TEA_LEAF:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&a茶叶'
   type:
   - '&7&o食物'
 TEA_LEAF_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&a茶叶植株'
   type:
   - '&7&o组件'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&o食物'
 TIN_ESSENCE:
+  description:
+  - '&7锡'
+  - '&7将它合成为对应植物即可生长出该资源。'
   name: '&r魔法精华'
   type:
   - '&7&o魔法'
 TIN_PLANT:
+  description:
+  - '&7一种魔法作物。种在泥土上让它生长，然后收获其资源。'
+  - '&7更高等级的配方需要上一等级的植物。'
   name: '&r锡植株'
   type:
   - '&7&o魔法'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&o食物'
 TOMATO:
+  description:
+  - '&7新鲜的异域花园收获。'
+  - '&7可生食、榨汁，或烹饪成菜肴。'
   name: '&4番茄'
   type:
   - '&7&o食物'
 TOMATO_BUSH:
+  description:
+  - '&7种在泥土上，它会缓慢成熟。'
+  - '&7成熟时右键点击即可收获而不破坏它。'
   name: '&4番茄植株'
   type:
   - '&7&o组件'
