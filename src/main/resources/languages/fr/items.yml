@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminium'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 ALUMINUM_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rAluminium Plant'
   type:
   - '&7&oMagique'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&oNourriture'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Quand je cuisine" - @Eyamaz'
   name: '&rHot-dog enrobé de bacon et fourré au fromage'
   stats:
   - '&7&oRestaure &b&o8.5 &7&ofaim'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&oNourriture'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"on parle de hot-dogs ?" - @Pahimar'
   name: '&rHot-dog BBQ enrobé de bacon'
   stats:
   - '&7&oRestaure &b&o8.5 &7&ofaim'
   type:
   - '&7&oNourriture'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Quand je cuisine" - @Eyamaz'
   name: '&rHot-dog BBQ double bacon en tortilla au fromage'
   stats:
   - '&7&oRestaure &b&o10.0 &7&ofaim'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&oNourriture'
 BLACKBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&8Mûre'
   type:
   - '&7&oNourriture'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&8Mûre Buisson'
   type:
   - '&7&oComposant'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&oNourriture'
 BLACK_PEPPER:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&8Poivre noir'
   type:
   - '&7&oNourriture'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&8Poivre noir Plant'
   type:
   - '&7&oComposant'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&oNourriture'
 BLUEBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&9Myrtille'
   type:
   - '&7&oNourriture'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&9Myrtille Buisson'
   type:
   - '&7&oComposant'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&oNourriture'
 CABBAGE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&2Chou'
   type:
   - '&7&oNourriture'
 CABBAGE_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&2Chou Plant'
   type:
   - '&7&oComposant'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&oNourriture'
 CHERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cCerise'
   type:
   - '&7&oNourriture'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&oNourriture'
 CHERRY_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&cCerise Pousse'
   type:
   - '&7&oComposant'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&oNourriture'
 CILANTRO:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&aCoriandre'
   type:
   - '&7&oNourriture'
 CILANTRO_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&aCoriandre Plant'
   type:
   - '&7&oComposant'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&oNourriture'
 COAL_ESSENCE:
+  description:
+  - '&7Charbon'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 COAL_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rCharbon Plant'
   type:
   - '&7&oMagique'
 COCONUT:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&6Noix de coco'
   type:
   - '&7&oNourriture'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&oNourriture'
 COCONUT_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&6Noix de coco Pousse'
   type:
   - '&7&oComposant'
 COPPER_ESSENCE:
+  description:
+  - '&7Cuivre'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 COPPER_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rCuivre Plant'
   type:
   - '&7&oMagique'
 CORN:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&6Maïs'
   type:
   - '&7&oNourriture'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&oComposant'
 CORN_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&6Maïs Plant'
   type:
   - '&7&oComposant'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&oComposant'
 COWBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cAirelle'
   type:
   - '&7&oNourriture'
 COWBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&cAirelle Buisson'
   type:
   - '&7&oComposant'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&oNourriture'
 CRANBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cCanneberge'
   type:
   - '&7&oNourriture'
 CRANBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&cCanneberge Buisson'
   type:
   - '&7&oComposant'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&oNourriture'
 CROOK:
+  description:
+  - '&7Une houe en bois utilisée pour récolter les plantes du jardin.'
   name: '&rHoulette'
+  stats:
+  - '&7+ &b25% &7de taux d''obtention de Pousses'
   type:
   - '&7&oOutil'
 CURRY_LEAF:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&2Feuille de curry'
   type:
   - '&7&oNourriture'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&2Feuille de curry Plant'
   type:
   - '&7&oComposant'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&oNourriture'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 DIAMOND_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rDiamant Plant'
   type:
   - '&7&oMagique'
 DIRT_ESSENCE:
+  description:
+  - '&7Terre'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 DIRT_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rTerre Plant'
   type:
   - '&7&oMagique'
 DRAGON_FRUIT:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&dFruit du dragon'
   type:
   - '&7&oNourriture'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&oNourriture'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&dFruit du dragon Pousse'
   type:
   - '&7&oComposant'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&oNourriture'
 ELDERBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cBaie de sureau'
   type:
   - '&7&oNourriture'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&cBaie de sureau Buisson'
   type:
   - '&7&oComposant'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&oNourriture'
 EMERALD_ESSENCE:
+  description:
+  - '&7Émeraude'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 EMERALD_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rÉmeraude Plant'
   type:
   - '&7&oMagique'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 ENDER_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rEnder Plant'
   type:
   - '&7&oMagique'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&oNourriture'
 GARLIC:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&rAil'
   type:
   - '&7&oNourriture'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&oNourriture'
 GARLIC_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&rAil Plant'
   type:
   - '&7&oComposant'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&oNourriture'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Pierre lumineuse'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rPierre lumineuse Plant'
   type:
   - '&7&oMagique'
 GOLD_ESSENCE:
+  description:
+  - '&7Or'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 GOLD_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rOr Plant'
   type:
   - '&7&oMagique'
 GRAPE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cRaisin'
   type:
   - '&7&oNourriture'
 GRAPE_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&cRaisin Buisson'
   type:
   - '&7&oComposant'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&oNourriture'
 GRASS_SEEDS:
+  description:
+  - '&7Une source renouvelable d''herbe haute - coupez-la pour obtenir des pousses et des graines de buisson.'
   name: '&rGraines d''herbe'
   type:
   - '&7&oGadget'
+  usage:
+  - '&7&oPeut être planté sur de la terre'
 GRILLED_SANDWICH:
   name: '&rSandwich grillé'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&oComposant'
 IRON_ESSENCE:
+  description:
+  - '&7Fer'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 IRON_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rFer Plant'
   type:
   - '&7&oMagique'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&oNourriture'
 KITCHEN:
+  description:
+  - '&a&oVous pouvez préparer plein de bonnes choses ici !'
   name: '&eCuisine'
   type:
   - '&7&oMultibloc'
+  usage:
+  - '&a&oLe résultat apparaît dans l''emplacement de sortie du four'
 LAMINGTON:
   name: '&rLamington'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&oNourriture'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 LAPIS_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rLapis-lazuli Plant'
   type:
   - '&7&oMagique'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&oNourriture'
 LEAD_ESSENCE:
+  description:
+  - '&7Plomb'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 LEAD_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rPlomb Plant'
   type:
   - '&7&oMagique'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&oNourriture'
 LEMON:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&eCitron'
   type:
   - '&7&oNourriture'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&oNourriture'
 LEMON_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&eCitron Pousse'
   type:
   - '&7&oComposant'
 LETTUCE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&2Laitue'
   type:
   - '&7&oNourriture'
 LETTUCE_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&2Laitue Plant'
   type:
   - '&7&oComposant'
 LIME:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&aCitron vert'
   type:
   - '&7&oNourriture'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&oNourriture'
 LIME_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&aCitron vert Pousse'
   type:
   - '&7&oComposant'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&oComposant'
 MUSTARD_SEED:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&eGraine de moutarde'
   type:
   - '&7&oNourriture'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&eGraine de moutarde Plant'
   type:
   - '&7&oComposant'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 NETHERITE_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rNetherite Plant'
   type:
   - '&7&oMagique'
 OAK_APPLE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cPomme de chêne'
   type:
   - '&7&oNourriture'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&oNourriture'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&cPomme de chêne Pousse'
   type:
   - '&7&oComposant'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidienne'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rObsidienne Plant'
   type:
   - '&7&oMagique'
 ONION:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cOignon'
   type:
   - '&7&oNourriture'
 ONION_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&cOignon Plant'
   type:
   - '&7&oComposant'
 ORANGE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&6Orange'
   type:
   - '&7&oNourriture'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&oNourriture'
 ORANGE_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&6Orange Pousse'
   type:
   - '&7&oComposant'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&oNourriture'
 PEACH:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&5Pêche'
   type:
   - '&7&oNourriture'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&oNourriture'
 PEACH_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&5Pêche Pousse'
   type:
   - '&7&oComposant'
 PEAR:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&aPoire'
   type:
   - '&7&oNourriture'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&oNourriture'
 PEAR_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&aPoire Pousse'
   type:
   - '&7&oComposant'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&oNourriture'
 PINEAPPLE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&6Ananas'
   type:
   - '&7&oNourriture'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&6Ananas Plant'
   type:
   - '&7&oComposant'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&oNourriture'
 PLUM:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&5Prune'
   type:
   - '&7&oNourriture'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&oNourriture'
 PLUM_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&5Prune Pousse'
   type:
   - '&7&oComposant'
 POMEGRANATE:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&4Grenade'
   type:
   - '&7&oNourriture'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&oNourriture'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Plantez sur de la terre pour faire pousser un arbre fruitier.'
+  - '&7Frappez les blocs de fruits qu''il porte pour récolter.'
   name: '&4Grenade Pousse'
   type:
   - '&7&oComposant'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&oNourriture'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Quartz'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 QUARTZ_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rQuartz Plant'
   type:
   - '&7&oMagique'
 RASPBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&dFramboise'
   type:
   - '&7&oNourriture'
 RASPBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&dFramboise Buisson'
   type:
   - '&7&oComposant'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&oNourriture'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 REDSTONE_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rRedstone Plant'
   type:
   - '&7&oMagique'
 RED_BELL_PEPPER:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&cPoivron rouge'
   type:
   - '&7&oNourriture'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&cPoivron rouge Plant'
   type:
   - '&7&oComposant'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&oNourriture'
 SILVER_ESSENCE:
+  description:
+  - '&7Argent'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 SILVER_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rArgent Plant'
   type:
   - '&7&oMagique'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 SLIME_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rSlime Plant'
   type:
   - '&7&oMagique'
 STRAWBERRY:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&4Fraise'
   type:
   - '&7&oNourriture'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&4Fraise Buisson'
   type:
   - '&7&oComposant'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&oNourriture'
 SWEET_POTATO:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&6Patate douce'
   type:
   - '&7&oNourriture'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&6Patate douce Plant'
   type:
   - '&7&oComposant'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&oNourriture'
 TEA_LEAF:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&aFeuille de thé'
   type:
   - '&7&oNourriture'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&aFeuille de thé Plant'
   type:
   - '&7&oComposant'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&oNourriture'
 TIN_ESSENCE:
+  description:
+  - '&7Étain'
+  - '&7Fabriquez-en la Plante correspondante pour faire pousser la ressource.'
   name: '&rEssence magique'
   type:
   - '&7&oMagique'
 TIN_PLANT:
+  description:
+  - '&7Une culture magique. Plantez sur de la terre, laissez pousser, puis récoltez sa ressource.'
+  - '&7Les paliers supérieurs nécessitent la plante du palier précédent dans la recette.'
   name: '&rÉtain Plant'
   type:
   - '&7&oMagique'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&oNourriture'
 TOMATO:
+  description:
+  - '&7Une récolte fraîche du Jardin Exotique.'
+  - '&7Mangez-le cru, pressez-en le jus, ou cuisinez-en un plat.'
   name: '&4Tomate'
   type:
   - '&7&oNourriture'
 TOMATO_BUSH:
+  description:
+  - '&7Plantez sur de la terre et il mûrit lentement.'
+  - '&7Clic droit une fois mûr pour récolter sans le détruire.'
   name: '&4Tomate Plant'
   type:
   - '&7&oComposant'
