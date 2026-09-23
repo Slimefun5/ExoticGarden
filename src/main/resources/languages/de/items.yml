@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminium'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 ALUMINUM_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rAluminium Pflanze'
   type:
   - '&7&oMagisch'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&oNahrung'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Wenn ich koche" - @Eyamaz'
   name: '&rMit Speck umwickelter, mit Käse gefüllter Hot Dog'
   stats:
   - '&7&oStellt &b&o8.5 &7&oHunger wieder her'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&oNahrung'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"Wollen wir über Hotdogs reden?" - @Pahimar'
   name: '&rBBQ-Hot-Dog im Speckmantel'
   stats:
   - '&7&oStellt &b&o8.5 &7&oHunger wieder her'
   type:
   - '&7&oNahrung'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Wenn ich koche" - @Eyamaz'
   name: '&rBBQ-Hot-Dog mit doppeltem Speckmantel in einer Tortilla mit Käse'
   stats:
   - '&7&oStellt &b&o10.0 &7&oHunger wieder her'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&oNahrung'
 BLACKBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&8Brombeere'
   type:
   - '&7&oNahrung'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&8Brombeere Busch'
   type:
   - '&7&oKomponente'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&oNahrung'
 BLACK_PEPPER:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&8Schwarzer Pfeffer'
   type:
   - '&7&oNahrung'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&8Schwarzer Pfeffer Pflanze'
   type:
   - '&7&oKomponente'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&oNahrung'
 BLUEBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&9Blaubeere'
   type:
   - '&7&oNahrung'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&9Blaubeere Busch'
   type:
   - '&7&oKomponente'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&oNahrung'
 CABBAGE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&2Kohl'
   type:
   - '&7&oNahrung'
 CABBAGE_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&2Kohl Pflanze'
   type:
   - '&7&oKomponente'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&oNahrung'
 CHERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cKirsche'
   type:
   - '&7&oNahrung'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&oNahrung'
 CHERRY_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&cKirsche Setzling'
   type:
   - '&7&oKomponente'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&oNahrung'
 CILANTRO:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&aKoriander'
   type:
   - '&7&oNahrung'
 CILANTRO_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&aKoriander Pflanze'
   type:
   - '&7&oKomponente'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&oNahrung'
 COAL_ESSENCE:
+  description:
+  - '&7Kohle'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 COAL_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rKohle Pflanze'
   type:
   - '&7&oMagisch'
 COCONUT:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&6Kokosnuss'
   type:
   - '&7&oNahrung'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&oNahrung'
 COCONUT_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&6Kokosnuss Setzling'
   type:
   - '&7&oKomponente'
 COPPER_ESSENCE:
+  description:
+  - '&7Kupfer'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 COPPER_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rKupfer Pflanze'
   type:
   - '&7&oMagisch'
 CORN:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&6Mais'
   type:
   - '&7&oNahrung'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&oKomponente'
 CORN_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&6Mais Pflanze'
   type:
   - '&7&oKomponente'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&oKomponente'
 COWBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cMoosbeere'
   type:
   - '&7&oNahrung'
 COWBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&cMoosbeere Busch'
   type:
   - '&7&oKomponente'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&oNahrung'
 CRANBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cPreiselbeere'
   type:
   - '&7&oNahrung'
 CRANBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&cPreiselbeere Busch'
   type:
   - '&7&oKomponente'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&oNahrung'
 CROOK:
+  description:
+  - '&7Eine Holzhacke zum Ernten von Gartenpflanzen.'
   name: '&rHirtenstab'
+  stats:
+  - '&7+ &b25% &7Setzlings-Dropchance'
   type:
   - '&7&oWerkzeug'
 CURRY_LEAF:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&2Curryblatt'
   type:
   - '&7&oNahrung'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&2Curryblatt Pflanze'
   type:
   - '&7&oKomponente'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&oNahrung'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 DIAMOND_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rDiamant Pflanze'
   type:
   - '&7&oMagisch'
 DIRT_ESSENCE:
+  description:
+  - '&7Erde'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 DIRT_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rErde Pflanze'
   type:
   - '&7&oMagisch'
 DRAGON_FRUIT:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&dDrachenfrucht'
   type:
   - '&7&oNahrung'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&oNahrung'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&dDrachenfrucht Setzling'
   type:
   - '&7&oKomponente'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&oNahrung'
 ELDERBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cHolunderbeere'
   type:
   - '&7&oNahrung'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&cHolunderbeere Busch'
   type:
   - '&7&oKomponente'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&oNahrung'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragd'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 EMERALD_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rSmaragd Pflanze'
   type:
   - '&7&oMagisch'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 ENDER_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rEnder Pflanze'
   type:
   - '&7&oMagisch'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&oNahrung'
 GARLIC:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&rKnoblauch'
   type:
   - '&7&oNahrung'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&oNahrung'
 GARLIC_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&rKnoblauch Pflanze'
   type:
   - '&7&oKomponente'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&oNahrung'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Glowstone'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rLeuchtstein Pflanze'
   type:
   - '&7&oMagisch'
 GOLD_ESSENCE:
+  description:
+  - '&7Gold'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 GOLD_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rGold Pflanze'
   type:
   - '&7&oMagisch'
 GRAPE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cWeintraube'
   type:
   - '&7&oNahrung'
 GRAPE_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&cWeintraube Busch'
   type:
   - '&7&oKomponente'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&oNahrung'
 GRASS_SEEDS:
+  description:
+  - '&7Eine erneuerbare Quelle für hohes Gras - schneide es für Setzlinge und Buschsamen.'
   name: '&rGrassamen'
   type:
   - '&7&oGadget'
+  usage:
+  - '&7&oKann auf Erde gepflanzt werden'
 GRILLED_SANDWICH:
   name: '&rGegrilltes Sandwich'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&oKomponente'
 IRON_ESSENCE:
+  description:
+  - '&7Eisen'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 IRON_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rEisen Pflanze'
   type:
   - '&7&oMagisch'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&oNahrung'
 KITCHEN:
+  description:
+  - '&a&oHier kannst du allerlei Leckereien zubereiten!'
   name: '&eKüche'
   type:
   - '&7&oMultiblock'
+  usage:
+  - '&a&oDas Ergebnis landet im Ausgabefeld des Ofens'
 LAMINGTON:
   name: '&rLamington'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&oNahrung'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 LAPIS_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rLapislazuli Pflanze'
   type:
   - '&7&oMagisch'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&oNahrung'
 LEAD_ESSENCE:
+  description:
+  - '&7Blei'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 LEAD_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rBlei Pflanze'
   type:
   - '&7&oMagisch'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&oNahrung'
 LEMON:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&eZitrone'
   type:
   - '&7&oNahrung'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&oNahrung'
 LEMON_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&eZitrone Setzling'
   type:
   - '&7&oKomponente'
 LETTUCE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&2Kopfsalat'
   type:
   - '&7&oNahrung'
 LETTUCE_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&2Kopfsalat Pflanze'
   type:
   - '&7&oKomponente'
 LIME:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&aLimette'
   type:
   - '&7&oNahrung'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&oNahrung'
 LIME_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&aLimette Setzling'
   type:
   - '&7&oKomponente'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&oKomponente'
 MUSTARD_SEED:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&eSenfkorn'
   type:
   - '&7&oNahrung'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&eSenfkorn Pflanze'
   type:
   - '&7&oKomponente'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherit'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 NETHERITE_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rNetherit Pflanze'
   type:
   - '&7&oMagisch'
 OAK_APPLE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cEichenapfel'
   type:
   - '&7&oNahrung'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&oNahrung'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&cEichenapfel Setzling'
   type:
   - '&7&oKomponente'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidian'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rObsidian Pflanze'
   type:
   - '&7&oMagisch'
 ONION:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cZwiebel'
   type:
   - '&7&oNahrung'
 ONION_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&cZwiebel Pflanze'
   type:
   - '&7&oKomponente'
 ORANGE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&6Orange'
   type:
   - '&7&oNahrung'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&oNahrung'
 ORANGE_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&6Orange Setzling'
   type:
   - '&7&oKomponente'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&oNahrung'
 PEACH:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&5Pfirsich'
   type:
   - '&7&oNahrung'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&oNahrung'
 PEACH_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&5Pfirsich Setzling'
   type:
   - '&7&oKomponente'
 PEAR:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&aBirne'
   type:
   - '&7&oNahrung'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&oNahrung'
 PEAR_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&aBirne Setzling'
   type:
   - '&7&oKomponente'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&oNahrung'
 PINEAPPLE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&6Ananas'
   type:
   - '&7&oNahrung'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&6Ananas Pflanze'
   type:
   - '&7&oKomponente'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&oNahrung'
 PLUM:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&5Pflaume'
   type:
   - '&7&oNahrung'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&oNahrung'
 PLUM_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&5Pflaume Setzling'
   type:
   - '&7&oKomponente'
 POMEGRANATE:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&4Granatapfel'
   type:
   - '&7&oNahrung'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&oNahrung'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Auf Erde pflanzen, um einen Obstbaum zu züchten.'
+  - '&7Schlage die Fruchtblöcke, die er trägt, zum Ernten.'
   name: '&4Granatapfel Setzling'
   type:
   - '&7&oKomponente'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&oNahrung'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Quarz'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 QUARTZ_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rQuarz Pflanze'
   type:
   - '&7&oMagisch'
 RASPBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&dHimbeere'
   type:
   - '&7&oNahrung'
 RASPBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&dHimbeere Busch'
   type:
   - '&7&oKomponente'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&oNahrung'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 REDSTONE_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rRedstone Pflanze'
   type:
   - '&7&oMagisch'
 RED_BELL_PEPPER:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&cRote Paprika'
   type:
   - '&7&oNahrung'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&cRote Paprika Pflanze'
   type:
   - '&7&oKomponente'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&oNahrung'
 SILVER_ESSENCE:
+  description:
+  - '&7Silber'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 SILVER_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rSilber Pflanze'
   type:
   - '&7&oMagisch'
 SLIME_ESSENCE:
+  description:
+  - '&7Schleim'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 SLIME_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rSchleim Pflanze'
   type:
   - '&7&oMagisch'
 STRAWBERRY:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&4Erdbeere'
   type:
   - '&7&oNahrung'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&4Erdbeere Busch'
   type:
   - '&7&oKomponente'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&oNahrung'
 SWEET_POTATO:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&6Süßkartoffel'
   type:
   - '&7&oNahrung'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&6Süßkartoffel Pflanze'
   type:
   - '&7&oKomponente'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&oNahrung'
 TEA_LEAF:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&aTeeblatt'
   type:
   - '&7&oNahrung'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&aTeeblatt Pflanze'
   type:
   - '&7&oKomponente'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&oNahrung'
 TIN_ESSENCE:
+  description:
+  - '&7Zinn'
+  - '&7Stelle daraus die passende Pflanze her, um die Ressource zu züchten.'
   name: '&rMagische Essenz'
   type:
   - '&7&oMagisch'
 TIN_PLANT:
+  description:
+  - '&7Eine magische Nutzpflanze. Auf Erde pflanzen, wachsen lassen und dann für ihre Ressource ernten.'
+  - '&7Höhere Stufen benötigen die Pflanze der vorherigen Stufe im Rezept.'
   name: '&rZinn Pflanze'
   type:
   - '&7&oMagisch'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&oNahrung'
 TOMATO:
+  description:
+  - '&7Eine frische Ernte aus dem Exotischen Garten.'
+  - '&7Iss sie roh, presse Saft daraus oder koche ein Gericht daraus.'
   name: '&4Tomate'
   type:
   - '&7&oNahrung'
 TOMATO_BUSH:
+  description:
+  - '&7Auf Erde pflanzen, dann reift er langsam.'
+  - '&7Rechtsklick, wenn er reif ist, um zu ernten, ohne ihn zu zerstören.'
   name: '&4Tomate Pflanze'
   type:
   - '&7&oKomponente'
