@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminium'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 ALUMINUM_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rAluminium Plant'
   type:
   - '&7&oMagisch'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&oVoedsel'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Als ik kok ben" - @Eyamaz'
   name: '&rIn spek gewikkelde, met kaas gevulde hotdog'
   stats:
   - '&7&oHerstelt &b&o8.5 &7&oHonger'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&oVoedsel'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"zin om over hotdogs te praten?" - @Pahimar'
   name: '&rIn spek gewikkelde BBQ-hotdog'
   stats:
   - '&7&oHerstelt &b&o8.5 &7&oHonger'
   type:
   - '&7&oVoedsel'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Als ik kok ben" - @Eyamaz'
   name: '&rBBQ-hotdog met dubbel spek in een tortilla met kaas'
   stats:
   - '&7&oHerstelt &b&o10.0 &7&oHonger'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&oVoedsel'
 BLACKBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&8Braam'
   type:
   - '&7&oVoedsel'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&8Braam Struik'
   type:
   - '&7&oOnderdeel'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&oVoedsel'
 BLACK_PEPPER:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&8Zwarte peper'
   type:
   - '&7&oVoedsel'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&8Zwarte peper Plant'
   type:
   - '&7&oOnderdeel'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&oVoedsel'
 BLUEBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&9Bosbes'
   type:
   - '&7&oVoedsel'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&9Bosbes Struik'
   type:
   - '&7&oOnderdeel'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&oVoedsel'
 CABBAGE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&2Kool'
   type:
   - '&7&oVoedsel'
 CABBAGE_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&2Kool Plant'
   type:
   - '&7&oOnderdeel'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&oVoedsel'
 CHERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cKers'
   type:
   - '&7&oVoedsel'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&oVoedsel'
 CHERRY_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&cKers Boompje'
   type:
   - '&7&oOnderdeel'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&oVoedsel'
 CILANTRO:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&aKoriander'
   type:
   - '&7&oVoedsel'
 CILANTRO_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&aKoriander Plant'
   type:
   - '&7&oOnderdeel'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&oVoedsel'
 COAL_ESSENCE:
+  description:
+  - '&7Steenkool'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 COAL_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rSteenkool Plant'
   type:
   - '&7&oMagisch'
 COCONUT:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&6Kokosnoot'
   type:
   - '&7&oVoedsel'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&oVoedsel'
 COCONUT_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&6Kokosnoot Boompje'
   type:
   - '&7&oOnderdeel'
 COPPER_ESSENCE:
+  description:
+  - '&7Koper'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 COPPER_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rKoper Plant'
   type:
   - '&7&oMagisch'
 CORN:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&6Maïs'
   type:
   - '&7&oVoedsel'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&oOnderdeel'
 CORN_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&6Maïs Plant'
   type:
   - '&7&oOnderdeel'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&oOnderdeel'
 COWBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cVossenbes'
   type:
   - '&7&oVoedsel'
 COWBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&cVossenbes Struik'
   type:
   - '&7&oOnderdeel'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&oVoedsel'
 CRANBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cVeenbes'
   type:
   - '&7&oVoedsel'
 CRANBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&cVeenbes Struik'
   type:
   - '&7&oOnderdeel'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&oVoedsel'
 CROOK:
+  description:
+  - '&7Een houten schoffel om tuinplanten te oogsten.'
   name: '&rHerdersstaf'
+  stats:
+  - '&7+ &b25% &7kans op boompjes'
   type:
   - '&7&oGereedschap'
 CURRY_LEAF:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&2Kerrieblad'
   type:
   - '&7&oVoedsel'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&2Kerrieblad Plant'
   type:
   - '&7&oOnderdeel'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&oVoedsel'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 DIAMOND_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rDiamant Plant'
   type:
   - '&7&oMagisch'
 DIRT_ESSENCE:
+  description:
+  - '&7Aarde'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 DIRT_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rAarde Plant'
   type:
   - '&7&oMagisch'
 DRAGON_FRUIT:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&dDrakenfruit'
   type:
   - '&7&oVoedsel'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&oVoedsel'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&dDrakenfruit Boompje'
   type:
   - '&7&oOnderdeel'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&oVoedsel'
 ELDERBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cVlierbes'
   type:
   - '&7&oVoedsel'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&cVlierbes Struik'
   type:
   - '&7&oOnderdeel'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&oVoedsel'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragd'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 EMERALD_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rSmaragd Plant'
   type:
   - '&7&oMagisch'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 ENDER_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rEnder Plant'
   type:
   - '&7&oMagisch'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&oVoedsel'
 GARLIC:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&rKnoflook'
   type:
   - '&7&oVoedsel'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&oVoedsel'
 GARLIC_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&rKnoflook Plant'
   type:
   - '&7&oOnderdeel'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&oVoedsel'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Gloeisteen'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rGloeisteen Plant'
   type:
   - '&7&oMagisch'
 GOLD_ESSENCE:
+  description:
+  - '&7Goud'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 GOLD_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rGoud Plant'
   type:
   - '&7&oMagisch'
 GRAPE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cDruif'
   type:
   - '&7&oVoedsel'
 GRAPE_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&cDruif Struik'
   type:
   - '&7&oOnderdeel'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&oVoedsel'
 GRASS_SEEDS:
+  description:
+  - '&7Een hernieuwbare bron van hoog gras - maai het voor boompjes en struikzaden.'
   name: '&rGraszaden'
   type:
   - '&7&oGadget'
+  usage:
+  - '&7&oKan op aarde geplant worden'
 GRILLED_SANDWICH:
   name: '&rGegrilde sandwich'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&oOnderdeel'
 IRON_ESSENCE:
+  description:
+  - '&7IJzer'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 IRON_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rIJzer Plant'
   type:
   - '&7&oMagisch'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&oVoedsel'
 KITCHEN:
+  description:
+  - '&a&oJe kunt hier allerlei lekkernijen maken!'
   name: '&eKeuken'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&a&oHet resultaat komt in het uitvoervak van de oven'
 LAMINGTON:
   name: '&rLamington'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&oVoedsel'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 LAPIS_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rLapis lazuli Plant'
   type:
   - '&7&oMagisch'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&oVoedsel'
 LEAD_ESSENCE:
+  description:
+  - '&7Lood'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 LEAD_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rLood Plant'
   type:
   - '&7&oMagisch'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&oVoedsel'
 LEMON:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&eCitroen'
   type:
   - '&7&oVoedsel'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&oVoedsel'
 LEMON_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&eCitroen Boompje'
   type:
   - '&7&oOnderdeel'
 LETTUCE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&2Sla'
   type:
   - '&7&oVoedsel'
 LETTUCE_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&2Sla Plant'
   type:
   - '&7&oOnderdeel'
 LIME:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&aLimoen'
   type:
   - '&7&oVoedsel'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&oVoedsel'
 LIME_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&aLimoen Boompje'
   type:
   - '&7&oOnderdeel'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&oOnderdeel'
 MUSTARD_SEED:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&eMosterdzaad'
   type:
   - '&7&oVoedsel'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&eMosterdzaad Plant'
   type:
   - '&7&oOnderdeel'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netheriet'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 NETHERITE_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rNetherite Plant'
   type:
   - '&7&oMagisch'
 OAK_APPLE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cEikenappel'
   type:
   - '&7&oVoedsel'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&oVoedsel'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&cEikenappel Boompje'
   type:
   - '&7&oOnderdeel'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiaan'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rObsidiaan Plant'
   type:
   - '&7&oMagisch'
 ONION:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cUi'
   type:
   - '&7&oVoedsel'
 ONION_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&cUi Plant'
   type:
   - '&7&oOnderdeel'
 ORANGE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&6Sinaasappel'
   type:
   - '&7&oVoedsel'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&oVoedsel'
 ORANGE_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&6Sinaasappel Boompje'
   type:
   - '&7&oOnderdeel'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&oVoedsel'
 PEACH:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&5Perzik'
   type:
   - '&7&oVoedsel'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&oVoedsel'
 PEACH_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&5Perzik Boompje'
   type:
   - '&7&oOnderdeel'
 PEAR:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&aPeer'
   type:
   - '&7&oVoedsel'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&oVoedsel'
 PEAR_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&aPeer Boompje'
   type:
   - '&7&oOnderdeel'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&oVoedsel'
 PINEAPPLE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&6Ananas'
   type:
   - '&7&oVoedsel'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&6Ananas Plant'
   type:
   - '&7&oOnderdeel'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&oVoedsel'
 PLUM:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&5Pruim'
   type:
   - '&7&oVoedsel'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&oVoedsel'
 PLUM_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&5Pruim Boompje'
   type:
   - '&7&oOnderdeel'
 POMEGRANATE:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&4Granaatappel'
   type:
   - '&7&oVoedsel'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&oVoedsel'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Plant op aarde om een fruitboom te laten groeien.'
+  - '&7Sla op de fruitblokken die hij draagt om te oogsten.'
   name: '&4Granaatappel Boompje'
   type:
   - '&7&oOnderdeel'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&oVoedsel'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kwarts'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 QUARTZ_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rKwarts Plant'
   type:
   - '&7&oMagisch'
 RASPBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&dFramboos'
   type:
   - '&7&oVoedsel'
 RASPBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&dFramboos Struik'
   type:
   - '&7&oOnderdeel'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&oVoedsel'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 REDSTONE_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rRedstone Plant'
   type:
   - '&7&oMagisch'
 RED_BELL_PEPPER:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&cRode paprika'
   type:
   - '&7&oVoedsel'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&cRode paprika Plant'
   type:
   - '&7&oOnderdeel'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&oVoedsel'
 SILVER_ESSENCE:
+  description:
+  - '&7Zilver'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 SILVER_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rZilver Plant'
   type:
   - '&7&oMagisch'
 SLIME_ESSENCE:
+  description:
+  - '&7Slijm'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 SLIME_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rSlijm Plant'
   type:
   - '&7&oMagisch'
 STRAWBERRY:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&4Aardbei'
   type:
   - '&7&oVoedsel'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&4Aardbei Struik'
   type:
   - '&7&oOnderdeel'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&oVoedsel'
 SWEET_POTATO:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&6Zoete aardappel'
   type:
   - '&7&oVoedsel'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&6Zoete aardappel Plant'
   type:
   - '&7&oOnderdeel'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&oVoedsel'
 TEA_LEAF:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&aTheeblad'
   type:
   - '&7&oVoedsel'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&aTheeblad Plant'
   type:
   - '&7&oOnderdeel'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&oVoedsel'
 TIN_ESSENCE:
+  description:
+  - '&7Tin'
+  - '&7Vervaardig het tot de bijpassende plant om de grondstof te kweken.'
   name: '&rMagische essentie'
   type:
   - '&7&oMagisch'
 TIN_PLANT:
+  description:
+  - '&7Een magisch gewas. Plant op aarde, laat het groeien en oogst dan de grondstof.'
+  - '&7Hogere rangen hebben de plant van de vorige rang in het recept nodig.'
   name: '&rTin Plant'
   type:
   - '&7&oMagisch'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&oVoedsel'
 TOMATO:
+  description:
+  - '&7Een verse Exotische Tuinoogst.'
+  - '&7Eet het rauw, maak er sap van, of kook het tot een gerecht.'
   name: '&4Tomaat'
   type:
   - '&7&oVoedsel'
 TOMATO_BUSH:
+  description:
+  - '&7Plant op aarde en het rijpt langzaam.'
+  - '&7Rechtsklik wanneer rijp om te oogsten zonder te vernietigen.'
   name: '&4Tomaat Plant'
   type:
   - '&7&oOnderdeel'
