@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminio'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 ALUMINUM_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rAluminio Planta'
   type:
   - '&7&oMágico'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&oComida'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Cuando cocino" - @Eyamaz'
   name: '&rPerrito caliente envuelto en tocino y relleno de queso'
   stats:
   - '&7&oRestaura &b&o8.5 &7&opuntos de Hambre'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&oComida'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"¿quieres hablar de perritos calientes?" - @Pahimar'
   name: '&rPerrito caliente BBQ envuelto en tocino'
   stats:
   - '&7&oRestaura &b&o8.5 &7&opuntos de Hambre'
   type:
   - '&7&oComida'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Cuando cocino" - @Eyamaz'
   name: '&rPerrito caliente BBQ con doble tocino en tortilla con queso'
   stats:
   - '&7&oRestaura &b&o10.0 &7&opuntos de Hambre'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&oComida'
 BLACKBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&8Mora'
   type:
   - '&7&oComida'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&8Mora Arbusto'
   type:
   - '&7&oComponente'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&oComida'
 BLACK_PEPPER:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&8Pimienta negra'
   type:
   - '&7&oComida'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&8Pimienta negra Planta'
   type:
   - '&7&oComponente'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&oComida'
 BLUEBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&9Arándano'
   type:
   - '&7&oComida'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&9Arándano Arbusto'
   type:
   - '&7&oComponente'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&oComida'
 CABBAGE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&2Repollo'
   type:
   - '&7&oComida'
 CABBAGE_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&2Repollo Planta'
   type:
   - '&7&oComponente'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&oComida'
 CHERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cCereza'
   type:
   - '&7&oComida'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&oComida'
 CHERRY_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&cCereza Retoño'
   type:
   - '&7&oComponente'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&oComida'
 CILANTRO:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&aCilantro'
   type:
   - '&7&oComida'
 CILANTRO_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&aCilantro Planta'
   type:
   - '&7&oComponente'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&oComida'
 COAL_ESSENCE:
+  description:
+  - '&7Carbón'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 COAL_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rCarbón Planta'
   type:
   - '&7&oMágico'
 COCONUT:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&6Coco'
   type:
   - '&7&oComida'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&oComida'
 COCONUT_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&6Coco Retoño'
   type:
   - '&7&oComponente'
 COPPER_ESSENCE:
+  description:
+  - '&7Cobre'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 COPPER_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rCobre Planta'
   type:
   - '&7&oMágico'
 CORN:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&6Maíz'
   type:
   - '&7&oComida'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&oComponente'
 CORN_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&6Maíz Planta'
   type:
   - '&7&oComponente'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&oComponente'
 COWBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cArándano rojo silvestre'
   type:
   - '&7&oComida'
 COWBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&cArándano rojo silvestre Arbusto'
   type:
   - '&7&oComponente'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&oComida'
 CRANBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cArándano rojo'
   type:
   - '&7&oComida'
 CRANBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&cArándano rojo Arbusto'
   type:
   - '&7&oComponente'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&oComida'
 CROOK:
+  description:
+  - '&7Una azada de madera usada para cosechar plantas de jardín.'
   name: '&rCayado'
+  stats:
+  - '&7+ &b25% &7de Probabilidad de Retoños'
   type:
   - '&7&oHerramienta'
 CURRY_LEAF:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&2Hoja de curry'
   type:
   - '&7&oComida'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&2Hoja de curry Planta'
   type:
   - '&7&oComponente'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&oComida'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamante'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 DIAMOND_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rDiamante Planta'
   type:
   - '&7&oMágico'
 DIRT_ESSENCE:
+  description:
+  - '&7Tierra'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 DIRT_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rTierra Planta'
   type:
   - '&7&oMágico'
 DRAGON_FRUIT:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&dFruta del dragón'
   type:
   - '&7&oComida'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&oComida'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&dFruta del dragón Retoño'
   type:
   - '&7&oComponente'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&oComida'
 ELDERBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cBaya de saúco'
   type:
   - '&7&oComida'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&cBaya de saúco Arbusto'
   type:
   - '&7&oComponente'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&oComida'
 EMERALD_ESSENCE:
+  description:
+  - '&7Esmeralda'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 EMERALD_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rEsmeralda Planta'
   type:
   - '&7&oMágico'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 ENDER_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rEnder Planta'
   type:
   - '&7&oMágico'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&oComida'
 GARLIC:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&rAjo'
   type:
   - '&7&oComida'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&oComida'
 GARLIC_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&rAjo Planta'
   type:
   - '&7&oComponente'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&oComida'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Piedra Luminosa'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rPiedra luminosa Planta'
   type:
   - '&7&oMágico'
 GOLD_ESSENCE:
+  description:
+  - '&7Oro'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 GOLD_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rOro Planta'
   type:
   - '&7&oMágico'
 GRAPE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cUva'
   type:
   - '&7&oComida'
 GRAPE_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&cUva Arbusto'
   type:
   - '&7&oComponente'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&oComida'
 GRASS_SEEDS:
+  description:
+  - '&7Una fuente renovable de hierba alta - córtala para obtener retoños y semillas de arbusto.'
   name: '&rSemillas de hierba'
   type:
   - '&7&oAparato'
+  usage:
+  - '&7&oSe puede plantar en Tierra'
 GRILLED_SANDWICH:
   name: '&rSándwich a la parrilla'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&oComponente'
 IRON_ESSENCE:
+  description:
+  - '&7Hierro'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 IRON_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rHierro Planta'
   type:
   - '&7&oMágico'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&oComida'
 KITCHEN:
+  description:
+  - '&a&o¡Aquí puedes preparar un montón de delicias distintas!'
   name: '&eCocina'
   type:
   - '&7&oMultibloque'
+  usage:
+  - '&a&oEl resultado va en la casilla de salida del Horno'
 LAMINGTON:
   name: '&rLamington'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&oComida'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapislázuli'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 LAPIS_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rLapislázuli Planta'
   type:
   - '&7&oMágico'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&oComida'
 LEAD_ESSENCE:
+  description:
+  - '&7Plomo'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 LEAD_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rPlomo Planta'
   type:
   - '&7&oMágico'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&oComida'
 LEMON:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&eLimón'
   type:
   - '&7&oComida'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&oComida'
 LEMON_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&eLimón Retoño'
   type:
   - '&7&oComponente'
 LETTUCE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&2Lechuga'
   type:
   - '&7&oComida'
 LETTUCE_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&2Lechuga Planta'
   type:
   - '&7&oComponente'
 LIME:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&aLima'
   type:
   - '&7&oComida'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&oComida'
 LIME_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&aLima Retoño'
   type:
   - '&7&oComponente'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&oComponente'
 MUSTARD_SEED:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&eSemilla de mostaza'
   type:
   - '&7&oComida'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&eSemilla de mostaza Planta'
   type:
   - '&7&oComponente'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherita'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 NETHERITE_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rNetherita Planta'
   type:
   - '&7&oMágico'
 OAK_APPLE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cManzana de roble'
   type:
   - '&7&oComida'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&oComida'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&cManzana de roble Retoño'
   type:
   - '&7&oComponente'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiana'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rObsidiana Planta'
   type:
   - '&7&oMágico'
 ONION:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cCebolla'
   type:
   - '&7&oComida'
 ONION_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&cCebolla Planta'
   type:
   - '&7&oComponente'
 ORANGE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&6Naranja'
   type:
   - '&7&oComida'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&oComida'
 ORANGE_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&6Naranja Retoño'
   type:
   - '&7&oComponente'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&oComida'
 PEACH:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&5Melocotón'
   type:
   - '&7&oComida'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&oComida'
 PEACH_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&5Melocotón Retoño'
   type:
   - '&7&oComponente'
 PEAR:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&aPera'
   type:
   - '&7&oComida'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&oComida'
 PEAR_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&aPera Retoño'
   type:
   - '&7&oComponente'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&oComida'
 PINEAPPLE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&6Piña'
   type:
   - '&7&oComida'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&6Piña Planta'
   type:
   - '&7&oComponente'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&oComida'
 PLUM:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&5Ciruela'
   type:
   - '&7&oComida'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&oComida'
 PLUM_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&5Ciruela Retoño'
   type:
   - '&7&oComponente'
 POMEGRANATE:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&4Granada'
   type:
   - '&7&oComida'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&oComida'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Plántalo en tierra para que crezca un árbol frutal.'
+  - '&7Golpea los bloques de fruta que da para cosechar.'
   name: '&4Granada Retoño'
   type:
   - '&7&oComponente'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&oComida'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Cuarzo'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 QUARTZ_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rCuarzo Planta'
   type:
   - '&7&oMágico'
 RASPBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&dFrambuesa'
   type:
   - '&7&oComida'
 RASPBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&dFrambuesa Arbusto'
   type:
   - '&7&oComponente'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&oComida'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 REDSTONE_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rRedstone Planta'
   type:
   - '&7&oMágico'
 RED_BELL_PEPPER:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&cPimiento rojo'
   type:
   - '&7&oComida'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&cPimiento rojo Planta'
   type:
   - '&7&oComponente'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&oComida'
 SILVER_ESSENCE:
+  description:
+  - '&7Plata'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 SILVER_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rPlata Planta'
   type:
   - '&7&oMágico'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 SLIME_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rLimo Planta'
   type:
   - '&7&oMágico'
 STRAWBERRY:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&4Fresa'
   type:
   - '&7&oComida'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&4Fresa Arbusto'
   type:
   - '&7&oComponente'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&oComida'
 SWEET_POTATO:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&6Batata'
   type:
   - '&7&oComida'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&6Batata Planta'
   type:
   - '&7&oComponente'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&oComida'
 TEA_LEAF:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&aHoja de té'
   type:
   - '&7&oComida'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&aHoja de té Planta'
   type:
   - '&7&oComponente'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&oComida'
 TIN_ESSENCE:
+  description:
+  - '&7Estaño'
+  - '&7Fabrícala en la Planta correspondiente para cultivar el recurso.'
   name: '&rEsencia mágica'
   type:
   - '&7&oMágico'
 TIN_PLANT:
+  description:
+  - '&7Un cultivo mágico. Plántalo en tierra y déjalo crecer, luego cosecha su recurso.'
+  - '&7Los niveles superiores necesitan la planta del nivel anterior en la receta.'
   name: '&rEstaño Planta'
   type:
   - '&7&oMágico'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&oComida'
 TOMATO:
+  description:
+  - '&7Una cosecha fresca del Jardín Exótico.'
+  - '&7Cómela cruda, hazla zumo o cocínala en un plato.'
   name: '&4Tomate'
   type:
   - '&7&oComida'
 TOMATO_BUSH:
+  description:
+  - '&7Plántala en tierra y madura lentamente.'
+  - '&7Clic derecho cuando esté maduro para cosechar sin destruirlo.'
   name: '&4Tomate Planta'
   type:
   - '&7&oComponente'
