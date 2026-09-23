@@ -7,4 +7,4 @@ plugins {
 group = "io.github.thebusybiscuit"
 description = "ExoticGarden is a Slimefun addon adding exotic plants and food."
 
-apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/stable/slimefun-addon.gradle")
+apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/main/slimefun-addon.gradle")
