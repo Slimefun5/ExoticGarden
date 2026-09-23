@@ -1,8 +1,14 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminium'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 ALUMINUM_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rAluminium Roślina'
   type:
   - '&7&oMagiczny'
@@ -37,6 +43,8 @@ BACON_SANDWICH:
   type:
   - '&7&oJedzenie'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Kiedy gotuję" - @Eyamaz'
   name: '&rHot dog owinięty bekonem z nadzieniem serowym'
   stats:
   - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
@@ -49,12 +57,16 @@ BAGEL:
   type:
   - '&7&oJedzenie'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"pogadamy o hot dogach?" - @Pahimar'
   name: '&rHot dog BBQ owinięty bekonem'
   stats:
   - '&7&oPrzywraca &b&o8.5 &7&oGłodu'
   type:
   - '&7&oJedzenie'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Kiedy gotuję" - @Eyamaz'
   name: '&rHot dog BBQ z podwójnym bekonem w tortilli z serem'
   stats:
   - '&7&oPrzywraca &b&o10.0 &7&oGłodu'
@@ -77,10 +89,16 @@ BISCUITS_GRAVY:
   type:
   - '&7&oJedzenie'
 BLACKBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&8Jeżyna'
   type:
   - '&7&oJedzenie'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&8Jeżyna Krzew'
   type:
   - '&7&oKomponent'
@@ -115,10 +133,16 @@ BLACKBERRY_SMOOTHIE:
   type:
   - '&7&oJedzenie'
 BLACK_PEPPER:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&8Czarny pieprz'
   type:
   - '&7&oJedzenie'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&8Czarny pieprz Roślina'
   type:
   - '&7&oKomponent'
@@ -129,10 +153,16 @@ BLT:
   type:
   - '&7&oJedzenie'
 BLUEBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&9Borówka'
   type:
   - '&7&oJedzenie'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&9Borówka Krzew'
   type:
   - '&7&oKomponent'
@@ -195,10 +225,16 @@ BURRITO:
   type:
   - '&7&oJedzenie'
 CABBAGE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&2Kapusta'
   type:
   - '&7&oJedzenie'
 CABBAGE_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&2Kapusta Roślina'
   type:
   - '&7&oKomponent'
@@ -221,6 +257,9 @@ CHEESECAKE:
   type:
   - '&7&oJedzenie'
 CHERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cWiśnia'
   type:
   - '&7&oJedzenie'
@@ -249,6 +288,9 @@ CHERRY_PIE:
   type:
   - '&7&oJedzenie'
 CHERRY_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&cWiśnia Sadzonka'
   type:
   - '&7&oKomponent'
@@ -319,10 +361,16 @@ CHOCOLATE_STRAWBERRY:
   type:
   - '&7&oJedzenie'
 CILANTRO:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&aKolendra'
   type:
   - '&7&oJedzenie'
 CILANTRO_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&aKolendra Roślina'
   type:
   - '&7&oKomponent'
@@ -333,14 +381,23 @@ CLUB_SANDWICH:
   type:
   - '&7&oJedzenie'
 COAL_ESSENCE:
+  description:
+  - '&7Węgiel'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 COAL_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rWęgiel Roślina'
   type:
   - '&7&oMagiczny'
 COCONUT:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&6Kokos'
   type:
   - '&7&oJedzenie'
@@ -357,18 +414,30 @@ COCONUT_MILK:
   type:
   - '&7&oJedzenie'
 COCONUT_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&6Kokos Sadzonka'
   type:
   - '&7&oKomponent'
 COPPER_ESSENCE:
+  description:
+  - '&7Miedź'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 COPPER_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rMiedź Roślina'
   type:
   - '&7&oMagiczny'
 CORN:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&6Kukurydza'
   type:
   - '&7&oJedzenie'
@@ -377,6 +446,9 @@ CORNMEAL:
   type:
   - '&7&oKomponent'
 CORN_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&6Kukurydza Roślina'
   type:
   - '&7&oKomponent'
@@ -391,10 +463,16 @@ COUNTRY_GRAVY:
   type:
   - '&7&oKomponent'
 COWBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cBorówka brusznica'
   type:
   - '&7&oJedzenie'
 COWBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&cBorówka brusznica Krzew'
   type:
   - '&7&oKomponent'
@@ -423,10 +501,16 @@ COWBERRY_SMOOTHIE:
   type:
   - '&7&oJedzenie'
 CRANBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cŻurawina'
   type:
   - '&7&oJedzenie'
 CRANBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&cŻurawina Krzew'
   type:
   - '&7&oKomponent'
@@ -467,14 +551,24 @@ CREAM_COOKIE:
   type:
   - '&7&oJedzenie'
 CROOK:
+  description:
+  - '&7Drewniana motyka do zbierania roślin ogrodowych.'
   name: '&rHak'
+  stats:
+  - '&7+ &b25% &7szansy na sadzonkę'
   type:
   - '&7&oNarzędzie'
 CURRY_LEAF:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&2Liść curry'
   type:
   - '&7&oJedzenie'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&2Liść curry Roślina'
   type:
   - '&7&oKomponent'
@@ -485,22 +579,37 @@ DELUXE_CHEESEBURGER:
   type:
   - '&7&oJedzenie'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diament'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 DIAMOND_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rDiament Roślina'
   type:
   - '&7&oMagiczny'
 DIRT_ESSENCE:
+  description:
+  - '&7Ziemia'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 DIRT_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rZiemia Roślina'
   type:
   - '&7&oMagiczny'
 DRAGON_FRUIT:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&dSmoczy owoc'
   type:
   - '&7&oJedzenie'
@@ -517,6 +626,9 @@ DRAGON_FRUIT_PIE:
   type:
   - '&7&oJedzenie'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&dSmoczy owoc Sadzonka'
   type:
   - '&7&oKomponent'
@@ -527,10 +639,16 @@ EGG_SALAD:
   type:
   - '&7&oJedzenie'
 ELDERBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cCzarny bez'
   type:
   - '&7&oJedzenie'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&cCzarny bez Krzew'
   type:
   - '&7&oKomponent'
@@ -559,18 +677,30 @@ ELDERBERRY_SMOOTHIE:
   type:
   - '&7&oJedzenie'
 EMERALD_ESSENCE:
+  description:
+  - '&7Szmaragd'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 EMERALD_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rSzmaragd Roślina'
   type:
   - '&7&oMagiczny'
 ENDER_ESSENCE:
+  description:
+  - '&7Kres'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 ENDER_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rEnder Roślina'
   type:
   - '&7&oMagiczny'
@@ -593,6 +723,9 @@ FRIES:
   type:
   - '&7&oJedzenie'
 GARLIC:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&rCzosnek'
   type:
   - '&7&oJedzenie'
@@ -603,6 +736,9 @@ GARLIC_BREAD:
   type:
   - '&7&oJedzenie'
 GARLIC_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&rCzosnek Roślina'
   type:
   - '&7&oKomponent'
@@ -613,26 +749,44 @@ GARLIC_CHEESE_BREAD:
   type:
   - '&7&oJedzenie'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Jasnogłaz'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rJasnogłaz Roślina'
   type:
   - '&7&oMagiczny'
 GOLD_ESSENCE:
+  description:
+  - '&7Złoto'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 GOLD_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rZłoto Roślina'
   type:
   - '&7&oMagiczny'
 GRAPE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cWinogrono'
   type:
   - '&7&oJedzenie'
 GRAPE_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&cWinogrono Krzew'
   type:
   - '&7&oKomponent'
@@ -667,9 +821,13 @@ GRAPE_SMOOTHIE:
   type:
   - '&7&oJedzenie'
 GRASS_SEEDS:
+  description:
+  - '&7Odnawialne źródło wysokiej trawy - tnij ją po sadzonki i nasiona krzewów.'
   name: '&rNasiona trawy'
   type:
   - '&7&oGadżet'
+  usage:
+  - '&7&oMożna sadzić na ziemi'
 GRILLED_SANDWICH:
   name: '&rGrillowana kanapka'
   stats:
@@ -705,10 +863,16 @@ ICE_CUBE:
   type:
   - '&7&oKomponent'
 IRON_ESSENCE:
+  description:
+  - '&7Żelazo'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 IRON_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rŻelazo Roślina'
   type:
   - '&7&oMagiczny'
@@ -719,9 +883,13 @@ JAMMY_DODGER:
   type:
   - '&7&oJedzenie'
 KITCHEN:
+  description:
+  - '&a&oMożesz tu przyrządzić mnóstwo pyszności!'
   name: '&eKuchnia'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&a&oWynik trafia do slotu wyjściowego Pieca'
 LAMINGTON:
   name: '&rLamington'
   stats:
@@ -729,10 +897,16 @@ LAMINGTON:
   type:
   - '&7&oJedzenie'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lazuryt'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 LAPIS_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rLazuryt Roślina'
   type:
   - '&7&oMagiczny'
@@ -743,10 +917,16 @@ LASAGNA:
   type:
   - '&7&oJedzenie'
 LEAD_ESSENCE:
+  description:
+  - '&7Ołów'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 LEAD_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rOłów Roślina'
   type:
   - '&7&oMagiczny'
@@ -763,6 +943,9 @@ LEAFY_FISH_SANDWICH:
   type:
   - '&7&oJedzenie'
 LEMON:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&eCytryna'
   type:
   - '&7&oJedzenie'
@@ -791,18 +974,30 @@ LEMON_PIE:
   type:
   - '&7&oJedzenie'
 LEMON_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&eCytryna Sadzonka'
   type:
   - '&7&oKomponent'
 LETTUCE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&2Sałata'
   type:
   - '&7&oJedzenie'
 LETTUCE_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&2Sałata Roślina'
   type:
   - '&7&oKomponent'
 LIME:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&aLimonka'
   type:
   - '&7&oJedzenie'
@@ -819,6 +1014,9 @@ LIME_PIE:
   type:
   - '&7&oJedzenie'
 LIME_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&aLimonka Sadzonka'
   type:
   - '&7&oKomponent'
@@ -841,22 +1039,37 @@ MUSTARD:
   type:
   - '&7&oKomponent'
 MUSTARD_SEED:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&eZiarno gorczycy'
   type:
   - '&7&oJedzenie'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&eZiarno gorczycy Roślina'
   type:
   - '&7&oKomponent'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netheryt'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 NETHERITE_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rNetheryt Roślina'
   type:
   - '&7&oMagiczny'
 OAK_APPLE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cDębowe jabłko'
   type:
   - '&7&oJedzenie'
@@ -873,26 +1086,44 @@ OAK_APPLE_PIE:
   type:
   - '&7&oJedzenie'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&cDębowe jabłko Sadzonka'
   type:
   - '&7&oKomponent'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsydian'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rObsydian Roślina'
   type:
   - '&7&oMagiczny'
 ONION:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cCebula'
   type:
   - '&7&oJedzenie'
 ONION_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&cCebula Roślina'
   type:
   - '&7&oKomponent'
 ORANGE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&6Pomarańcza'
   type:
   - '&7&oJedzenie'
@@ -909,6 +1140,9 @@ ORANGE_PIE:
   type:
   - '&7&oJedzenie'
 ORANGE_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&6Pomarańcza Sadzonka'
   type:
   - '&7&oKomponent'
@@ -925,6 +1159,9 @@ PAVLOVA:
   type:
   - '&7&oJedzenie'
 PEACH:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&5Brzoskwinia'
   type:
   - '&7&oJedzenie'
@@ -947,10 +1184,16 @@ PEACH_PIE:
   type:
   - '&7&oJedzenie'
 PEACH_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&5Brzoskwinia Sadzonka'
   type:
   - '&7&oKomponent'
 PEAR:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&aGruszka'
   type:
   - '&7&oJedzenie'
@@ -967,6 +1210,9 @@ PEAR_PIE:
   type:
   - '&7&oJedzenie'
 PEAR_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&aGruszka Sadzonka'
   type:
   - '&7&oKomponent'
@@ -977,10 +1223,16 @@ PINACOLADA:
   type:
   - '&7&oJedzenie'
 PINEAPPLE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&6Ananas'
   type:
   - '&7&oJedzenie'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&6Ananas Roślina'
   type:
   - '&7&oKomponent'
@@ -997,6 +1249,9 @@ PINEAPPLE_SMOOTHIE:
   type:
   - '&7&oJedzenie'
 PLUM:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&5Śliwka'
   type:
   - '&7&oJedzenie'
@@ -1013,10 +1268,16 @@ PLUM_PIE:
   type:
   - '&7&oJedzenie'
 PLUM_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&5Śliwka Sadzonka'
   type:
   - '&7&oKomponent'
 POMEGRANATE:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&4Granat'
   type:
   - '&7&oJedzenie'
@@ -1033,6 +1294,9 @@ POMEGRANATE_PIE:
   type:
   - '&7&oJedzenie'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Posadź na ziemi, aby wyrosło drzewo owocowe.'
+  - '&7Uderz bloki owoców, które rodzi, aby je zebrać.'
   name: '&4Granat Sadzonka'
   type:
   - '&7&oKomponent'
@@ -1067,18 +1331,30 @@ PUMPKIN_MUFFIN:
   type:
   - '&7&oJedzenie'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kwarc'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 QUARTZ_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rKwarc Roślina'
   type:
   - '&7&oMagiczny'
 RASPBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&dMalina'
   type:
   - '&7&oJedzenie'
 RASPBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&dMalina Krzew'
   type:
   - '&7&oKomponent'
@@ -1113,18 +1389,30 @@ RASPBERRY_SMOOTHIE:
   type:
   - '&7&oJedzenie'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Czerwony kamień'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 REDSTONE_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rCzerwony kamień Roślina'
   type:
   - '&7&oMagiczny'
 RED_BELL_PEPPER:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&cCzerwona papryka'
   type:
   - '&7&oJedzenie'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&cCzerwona papryka Roślina'
   type:
   - '&7&oKomponent'
@@ -1147,26 +1435,44 @@ SHEPARDS_PIE:
   type:
   - '&7&oJedzenie'
 SILVER_ESSENCE:
+  description:
+  - '&7Srebro'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 SILVER_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rSrebro Roślina'
   type:
   - '&7&oMagiczny'
 SLIME_ESSENCE:
+  description:
+  - '&7Szlam'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 SLIME_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rSzlam Roślina'
   type:
   - '&7&oMagiczny'
 STRAWBERRY:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&4Truskawka'
   type:
   - '&7&oJedzenie'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&4Truskawka Krzew'
   type:
   - '&7&oKomponent'
@@ -1243,10 +1549,16 @@ SWEET_POPCORN:
   type:
   - '&7&oJedzenie'
 SWEET_POTATO:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&6Batat'
   type:
   - '&7&oJedzenie'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&6Batat Roślina'
   type:
   - '&7&oKomponent'
@@ -1263,10 +1575,16 @@ TACO:
   type:
   - '&7&oJedzenie'
 TEA_LEAF:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&aLiść herbaty'
   type:
   - '&7&oJedzenie'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&aLiść herbaty Roślina'
   type:
   - '&7&oKomponent'
@@ -1277,10 +1595,16 @@ THAI_TEA:
   type:
   - '&7&oJedzenie'
 TIN_ESSENCE:
+  description:
+  - '&7Cyna'
+  - '&7Wytwórz z niej pasującą Roślinę, aby uprawiać ten surowiec.'
   name: '&rMagiczna esencja'
   type:
   - '&7&oMagiczny'
 TIN_PLANT:
+  description:
+  - '&7Magiczna uprawa. Posadź na ziemi, pozwól jej rosnąć, a potem zbierz jej surowiec.'
+  - '&7Wyższe poziomy wymagają w przepisie rośliny poprzedniego poziomu.'
   name: '&rCyna Roślina'
   type:
   - '&7&oMagiczny'
@@ -1309,10 +1633,16 @@ TIRAMISU_WITH_STRAWBERRIES:
   type:
   - '&7&oJedzenie'
 TOMATO:
+  description:
+  - '&7Świeże zbiory z Egzotycznego Ogrodu.'
+  - '&7Zjedz na surowo, zrób sok albo ugotuj danie.'
   name: '&4Pomidor'
   type:
   - '&7&oJedzenie'
 TOMATO_BUSH:
+  description:
+  - '&7Posadź na ziemi, a powoli dojrzeje.'
+  - '&7Kliknij prawym, gdy dojrzeje, aby zebrać bez niszczenia.'
   name: '&4Pomidor Roślina'
   type:
   - '&7&oKomponent'
