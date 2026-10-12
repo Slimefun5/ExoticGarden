@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Alumínium'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 ALUMINUM_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rAlumíniumnövény'
   type:
   - '&7&oVarázslatos'
 APPLE_PEAR_CAKE:
+  name: '&cAlmás Körtetorta'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON:
+  name: '&rSzalonna'
   stats:
   - '&7&oHelyreállít &b&o1.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_BURGER:
+  name: '&rSzalonnás Burger'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_CHEESEBURGER:
+  name: '&rSzalonnás Sajtburger'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_SANDWICH:
+  name: '&rSzalonnás Szendvics'
   stats:
   - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Amikor szakácsolok" - @Eyamaz'
+  name: '&rSzalonnába csomagolt, sajttal töltött Hotdog'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oHelyreállít &b&o2.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"beszéljünk a hotdogokról?" - @Pahimar'
+  name: '&rBBQ-s szalonnába csomagolt Hotdog'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Amikor szakácsolok" - @Eyamaz'
+  name: '&rBBQ-s dupla szalonnába csomagolt Hotdog tortillában sajttal'
   stats:
   - '&7&oHelyreállít &b&o10.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BBQ_SAUCE:
+  name: '&cBBQ Szósz'
   type:
   - '&7&oAlkatrész'
 BISCUIT:
+  name: '&6Pogácsa'
   stats:
   - '&7&oHelyreállít &b&o2.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BISCUITS_GRAVY:
+  name: '&rPogácsa Falusi Szafttal'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&8Szeder'
   type:
   - '&7&oÉtel'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&8Szederbokor'
   type:
   - '&7&oAlkatrész'
 BLACKBERRY_COBBLER:
+  name: '&8Szederes Morzsapite'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Szederzselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_JUICE:
+  name: '&8Szederlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_PIE:
+  name: '&8Szederpite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Szeder Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLACK_PEPPER:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&8Fekete bors'
   type:
   - '&7&oÉtel'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&8Feketebors-növény'
   type:
   - '&7&oAlkatrész'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&9Áfonya'
   type:
   - '&7&oÉtel'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&9Áfonyabokor'
   type:
   - '&7&oAlkatrész'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Áfonyás Sajttorta'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Áfonyazselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_JUICE:
+  name: '&9Áfonyalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_MUFFIN:
+  name: '&rÁfonyás Muffin'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_PANCAKES:
+  name: '&rÁfonyás Palacsinta'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_PIE:
+  name: '&9Áfonyapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Áfonya Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BOSTON_CREAM_PIE:
+  name: '&rBostoni Krémes Torta'
   stats:
   - '&7&oHelyreállít &b&o4.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 BROWN_SUGAR:
+  name: '&rBarna Cukor'
   type:
   - '&7&oAlkatrész'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CABBAGE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&2Káposzta'
   type:
   - '&7&oÉtel'
 CABBAGE_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&2Káposztanövény'
   type:
   - '&7&oAlkatrész'
 CARROT_CAKE:
+  name: '&rRépatorta'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHEESEBURGER:
+  name: '&rSajtburger'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHEESECAKE:
+  name: '&rSajttorta'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cCseresznye'
   type:
   - '&7&oÉtel'
 CHERRY_CHEESECAKE:
+  name: '&cCseresznyés Sajttorta'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_ICED_TEA:
+  name: '&cCseresznyés Jeges Tea'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_JUICE:
+  name: '&cCseresznyelé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_PIE:
+  name: '&cCseresznyepite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHERRY_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&cCseresznye Csemete'
   type:
   - '&7&oAlkatrész'
 CHICKEN_BURGER:
+  name: '&rCsirkeburger'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_BURRITO:
+  name: '&rCsirkés Burrito'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_CHEESEBURGER:
+  name: '&rCsirkés Sajtburger'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_CURRY:
+  name: '&rCsirkecurry'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_POT_PIE:
+  name: '&rCsirkés Rakott Pite'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHICKEN_SANDWICH:
+  name: '&rCsirkés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_BAR:
+  name: '&rCsokoládészelet'
   stats:
   - '&7&oHelyreállít &b&o1.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_CAKE:
+  name: '&rCsokoládétorta'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rCsokidarabos Muffin'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rCsokoládés Körtetorta'
   stats:
   - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CHOCOLATE_STRAWBERRY:
+  name: '&cCsokoládés Eper'
   stats:
   - '&7&oHelyreállít &b&o2.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CILANTRO:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&aKoriander'
   type:
   - '&7&oÉtel'
 CILANTRO_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&aKoriandernövény'
   type:
   - '&7&oAlkatrész'
 CLUB_SANDWICH:
+  name: '&rKlubszendvics'
   stats:
   - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COAL_ESSENCE:
+  description:
+  - '&7Szén'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 COAL_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rSzénnövény'
   type:
   - '&7&oVarázslatos'
 COCONUT:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&6Kókusz'
   type:
   - '&7&oÉtel'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKókuszos Csirkecurry'
   stats:
   - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COCONUT_MILK:
+  name: '&6Kókusztej'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COCONUT_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&6Kókusz Csemete'
   type:
   - '&7&oAlkatrész'
 COPPER_ESSENCE:
+  description:
+  - '&7Réz'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 COPPER_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rRéznövény'
   type:
   - '&7&oVarázslatos'
 CORN:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&6Kukorica'
   type:
   - '&7&oÉtel'
 CORNMEAL:
+  name: '&rKukoricadara'
   type:
   - '&7&oAlkatrész'
 CORN_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&6Kukoricanövény'
   type:
   - '&7&oAlkatrész'
 CORN_ON_THE_COB:
+  name: '&6Kukoricacső'
   stats:
   - '&7&oHelyreállít &b&o4.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COUNTRY_GRAVY:
+  name: '&rFalusi Szaft'
   type:
   - '&7&oAlkatrész'
 COWBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cVörös áfonya'
   type:
   - '&7&oÉtel'
 COWBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&cVörösáfonya-bokor'
   type:
   - '&7&oAlkatrész'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cVörösáfonyazselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COWBERRY_JUICE:
+  name: '&cVörösáfonyalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COWBERRY_PIE:
+  name: '&cVörösáfonyapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 COWBERRY_SMOOTHIE:
+  name: '&cVörös áfonya Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cTőzegáfonya'
   type:
   - '&7&oÉtel'
 CRANBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&cTőzegáfonya-bokor'
   type:
   - '&7&oAlkatrész'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cTőzegáfonyazselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY_JUICE:
+  name: '&cTőzegáfonyalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY_PIE:
+  name: '&cTőzegáfonyapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CRANBERRY_SMOOTHIE:
+  name: '&cTőzegáfonya Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CREAMED_CORN:
+  name: '&rTejszínes Kukorica'
   stats:
   - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CREAM_COOKIE:
+  name: '&rKrémes Keksz'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 CROOK:
+  description:
+  - '&7Kerti növények betakarítására használt fa kapa.'
+  name: '&rHorog'
+  stats:
+  - '&7+ &b25% &7Csemete Ejtési Arány'
   type:
   - '&7&oEszköz'
 CURRY_LEAF:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&2Currylevél'
   type:
   - '&7&oÉtel'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&2Currylevélnövény'
   type:
   - '&7&oAlkatrész'
 DELUXE_CHEESEBURGER:
+  name: '&rKülönleges Sajtburger'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Gyémánt'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 DIAMOND_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rGyémántnövény'
   type:
   - '&7&oVarázslatos'
 DIRT_ESSENCE:
+  description:
+  - '&7Föld'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 DIRT_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rFöldnövény'
   type:
   - '&7&oVarázslatos'
 DRAGON_FRUIT:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&dSárkánygyümölcs'
   type:
   - '&7&oÉtel'
 DRAGON_FRUIT_JUICE:
+  name: '&dSárkánygyümölcslé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 DRAGON_FRUIT_PIE:
+  name: '&dSárkánygyümölcspite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&dSárkánygyümölcs Csemete'
   type:
   - '&7&oAlkatrész'
 EGG_SALAD:
+  name: '&rTojássaláta'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cBodza'
   type:
   - '&7&oÉtel'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&cBodzabokor'
   type:
   - '&7&oAlkatrész'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cBodzazselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY_JUICE:
+  name: '&cBodzalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY_PIE:
+  name: '&cBodzapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ELDERBERRY_SMOOTHIE:
+  name: '&cBodza Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragd'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 EMERALD_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rSmaragdnövény'
   type:
   - '&7&oVarázslatos'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 ENDER_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rEnder-növény'
   type:
   - '&7&oVarázslatos'
 FISH_SANDWICH:
+  name: '&rHalas Szendvics'
   stats:
   - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 FISH_TACO:
+  name: '&rHalas Taco'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 FRIES:
+  name: '&rHasábburgonya'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GARLIC:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&rFokhagyma'
   type:
   - '&7&oÉtel'
 GARLIC_BREAD:
+  name: '&rFokhagymás Kenyér'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GARLIC_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&rFokhagymanövény'
   type:
   - '&7&oAlkatrész'
 GARLIC_CHEESE_BREAD:
+  name: '&rFokhagymás Sajtos Kenyér'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Fénykő'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rFénykőnövény'
   type:
   - '&7&oVarázslatos'
 GOLD_ESSENCE:
+  description:
+  - '&7Arany'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 GOLD_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rAranynövény'
   type:
   - '&7&oVarázslatos'
 GRAPE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cSzőlő'
   type:
   - '&7&oÉtel'
 GRAPE_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&cSzőlőbokor'
   type:
   - '&7&oAlkatrész'
 GRAPE_JELLY_SANDWICH:
+  name: '&cSzőlőzselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_JUICE:
+  name: '&cSzőlőlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_PIE:
+  name: '&cSzőlőpite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_SALAD:
+  name: '&cSzőlősaláta'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRAPE_SMOOTHIE:
+  name: '&cSzőlő Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 GRASS_SEEDS:
+  description:
+  - '&7Magas fű megújuló forrása - vágd le csemetékért és bokormagokért.'
+  name: '&rFűmagok'
   type:
   - '&7&oKütyü'
+  usage:
+  - '&7&oFöldre ültethető'
 GRILLED_SANDWICH:
+  name: '&rMelegszendvics'
   stats:
   - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 HOT_CHOCOLATE:
+  name: '&6Forró Csokoládé'
   stats:
   - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 HOT_DOG:
+  name: '&rHotdog'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ICE_CREAM:
+  name: '&rFagylalt'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ICE_CUBE:
+  name: '&bJégkocka'
   type:
   - '&7&oAlkatrész'
 IRON_ESSENCE:
+  description:
+  - '&7Vas'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 IRON_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rVasnövény'
   type:
   - '&7&oVarázslatos'
 JAMMY_DODGER:
+  name: '&cLekváros Keksz'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 KITCHEN:
+  description:
+  - '&a&oItt sokféle finomságot készíthetsz!'
+  name: '&eKonyha'
   type:
   - '&7&oMultiblock'
+  usage:
+  - '&a&oAz eredmény a Kemence kimeneti rekeszébe kerül'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lazurit'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 LAPIS_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rLazuritnövény'
   type:
   - '&7&oVarázslatos'
 LASAGNA:
+  name: '&rLasagne'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEAD_ESSENCE:
+  description:
+  - '&7Ólom'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 LEAD_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rÓlomnövény'
   type:
   - '&7&oVarázslatos'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rSalátás Csirkés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEAFY_FISH_SANDWICH:
+  name: '&rSalátás Halas Szendvics'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&eCitrom'
   type:
   - '&7&oÉtel'
 LEMONADE:
+  name: '&eLimonádé'
   stats:
   - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_ICED_TEA:
+  name: '&eCitromos Jeges Tea'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_JUICE:
+  name: '&eCitromlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_PIE:
+  name: '&eCitrompite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LEMON_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&eCitrom Csemete'
   type:
   - '&7&oAlkatrész'
 LETTUCE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&2Fejes saláta'
   type:
   - '&7&oÉtel'
 LETTUCE_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&2Salátanövény'
   type:
   - '&7&oAlkatrész'
 LIME:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&aZöldcitrom'
   type:
   - '&7&oÉtel'
 LIME_JUICE:
+  name: '&aZöldcitromlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LIME_PIE:
+  name: '&aZöldcitrompite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 LIME_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&aZöldcitrom Csemete'
   type:
   - '&7&oAlkatrész'
 LIME_SMOOTHIE:
+  name: '&aZöldcitrom Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 MAYO:
+  name: '&rMajonéz'
   type:
   - '&7&oAlkatrész'
 MOLASSES:
+  name: '&8Melasz'
   type:
   - '&7&oAlkatrész'
 MUSTARD:
+  name: '&eMustár'
   type:
   - '&7&oAlkatrész'
 MUSTARD_SEED:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&eMustármag'
   type:
   - '&7&oÉtel'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&eMustármagnövény'
   type:
   - '&7&oAlkatrész'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherit'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 NETHERITE_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rNetheritnövény'
   type:
   - '&7&oVarázslatos'
 OAK_APPLE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cTölgyalma'
   type:
   - '&7&oÉtel'
 OAK_APPLE_JUICE:
+  name: '&cTölgyalmalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 OAK_APPLE_PIE:
+  name: '&cTölgyalmapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&cTölgyalma Csemete'
   type:
   - '&7&oAlkatrész'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obszidián'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rObszidiánnövény'
   type:
   - '&7&oVarázslatos'
 ONION:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cHagyma'
   type:
   - '&7&oÉtel'
 ONION_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&cHagymanövény'
   type:
   - '&7&oAlkatrész'
 ORANGE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&6Narancs'
   type:
   - '&7&oÉtel'
 ORANGE_JUICE:
+  name: '&6Narancslé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ORANGE_PIE:
+  name: '&6Narancspite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 ORANGE_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&6Narancs Csemete'
   type:
   - '&7&oAlkatrész'
 PANCAKES:
+  name: '&rPalacsinta'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&5Őszibarack'
   type:
   - '&7&oÉtel'
 PEACH_ICED_TEA:
+  name: '&dŐszibarackos Jeges Tea'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH_JUICE:
+  name: '&5Őszibaracklé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH_PIE:
+  name: '&5Őszibarackpite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEACH_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&5Őszibarack Csemete'
   type:
   - '&7&oAlkatrész'
 PEAR:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&aKörte'
   type:
   - '&7&oÉtel'
 PEAR_JUICE:
+  name: '&aKörtelé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEAR_PIE:
+  name: '&aKörtepite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PEAR_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&aKörte Csemete'
   type:
   - '&7&oAlkatrész'
 PINACOLADA:
+  name: '&6Pina Colada'
   stats:
   - '&7&oHelyreállít &b&o7.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PINEAPPLE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&6Ananász'
   type:
   - '&7&oÉtel'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&6Ananásznövény'
   type:
   - '&7&oAlkatrész'
 PINEAPPLE_JUICE:
+  name: '&6Ananászlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananász Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PLUM:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&5Szilva'
   type:
   - '&7&oÉtel'
 PLUM_JUICE:
+  name: '&5Szilvalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PLUM_PIE:
+  name: '&5Szilvapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PLUM_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&5Szilva Csemete'
   type:
   - '&7&oAlkatrész'
 POMEGRANATE:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&4Gránátalma'
   type:
   - '&7&oÉtel'
 POMEGRANATE_JUICE:
+  name: '&4Gránátalmalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 POMEGRANATE_PIE:
+  name: '&4Gránátalmapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Ültesd földre, hogy gyümölcsfát növessz.'
+  - '&7Üsd meg a termő gyümölcsblokkokat a betakarításhoz.'
+  name: '&4Gránátalma Csemete'
   type:
   - '&7&oAlkatrész'
 POPCORN:
+  name: '&rPattogatott Kukorica'
   stats:
   - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 POTATO_SALAD:
+  name: '&rBurgonyasaláta'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PUMPKIN_BREAD:
+  name: '&rSütőtökös Kenyér'
   stats:
   - '&7&oHelyreállít &b&o4.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PUMPKIN_CHEESECAKE:
+  name: '&6Sütőtökös Sajttorta'
   stats:
   - '&7&oHelyreállít &b&o8.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 PUMPKIN_MUFFIN:
+  name: '&rSütőtökös Muffin'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kvarc'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 QUARTZ_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rKvarcnövény'
   type:
   - '&7&oVarázslatos'
 RASPBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&dMálna'
   type:
   - '&7&oÉtel'
 RASPBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&dMálnabokor'
   type:
   - '&7&oAlkatrész'
 RASPBERRY_ICED_TEA:
+  name: '&dMálnás Jeges Tea'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dMálnazselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_JUICE:
+  name: '&dMálnalé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_PIE:
+  name: '&dMálnapite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 RASPBERRY_SMOOTHIE:
+  name: '&dMálna Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 REDSTONE_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rRedstone-növény'
   type:
   - '&7&oVarázslatos'
 RED_BELL_PEPPER:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&cPiros Paprika'
   type:
   - '&7&oÉtel'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&cPirospaprika-növény'
   type:
   - '&7&oAlkatrész'
 SALTY_POPCORN:
+  name: '&rPattogatott Kukorica &7(Sós)'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SANDWICH:
+  name: '&rSzendvics'
   stats:
   - '&7&oHelyreállít &b&o9.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SHEPARDS_PIE:
+  name: '&rPásztorpite'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SILVER_ESSENCE:
+  description:
+  - '&7Ezüst'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 SILVER_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rEzüstnövény'
   type:
   - '&7&oVarázslatos'
 SLIME_ESSENCE:
+  description:
+  - '&7Nyálka'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 SLIME_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rNyálkanövény'
   type:
   - '&7&oVarázslatos'
 STRAWBERRY:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&4Eper'
   type:
   - '&7&oÉtel'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&4Eperbokor'
   type:
   - '&7&oAlkatrész'
 STRAWBERRY_ICED_TEA:
+  name: '&4Epres Jeges Tea'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Eperzselés Szendvics'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_JUICE:
+  name: '&4Eperlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_PIE:
+  name: '&4Eperpite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_SALAD:
+  name: '&cEpersaláta'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Eper Smoothie'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STREET_TACO:
+  name: '&rUtcai Taco'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cTöltött Piros Paprika'
   stats:
   - '&7&oHelyreállít &b&o7.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Édesített Körtés Sajttorta'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEETENED_TEA:
+  name: '&aÉdesített Tea'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEET_BERRY_PANCAKES:
+  name: '&rÉdesbogyós Palacsinta'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEET_POPCORN:
+  name: '&rPattogatott Kukorica &7(Édes)'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 SWEET_POTATO:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&6Édes burgonya'
   type:
   - '&7&oÉtel'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&6Édesburgonya-növény'
   type:
   - '&7&oAlkatrész'
 SWEET_POTATO_PIE:
+  name: '&rÉdesburgonyás Pite'
   stats:
   - '&7&oHelyreállít &b&o6.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TEA_LEAF:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&aTealevél'
   type:
   - '&7&oÉtel'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&aTealevélnövény'
   type:
   - '&7&oAlkatrész'
 THAI_TEA:
+  name: '&6Thai Tea'
   stats:
   - '&7&oHelyreállít &b&o7.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIN_ESSENCE:
+  description:
+  - '&7Ón'
+  - '&7Barkácsold a megfelelő Növénnyé a nyersanyag növesztéséhez.'
+  name: '&rMágikus Eszencia'
   type:
   - '&7&oVarázslatos'
 TIN_PLANT:
+  description:
+  - '&7Mágikus termény. Ültesd földre, hagyd növekedni, majd takarítsd be a nyersanyagáért.'
+  - '&7A magasabb szintek az előző szint növényét igénylik a receptben.'
+  name: '&rÓnnövény'
   type:
   - '&7&oVarázslatos'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oHelyreállít &b&o8.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu Szederrel'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu Málnával'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu Eperrel'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TOMATO:
+  description:
+  - '&7Friss egzotikus kerti betakarítás.'
+  - '&7Edd meg nyersen, csinálj belőle levet, vagy főzz belőle ételt.'
+  name: '&4Paradicsom'
   type:
   - '&7&oÉtel'
 TOMATO_BUSH:
+  description:
+  - '&7Ültesd földre, és lassan beérik.'
+  - '&7Jobb klikk éretten a betakarításhoz, elpusztítás nélkül.'
+  name: '&4Paradicsomnövény'
   type:
   - '&7&oAlkatrész'
 TOMATO_JUICE:
+  name: '&4Paradicsomlé'
   stats:
   - '&7&oHelyreállít &b&o3.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 TOMATO_SOUP:
+  name: '&4Paradicsomleves'
   stats:
   - '&7&oHelyreállít &b&o5.5 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 VEGETABLE_OIL:
+  name: '&rNövényi Olaj'
   type:
   - '&7&oAlkatrész'
 WAFFLES:
+  name: '&rGofri'
   stats:
   - '&7&oHelyreállít &b&o6.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 WINE:
+  name: '&cBor'
   stats:
   - '&7&oHelyreállít &b&o5.0 &7&oÉhséget'
   type:
   - '&7&oÉtel'
 YEAST:
+  name: '&rÉlesztő'
   type:
   - '&7&oAlkatrész'
