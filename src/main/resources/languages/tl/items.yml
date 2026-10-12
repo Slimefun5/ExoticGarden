@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminyo'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 ALUMINUM_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Aluminyo'
   type:
   - '&7&oMahikal'
 APPLE_PEAR_CAKE:
+  name: '&cKeyk na Mansanas at Peras'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BACON:
+  name: '&rBacon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o1.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BACON_BURGER:
+  name: '&rBurger na Bacon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BACON_CHEESEBURGER:
+  name: '&rBurger na may Bacon at Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BACON_SANDWICH:
+  name: '&rSanwits ng Bacon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Kapag ako ang nagluluto" - @Eyamaz'
+  name: '&rHotdog na Balot sa Bacon at Pinalamnan ng Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oNagpapanumbalik ng &b&o2.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"gusto mo bang pag-usapan ang mga hotdog?" - @Pahimar'
+  name: '&rHotdog na Balot sa Bacon na may Barbekyu'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Kapag ako ang nagluluto" - @Eyamaz'
+  name: '&rHotdog na Balot sa Dobleng Bacon at Barbekyu sa Tortilya na may Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o10.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BBQ_SAUCE:
+  name: '&cSarsang Barbekyu'
   type:
   - '&7&oBahagi'
 BISCUIT:
+  name: '&6Biskwit'
   stats:
   - '&7&oNagpapanumbalik ng &b&o2.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BISCUITS_GRAVY:
+  name: '&rBiskwit at Sarsang Bukid'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLACKBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&8Blackberry'
   type:
   - '&7&oPagkain'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&8Palumpong ng Blackberry'
   type:
   - '&7&oBahagi'
 BLACKBERRY_COBBLER:
+  name: '&8Kobler na Blackberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Sanwits ng Halayang Blackberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLACKBERRY_JUICE:
+  name: '&8Katas ng Blackberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLACKBERRY_PIE:
+  name: '&8Pay ng Blackberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Smoothie ng Blackberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLACK_PEPPER:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&8Paminta'
   type:
   - '&7&oPagkain'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&8Halaman ng Paminta'
   type:
   - '&7&oBahagi'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&9Blueberry'
   type:
   - '&7&oPagkain'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&9Palumpong ng Blueberry'
   type:
   - '&7&oBahagi'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Keyk na Keso na may Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Sanwits ng Halayang Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY_JUICE:
+  name: '&9Katas ng Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY_MUFFIN:
+  name: '&rMuffin na Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY_PANCAKES:
+  name: '&rPanekeyk na Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY_PIE:
+  name: '&9Pay ng Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Smoothie ng Blueberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 BOSTON_CREAM_PIE:
+  name: '&rPay na Krema ng Boston'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 BROWN_SUGAR:
+  name: '&rPulang Asukal'
   type:
   - '&7&oBahagi'
 BURRITO:
+  name: '&rBurito'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CABBAGE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&2Repolyo'
   type:
   - '&7&oPagkain'
 CABBAGE_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&2Halaman ng Repolyo'
   type:
   - '&7&oBahagi'
 CARROT_CAKE:
+  name: '&rKeyk na Karot'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHEESEBURGER:
+  name: '&rBurger na may Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHEESECAKE:
+  name: '&rKeyk na Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cSeresa'
   type:
   - '&7&oPagkain'
 CHERRY_CHEESECAKE:
+  name: '&cKeyk na Keso na may Seresa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHERRY_ICED_TEA:
+  name: '&cMalamig na Tsaang Seresa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHERRY_JUICE:
+  name: '&cKatas ng Seresa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHERRY_PIE:
+  name: '&cPay ng Seresa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHERRY_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&cPunla ng Seresa'
   type:
   - '&7&oBahagi'
 CHICKEN_BURGER:
+  name: '&rBurger na Manok'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHICKEN_BURRITO:
+  name: '&rBuritong Manok'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHICKEN_CHEESEBURGER:
+  name: '&rBurger na Manok at Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHICKEN_CURRY:
+  name: '&rKari ng Manok'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHICKEN_POT_PIE:
+  name: '&rPay ng Manok sa Palayok'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHICKEN_SANDWICH:
+  name: '&rSanwits ng Manok'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHOCOLATE_BAR:
+  name: '&rTableang Tsokolate'
   stats:
   - '&7&oNagpapanumbalik ng &b&o1.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHOCOLATE_CAKE:
+  name: '&rKeyk na Tsokolate'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rMuffin na may Durog na Tsokolate'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rKeyk na Tsokolate at Peras'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CHOCOLATE_STRAWBERRY:
+  name: '&cStrawberry na may Tsokolate'
   stats:
   - '&7&oNagpapanumbalik ng &b&o2.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CILANTRO:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&aKulantro'
   type:
   - '&7&oPagkain'
 CILANTRO_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&aHalaman ng Kulantro'
   type:
   - '&7&oBahagi'
 CLUB_SANDWICH:
+  name: '&rSanwits na Club'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 COAL_ESSENCE:
+  description:
+  - '&7Uling'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 COAL_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Uling'
   type:
   - '&7&oMahikal'
 COCONUT:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&6Niyog'
   type:
   - '&7&oPagkain'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKari ng Manok sa Gata'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 COCONUT_MILK:
+  name: '&6Gata ng Niyog'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 COCONUT_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&6Punla ng Niyog'
   type:
   - '&7&oBahagi'
 COPPER_ESSENCE:
+  description:
+  - '&7Tanso'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 COPPER_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Tanso'
   type:
   - '&7&oMahikal'
 CORN:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&6Mais'
   type:
   - '&7&oPagkain'
 CORNMEAL:
+  name: '&rHarinang Mais'
   type:
   - '&7&oBahagi'
 CORN_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&6Halaman ng Mais'
   type:
   - '&7&oBahagi'
 CORN_ON_THE_COB:
+  name: '&6Mais sa Busal'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 COUNTRY_GRAVY:
+  name: '&rSarsang Bukid'
   type:
   - '&7&oBahagi'
 COWBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cCowberry'
   type:
   - '&7&oPagkain'
 COWBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&cPalumpong ng Cowberry'
   type:
   - '&7&oBahagi'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cSanwits ng Halayang Cowberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 COWBERRY_JUICE:
+  name: '&cKatas ng Cowberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 COWBERRY_PIE:
+  name: '&cPay ng Cowberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 COWBERRY_SMOOTHIE:
+  name: '&cSmoothie ng Cowberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CRANBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cCranberry'
   type:
   - '&7&oPagkain'
 CRANBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&cPalumpong ng Cranberry'
   type:
   - '&7&oBahagi'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cSanwits ng Halayang Cranberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CRANBERRY_JUICE:
+  name: '&cKatas ng Cranberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CRANBERRY_PIE:
+  name: '&cPay ng Cranberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 CRANBERRY_SMOOTHIE:
+  name: '&cSmoothie ng Cranberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CREAMED_CORN:
+  name: '&rMais sa Krema'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CREAM_COOKIE:
+  name: '&rKukis na may Krema'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 CROOK:
+  description:
+  - '&7Asarol na kahoy na ginagamit sa pag-ani ng mga halaman sa hardin.'
+  name: '&rKawit'
+  stats:
+  - '&7+ &b25% &7Antas ng Pagbagsak ng Punla'
   type:
   - '&7&oKasangkapan'
 CURRY_LEAF:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&2Dahon ng Kari'
   type:
   - '&7&oPagkain'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&2Halaman ng Dahon ng Kari'
   type:
   - '&7&oBahagi'
 DELUXE_CHEESEBURGER:
+  name: '&rDeluxeng Burger na may Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diyamante'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 DIAMOND_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Diyamante'
   type:
   - '&7&oMahikal'
 DIRT_ESSENCE:
+  description:
+  - '&7Lupa'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 DIRT_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Lupa'
   type:
   - '&7&oMahikal'
 DRAGON_FRUIT:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&dPrutas ng Dragon'
   type:
   - '&7&oPagkain'
 DRAGON_FRUIT_JUICE:
+  name: '&dKatas ng Prutas ng Dragon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 DRAGON_FRUIT_PIE:
+  name: '&dPay ng Prutas ng Dragon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&dPunla ng Prutas ng Dragon'
   type:
   - '&7&oBahagi'
 EGG_SALAD:
+  name: '&rEnsaladang Itlog'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 ELDERBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cElderberry'
   type:
   - '&7&oPagkain'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&cPalumpong ng Elderberry'
   type:
   - '&7&oBahagi'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cSanwits ng Halayang Elderberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 ELDERBERRY_JUICE:
+  name: '&cKatas ng Elderberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 ELDERBERRY_PIE:
+  name: '&cPay ng Elderberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 ELDERBERRY_SMOOTHIE:
+  name: '&cSmoothie ng Elderberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 EMERALD_ESSENCE:
+  description:
+  - '&7Esmeralda'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 EMERALD_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Esmeralda'
   type:
   - '&7&oMahikal'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 ENDER_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Ender'
   type:
   - '&7&oMahikal'
 FISH_SANDWICH:
+  name: '&rSanwits ng Isda'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 FISH_TACO:
+  name: '&rTaco ng Isda'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 FRIES:
+  name: '&rPritong Patatas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 GARLIC:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&rBawang'
   type:
   - '&7&oPagkain'
 GARLIC_BREAD:
+  name: '&rTinapay na Bawang'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 GARLIC_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&rHalaman ng Bawang'
   type:
   - '&7&oBahagi'
 GARLIC_CHEESE_BREAD:
+  name: '&rTinapay na Bawang at Keso'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Glowstone'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Glowstone'
   type:
   - '&7&oMahikal'
 GOLD_ESSENCE:
+  description:
+  - '&7Ginto'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 GOLD_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Ginto'
   type:
   - '&7&oMahikal'
 GRAPE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cUbas'
   type:
   - '&7&oPagkain'
 GRAPE_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&cPalumpong ng Ubas'
   type:
   - '&7&oBahagi'
 GRAPE_JELLY_SANDWICH:
+  name: '&cSanwits ng Halayang Ubas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 GRAPE_JUICE:
+  name: '&cKatas ng Ubas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 GRAPE_PIE:
+  name: '&cPay ng Ubas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 GRAPE_SALAD:
+  name: '&cEnsaladang Ubas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 GRAPE_SMOOTHIE:
+  name: '&cSmoothie ng Ubas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 GRASS_SEEDS:
+  description:
+  - '&7Mapagkukunan ng matataas na damo - gupitin para sa mga punla at binhi ng palumpong.'
+  name: '&rBinhi ng Damo'
   type:
   - '&7&oGadyet'
+  usage:
+  - '&7&oMaaaring itanim sa Lupa'
 GRILLED_SANDWICH:
+  name: '&rInihaw na Sanwits'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 HOT_CHOCOLATE:
+  name: '&6Mainit na Tsokolate'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 HOT_DOG:
+  name: '&rHotdog'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 ICE_CREAM:
+  name: '&rSorbetes'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 ICE_CUBE:
+  name: '&bPirasong Yelo'
   type:
   - '&7&oBahagi'
 IRON_ESSENCE:
+  description:
+  - '&7Bakal'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 IRON_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Bakal'
   type:
   - '&7&oMahikal'
 JAMMY_DODGER:
+  name: '&cBiskwit na may Halaya'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 KITCHEN:
+  description:
+  - '&a&oMakakagawa ka ng iba-ibang masasarap dito!'
+  name: '&eKusina'
   type:
   - '&7&oMultiblock'
+  usage:
+  - '&a&oAng resulta ay mapupunta sa puwesto ng paglabas ng Pugon'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 LAPIS_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Lapis'
   type:
   - '&7&oMahikal'
 LASAGNA:
+  name: '&rLasanya'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEAD_ESSENCE:
+  description:
+  - '&7Tingga'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 LEAD_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Tingga'
   type:
   - '&7&oMahikal'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rMadahong Sanwits ng Manok'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEAFY_FISH_SANDWICH:
+  name: '&rMadahong Sanwits ng Isda'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEMON:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&eLimon'
   type:
   - '&7&oPagkain'
 LEMONADE:
+  name: '&eLimonada'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEMON_ICED_TEA:
+  name: '&eMalamig na Tsaang Limon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEMON_JUICE:
+  name: '&eKatas ng Limon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEMON_PIE:
+  name: '&ePay ng Limon'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 LEMON_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&ePunla ng Limon'
   type:
   - '&7&oBahagi'
 LETTUCE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&2Litsugas'
   type:
   - '&7&oPagkain'
 LETTUCE_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&2Halaman ng Litsugas'
   type:
   - '&7&oBahagi'
 LIME:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&aDayap'
   type:
   - '&7&oPagkain'
 LIME_JUICE:
+  name: '&aKatas ng Dayap'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 LIME_PIE:
+  name: '&aPay ng Dayap'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 LIME_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&aPunla ng Dayap'
   type:
   - '&7&oBahagi'
 LIME_SMOOTHIE:
+  name: '&aSmoothie ng Dayap'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 MAYO:
+  name: '&rMayonesa'
   type:
   - '&7&oBahagi'
 MOLASSES:
+  name: '&8Pulot-tubo'
   type:
   - '&7&oBahagi'
 MUSTARD:
+  name: '&eMustasa'
   type:
   - '&7&oBahagi'
 MUSTARD_SEED:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&eBinhi ng Mustasa'
   type:
   - '&7&oPagkain'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&eHalaman ng Binhi ng Mustasa'
   type:
   - '&7&oBahagi'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 NETHERITE_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Netherite'
   type:
   - '&7&oMahikal'
 OAK_APPLE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cMansanas ng Roble'
   type:
   - '&7&oPagkain'
 OAK_APPLE_JUICE:
+  name: '&cKatas ng Mansanas ng Roble'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 OAK_APPLE_PIE:
+  name: '&cPay ng Mansanas ng Roble'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&cPunla ng Mansanas ng Roble'
   type:
   - '&7&oBahagi'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiana'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Obsidiana'
   type:
   - '&7&oMahikal'
 ONION:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cSibuyas'
   type:
   - '&7&oPagkain'
 ONION_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&cHalaman ng Sibuyas'
   type:
   - '&7&oBahagi'
 ORANGE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&6Dalandan'
   type:
   - '&7&oPagkain'
 ORANGE_JUICE:
+  name: '&6Katas ng Dalandan'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 ORANGE_PIE:
+  name: '&6Pay ng Dalandan'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 ORANGE_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&6Punla ng Dalandan'
   type:
   - '&7&oBahagi'
 PANCAKES:
+  name: '&rPanekeyk'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PEACH:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&5Melokoton'
   type:
   - '&7&oPagkain'
 PEACH_ICED_TEA:
+  name: '&dMalamig na Tsaang Melokoton'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 PEACH_JUICE:
+  name: '&5Katas ng Melokoton'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PEACH_PIE:
+  name: '&5Pay ng Melokoton'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 PEACH_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&5Punla ng Melokoton'
   type:
   - '&7&oBahagi'
 PEAR:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&aPeras'
   type:
   - '&7&oPagkain'
 PEAR_JUICE:
+  name: '&aKatas ng Peras'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PEAR_PIE:
+  name: '&aPay ng Peras'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 PEAR_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&aPunla ng Peras'
   type:
   - '&7&oBahagi'
 PINACOLADA:
+  name: '&6Pinakolada'
   stats:
   - '&7&oNagpapanumbalik ng &b&o7.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PINEAPPLE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&6Pinya'
   type:
   - '&7&oPagkain'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&6Halaman ng Pinya'
   type:
   - '&7&oBahagi'
 PINEAPPLE_JUICE:
+  name: '&6Katas ng Pinya'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Smoothie ng Pinya'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PLUM:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&5Sirwelas'
   type:
   - '&7&oPagkain'
 PLUM_JUICE:
+  name: '&5Katas ng Sirwelas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PLUM_PIE:
+  name: '&5Pay ng Sirwelas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 PLUM_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&5Punla ng Sirwelas'
   type:
   - '&7&oBahagi'
 POMEGRANATE:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&4Granada'
   type:
   - '&7&oPagkain'
 POMEGRANATE_JUICE:
+  name: '&4Katas ng Granada'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 POMEGRANATE_PIE:
+  name: '&4Pay ng Granada'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Itanim sa lupa para magtubo ng punong-prutas.'
+  - '&7Suntukin ang mga bloke ng prutas na namumunga dito para anihin.'
+  name: '&4Punla ng Granada'
   type:
   - '&7&oBahagi'
 POPCORN:
+  name: '&rPopkorn'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 POTATO_SALAD:
+  name: '&rEnsaladang Patatas'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PUMPKIN_BREAD:
+  name: '&rTinapay na Kalabasa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o4.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 PUMPKIN_CHEESECAKE:
+  name: '&6Keyk na Keso na may Kalabasa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 PUMPKIN_MUFFIN:
+  name: '&rMuffin na Kalabasa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kuwarts'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 QUARTZ_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Kuwarts'
   type:
   - '&7&oMahikal'
 RASPBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&dRaspberry'
   type:
   - '&7&oPagkain'
 RASPBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&dPalumpong ng Raspberry'
   type:
   - '&7&oBahagi'
 RASPBERRY_ICED_TEA:
+  name: '&dMalamig na Tsaang Raspberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dSanwits ng Halayang Raspberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 RASPBERRY_JUICE:
+  name: '&dKatas ng Raspberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 RASPBERRY_PIE:
+  name: '&dPay ng Raspberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 RASPBERRY_SMOOTHIE:
+  name: '&dSmoothie ng Raspberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 REDSTONE_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Redstone'
   type:
   - '&7&oMahikal'
 RED_BELL_PEPPER:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&cPulang Atsal'
   type:
   - '&7&oPagkain'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&cHalaman ng Pulang Atsal'
   type:
   - '&7&oBahagi'
 SALTY_POPCORN:
+  name: '&rPopkorn &7(Maalat)'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 SANDWICH:
+  name: '&rSanwits'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 SHEPARDS_PIE:
+  name: '&rPay ng Pastol'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 SILVER_ESSENCE:
+  description:
+  - '&7Pilak'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 SILVER_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Pilak'
   type:
   - '&7&oMahikal'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 SLIME_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Slime'
   type:
   - '&7&oMahikal'
 STRAWBERRY:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&4Strawberry'
   type:
   - '&7&oPagkain'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&4Palumpong ng Strawberry'
   type:
   - '&7&oBahagi'
 STRAWBERRY_ICED_TEA:
+  name: '&4Malamig na Tsaang Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Sanwits ng Halayang Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 STRAWBERRY_JUICE:
+  name: '&4Katas ng Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 STRAWBERRY_PIE:
+  name: '&4Pay ng Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 STRAWBERRY_SALAD:
+  name: '&cEnsaladang Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Smoothie ng Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 STREET_TACO:
+  name: '&rTaco sa Kalye'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cRellenong Pulang Atsal'
   stats:
   - '&7&oNagpapanumbalik ng &b&o7.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Matamis na Keyk na Keso na may Peras'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 SWEETENED_TEA:
+  name: '&aMatamis na Tsaa'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 SWEET_BERRY_PANCAKES:
+  name: '&rPanekeyk na may Matamis na Berry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 SWEET_POPCORN:
+  name: '&rPopkorn &7(Matamis)'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 SWEET_POTATO:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&6Kamote'
   type:
   - '&7&oPagkain'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&6Halaman ng Kamote'
   type:
   - '&7&oBahagi'
 SWEET_POTATO_PIE:
+  name: '&rPay ng Kamote'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TEA_LEAF:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&aDahon ng Tsaa'
   type:
   - '&7&oPagkain'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&aHalaman ng Dahon ng Tsaa'
   type:
   - '&7&oBahagi'
 THAI_TEA:
+  name: '&6Tsaang Thai'
   stats:
   - '&7&oNagpapanumbalik ng &b&o7.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TIN_ESSENCE:
+  description:
+  - '&7Estanyo'
+  - '&7Likhain itong katugmang Halaman para patubuin ang yaman.'
+  name: '&rMahiwagang Esensya'
   type:
   - '&7&oMahikal'
 TIN_PLANT:
+  description:
+  - '&7Mahiwagang pananim. Itanim sa lupa at hayaang tumubo, pagkatapos anihin para sa yaman nito.'
+  - '&7Ang mas mataas na baitang ay kailangan ang halaman ng naunang baitang sa resipi.'
+  name: '&rHalaman ng Estanyo'
   type:
   - '&7&oMahikal'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oNagpapanumbalik ng &b&o8.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu na may Blackberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu na may Raspberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu na may Strawberry'
   stats:
   - '&7&oNagpapanumbalik ng &b&o9.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TOMATO:
+  description:
+  - '&7Sariwang ani ng Eksotikong Hardin.'
+  - '&7Kainin itong hilaw, gawing katas, o lutuin bilang putahe.'
+  name: '&4Kamatis'
   type:
   - '&7&oPagkain'
 TOMATO_BUSH:
+  description:
+  - '&7Itanim sa lupa at dahan-dahang nahihinog.'
+  - '&7Kanang-pindot kapag hinog para anihin nang hindi sinisira.'
+  name: '&4Halaman ng Kamatis'
   type:
   - '&7&oBahagi'
 TOMATO_JUICE:
+  name: '&4Katas ng Kamatis'
   stats:
   - '&7&oNagpapanumbalik ng &b&o3.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 TOMATO_SOUP:
+  name: '&4Sopas na Kamatis'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.5 &7&oGutom'
   type:
   - '&7&oPagkain'
 VEGETABLE_OIL:
+  name: '&rMantika ng Gulay'
   type:
   - '&7&oBahagi'
 WAFFLES:
+  name: '&rWaffles'
   stats:
   - '&7&oNagpapanumbalik ng &b&o6.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 WINE:
+  name: '&cAlak'
   stats:
   - '&7&oNagpapanumbalik ng &b&o5.0 &7&oGutom'
   type:
   - '&7&oPagkain'
 YEAST:
+  name: '&rPampaalsa'
   type:
   - '&7&oBahagi'
