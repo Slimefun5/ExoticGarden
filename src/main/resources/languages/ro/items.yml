@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Aluminiu'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 ALUMINUM_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de aluminiu'
   type:
   - '&7&oMagic'
 APPLE_PEAR_CAKE:
+  name: '&cTort cu mere și pere'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BACON:
+  name: '&rBacon'
   stats:
   - '&7&oRestabilește &b&o1.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BACON_BURGER:
+  name: '&rBurger cu bacon'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BACON_CHEESEBURGER:
+  name: '&rCheeseburger cu bacon'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BACON_SANDWICH:
+  name: '&rSandviș cu bacon'
   stats:
   - '&7&oRestabilește &b&o9.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Când gătesc" - @Eyamaz'
+  name: '&rHot dog cu brânză învelit în bacon'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BAGEL:
+  name: '&rCovrig'
   stats:
   - '&7&oRestabilește &b&o2.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"vrei să vorbim despre hot dogi?" - @Pahimar'
+  name: '&rHot dog BBQ învelit în bacon'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Când gătesc" - @Eyamaz'
+  name: '&rHot dog BBQ cu bacon dublu, în tortilla cu brânză'
   stats:
   - '&7&oRestabilește &b&o10.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BBQ_SAUCE:
+  name: '&cSos BBQ'
   type:
   - '&7&oComponentă'
 BISCUIT:
+  name: '&6Biscuit'
   stats:
   - '&7&oRestabilește &b&o2.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BISCUITS_GRAVY:
+  name: '&rBiscuiți cu sos țărănesc'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLACKBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&8Mură'
   type:
   - '&7&oMâncare'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&8Tufă de mure'
   type:
   - '&7&oComponentă'
 BLACKBERRY_COBBLER:
+  name: '&8Prăjitură cu mure'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Sandviș cu gem de mure'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLACKBERRY_JUICE:
+  name: '&8Suc de mure'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLACKBERRY_PIE:
+  name: '&8Plăcintă cu mure'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Smoothie de mure'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLACK_PEPPER:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&8Piper negru'
   type:
   - '&7&oMâncare'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&8Plantă de piper negru'
   type:
   - '&7&oComponentă'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&9Afină'
   type:
   - '&7&oMâncare'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&9Tufă de afine'
   type:
   - '&7&oComponentă'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Tort cu brânză și afine'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Sandviș cu gem de afine'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY_JUICE:
+  name: '&9Suc de afine'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY_MUFFIN:
+  name: '&rBrioșă cu afine'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY_PANCAKES:
+  name: '&rClătite cu afine'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY_PIE:
+  name: '&9Plăcintă cu afine'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Smoothie de afine'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BOSTON_CREAM_PIE:
+  name: '&rTort cu cremă Boston'
   stats:
   - '&7&oRestabilește &b&o4.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 BROWN_SUGAR:
+  name: '&rZahăr brun'
   type:
   - '&7&oComponentă'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CABBAGE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&2Varză'
   type:
   - '&7&oMâncare'
 CABBAGE_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&2Plantă de varză'
   type:
   - '&7&oComponentă'
 CARROT_CAKE:
+  name: '&rPrăjitură cu morcov'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHEESEBURGER:
+  name: '&rCheeseburger'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHEESECAKE:
+  name: '&rTort cu brânză'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cCireașă'
   type:
   - '&7&oMâncare'
 CHERRY_CHEESECAKE:
+  name: '&cTort cu brânză și cireșe'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHERRY_ICED_TEA:
+  name: '&cCeai rece cu cireșe'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHERRY_JUICE:
+  name: '&cSuc de cireșe'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHERRY_PIE:
+  name: '&cPlăcintă cu cireșe'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHERRY_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&cRăsad de cireș'
   type:
   - '&7&oComponentă'
 CHICKEN_BURGER:
+  name: '&rBurger cu pui'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHICKEN_BURRITO:
+  name: '&rBurrito cu pui'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHICKEN_CHEESEBURGER:
+  name: '&rCheeseburger cu pui'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHICKEN_CURRY:
+  name: '&rCurry cu pui'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHICKEN_POT_PIE:
+  name: '&rPlăcintă cu pui'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHICKEN_SANDWICH:
+  name: '&rSandviș cu pui'
   stats:
   - '&7&oRestabilește &b&o5.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHOCOLATE_BAR:
+  name: '&rBaton de ciocolată'
   stats:
   - '&7&oRestabilește &b&o1.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHOCOLATE_CAKE:
+  name: '&rTort de ciocolată'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rBrioșă cu bucăți de ciocolată'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rTort de ciocolată cu pere'
   stats:
   - '&7&oRestabilește &b&o9.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CHOCOLATE_STRAWBERRY:
+  name: '&cCăpșună în ciocolată'
   stats:
   - '&7&oRestabilește &b&o2.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CILANTRO:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&aCoriandru'
   type:
   - '&7&oMâncare'
 CILANTRO_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&aPlantă de coriandru'
   type:
   - '&7&oComponentă'
 CLUB_SANDWICH:
+  name: '&rSandviș club'
   stats:
   - '&7&oRestabilește &b&o9.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COAL_ESSENCE:
+  description:
+  - '&7Cărbune'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 COAL_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de cărbune'
   type:
   - '&7&oMagic'
 COCONUT:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&6Nucă de cocos'
   type:
   - '&7&oMâncare'
 COCONUT_CHICKEN_CURRY:
+  name: '&rCurry cu pui și cocos'
   stats:
   - '&7&oRestabilește &b&o9.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COCONUT_MILK:
+  name: '&6Lapte de cocos'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COCONUT_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&6Răsad de cocos'
   type:
   - '&7&oComponentă'
 COPPER_ESSENCE:
+  description:
+  - '&7Cupru'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 COPPER_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de cupru'
   type:
   - '&7&oMagic'
 CORN:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&6Porumb'
   type:
   - '&7&oMâncare'
 CORNMEAL:
+  name: '&rMălai'
   type:
   - '&7&oComponentă'
 CORN_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&6Plantă de porumb'
   type:
   - '&7&oComponentă'
 CORN_ON_THE_COB:
+  name: '&6Porumb pe cocean'
   stats:
   - '&7&oRestabilește &b&o4.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COUNTRY_GRAVY:
+  name: '&rSos țărănesc'
   type:
   - '&7&oComponentă'
 COWBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cCoacăz de munte'
   type:
   - '&7&oMâncare'
 COWBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&cTufă de coacăz de munte'
   type:
   - '&7&oComponentă'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cSandviș cu gem de coacăz de munte'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COWBERRY_JUICE:
+  name: '&cSuc de coacăz de munte'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COWBERRY_PIE:
+  name: '&cPlăcintă cu coacăz de munte'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 COWBERRY_SMOOTHIE:
+  name: '&cSmoothie de coacăz de munte'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CRANBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cMerișor'
   type:
   - '&7&oMâncare'
 CRANBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&cTufă de merișor'
   type:
   - '&7&oComponentă'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cSandviș cu gem de merișor'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CRANBERRY_JUICE:
+  name: '&cSuc de merișor'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CRANBERRY_PIE:
+  name: '&cPlăcintă cu merișor'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CRANBERRY_SMOOTHIE:
+  name: '&cSmoothie de merișor'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CREAMED_CORN:
+  name: '&rPorumb cu smântână'
   stats:
   - '&7&oRestabilește &b&o4.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CREAM_COOKIE:
+  name: '&rBiscuit cu cremă'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 CROOK:
+  description:
+  - '&7O săpăligă de lemn folosită pentru a recolta plante de grădină.'
+  name: '&rCârjă'
+  stats:
+  - '&7+ &b25% &7Rată de Răsaduri'
   type:
   - '&7&oUnealtă'
 CURRY_LEAF:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&2Foaie de curry'
   type:
   - '&7&oMâncare'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&2Plantă de curry'
   type:
   - '&7&oComponentă'
 DELUXE_CHEESEBURGER:
+  name: '&rCheeseburger deluxe'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Diamant'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 DIAMOND_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de diamant'
   type:
   - '&7&oMagic'
 DIRT_ESSENCE:
+  description:
+  - '&7Pământ'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 DIRT_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de pământ'
   type:
   - '&7&oMagic'
 DRAGON_FRUIT:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&dFruct de dragon'
   type:
   - '&7&oMâncare'
 DRAGON_FRUIT_JUICE:
+  name: '&dSuc de fruct de dragon'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 DRAGON_FRUIT_PIE:
+  name: '&dPlăcintă cu fruct de dragon'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&dRăsad de fruct de dragon'
   type:
   - '&7&oComponentă'
 EGG_SALAD:
+  name: '&rSalată de ouă'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ELDERBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cBoabă de soc'
   type:
   - '&7&oMâncare'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&cTufă de soc'
   type:
   - '&7&oComponentă'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cSandviș cu gem de soc'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ELDERBERRY_JUICE:
+  name: '&cSuc de soc'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ELDERBERRY_PIE:
+  name: '&cPlăcintă cu soc'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ELDERBERRY_SMOOTHIE:
+  name: '&cSmoothie de soc'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smarald'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 EMERALD_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de smarald'
   type:
   - '&7&oMagic'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 ENDER_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de ender'
   type:
   - '&7&oMagic'
 FISH_SANDWICH:
+  name: '&rSandviș cu pește'
   stats:
   - '&7&oRestabilește &b&o5.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 FISH_TACO:
+  name: '&rTaco cu pește'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 FRIES:
+  name: '&rCartofi prăjiți'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GARLIC:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&rUsturoi'
   type:
   - '&7&oMâncare'
 GARLIC_BREAD:
+  name: '&rPâine cu usturoi'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GARLIC_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&rPlantă de usturoi'
   type:
   - '&7&oComponentă'
 GARLIC_CHEESE_BREAD:
+  name: '&rPâine cu usturoi și cașcaval'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Glowstone'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 GLOWSTONE_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de glowstone'
   type:
   - '&7&oMagic'
 GOLD_ESSENCE:
+  description:
+  - '&7Aur'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 GOLD_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de aur'
   type:
   - '&7&oMagic'
 GRAPE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cStrugure'
   type:
   - '&7&oMâncare'
 GRAPE_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&cTufă de struguri'
   type:
   - '&7&oComponentă'
 GRAPE_JELLY_SANDWICH:
+  name: '&cSandviș cu gem de struguri'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GRAPE_JUICE:
+  name: '&cSuc de struguri'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GRAPE_PIE:
+  name: '&cPlăcintă cu struguri'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GRAPE_SALAD:
+  name: '&cSalată de struguri'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GRAPE_SMOOTHIE:
+  name: '&cSmoothie de struguri'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 GRASS_SEEDS:
+  description:
+  - '&7O sursă regenerabilă de iarbă înaltă - taie-o pentru răsaduri și semințe de tufă.'
+  name: '&rSemințe de Iarbă'
   type:
   - '&7&oGadget'
+  usage:
+  - '&7&oPoate fi plantată pe pământ'
 GRILLED_SANDWICH:
+  name: '&rSandviș la grătar'
   stats:
   - '&7&oRestabilește &b&o5.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 HAMBURGER:
+  name: '&rHamburger'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 HOT_CHOCOLATE:
+  name: '&6Ciocolată caldă'
   stats:
   - '&7&oRestabilește &b&o4.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 HOT_DOG:
+  name: '&rHot dog'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ICE_CREAM:
+  name: '&rÎnghețată'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ICE_CUBE:
+  name: '&bCub de Gheață'
   type:
   - '&7&oComponentă'
 IRON_ESSENCE:
+  description:
+  - '&7Fier'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 IRON_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de fier'
   type:
   - '&7&oMagic'
 JAMMY_DODGER:
+  name: '&cBiscuit cu gem'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 KITCHEN:
+  description:
+  - '&a&oAici poți prepara o mulțime de bunătăți!'
+  name: '&eBucătărie'
   type:
   - '&7&oMultibloc'
+  usage:
+  - '&a&oRezultatul apare în slotul de ieșire al furnalului'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 LAPIS_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de lapis'
   type:
   - '&7&oMagic'
 LASAGNA:
+  name: '&rLasagna'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEAD_ESSENCE:
+  description:
+  - '&7Plumb'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 LEAD_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de plumb'
   type:
   - '&7&oMagic'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rSandviș cu pui și salată'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEAFY_FISH_SANDWICH:
+  name: '&rSandviș cu pește și salată'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEMON:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&eLămâie'
   type:
   - '&7&oMâncare'
 LEMONADE:
+  name: '&eLimonadă'
   stats:
   - '&7&oRestabilește &b&o4.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEMON_ICED_TEA:
+  name: '&eCeai rece cu lămâie'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEMON_JUICE:
+  name: '&eSuc de lămâie'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEMON_PIE:
+  name: '&ePlăcintă cu lămâie'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LEMON_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&eRăsad de lămâi'
   type:
   - '&7&oComponentă'
 LETTUCE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&2Salată verde'
   type:
   - '&7&oMâncare'
 LETTUCE_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&2Plantă de salată verde'
   type:
   - '&7&oComponentă'
 LIME:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&aLămâie verde'
   type:
   - '&7&oMâncare'
 LIME_JUICE:
+  name: '&aSuc de lămâie verde'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LIME_PIE:
+  name: '&aPlăcintă cu lămâie verde'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 LIME_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&aRăsad de lămâie verde'
   type:
   - '&7&oComponentă'
 LIME_SMOOTHIE:
+  name: '&aSmoothie de lămâie verde'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 MAYO:
+  name: '&rMaioneză'
   type:
   - '&7&oComponentă'
 MOLASSES:
+  name: '&8Melasă'
   type:
   - '&7&oComponentă'
 MUSTARD:
+  name: '&eMuștar'
   type:
   - '&7&oComponentă'
 MUSTARD_SEED:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&eSămânță de muștar'
   type:
   - '&7&oMâncare'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&ePlantă de muștar'
   type:
   - '&7&oComponentă'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 NETHERITE_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de netherite'
   type:
   - '&7&oMagic'
 OAK_APPLE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cMăr de stejar'
   type:
   - '&7&oMâncare'
 OAK_APPLE_JUICE:
+  name: '&cSuc de măr de stejar'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 OAK_APPLE_PIE:
+  name: '&cPlăcintă cu măr de stejar'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&cRăsad de măr de stejar'
   type:
   - '&7&oComponentă'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidian'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 OBSIDIAN_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de obsidian'
   type:
   - '&7&oMagic'
 ONION:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cCeapă'
   type:
   - '&7&oMâncare'
 ONION_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&cPlantă de ceapă'
   type:
   - '&7&oComponentă'
 ORANGE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&6Portocală'
   type:
   - '&7&oMâncare'
 ORANGE_JUICE:
+  name: '&6Suc de portocale'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ORANGE_PIE:
+  name: '&6Plăcintă cu portocale'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 ORANGE_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&6Răsad de portocal'
   type:
   - '&7&oComponentă'
 PANCAKES:
+  name: '&rClătite'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PEACH:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&5Piersică'
   type:
   - '&7&oMâncare'
 PEACH_ICED_TEA:
+  name: '&dCeai rece cu piersici'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PEACH_JUICE:
+  name: '&5Suc de piersici'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PEACH_PIE:
+  name: '&5Plăcintă cu piersici'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PEACH_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&5Răsad de piersic'
   type:
   - '&7&oComponentă'
 PEAR:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&aPară'
   type:
   - '&7&oMâncare'
 PEAR_JUICE:
+  name: '&aSuc de pere'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PEAR_PIE:
+  name: '&aPlăcintă cu pere'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PEAR_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&aRăsad de păr'
   type:
   - '&7&oComponentă'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oRestabilește &b&o7.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PINEAPPLE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&6Ananas'
   type:
   - '&7&oMâncare'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&6Plantă de ananas'
   type:
   - '&7&oComponentă'
 PINEAPPLE_JUICE:
+  name: '&6Suc de ananas'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Smoothie de ananas'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PLUM:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&5Prună'
   type:
   - '&7&oMâncare'
 PLUM_JUICE:
+  name: '&5Suc de prune'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PLUM_PIE:
+  name: '&5Plăcintă cu prune'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PLUM_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&5Răsad de prun'
   type:
   - '&7&oComponentă'
 POMEGRANATE:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&4Rodie'
   type:
   - '&7&oMâncare'
 POMEGRANATE_JUICE:
+  name: '&4Suc de rodie'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 POMEGRANATE_PIE:
+  name: '&4Plăcintă cu rodie'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Plantează pe pământ pentru a crește un arbore fructifer.'
+  - '&7Lovește blocurile de fruct pe care le produce pentru a recolta.'
+  name: '&4Răsad de rodiu'
   type:
   - '&7&oComponentă'
 POPCORN:
+  name: '&rFloricele de porumb'
   stats:
   - '&7&oRestabilește &b&o4.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 POTATO_SALAD:
+  name: '&rSalată de cartofi'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PUMPKIN_BREAD:
+  name: '&rPâine cu dovleac'
   stats:
   - '&7&oRestabilește &b&o4.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PUMPKIN_CHEESECAKE:
+  name: '&6Tort cu brânză și dovleac'
   stats:
   - '&7&oRestabilește &b&o8.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 PUMPKIN_MUFFIN:
+  name: '&rBrioșă cu dovleac'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Cuarț'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 QUARTZ_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de cuarț'
   type:
   - '&7&oMagic'
 RASPBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&dZmeură'
   type:
   - '&7&oMâncare'
 RASPBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&dTufă de zmeură'
   type:
   - '&7&oComponentă'
 RASPBERRY_ICED_TEA:
+  name: '&dCeai rece cu zmeură'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dSandviș cu gem de zmeură'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 RASPBERRY_JUICE:
+  name: '&dSuc de zmeură'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 RASPBERRY_PIE:
+  name: '&dPlăcintă cu zmeură'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 RASPBERRY_SMOOTHIE:
+  name: '&dSmoothie de zmeură'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Redstone'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 REDSTONE_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de redstone'
   type:
   - '&7&oMagic'
 RED_BELL_PEPPER:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&cArdei gras roșu'
   type:
   - '&7&oMâncare'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&cPlantă de ardei gras roșu'
   type:
   - '&7&oComponentă'
 SALTY_POPCORN:
+  name: '&rFloricele de porumb &7(sărate)'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SANDWICH:
+  name: '&rSandviș'
   stats:
   - '&7&oRestabilește &b&o9.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SHEPARDS_PIE:
+  name: '&rPlăcintă ciobănească'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SILVER_ESSENCE:
+  description:
+  - '&7Argint'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 SILVER_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de argint'
   type:
   - '&7&oMagic'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 SLIME_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de slime'
   type:
   - '&7&oMagic'
 STRAWBERRY:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&4Căpșună'
   type:
   - '&7&oMâncare'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&4Tufă de căpșuni'
   type:
   - '&7&oComponentă'
 STRAWBERRY_ICED_TEA:
+  name: '&4Ceai rece cu căpșuni'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Sandviș cu gem de căpșuni'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STRAWBERRY_JUICE:
+  name: '&4Suc de căpșuni'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STRAWBERRY_PIE:
+  name: '&4Plăcintă cu căpșuni'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STRAWBERRY_SALAD:
+  name: '&cSalată de căpșuni'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Smoothie de căpșuni'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STREET_TACO:
+  name: '&rTaco de stradă'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cArdei gras roșu umplut'
   stats:
   - '&7&oRestabilește &b&o7.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Tort cu brânză și pere îndulcite'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SWEETENED_TEA:
+  name: '&aCeai îndulcit'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SWEET_BERRY_PANCAKES:
+  name: '&rClătite cu fructe de pădure dulci'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SWEET_POPCORN:
+  name: '&rFloricele de porumb &7(dulci)'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 SWEET_POTATO:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&6Cartof dulce'
   type:
   - '&7&oMâncare'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&6Plantă de cartof dulce'
   type:
   - '&7&oComponentă'
 SWEET_POTATO_PIE:
+  name: '&rPlăcintă cu cartof dulce'
   stats:
   - '&7&oRestabilește &b&o6.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TEA_LEAF:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&aFoaie de ceai'
   type:
   - '&7&oMâncare'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&aPlantă de ceai'
   type:
   - '&7&oComponentă'
 THAI_TEA:
+  name: '&6Ceai thailandez'
   stats:
   - '&7&oRestabilește &b&o7.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TIN_ESSENCE:
+  description:
+  - '&7Staniu'
+  - '&7Fabrică-o în Planta corespunzătoare pentru a crește resursa.'
+  name: '&rEsență Magică'
   type:
   - '&7&oMagic'
 TIN_PLANT:
+  description:
+  - '&7O cultură magică. Plantează pe pământ, lasă-o să crească, apoi recoltează resursa.'
+  - '&7Nivelurile superioare necesită planta nivelului anterior în rețetă.'
+  name: '&rPlantă de staniu'
   type:
   - '&7&oMagic'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oRestabilește &b&o8.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu cu mure'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu cu zmeură'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu cu căpșuni'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TOMATO:
+  description:
+  - '&7O recoltă proaspătă din Grădina Exotică.'
+  - '&7Mănâncă-l crud, fă-i suc sau gătește-l într-un fel de mâncare.'
+  name: '&4Roșie'
   type:
   - '&7&oMâncare'
 TOMATO_BUSH:
+  description:
+  - '&7Plantează pe pământ și se coace lent.'
+  - '&7Clic-dreapta când e coaptă pentru a recolta fără a distruge.'
+  name: '&4Plantă de roșii'
   type:
   - '&7&oComponentă'
 TOMATO_JUICE:
+  name: '&4Suc de roșii'
   stats:
   - '&7&oRestabilește &b&o3.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 TOMATO_SOUP:
+  name: '&4Supă de roșii'
   stats:
   - '&7&oRestabilește &b&o5.5 &7&oSaturație'
   type:
   - '&7&oMâncare'
 VEGETABLE_OIL:
+  name: '&rUlei vegetal'
   type:
   - '&7&oComponentă'
 WAFFLES:
+  name: '&rGofre'
   stats:
   - '&7&oRestabilește &b&o6.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 WINE:
+  name: '&cVin'
   stats:
   - '&7&oRestabilește &b&o5.0 &7&oSaturație'
   type:
   - '&7&oMâncare'
 YEAST:
+  name: '&rDrojdie'
   type:
   - '&7&oComponentă'
