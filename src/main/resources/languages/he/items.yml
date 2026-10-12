@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7אלומיניום'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 ALUMINUM_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אלומיניום'
   type:
   - '&7&oקסום'
 APPLE_PEAR_CAKE:
+  name: '&cעוגת תפוחים ואגסים'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BACON:
+  name: '&rבייקון'
   stats:
   - '&7&oמשחזר &b&o1.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BACON_BURGER:
+  name: '&rבורגר בייקון'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BACON_CHEESEBURGER:
+  name: '&rצ''יזבורגר בייקון'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BACON_SANDWICH:
+  name: '&rכריך בייקון'
   stats:
   - '&7&oמשחזר &b&o9.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"כשאני מבשל" - @Eyamaz'
+  name: '&rנקניקייה עטופה בבייקון וממולאת בגבינה'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BAGEL:
+  name: '&rבייגל'
   stats:
   - '&7&oמשחזר &b&o2.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"רוצה לדבר על נקניקיות?" - @Pahimar'
+  name: '&rנקניקייה ברביקיו עטופה בבייקון'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"כשאני מבשל" - @Eyamaz'
+  name: '&rנקניקייה ברביקיו עטופה בבייקון כפול בטורטייה עם גבינה'
   stats:
   - '&7&oמשחזר &b&o10.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BBQ_SAUCE:
+  name: '&cרוטב ברביקיו'
   type:
   - '&7&oרכיב'
 BISCUIT:
+  name: '&6ביסקוויט'
   stats:
   - '&7&oמשחזר &b&o2.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BISCUITS_GRAVY:
+  name: '&rביסקוויטים ברוטב כפרי'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BLACKBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&8פטל שחור'
   type:
   - '&7&oמזון'
 BLACKBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&8שיח פטל שחור'
   type:
   - '&7&oרכיב'
 BLACKBERRY_COBBLER:
+  name: '&8קובלר פטל שחור'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8כריך ריבת פטל שחור'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLACKBERRY_JUICE:
+  name: '&8מיץ פטל שחור'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLACKBERRY_PIE:
+  name: '&8פאי פטל שחור'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BLACKBERRY_SMOOTHIE:
+  name: '&8שייק פטל שחור'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLACK_PEPPER:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&8פלפל שחור'
   type:
   - '&7&oמזון'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&8צמח פלפל שחור'
   type:
   - '&7&oרכיב'
 BLT:
+  name: '&rכריך בייקון, חסה ועגבנייה'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&9אוכמנית'
   type:
   - '&7&oמזון'
 BLUEBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&9שיח אוכמניות'
   type:
   - '&7&oרכיב'
 BLUEBERRY_CHEESECAKE:
+  name: '&9עוגת גבינה באוכמניות'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9כריך ריבת אוכמניות'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY_JUICE:
+  name: '&9מיץ אוכמניות'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY_MUFFIN:
+  name: '&rמאפין אוכמניות'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY_PANCAKES:
+  name: '&rפנקייקים באוכמניות'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY_PIE:
+  name: '&9פאי אוכמניות'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BLUEBERRY_SMOOTHIE:
+  name: '&9שייק אוכמניות'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 BOSTON_CREAM_PIE:
+  name: '&rעוגת שמנת בוסטון'
   stats:
   - '&7&oמשחזר &b&o4.5 &7&oרעב'
   type:
   - '&7&oמזון'
 BROWN_SUGAR:
+  name: '&rסוכר חום'
   type:
   - '&7&oרכיב'
 BURRITO:
+  name: '&rבוריטו'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CABBAGE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&2כרוב'
   type:
   - '&7&oמזון'
 CABBAGE_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&2צמח כרוב'
   type:
   - '&7&oרכיב'
 CARROT_CAKE:
+  name: '&rעוגת גזר'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CHEESEBURGER:
+  name: '&rצ''יזבורגר'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHEESECAKE:
+  name: '&rעוגת גבינה'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CHERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cדובדבן'
   type:
   - '&7&oמזון'
 CHERRY_CHEESECAKE:
+  name: '&cעוגת גבינה בדובדבנים'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHERRY_ICED_TEA:
+  name: '&cתה קר בדובדבן'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHERRY_JUICE:
+  name: '&cמיץ דובדבנים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CHERRY_PIE:
+  name: '&cפאי דובדבנים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHERRY_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&cשתיל דובדבן'
   type:
   - '&7&oרכיב'
 CHICKEN_BURGER:
+  name: '&rבורגר עוף'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CHICKEN_BURRITO:
+  name: '&rבוריטו עוף'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CHICKEN_CHEESEBURGER:
+  name: '&rצ''יזבורגר עוף'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHICKEN_CURRY:
+  name: '&rקארי עוף'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CHICKEN_POT_PIE:
+  name: '&rפאי עוף'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHICKEN_SANDWICH:
+  name: '&rכריך עוף'
   stats:
   - '&7&oמשחזר &b&o5.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHOCOLATE_BAR:
+  name: '&rחפיסת שוקולד'
   stats:
   - '&7&oמשחזר &b&o1.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHOCOLATE_CAKE:
+  name: '&rעוגת שוקולד'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rמאפין שבבי שוקולד'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rעוגת שוקולד ואגסים'
   stats:
   - '&7&oמשחזר &b&o9.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CHOCOLATE_STRAWBERRY:
+  name: '&cתות בשוקולד'
   stats:
   - '&7&oמשחזר &b&o2.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CILANTRO:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&aכוסברה'
   type:
   - '&7&oמזון'
 CILANTRO_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&aצמח כוסברה'
   type:
   - '&7&oרכיב'
 CLUB_SANDWICH:
+  name: '&rכריך קלאב'
   stats:
   - '&7&oמשחזר &b&o9.5 &7&oרעב'
   type:
   - '&7&oמזון'
 COAL_ESSENCE:
+  description:
+  - '&7פחם'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 COAL_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח פחם'
   type:
   - '&7&oקסום'
 COCONUT:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&6קוקוס'
   type:
   - '&7&oמזון'
 COCONUT_CHICKEN_CURRY:
+  name: '&rקארי עוף בקוקוס'
   stats:
   - '&7&oמשחזר &b&o9.5 &7&oרעב'
   type:
   - '&7&oמזון'
 COCONUT_MILK:
+  name: '&6חלב קוקוס'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 COCONUT_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&6שתיל קוקוס'
   type:
   - '&7&oרכיב'
 COPPER_ESSENCE:
+  description:
+  - '&7נחושת'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 COPPER_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח נחושת'
   type:
   - '&7&oקסום'
 CORN:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&6תירס'
   type:
   - '&7&oמזון'
 CORNMEAL:
+  name: '&rקמח תירס'
   type:
   - '&7&oרכיב'
 CORN_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&6צמח תירס'
   type:
   - '&7&oרכיב'
 CORN_ON_THE_COB:
+  name: '&6קלח תירס'
   stats:
   - '&7&oמשחזר &b&o4.5 &7&oרעב'
   type:
   - '&7&oמזון'
 COUNTRY_GRAVY:
+  name: '&rרוטב כפרי'
   type:
   - '&7&oרכיב'
 COWBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cאוכמנית אדומה'
   type:
   - '&7&oמזון'
 COWBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&cשיח אוכמניות אדומות'
   type:
   - '&7&oרכיב'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cכריך ריבת אוכמניות אדומות'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 COWBERRY_JUICE:
+  name: '&cמיץ אוכמניות אדומות'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 COWBERRY_PIE:
+  name: '&cפאי אוכמניות אדומות'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 COWBERRY_SMOOTHIE:
+  name: '&cשייק אוכמניות אדומות'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CRANBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cחמוצית'
   type:
   - '&7&oמזון'
 CRANBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&cשיח חמוציות'
   type:
   - '&7&oרכיב'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cכריך ריבת חמוציות'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CRANBERRY_JUICE:
+  name: '&cמיץ חמוציות'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CRANBERRY_PIE:
+  name: '&cפאי חמוציות'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 CRANBERRY_SMOOTHIE:
+  name: '&cשייק חמוציות'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CREAMED_CORN:
+  name: '&rתירס בשמנת'
   stats:
   - '&7&oמשחזר &b&o4.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CREAM_COOKIE:
+  name: '&rעוגיית שמנת'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 CROOK:
+  description:
+  - '&7מעדר עץ המשמש לקצור צמחי גן.'
+  name: '&rמקל קציר'
+  stats:
+  - '&7+ &b25% &7קצב הפלת שתילים'
   type:
   - '&7&oכלי'
 CURRY_LEAF:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&2עלה קארי'
   type:
   - '&7&oמזון'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&2צמח עלי קארי'
   type:
   - '&7&oרכיב'
 DELUXE_CHEESEBURGER:
+  name: '&rצ''יזבורגר דלוקס'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 DIAMOND_ESSENCE:
+  description:
+  - '&7יהלום'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 DIAMOND_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח יהלום'
   type:
   - '&7&oקסום'
 DIRT_ESSENCE:
+  description:
+  - '&7אדמה'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 DIRT_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אדמה'
   type:
   - '&7&oקסום'
 DRAGON_FRUIT:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&dפרי דרקון'
   type:
   - '&7&oמזון'
 DRAGON_FRUIT_JUICE:
+  name: '&dמיץ פרי דרקון'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 DRAGON_FRUIT_PIE:
+  name: '&dפאי פרי דרקון'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&dשתיל פרי דרקון'
   type:
   - '&7&oרכיב'
 EGG_SALAD:
+  name: '&rסלט ביצים'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 ELDERBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cסמבוק'
   type:
   - '&7&oמזון'
 ELDERBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&cשיח סמבוק'
   type:
   - '&7&oרכיב'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cכריך ריבת סמבוק'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 ELDERBERRY_JUICE:
+  name: '&cמיץ סמבוק'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 ELDERBERRY_PIE:
+  name: '&cפאי סמבוק'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 ELDERBERRY_SMOOTHIE:
+  name: '&cשייק סמבוק'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 EMERALD_ESSENCE:
+  description:
+  - '&7אזמרגד'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 EMERALD_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אזמרגד'
   type:
   - '&7&oקסום'
 ENDER_ESSENCE:
+  description:
+  - '&7אנדר'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 ENDER_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אנדר'
   type:
   - '&7&oקסום'
 FISH_SANDWICH:
+  name: '&rכריך דג'
   stats:
   - '&7&oמשחזר &b&o5.5 &7&oרעב'
   type:
   - '&7&oמזון'
 FISH_TACO:
+  name: '&rטאקו דג'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 FRIES:
+  name: '&rצ''יפס'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 GARLIC:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&rשום'
   type:
   - '&7&oמזון'
 GARLIC_BREAD:
+  name: '&rלחם שום'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 GARLIC_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&rצמח שום'
   type:
   - '&7&oרכיב'
 GARLIC_CHEESE_BREAD:
+  name: '&rלחם שום עם גבינה'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7אבן זוהרת'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 GLOWSTONE_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אבן זוהרת'
   type:
   - '&7&oקסום'
 GOLD_ESSENCE:
+  description:
+  - '&7זהב'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 GOLD_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח זהב'
   type:
   - '&7&oקסום'
 GRAPE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cענב'
   type:
   - '&7&oמזון'
 GRAPE_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&cשיח ענבים'
   type:
   - '&7&oרכיב'
 GRAPE_JELLY_SANDWICH:
+  name: '&cכריך ריבת ענבים'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 GRAPE_JUICE:
+  name: '&cמיץ ענבים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 GRAPE_PIE:
+  name: '&cפאי ענבים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 GRAPE_SALAD:
+  name: '&cסלט ענבים'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 GRAPE_SMOOTHIE:
+  name: '&cשייק ענבים'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 GRASS_SEEDS:
+  description:
+  - '&7מקור מתחדש לדשא גבוה - חתוך אותו לקבלת שתילים וזרעי שיחים.'
+  name: '&rזרעי דשא'
   type:
   - '&7&oגאדג׳ט'
+  usage:
+  - '&7&oניתן לשתול על אדמה'
 GRILLED_SANDWICH:
+  name: '&rטוסט'
   stats:
   - '&7&oמשחזר &b&o5.5 &7&oרעב'
   type:
   - '&7&oמזון'
 HAMBURGER:
+  name: '&rהמבורגר'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 HOT_CHOCOLATE:
+  name: '&6שוקו חם'
   stats:
   - '&7&oמשחזר &b&o4.0 &7&oרעב'
   type:
   - '&7&oמזון'
 HOT_DOG:
+  name: '&rנקניקייה בלחמנייה'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 ICE_CREAM:
+  name: '&rגלידה'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 ICE_CUBE:
+  name: '&bקובית קרח'
   type:
   - '&7&oרכיב'
 IRON_ESSENCE:
+  description:
+  - '&7ברזל'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 IRON_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח ברזל'
   type:
   - '&7&oקסום'
 JAMMY_DODGER:
+  name: '&cעוגיית ריבה'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 KITCHEN:
+  description:
+  - '&a&oאפשר להכין כאן שפע של מעדנים שונים!'
+  name: '&eמטבח'
   type:
   - '&7&oרב בלוק'
+  usage:
+  - '&a&oהתוצאה מגיעה למשבצת הפלט של הכבשן'
 LAMINGTON:
+  name: '&rלמינגטון'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 LAPIS_ESSENCE:
+  description:
+  - '&7לפיס'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 LAPIS_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח לפיס'
   type:
   - '&7&oקסום'
 LASAGNA:
+  name: '&rלזניה'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 LEAD_ESSENCE:
+  description:
+  - '&7עופרת'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 LEAD_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח עופרת'
   type:
   - '&7&oקסום'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rכריך עוף עם עלים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 LEAFY_FISH_SANDWICH:
+  name: '&rכריך דג עם עלים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 LEMON:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&eלימון'
   type:
   - '&7&oמזון'
 LEMONADE:
+  name: '&eלימונדה'
   stats:
   - '&7&oמשחזר &b&o4.0 &7&oרעב'
   type:
   - '&7&oמזון'
 LEMON_ICED_TEA:
+  name: '&eתה קר בלימון'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 LEMON_JUICE:
+  name: '&eמיץ לימון'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 LEMON_PIE:
+  name: '&eפאי לימון'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 LEMON_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&eשתיל לימון'
   type:
   - '&7&oרכיב'
 LETTUCE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&2חסה'
   type:
   - '&7&oמזון'
 LETTUCE_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&2צמח חסה'
   type:
   - '&7&oרכיב'
 LIME:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&aליים'
   type:
   - '&7&oמזון'
 LIME_JUICE:
+  name: '&aמיץ ליים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 LIME_PIE:
+  name: '&aפאי ליים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 LIME_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&aשתיל ליים'
   type:
   - '&7&oרכיב'
 LIME_SMOOTHIE:
+  name: '&aשייק ליים'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 MAYO:
+  name: '&rמיונז'
   type:
   - '&7&oרכיב'
 MOLASSES:
+  name: '&8מולסה'
   type:
   - '&7&oרכיב'
 MUSTARD:
+  name: '&eחרדל'
   type:
   - '&7&oרכיב'
 MUSTARD_SEED:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&eזרע חרדל'
   type:
   - '&7&oמזון'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&eצמח זרעי חרדל'
   type:
   - '&7&oרכיב'
 NETHERITE_ESSENCE:
+  description:
+  - '&7נתרייט'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 NETHERITE_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח נתרייט'
   type:
   - '&7&oקסום'
 OAK_APPLE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cתפוח אלון'
   type:
   - '&7&oמזון'
 OAK_APPLE_JUICE:
+  name: '&cמיץ תפוח אלון'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 OAK_APPLE_PIE:
+  name: '&cפאי תפוח אלון'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&cשתיל תפוח אלון'
   type:
   - '&7&oרכיב'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7אובסידיאן'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 OBSIDIAN_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אובסידיאן'
   type:
   - '&7&oקסום'
 ONION:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cבצל'
   type:
   - '&7&oמזון'
 ONION_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&cצמח בצל'
   type:
   - '&7&oרכיב'
 ORANGE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&6תפוז'
   type:
   - '&7&oמזון'
 ORANGE_JUICE:
+  name: '&6מיץ תפוזים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 ORANGE_PIE:
+  name: '&6פאי תפוזים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 ORANGE_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&6שתיל תפוז'
   type:
   - '&7&oרכיב'
 PANCAKES:
+  name: '&rפנקייקים'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PAVLOVA:
+  name: '&rפבלובה'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PEACH:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&5אפרסק'
   type:
   - '&7&oמזון'
 PEACH_ICED_TEA:
+  name: '&dתה קר באפרסק'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 PEACH_JUICE:
+  name: '&5מיץ אפרסקים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PEACH_PIE:
+  name: '&5פאי אפרסקים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 PEACH_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&5שתיל אפרסק'
   type:
   - '&7&oרכיב'
 PEAR:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&aאגס'
   type:
   - '&7&oמזון'
 PEAR_JUICE:
+  name: '&aמיץ אגסים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PEAR_PIE:
+  name: '&aפאי אגסים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 PEAR_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&aשתיל אגס'
   type:
   - '&7&oרכיב'
 PINACOLADA:
+  name: '&6פינה קולדה'
   stats:
   - '&7&oמשחזר &b&o7.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PINEAPPLE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&6אננס'
   type:
   - '&7&oמזון'
 PINEAPPLE_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&6צמח אננס'
   type:
   - '&7&oרכיב'
 PINEAPPLE_JUICE:
+  name: '&6מיץ אננס'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PINEAPPLE_SMOOTHIE:
+  name: '&6שייק אננס'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PLUM:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&5שזיף'
   type:
   - '&7&oמזון'
 PLUM_JUICE:
+  name: '&5מיץ שזיפים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PLUM_PIE:
+  name: '&5פאי שזיפים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 PLUM_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&5שתיל שזיף'
   type:
   - '&7&oרכיב'
 POMEGRANATE:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&4רימון'
   type:
   - '&7&oמזון'
 POMEGRANATE_JUICE:
+  name: '&4מיץ רימונים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 POMEGRANATE_PIE:
+  name: '&4פאי רימונים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7שתול על אדמה כדי לגדל עץ פרי.'
+  - '&7הכה בבלוקי הפרי שהוא מניב כדי לקצור.'
+  name: '&4שתיל רימון'
   type:
   - '&7&oרכיב'
 POPCORN:
+  name: '&rפופקורן'
   stats:
   - '&7&oמשחזר &b&o4.0 &7&oרעב'
   type:
   - '&7&oמזון'
 POTATO_SALAD:
+  name: '&rסלט תפוחי אדמה'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PUMPKIN_BREAD:
+  name: '&rלחם דלעת'
   stats:
   - '&7&oמשחזר &b&o4.0 &7&oרעב'
   type:
   - '&7&oמזון'
 PUMPKIN_CHEESECAKE:
+  name: '&6עוגת גבינה בדלעת'
   stats:
   - '&7&oמשחזר &b&o8.5 &7&oרעב'
   type:
   - '&7&oמזון'
 PUMPKIN_MUFFIN:
+  name: '&rמאפין דלעת'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 QUARTZ_ESSENCE:
+  description:
+  - '&7קוורץ'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 QUARTZ_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח קוורץ'
   type:
   - '&7&oקסום'
 RASPBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&dפטל'
   type:
   - '&7&oמזון'
 RASPBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&dשיח פטל'
   type:
   - '&7&oרכיב'
 RASPBERRY_ICED_TEA:
+  name: '&dתה קר בפטל'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dכריך ריבת פטל'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 RASPBERRY_JUICE:
+  name: '&dמיץ פטל'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 RASPBERRY_PIE:
+  name: '&dפאי פטל'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 RASPBERRY_SMOOTHIE:
+  name: '&dשייק פטל'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 REDSTONE_ESSENCE:
+  description:
+  - '&7אבן אדומה'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 REDSTONE_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח אבן אדומה'
   type:
   - '&7&oקסום'
 RED_BELL_PEPPER:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&cגמבה אדומה'
   type:
   - '&7&oמזון'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&cצמח גמבה אדומה'
   type:
   - '&7&oרכיב'
 SALTY_POPCORN:
+  name: '&rפופקורן &7(מלוח)'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 SANDWICH:
+  name: '&rכריך'
   stats:
   - '&7&oמשחזר &b&o9.5 &7&oרעב'
   type:
   - '&7&oמזון'
 SHEPARDS_PIE:
+  name: '&rפאי רועים'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 SILVER_ESSENCE:
+  description:
+  - '&7כסף'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 SILVER_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח כסף'
   type:
   - '&7&oקסום'
 SLIME_ESSENCE:
+  description:
+  - '&7ריר'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 SLIME_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח ריר'
   type:
   - '&7&oקסום'
 STRAWBERRY:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&4תות'
   type:
   - '&7&oמזון'
 STRAWBERRY_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&4שיח תותים'
   type:
   - '&7&oרכיב'
 STRAWBERRY_ICED_TEA:
+  name: '&4תה קר בתות'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4כריך ריבת תותים'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 STRAWBERRY_JUICE:
+  name: '&4מיץ תותים'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 STRAWBERRY_PIE:
+  name: '&4פאי תותים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 STRAWBERRY_SALAD:
+  name: '&cסלט תותים'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 STRAWBERRY_SMOOTHIE:
+  name: '&4שייק תותים'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 STREET_TACO:
+  name: '&rטאקו רחוב'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cגמבה אדומה ממולאת'
   stats:
   - '&7&oמשחזר &b&o7.0 &7&oרעב'
   type:
   - '&7&oמזון'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6עוגת גבינה באגסים ממותקים'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 SWEETENED_TEA:
+  name: '&aתה ממותק'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 SWEET_BERRY_PANCAKES:
+  name: '&rפנקייקים בפירות יער מתוקים'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 SWEET_POPCORN:
+  name: '&rפופקורן &7(מתוק)'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 SWEET_POTATO:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&6בטטה'
   type:
   - '&7&oמזון'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&6צמח בטטה'
   type:
   - '&7&oרכיב'
 SWEET_POTATO_PIE:
+  name: '&rפאי בטטה'
   stats:
   - '&7&oמשחזר &b&o6.5 &7&oרעב'
   type:
   - '&7&oמזון'
 TACO:
+  name: '&rטאקו'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TEA_LEAF:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&aעלה תה'
   type:
   - '&7&oמזון'
 TEA_LEAF_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&aצמח עלי תה'
   type:
   - '&7&oרכיב'
 THAI_TEA:
+  name: '&6תה תאילנדי'
   stats:
   - '&7&oמשחזר &b&o7.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TIN_ESSENCE:
+  description:
+  - '&7בדיל'
+  - '&7צור ממנה את הצמח המתאים כדי לגדל את המשאב.'
+  name: '&rתמצית קסומה'
   type:
   - '&7&oקסום'
 TIN_PLANT:
+  description:
+  - '&7גידול קסום. שתול על אדמה ותן לו לגדול, ואז קצור כדי לקבל את המשאב שלו.'
+  - '&7דרגות גבוהות יותר צריכות את צמח הדרגה הקודמת במתכון.'
+  name: '&rצמח בדיל'
   type:
   - '&7&oקסום'
 TIRAMISU:
+  name: '&rטירמיסו'
   stats:
   - '&7&oמשחזר &b&o8.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rטירמיסו עם פטל שחור'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rטירמיסו עם פטל'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rטירמיסו עם תותים'
   stats:
   - '&7&oמשחזר &b&o9.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TOMATO:
+  description:
+  - '&7קציר טרי מהגן האקזוטי.'
+  - '&7אכול אותו נא, סחט ממנו מיץ, או בשל אותו למנה.'
+  name: '&4עגבנייה'
   type:
   - '&7&oמזון'
 TOMATO_BUSH:
+  description:
+  - '&7שתול על אדמה והוא מבשיל לאט.'
+  - '&7לחיצה ימנית כשהוא בשל כדי לקצור בלי להשמיד אותו.'
+  name: '&4צמח עגבניות'
   type:
   - '&7&oרכיב'
 TOMATO_JUICE:
+  name: '&4מיץ עגבניות'
   stats:
   - '&7&oמשחזר &b&o3.0 &7&oרעב'
   type:
   - '&7&oמזון'
 TOMATO_SOUP:
+  name: '&4מרק עגבניות'
   stats:
   - '&7&oמשחזר &b&o5.5 &7&oרעב'
   type:
   - '&7&oמזון'
 VEGETABLE_OIL:
+  name: '&rשמן צמחי'
   type:
   - '&7&oרכיב'
 WAFFLES:
+  name: '&rופלים'
   stats:
   - '&7&oמשחזר &b&o6.0 &7&oרעב'
   type:
   - '&7&oמזון'
 WINE:
+  name: '&cיין'
   stats:
   - '&7&oמשחזר &b&o5.0 &7&oרעב'
   type:
   - '&7&oמזון'
 YEAST:
+  name: '&rשמרים'
   type:
   - '&7&oרכיב'
