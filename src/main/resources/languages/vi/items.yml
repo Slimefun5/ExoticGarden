@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Nhôm'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 ALUMINUM_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Nhôm'
   type:
   - '&7&oMa Thuật'
 APPLE_PEAR_CAKE:
+  name: '&cBánh Táo Lê'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON:
+  name: '&rThịt xông khói'
   stats:
   - '&7&oHồi Phục &b&o1.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_BURGER:
+  name: '&rBánh kẹp Thịt xông khói'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_CHEESEBURGER:
+  name: '&rBánh kẹp Phô mai Thịt xông khói'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_SANDWICH:
+  name: '&rBánh sandwich Thịt xông khói'
   stats:
   - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Khi tôi vào bếp" - @Eyamaz'
+  name: '&rBánh mì xúc xích cuốn thịt xông khói nhân phô mai'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BAGEL:
+  name: '&rBánh mì vòng'
   stats:
   - '&7&oHồi Phục &b&o2.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"muốn nói về bánh mì xúc xích không?" - @Pahimar'
+  name: '&rBánh mì xúc xích cuốn thịt xông khói sốt nướng'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Khi tôi vào bếp" - @Eyamaz'
+  name: '&rBánh mì xúc xích cuốn hai lớp thịt xông khói sốt nướng trong bánh tortilla với phô mai'
   stats:
   - '&7&oHồi Phục &b&o10.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BBQ_SAUCE:
+  name: '&cSốt thịt nướng'
   type:
   - '&7&oThành Phần'
 BISCUIT:
+  name: '&6Bánh quy'
   stats:
   - '&7&oHồi Phục &b&o2.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BISCUITS_GRAVY:
+  name: '&rBánh quy và Sốt kem đồng quê'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&8Mâm xôi đen'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&8Bụi Mâm xôi đen'
   type:
   - '&7&oThành Phần'
 BLACKBERRY_COBBLER:
+  name: '&8Bánh nướng Mâm xôi đen'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Bánh sandwich Thạch Mâm xôi đen'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_JUICE:
+  name: '&8Nước ép Mâm xôi đen'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_PIE:
+  name: '&8Bánh Mâm xôi đen'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Sinh tố Mâm xôi đen'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLACK_PEPPER:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&8Tiêu đen'
   type:
   - '&7&oThức Ăn'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&8Cây Tiêu đen'
   type:
   - '&7&oThành Phần'
 BLT:
+  name: '&rBánh sandwich thịt xông khói, xà lách, cà chua'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&9Việt quất'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&9Bụi Việt quất'
   type:
   - '&7&oThành Phần'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Bánh phô mai Việt quất'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Bánh sandwich Thạch Việt quất'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_JUICE:
+  name: '&9Nước ép Việt quất'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_MUFFIN:
+  name: '&rBánh nướng xốp Việt quất'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_PANCAKES:
+  name: '&rBánh kếp Việt quất'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_PIE:
+  name: '&9Bánh Việt quất'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Sinh tố Việt quất'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BOSTON_CREAM_PIE:
+  name: '&rBánh kem Boston'
   stats:
   - '&7&oHồi Phục &b&o4.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 BROWN_SUGAR:
+  name: '&rĐường nâu'
   type:
   - '&7&oThành Phần'
 BURRITO:
+  name: '&rBánh Burrito'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CABBAGE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&2Bắp cải'
   type:
   - '&7&oThức Ăn'
 CABBAGE_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&2Cây Bắp cải'
   type:
   - '&7&oThành Phần'
 CARROT_CAKE:
+  name: '&rBánh Cà rốt'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHEESEBURGER:
+  name: '&rBánh kẹp Phô mai'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHEESECAKE:
+  name: '&rBánh phô mai'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cAnh đào'
   type:
   - '&7&oThức Ăn'
 CHERRY_CHEESECAKE:
+  name: '&cBánh phô mai Anh đào'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_ICED_TEA:
+  name: '&cTrà đá Anh đào'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_JUICE:
+  name: '&cNước ép Anh đào'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_PIE:
+  name: '&cBánh Anh đào'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHERRY_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&cCây non Anh đào'
   type:
   - '&7&oThành Phần'
 CHICKEN_BURGER:
+  name: '&rBánh kẹp Gà'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_BURRITO:
+  name: '&rBánh Burrito Gà'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_CHEESEBURGER:
+  name: '&rBánh kẹp Gà Phô mai'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_CURRY:
+  name: '&rCà ri Gà'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_POT_PIE:
+  name: '&rBánh nhân Gà'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHICKEN_SANDWICH:
+  name: '&rBánh sandwich Gà'
   stats:
   - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_BAR:
+  name: '&rThanh Sô-cô-la'
   stats:
   - '&7&oHồi Phục &b&o1.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_CAKE:
+  name: '&rBánh Sô-cô-la'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rBánh nướng xốp Sô-cô-la vụn'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rBánh Lê Sô-cô-la'
   stats:
   - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CHOCOLATE_STRAWBERRY:
+  name: '&cDâu tây Sô-cô-la'
   stats:
   - '&7&oHồi Phục &b&o2.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CILANTRO:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&aRau mùi'
   type:
   - '&7&oThức Ăn'
 CILANTRO_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&aCây Rau mùi'
   type:
   - '&7&oThành Phần'
 CLUB_SANDWICH:
+  name: '&rBánh sandwich ba tầng'
   stats:
   - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COAL_ESSENCE:
+  description:
+  - '&7Than đá'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 COAL_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Than đá'
   type:
   - '&7&oMa Thuật'
 COCONUT:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&6Dừa'
   type:
   - '&7&oThức Ăn'
 COCONUT_CHICKEN_CURRY:
+  name: '&rCà ri Gà nước cốt Dừa'
   stats:
   - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COCONUT_MILK:
+  name: '&6Nước cốt Dừa'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COCONUT_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&6Cây non Dừa'
   type:
   - '&7&oThành Phần'
 COPPER_ESSENCE:
+  description:
+  - '&7Đồng'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 COPPER_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Đồng'
   type:
   - '&7&oMa Thuật'
 CORN:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&6Ngô'
   type:
   - '&7&oThức Ăn'
 CORNMEAL:
+  name: '&rBột ngô'
   type:
   - '&7&oThành Phần'
 CORN_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&6Cây Ngô'
   type:
   - '&7&oThành Phần'
 CORN_ON_THE_COB:
+  name: '&6Ngô nguyên bắp'
   stats:
   - '&7&oHồi Phục &b&o4.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COUNTRY_GRAVY:
+  name: '&rSốt kem đồng quê'
   type:
   - '&7&oThành Phần'
 COWBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cViệt quất đỏ'
   type:
   - '&7&oThức Ăn'
 COWBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&cBụi Việt quất đỏ'
   type:
   - '&7&oThành Phần'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cBánh sandwich Thạch Việt quất đỏ'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COWBERRY_JUICE:
+  name: '&cNước ép Việt quất đỏ'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COWBERRY_PIE:
+  name: '&cBánh Việt quất đỏ'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 COWBERRY_SMOOTHIE:
+  name: '&cSinh tố Việt quất đỏ'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cNam việt quất'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&cBụi Nam việt quất'
   type:
   - '&7&oThành Phần'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cBánh sandwich Thạch Nam việt quất'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_JUICE:
+  name: '&cNước ép Nam việt quất'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_PIE:
+  name: '&cBánh Nam việt quất'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CRANBERRY_SMOOTHIE:
+  name: '&cSinh tố Nam việt quất'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CREAMED_CORN:
+  name: '&rNgô kem'
   stats:
   - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CREAM_COOKIE:
+  name: '&rBánh quy Kem'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 CROOK:
+  description:
+  - '&7Cày gỗ dùng để thu hoạch cây trong vườn.'
+  name: '&rMóc thu hoạch'
+  stats:
+  - '&7+ &b25% &7Tỉ lệ rơi Cây non'
   type:
   - '&7&oDụng Cụ'
 CURRY_LEAF:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&2Lá Cà ri'
   type:
   - '&7&oThức Ăn'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&2Cây Cà ri'
   type:
   - '&7&oThành Phần'
 DELUXE_CHEESEBURGER:
+  name: '&rBánh kẹp Phô mai đặc biệt'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Kim cương'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 DIAMOND_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Kim cương'
   type:
   - '&7&oMa Thuật'
 DIRT_ESSENCE:
+  description:
+  - '&7Đất'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 DIRT_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Đất'
   type:
   - '&7&oMa Thuật'
 DRAGON_FRUIT:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&dThanh long'
   type:
   - '&7&oThức Ăn'
 DRAGON_FRUIT_JUICE:
+  name: '&dNước ép Thanh long'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 DRAGON_FRUIT_PIE:
+  name: '&dBánh Thanh long'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&dCây non Thanh long'
   type:
   - '&7&oThành Phần'
 EGG_SALAD:
+  name: '&rSalad Trứng'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cQuả cơm cháy'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&cBụi Cơm cháy'
   type:
   - '&7&oThành Phần'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cBánh sandwich Thạch Cơm cháy'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_JUICE:
+  name: '&cNước ép Cơm cháy'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_PIE:
+  name: '&cBánh Cơm cháy'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ELDERBERRY_SMOOTHIE:
+  name: '&cSinh tố Cơm cháy'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 EMERALD_ESSENCE:
+  description:
+  - '&7Ngọc lục bảo'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 EMERALD_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Ngọc lục bảo'
   type:
   - '&7&oMa Thuật'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 ENDER_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Ender'
   type:
   - '&7&oMa Thuật'
 FISH_SANDWICH:
+  name: '&rBánh sandwich Cá'
   stats:
   - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 FISH_TACO:
+  name: '&rBánh Taco Cá'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 FRIES:
+  name: '&rKhoai tây chiên'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GARLIC:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&rTỏi'
   type:
   - '&7&oThức Ăn'
 GARLIC_BREAD:
+  name: '&rBánh mì Tỏi'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GARLIC_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&rCây Tỏi'
   type:
   - '&7&oThành Phần'
 GARLIC_CHEESE_BREAD:
+  name: '&rBánh mì Tỏi Phô mai'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Đá phát sáng'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Đá phát sáng'
   type:
   - '&7&oMa Thuật'
 GOLD_ESSENCE:
+  description:
+  - '&7Vàng'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 GOLD_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Vàng'
   type:
   - '&7&oMa Thuật'
 GRAPE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cNho'
   type:
   - '&7&oThức Ăn'
 GRAPE_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&cBụi Nho'
   type:
   - '&7&oThành Phần'
 GRAPE_JELLY_SANDWICH:
+  name: '&cBánh sandwich Thạch Nho'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_JUICE:
+  name: '&cNước ép Nho'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_PIE:
+  name: '&cBánh Nho'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_SALAD:
+  name: '&cSalad Nho'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRAPE_SMOOTHIE:
+  name: '&cSinh tố Nho'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 GRASS_SEEDS:
+  description:
+  - '&7Nguồn cỏ cao tái tạo được - chặt nó để lấy cây non và hạt giống bụi cây.'
+  name: '&rHạt giống Cỏ'
   type:
   - '&7&oThiết Bị'
+  usage:
+  - '&7&oCó thể trồng trên Đất'
 GRILLED_SANDWICH:
+  name: '&rBánh sandwich nướng'
   stats:
   - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 HAMBURGER:
+  name: '&rBánh kẹp Thịt'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 HOT_CHOCOLATE:
+  name: '&6Sô-cô-la nóng'
   stats:
   - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 HOT_DOG:
+  name: '&rBánh mì xúc xích'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ICE_CREAM:
+  name: '&rKem'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ICE_CUBE:
+  name: '&bĐá viên'
   type:
   - '&7&oThành Phần'
 IRON_ESSENCE:
+  description:
+  - '&7Sắt'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 IRON_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Sắt'
   type:
   - '&7&oMa Thuật'
 JAMMY_DODGER:
+  name: '&cBánh quy kẹp mứt'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 KITCHEN:
+  description:
+  - '&a&oBạn có thể làm ra cả đống món ngon ở đây!'
+  name: '&eNhà bếp'
   type:
   - '&7&oĐa khối'
+  usage:
+  - '&a&oKết quả nằm ở ô đầu ra của Lò nung'
 LAMINGTON:
+  name: '&rBánh Lamington'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lưu ly'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 LAPIS_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Lưu ly'
   type:
   - '&7&oMa Thuật'
 LASAGNA:
+  name: '&rMì Lasagna'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEAD_ESSENCE:
+  description:
+  - '&7Chì'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 LEAD_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Chì'
   type:
   - '&7&oMa Thuật'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rBánh sandwich Gà rau xanh'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEAFY_FISH_SANDWICH:
+  name: '&rBánh sandwich Cá rau xanh'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&eChanh vàng'
   type:
   - '&7&oThức Ăn'
 LEMONADE:
+  name: '&eNước chanh'
   stats:
   - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_ICED_TEA:
+  name: '&eTrà đá Chanh vàng'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_JUICE:
+  name: '&eNước ép Chanh vàng'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_PIE:
+  name: '&eBánh Chanh vàng'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LEMON_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&eCây non Chanh vàng'
   type:
   - '&7&oThành Phần'
 LETTUCE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&2Xà lách'
   type:
   - '&7&oThức Ăn'
 LETTUCE_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&2Cây Xà lách'
   type:
   - '&7&oThành Phần'
 LIME:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&aChanh xanh'
   type:
   - '&7&oThức Ăn'
 LIME_JUICE:
+  name: '&aNước ép Chanh xanh'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LIME_PIE:
+  name: '&aBánh Chanh xanh'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 LIME_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&aCây non Chanh xanh'
   type:
   - '&7&oThành Phần'
 LIME_SMOOTHIE:
+  name: '&aSinh tố Chanh xanh'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 MAYO:
+  name: '&rSốt mayonnaise'
   type:
   - '&7&oThành Phần'
 MOLASSES:
+  name: '&8Mật mía'
   type:
   - '&7&oThành Phần'
 MUSTARD:
+  name: '&eMù tạt'
   type:
   - '&7&oThành Phần'
 MUSTARD_SEED:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&eHạt Mù tạt'
   type:
   - '&7&oThức Ăn'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&eCây Mù tạt'
   type:
   - '&7&oThành Phần'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netherite'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 NETHERITE_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Netherite'
   type:
   - '&7&oMa Thuật'
 OAK_APPLE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cTáo sồi'
   type:
   - '&7&oThức Ăn'
 OAK_APPLE_JUICE:
+  name: '&cNước ép Táo sồi'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 OAK_APPLE_PIE:
+  name: '&cBánh Táo sồi'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&cCây non Táo sồi'
   type:
   - '&7&oThành Phần'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidian'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Obsidian'
   type:
   - '&7&oMa Thuật'
 ONION:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cHành tây'
   type:
   - '&7&oThức Ăn'
 ONION_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&cCây Hành tây'
   type:
   - '&7&oThành Phần'
 ORANGE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&6Cam'
   type:
   - '&7&oThức Ăn'
 ORANGE_JUICE:
+  name: '&6Nước ép Cam'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ORANGE_PIE:
+  name: '&6Bánh Cam'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 ORANGE_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&6Cây non Cam'
   type:
   - '&7&oThành Phần'
 PANCAKES:
+  name: '&rBánh kếp'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PAVLOVA:
+  name: '&rBánh Pavlova'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&5Đào'
   type:
   - '&7&oThức Ăn'
 PEACH_ICED_TEA:
+  name: '&dTrà đá Đào'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH_JUICE:
+  name: '&5Nước ép Đào'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH_PIE:
+  name: '&5Bánh Đào'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEACH_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&5Cây non Đào'
   type:
   - '&7&oThành Phần'
 PEAR:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&aLê'
   type:
   - '&7&oThức Ăn'
 PEAR_JUICE:
+  name: '&aNước ép Lê'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEAR_PIE:
+  name: '&aBánh Lê'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PEAR_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&aCây non Lê'
   type:
   - '&7&oThành Phần'
 PINACOLADA:
+  name: '&6Pinacolada'
   stats:
   - '&7&oHồi Phục &b&o7.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PINEAPPLE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&6Dứa'
   type:
   - '&7&oThức Ăn'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&6Cây Dứa'
   type:
   - '&7&oThành Phần'
 PINEAPPLE_JUICE:
+  name: '&6Nước ép Dứa'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Sinh tố Dứa'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PLUM:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&5Mận'
   type:
   - '&7&oThức Ăn'
 PLUM_JUICE:
+  name: '&5Nước ép Mận'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PLUM_PIE:
+  name: '&5Bánh Mận'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PLUM_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&5Cây non Mận'
   type:
   - '&7&oThành Phần'
 POMEGRANATE:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&4Lựu'
   type:
   - '&7&oThức Ăn'
 POMEGRANATE_JUICE:
+  name: '&4Nước ép Lựu'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 POMEGRANATE_PIE:
+  name: '&4Bánh Lựu'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Trồng trên đất để mọc thành cây ăn quả.'
+  - '&7Đập các khối trái cây nó kết để thu hoạch.'
+  name: '&4Cây non Lựu'
   type:
   - '&7&oThành Phần'
 POPCORN:
+  name: '&rBỏng ngô'
   stats:
   - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 POTATO_SALAD:
+  name: '&rSalad Khoai tây'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PUMPKIN_BREAD:
+  name: '&rBánh mì Bí ngô'
   stats:
   - '&7&oHồi Phục &b&o4.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PUMPKIN_CHEESECAKE:
+  name: '&6Bánh phô mai Bí ngô'
   stats:
   - '&7&oHồi Phục &b&o8.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 PUMPKIN_MUFFIN:
+  name: '&rBánh nướng xốp Bí ngô'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Thạch anh'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 QUARTZ_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Thạch anh'
   type:
   - '&7&oMa Thuật'
 RASPBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&dPhúc bồn tử'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&dBụi Phúc bồn tử'
   type:
   - '&7&oThành Phần'
 RASPBERRY_ICED_TEA:
+  name: '&dTrà đá Phúc bồn tử'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dBánh sandwich Thạch Phúc bồn tử'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_JUICE:
+  name: '&dNước ép Phúc bồn tử'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_PIE:
+  name: '&dBánh Phúc bồn tử'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 RASPBERRY_SMOOTHIE:
+  name: '&dSinh tố Phúc bồn tử'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Đá đỏ'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 REDSTONE_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Đá đỏ'
   type:
   - '&7&oMa Thuật'
 RED_BELL_PEPPER:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&cỚt chuông đỏ'
   type:
   - '&7&oThức Ăn'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&cCây Ớt chuông đỏ'
   type:
   - '&7&oThành Phần'
 SALTY_POPCORN:
+  name: '&rBỏng ngô &7(Mặn)'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SANDWICH:
+  name: '&rBánh sandwich'
   stats:
   - '&7&oHồi Phục &b&o9.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SHEPARDS_PIE:
+  name: '&rBánh Mục đồng'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SILVER_ESSENCE:
+  description:
+  - '&7Bạc'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 SILVER_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Bạc'
   type:
   - '&7&oMa Thuật'
 SLIME_ESSENCE:
+  description:
+  - '&7Slime'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 SLIME_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Slime'
   type:
   - '&7&oMa Thuật'
 STRAWBERRY:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&4Dâu tây'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&4Bụi Dâu tây'
   type:
   - '&7&oThành Phần'
 STRAWBERRY_ICED_TEA:
+  name: '&4Trà đá Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Bánh sandwich Thạch Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_JUICE:
+  name: '&4Nước ép Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_PIE:
+  name: '&4Bánh Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_SALAD:
+  name: '&cSalad Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Sinh tố Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STREET_TACO:
+  name: '&rBánh Taco đường phố'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cỚt chuông đỏ nhồi'
   stats:
   - '&7&oHồi Phục &b&o7.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Bánh phô mai Lê ngọt'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEETENED_TEA:
+  name: '&aTrà ngọt'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEET_BERRY_PANCAKES:
+  name: '&rBánh kếp Quả mọng ngọt'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEET_POPCORN:
+  name: '&rBỏng ngô &7(Ngọt)'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 SWEET_POTATO:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&6Khoai lang'
   type:
   - '&7&oThức Ăn'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&6Cây Khoai lang'
   type:
   - '&7&oThành Phần'
 SWEET_POTATO_PIE:
+  name: '&rBánh Khoai lang'
   stats:
   - '&7&oHồi Phục &b&o6.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TACO:
+  name: '&rBánh Taco'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TEA_LEAF:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&aLá Trà'
   type:
   - '&7&oThức Ăn'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&aCây Trà'
   type:
   - '&7&oThành Phần'
 THAI_TEA:
+  name: '&6Trà Thái'
   stats:
   - '&7&oHồi Phục &b&o7.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIN_ESSENCE:
+  description:
+  - '&7Thiếc'
+  - '&7Chế tạo thành Cây trồng tương ứng để trồng ra tài nguyên.'
+  name: '&rTinh chất Phép thuật'
   type:
   - '&7&oMa Thuật'
 TIN_PLANT:
+  description:
+  - '&7Hoa màu Phép thuật. Trồng trên đất và để nó lớn, rồi thu hoạch lấy tài nguyên.'
+  - '&7Bậc cao hơn cần cây trồng của bậc trước trong công thức.'
+  name: '&rCây trồng Thiếc'
   type:
   - '&7&oMa Thuật'
 TIRAMISU:
+  name: '&rBánh Tiramisu'
   stats:
   - '&7&oHồi Phục &b&o8.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rBánh Tiramisu Mâm xôi đen'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rBánh Tiramisu Phúc bồn tử'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rBánh Tiramisu Dâu tây'
   stats:
   - '&7&oHồi Phục &b&o9.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TOMATO:
+  description:
+  - '&7Nông sản tươi mới từ Vườn Kỳ lạ.'
+  - '&7Ăn tươi, ép nước, hoặc nấu thành món ăn.'
+  name: '&4Cà chua'
   type:
   - '&7&oThức Ăn'
 TOMATO_BUSH:
+  description:
+  - '&7Trồng trên đất và nó sẽ chín chậm.'
+  - '&7Chuột phải khi chín để thu hoạch mà không phá hủy nó.'
+  name: '&4Cây Cà chua'
   type:
   - '&7&oThành Phần'
 TOMATO_JUICE:
+  name: '&4Nước ép Cà chua'
   stats:
   - '&7&oHồi Phục &b&o3.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 TOMATO_SOUP:
+  name: '&4Súp Cà chua'
   stats:
   - '&7&oHồi Phục &b&o5.5 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 VEGETABLE_OIL:
+  name: '&rDầu thực vật'
   type:
   - '&7&oThành Phần'
 WAFFLES:
+  name: '&rBánh quế'
   stats:
   - '&7&oHồi Phục &b&o6.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 WINE:
+  name: '&cRượu vang'
   stats:
   - '&7&oHồi Phục &b&o5.0 &7&oĐộ No'
   type:
   - '&7&oThức Ăn'
 YEAST:
+  name: '&rMen nở'
   type:
   - '&7&oThành Phần'
