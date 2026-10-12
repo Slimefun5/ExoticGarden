@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7알루미늄'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 ALUMINUM_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r알루미늄 식물'
   type:
   - '&7&o마법'
 APPLE_PEAR_CAKE:
+  name: '&c사과 배 케이크'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 BACON:
+  name: '&r베이컨'
   stats:
   - '&7&o허기를 &b&o1.5&7&o 회복'
   type:
   - '&7&o음식'
 BACON_BURGER:
+  name: '&r베이컨 버거'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 BACON_CHEESEBURGER:
+  name: '&r베이컨 치즈버거'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BACON_SANDWICH:
+  name: '&r베이컨 샌드위치'
   stats:
   - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"내가 요리할 때" - @Eyamaz'
+  name: '&r베이컨으로 감싼 치즈 핫도그'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BAGEL:
+  name: '&r베이글'
   stats:
   - '&7&o허기를 &b&o2.0&7&o 회복'
   type:
   - '&7&o음식'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"핫도그 얘기 좀 할래?" - @Pahimar'
+  name: '&r바비큐 베이컨으로 감싼 핫도그'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"내가 요리할 때" - @Eyamaz'
+  name: '&r바비큐 더블 베이컨으로 감싼 치즈 토르티야 핫도그'
   stats:
   - '&7&o허기를 &b&o10.0&7&o 회복'
   type:
   - '&7&o음식'
 BBQ_SAUCE:
+  name: '&c바비큐 소스'
   type:
   - '&7&o부품'
 BISCUIT:
+  name: '&6비스킷'
   stats:
   - '&7&o허기를 &b&o2.0&7&o 회복'
   type:
   - '&7&o음식'
 BISCUITS_GRAVY:
+  name: '&r비스킷과 시골풍 그레이비'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&8블랙베리'
   type:
   - '&7&o음식'
 BLACKBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&8블랙베리 관목'
   type:
   - '&7&o부품'
 BLACKBERRY_COBBLER:
+  name: '&8블랙베리 코블러'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8블랙베리 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_JUICE:
+  name: '&8블랙베리 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_PIE:
+  name: '&8블랙베리 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLACKBERRY_SMOOTHIE:
+  name: '&8블랙베리 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 BLACK_PEPPER:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&8후추'
   type:
   - '&7&o음식'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&8후추 식물'
   type:
   - '&7&o부품'
 BLT:
+  name: '&r베이컨 양상추 토마토 샌드위치'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&9블루베리'
   type:
   - '&7&o음식'
 BLUEBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&9블루베리 관목'
   type:
   - '&7&o부품'
 BLUEBERRY_CHEESECAKE:
+  name: '&9블루베리 치즈케이크'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9블루베리 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_JUICE:
+  name: '&9블루베리 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_MUFFIN:
+  name: '&r블루베리 머핀'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_PANCAKES:
+  name: '&r블루베리 팬케이크'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_PIE:
+  name: '&9블루베리 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 BLUEBERRY_SMOOTHIE:
+  name: '&9블루베리 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 BOSTON_CREAM_PIE:
+  name: '&r보스턴 크림 파이'
   stats:
   - '&7&o허기를 &b&o4.5&7&o 회복'
   type:
   - '&7&o음식'
 BROWN_SUGAR:
+  name: '&r흑설탕'
   type:
   - '&7&o부품'
 BURRITO:
+  name: '&r부리토'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 CABBAGE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&2양배추'
   type:
   - '&7&o음식'
 CABBAGE_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&2양배추 식물'
   type:
   - '&7&o부품'
 CARROT_CAKE:
+  name: '&r당근 케이크'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 CHEESEBURGER:
+  name: '&r치즈버거'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHEESECAKE:
+  name: '&r치즈케이크'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c체리'
   type:
   - '&7&o음식'
 CHERRY_CHEESECAKE:
+  name: '&c체리 치즈케이크'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_ICED_TEA:
+  name: '&c체리 아이스티'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_JUICE:
+  name: '&c체리 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_PIE:
+  name: '&c체리 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHERRY_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&c체리 묘목'
   type:
   - '&7&o부품'
 CHICKEN_BURGER:
+  name: '&r닭고기 버거'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_BURRITO:
+  name: '&r닭고기 부리토'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_CHEESEBURGER:
+  name: '&r닭고기 치즈버거'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_CURRY:
+  name: '&r닭고기 카레'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_POT_PIE:
+  name: '&r닭고기 포트 파이'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 CHICKEN_SANDWICH:
+  name: '&r닭고기 샌드위치'
   stats:
   - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_BAR:
+  name: '&r초콜릿 바'
   stats:
   - '&7&o허기를 &b&o1.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_CAKE:
+  name: '&r초콜릿 케이크'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&r초코칩 머핀'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_PEAR_CAKE:
+  name: '&r초콜릿 배 케이크'
   stats:
   - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 CHOCOLATE_STRAWBERRY:
+  name: '&c초콜릿 딸기'
   stats:
   - '&7&o허기를 &b&o2.5&7&o 회복'
   type:
   - '&7&o음식'
 CILANTRO:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&a고수'
   type:
   - '&7&o음식'
 CILANTRO_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&a고수 식물'
   type:
   - '&7&o부품'
 CLUB_SANDWICH:
+  name: '&r클럽 샌드위치'
   stats:
   - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 COAL_ESSENCE:
+  description:
+  - '&7석탄'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 COAL_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r석탄 식물'
   type:
   - '&7&o마법'
 COCONUT:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&6코코넛'
   type:
   - '&7&o음식'
 COCONUT_CHICKEN_CURRY:
+  name: '&r코코넛 닭고기 카레'
   stats:
   - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 COCONUT_MILK:
+  name: '&6코코넛 밀크'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 COCONUT_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&6코코넛 묘목'
   type:
   - '&7&o부품'
 COPPER_ESSENCE:
+  description:
+  - '&7구리'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 COPPER_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r구리 식물'
   type:
   - '&7&o마법'
 CORN:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&6옥수수'
   type:
   - '&7&o음식'
 CORNMEAL:
+  name: '&r옥수수 가루'
   type:
   - '&7&o부품'
 CORN_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&6옥수수 식물'
   type:
   - '&7&o부품'
 CORN_ON_THE_COB:
+  name: '&6구운 옥수수'
   stats:
   - '&7&o허기를 &b&o4.5&7&o 회복'
   type:
   - '&7&o음식'
 COUNTRY_GRAVY:
+  name: '&r시골풍 그레이비'
   type:
   - '&7&o부품'
 COWBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c월귤'
   type:
   - '&7&o음식'
 COWBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&c월귤 관목'
   type:
   - '&7&o부품'
 COWBERRY_JELLY_SANDWICH:
+  name: '&c월귤 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 COWBERRY_JUICE:
+  name: '&c월귤 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 COWBERRY_PIE:
+  name: '&c월귤 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 COWBERRY_SMOOTHIE:
+  name: '&c월귤 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c크랜베리'
   type:
   - '&7&o음식'
 CRANBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&c크랜베리 관목'
   type:
   - '&7&o부품'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&c크랜베리 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY_JUICE:
+  name: '&c크랜베리 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY_PIE:
+  name: '&c크랜베리 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 CRANBERRY_SMOOTHIE:
+  name: '&c크랜베리 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 CREAMED_CORN:
+  name: '&r크림 옥수수'
   stats:
   - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 CREAM_COOKIE:
+  name: '&r크림 쿠키'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 CROOK:
+  description:
+  - '&7정원 식물을 수확하는 데 쓰는 나무 괭이입니다.'
+  name: '&r수확 갈고리'
+  stats:
+  - '&7+ &b25% &7묘목 드롭 확률'
   type:
   - '&7&o도구'
 CURRY_LEAF:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&2카레나무 잎'
   type:
   - '&7&o음식'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&2카레나무 잎 식물'
   type:
   - '&7&o부품'
 DELUXE_CHEESEBURGER:
+  name: '&r고급 치즈버거'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 DIAMOND_ESSENCE:
+  description:
+  - '&7다이아몬드'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 DIAMOND_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r다이아몬드 식물'
   type:
   - '&7&o마법'
 DIRT_ESSENCE:
+  description:
+  - '&7흙'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 DIRT_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r흙 식물'
   type:
   - '&7&o마법'
 DRAGON_FRUIT:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&d용과'
   type:
   - '&7&o음식'
 DRAGON_FRUIT_JUICE:
+  name: '&d용과 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 DRAGON_FRUIT_PIE:
+  name: '&d용과 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&d용과 묘목'
   type:
   - '&7&o부품'
 EGG_SALAD:
+  name: '&r달걀 샐러드'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c엘더베리'
   type:
   - '&7&o음식'
 ELDERBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&c엘더베리 관목'
   type:
   - '&7&o부품'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&c엘더베리 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY_JUICE:
+  name: '&c엘더베리 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY_PIE:
+  name: '&c엘더베리 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 ELDERBERRY_SMOOTHIE:
+  name: '&c엘더베리 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 EMERALD_ESSENCE:
+  description:
+  - '&7에메랄드'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 EMERALD_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r에메랄드 식물'
   type:
   - '&7&o마법'
 ENDER_ESSENCE:
+  description:
+  - '&7엔더'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 ENDER_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r엔더 식물'
   type:
   - '&7&o마법'
 FISH_SANDWICH:
+  name: '&r생선 샌드위치'
   stats:
   - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 FISH_TACO:
+  name: '&r생선 타코'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 FRIES:
+  name: '&r감자튀김'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 GARLIC:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&r마늘'
   type:
   - '&7&o음식'
 GARLIC_BREAD:
+  name: '&r마늘빵'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 GARLIC_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&r마늘 식물'
   type:
   - '&7&o부품'
 GARLIC_CHEESE_BREAD:
+  name: '&r마늘 치즈빵'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7발광석'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 GLOWSTONE_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r발광석 식물'
   type:
   - '&7&o마법'
 GOLD_ESSENCE:
+  description:
+  - '&7금'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 GOLD_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r금 식물'
   type:
   - '&7&o마법'
 GRAPE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c포도'
   type:
   - '&7&o음식'
 GRAPE_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&c포도 관목'
   type:
   - '&7&o부품'
 GRAPE_JELLY_SANDWICH:
+  name: '&c포도 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_JUICE:
+  name: '&c포도 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_PIE:
+  name: '&c포도 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_SALAD:
+  name: '&c포도 샐러드'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 GRAPE_SMOOTHIE:
+  name: '&c포도 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 GRASS_SEEDS:
+  description:
+  - '&7재생 가능한 키 큰 풀 공급원입니다. 베면 묘목과 관목 씨앗을 얻습니다.'
+  name: '&r풀 씨앗'
   type:
   - '&7&o장치'
+  usage:
+  - '&7&o흙에 심을 수 있습니다'
 GRILLED_SANDWICH:
+  name: '&r구운 샌드위치'
   stats:
   - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 HAMBURGER:
+  name: '&r햄버거'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 HOT_CHOCOLATE:
+  name: '&6따뜻한 코코아'
   stats:
   - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 HOT_DOG:
+  name: '&r핫도그'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 ICE_CREAM:
+  name: '&r아이스크림'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 ICE_CUBE:
+  name: '&b얼음 조각'
   type:
   - '&7&o부품'
 IRON_ESSENCE:
+  description:
+  - '&7철'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 IRON_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r철 식물'
   type:
   - '&7&o마법'
 JAMMY_DODGER:
+  name: '&c잼 쿠키'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 KITCHEN:
+  description:
+  - '&a&o여기서 다양한 맛있는 음식을 만들 수 있습니다!'
+  name: '&e주방'
   type:
   - '&7&o멀티블록'
+  usage:
+  - '&a&o결과물은 화로의 출력 칸에 나옵니다'
 LAMINGTON:
+  name: '&r래밍턴'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 LAPIS_ESSENCE:
+  description:
+  - '&7청금석'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 LAPIS_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r청금석 식물'
   type:
   - '&7&o마법'
 LASAGNA:
+  name: '&r라자냐'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 LEAD_ESSENCE:
+  description:
+  - '&7납'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 LEAD_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r납 식물'
   type:
   - '&7&o마법'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&r채소 닭고기 샌드위치'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEAFY_FISH_SANDWICH:
+  name: '&r채소 생선 샌드위치'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEMON:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&e레몬'
   type:
   - '&7&o음식'
 LEMONADE:
+  name: '&e레모네이드'
   stats:
   - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_ICED_TEA:
+  name: '&e레몬 아이스티'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_JUICE:
+  name: '&e레몬 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_PIE:
+  name: '&e레몬 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LEMON_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&e레몬 묘목'
   type:
   - '&7&o부품'
 LETTUCE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&2양상추'
   type:
   - '&7&o음식'
 LETTUCE_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&2양상추 식물'
   type:
   - '&7&o부품'
 LIME:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&a라임'
   type:
   - '&7&o음식'
 LIME_JUICE:
+  name: '&a라임 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 LIME_PIE:
+  name: '&a라임 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 LIME_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&a라임 묘목'
   type:
   - '&7&o부품'
 LIME_SMOOTHIE:
+  name: '&a라임 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 MAYO:
+  name: '&r마요네즈'
   type:
   - '&7&o부품'
 MOLASSES:
+  name: '&8당밀'
   type:
   - '&7&o부품'
 MUSTARD:
+  name: '&e머스터드'
   type:
   - '&7&o부품'
 MUSTARD_SEED:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&e겨자씨'
   type:
   - '&7&o음식'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&e겨자씨 식물'
   type:
   - '&7&o부품'
 NETHERITE_ESSENCE:
+  description:
+  - '&7네더라이트'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 NETHERITE_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r네더라이트 식물'
   type:
   - '&7&o마법'
 OAK_APPLE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c참나무 사과'
   type:
   - '&7&o음식'
 OAK_APPLE_JUICE:
+  name: '&c참나무 사과 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 OAK_APPLE_PIE:
+  name: '&c참나무 사과 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&c참나무 사과 묘목'
   type:
   - '&7&o부품'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7흑요석'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 OBSIDIAN_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r흑요석 식물'
   type:
   - '&7&o마법'
 ONION:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c양파'
   type:
   - '&7&o음식'
 ONION_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&c양파 식물'
   type:
   - '&7&o부품'
 ORANGE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&6오렌지'
   type:
   - '&7&o음식'
 ORANGE_JUICE:
+  name: '&6오렌지 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 ORANGE_PIE:
+  name: '&6오렌지 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 ORANGE_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&6오렌지 묘목'
   type:
   - '&7&o부품'
 PANCAKES:
+  name: '&r팬케이크'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 PAVLOVA:
+  name: '&r파블로바'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 PEACH:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&5복숭아'
   type:
   - '&7&o음식'
 PEACH_ICED_TEA:
+  name: '&d복숭아 아이스티'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PEACH_JUICE:
+  name: '&5복숭아 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PEACH_PIE:
+  name: '&5복숭아 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PEACH_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&5복숭아 묘목'
   type:
   - '&7&o부품'
 PEAR:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&a배'
   type:
   - '&7&o음식'
 PEAR_JUICE:
+  name: '&a배 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PEAR_PIE:
+  name: '&a배 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PEAR_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&a배 묘목'
   type:
   - '&7&o부품'
 PINACOLADA:
+  name: '&6피냐 콜라다'
   stats:
   - '&7&o허기를 &b&o7.0&7&o 회복'
   type:
   - '&7&o음식'
 PINEAPPLE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&6파인애플'
   type:
   - '&7&o음식'
 PINEAPPLE_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&6파인애플 식물'
   type:
   - '&7&o부품'
 PINEAPPLE_JUICE:
+  name: '&6파인애플 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PINEAPPLE_SMOOTHIE:
+  name: '&6파인애플 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 PLUM:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&5자두'
   type:
   - '&7&o음식'
 PLUM_JUICE:
+  name: '&5자두 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 PLUM_PIE:
+  name: '&5자두 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 PLUM_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&5자두 묘목'
   type:
   - '&7&o부품'
 POMEGRANATE:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&4석류'
   type:
   - '&7&o음식'
 POMEGRANATE_JUICE:
+  name: '&4석류 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 POMEGRANATE_PIE:
+  name: '&4석류 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7흙에 심으면 과일 나무로 자랍니다.'
+  - '&7맺힌 과일 블록을 때려서 수확합니다.'
+  name: '&4석류 묘목'
   type:
   - '&7&o부품'
 POPCORN:
+  name: '&r팝콘'
   stats:
   - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 POTATO_SALAD:
+  name: '&r감자 샐러드'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 PUMPKIN_BREAD:
+  name: '&r호박빵'
   stats:
   - '&7&o허기를 &b&o4.0&7&o 회복'
   type:
   - '&7&o음식'
 PUMPKIN_CHEESECAKE:
+  name: '&6호박 치즈케이크'
   stats:
   - '&7&o허기를 &b&o8.5&7&o 회복'
   type:
   - '&7&o음식'
 PUMPKIN_MUFFIN:
+  name: '&r호박 머핀'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 QUARTZ_ESSENCE:
+  description:
+  - '&7석영'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 QUARTZ_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r석영 식물'
   type:
   - '&7&o마법'
 RASPBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&d라즈베리'
   type:
   - '&7&o음식'
 RASPBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&d라즈베리 관목'
   type:
   - '&7&o부품'
 RASPBERRY_ICED_TEA:
+  name: '&d라즈베리 아이스티'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&d라즈베리 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_JUICE:
+  name: '&d라즈베리 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_PIE:
+  name: '&d라즈베리 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 RASPBERRY_SMOOTHIE:
+  name: '&d라즈베리 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 REDSTONE_ESSENCE:
+  description:
+  - '&7레드스톤'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 REDSTONE_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r레드스톤 식물'
   type:
   - '&7&o마법'
 RED_BELL_PEPPER:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&c빨간 파프리카'
   type:
   - '&7&o음식'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&c빨간 파프리카 식물'
   type:
   - '&7&o부품'
 SALTY_POPCORN:
+  name: '&r팝콘 &7(짠맛)'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 SANDWICH:
+  name: '&r샌드위치'
   stats:
   - '&7&o허기를 &b&o9.5&7&o 회복'
   type:
   - '&7&o음식'
 SHEPARDS_PIE:
+  name: '&r셰퍼드 파이'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 SILVER_ESSENCE:
+  description:
+  - '&7은'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 SILVER_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r은 식물'
   type:
   - '&7&o마법'
 SLIME_ESSENCE:
+  description:
+  - '&7슬라임'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 SLIME_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r슬라임 식물'
   type:
   - '&7&o마법'
 STRAWBERRY:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&4딸기'
   type:
   - '&7&o음식'
 STRAWBERRY_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&4딸기 관목'
   type:
   - '&7&o부품'
 STRAWBERRY_ICED_TEA:
+  name: '&4딸기 아이스티'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4딸기 젤리 샌드위치'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_JUICE:
+  name: '&4딸기 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_PIE:
+  name: '&4딸기 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_SALAD:
+  name: '&c딸기 샐러드'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 STRAWBERRY_SMOOTHIE:
+  name: '&4딸기 스무디'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 STREET_TACO:
+  name: '&r길거리 타코'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 STUFFED_RED_BELL_PEPPER:
+  name: '&c속을 채운 빨간 파프리카'
   stats:
   - '&7&o허기를 &b&o7.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6달콤한 배 치즈케이크'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEETENED_TEA:
+  name: '&a달콤한 차'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEET_BERRY_PANCAKES:
+  name: '&r달콤한 열매 팬케이크'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 SWEET_POPCORN:
+  name: '&r팝콘 &7(달콤한 맛)'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 SWEET_POTATO:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&6고구마'
   type:
   - '&7&o음식'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&6고구마 식물'
   type:
   - '&7&o부품'
 SWEET_POTATO_PIE:
+  name: '&r고구마 파이'
   stats:
   - '&7&o허기를 &b&o6.5&7&o 회복'
   type:
   - '&7&o음식'
 TACO:
+  name: '&r타코'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TEA_LEAF:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&a찻잎'
   type:
   - '&7&o음식'
 TEA_LEAF_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&a찻잎 식물'
   type:
   - '&7&o부품'
 THAI_TEA:
+  name: '&6태국 차'
   stats:
   - '&7&o허기를 &b&o7.0&7&o 회복'
   type:
   - '&7&o음식'
 TIN_ESSENCE:
+  description:
+  - '&7주석'
+  - '&7해당 식물로 제작하면 그 자원을 재배할 수 있습니다.'
+  name: '&r마법 정수'
   type:
   - '&7&o마법'
 TIN_PLANT:
+  description:
+  - '&7마법 작물입니다. 흙에 심어 자라게 둔 뒤 수확해 자원을 얻습니다.'
+  - '&7상위 티어는 조합법에 이전 티어의 식물이 필요합니다.'
+  name: '&r주석 식물'
   type:
   - '&7&o마법'
 TIRAMISU:
+  name: '&r티라미수'
   stats:
   - '&7&o허기를 &b&o8.0&7&o 회복'
   type:
   - '&7&o음식'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&r블랙베리 티라미수'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&r라즈베리 티라미수'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&r딸기 티라미수'
   stats:
   - '&7&o허기를 &b&o9.0&7&o 회복'
   type:
   - '&7&o음식'
 TOMATO:
+  description:
+  - '&7신선한 이국적인 정원 수확물입니다.'
+  - '&7생으로 먹거나 주스로 만들거나 요리로 조리할 수 있습니다.'
+  name: '&4토마토'
   type:
   - '&7&o음식'
 TOMATO_BUSH:
+  description:
+  - '&7흙에 심으면 천천히 익습니다.'
+  - '&7익었을 때 우클릭하면 파괴하지 않고 수확합니다.'
+  name: '&4토마토 식물'
   type:
   - '&7&o부품'
 TOMATO_JUICE:
+  name: '&4토마토 주스'
   stats:
   - '&7&o허기를 &b&o3.0&7&o 회복'
   type:
   - '&7&o음식'
 TOMATO_SOUP:
+  name: '&4토마토 수프'
   stats:
   - '&7&o허기를 &b&o5.5&7&o 회복'
   type:
   - '&7&o음식'
 VEGETABLE_OIL:
+  name: '&r식용유'
   type:
   - '&7&o부품'
 WAFFLES:
+  name: '&r와플'
   stats:
   - '&7&o허기를 &b&o6.0&7&o 회복'
   type:
   - '&7&o음식'
 WINE:
+  name: '&c포도주'
   stats:
   - '&7&o허기를 &b&o5.0&7&o 회복'
   type:
   - '&7&o음식'
 YEAST:
+  name: '&r효모'
   type:
   - '&7&o부품'
