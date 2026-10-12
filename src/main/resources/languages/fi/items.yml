@@ -1,1086 +1,1680 @@
 ALUMINUM_ESSENCE:
+  description:
+  - '&7Alumiini'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 ALUMINUM_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rAlumiinikasvi'
   type:
   - '&7&oMaaginen'
 APPLE_PEAR_CAKE:
+  name: '&cOmena-päärynäkakku'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON:
+  name: '&rPekoni'
   stats:
   - '&7&oPalauttaa &b&o1.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_BURGER:
+  name: '&rPekonihampurilainen'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_CHEESEBURGER:
+  name: '&rPekonijuustohampurilainen'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_SANDWICH:
+  name: '&rPekonivoileipä'
   stats:
   - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o"Kun kokkailen" - @Eyamaz'
+  name: '&rPekoniin kierretty juustotäytteinen hodari'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BAGEL:
+  name: '&rBagel'
   stats:
   - '&7&oPalauttaa &b&o2.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o"haluatko jutella hodareista?" - @Pahimar'
+  name: '&rBBQ-pekoniin kierretty hodari'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o"Kun kokkailen" - @Eyamaz'
+  name: '&rBBQ-tuplapekoniin kierretty hodari tortillassa juuston kanssa'
   stats:
   - '&7&oPalauttaa &b&o10.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BBQ_SAUCE:
+  name: '&cBBQ-kastike'
   type:
   - '&7&oKomponentti'
 BISCUIT:
+  name: '&6Teeleipä'
   stats:
   - '&7&oPalauttaa &b&o2.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BISCUITS_GRAVY:
+  name: '&rTeeleipiä ja maalaiskastiketta'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&8Karhunvatukka'
   type:
   - '&7&oRuoka'
 BLACKBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&8Karhunvatukkapensas'
   type:
   - '&7&oKomponentti'
 BLACKBERRY_COBBLER:
+  name: '&8Karhunvatukkamurupaistos'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_JELLY_SANDWICH:
+  name: '&8Karhunvatukkahyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_JUICE:
+  name: '&8Karhunvatukkamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_PIE:
+  name: '&8Karhunvatukkapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACKBERRY_SMOOTHIE:
+  name: '&8Karhunvatukkasmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLACK_PEPPER:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&8Mustapippuri'
   type:
   - '&7&oRuoka'
 BLACK_PEPPER_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&8Mustapippurikasvi'
   type:
   - '&7&oKomponentti'
 BLT:
+  name: '&rBLT'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&9Mustikka'
   type:
   - '&7&oRuoka'
 BLUEBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&9Mustikkapensas'
   type:
   - '&7&oKomponentti'
 BLUEBERRY_CHEESECAKE:
+  name: '&9Mustikkajuustokakku'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_JELLY_SANDWICH:
+  name: '&9Mustikkahyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_JUICE:
+  name: '&9Mustikkamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_MUFFIN:
+  name: '&rMustikkamuffinssi'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_PANCAKES:
+  name: '&rMustikkapannukakut'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_PIE:
+  name: '&9Mustikkapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BLUEBERRY_SMOOTHIE:
+  name: '&9Mustikkasmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 BOSTON_CREAM_PIE:
+  name: '&rBostonin kermakakku'
   stats:
   - '&7&oPalauttaa &b&o4.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 BROWN_SUGAR:
+  name: '&rRuskea sokeri'
   type:
   - '&7&oKomponentti'
 BURRITO:
+  name: '&rBurrito'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CABBAGE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&2Kaali'
   type:
   - '&7&oRuoka'
 CABBAGE_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&2Kaalikasvi'
   type:
   - '&7&oKomponentti'
 CARROT_CAKE:
+  name: '&rPorkkanakakku'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHEESEBURGER:
+  name: '&rJuustohampurilainen'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHEESECAKE:
+  name: '&rJuustokakku'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cKirsikka'
   type:
   - '&7&oRuoka'
 CHERRY_CHEESECAKE:
+  name: '&cKirsikkajuustokakku'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_ICED_TEA:
+  name: '&cKirsikkajäätee'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_JUICE:
+  name: '&cKirsikkamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_PIE:
+  name: '&cKirsikkapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHERRY_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&cKirsikkataimi'
   type:
   - '&7&oKomponentti'
 CHICKEN_BURGER:
+  name: '&rKanahampurilainen'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_BURRITO:
+  name: '&rKanaburrito'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_CHEESEBURGER:
+  name: '&rKanajuustohampurilainen'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_CURRY:
+  name: '&rKanacurry'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_POT_PIE:
+  name: '&rKanapiiras'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHICKEN_SANDWICH:
+  name: '&rKanavoileipä'
   stats:
   - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_BAR:
+  name: '&rSuklaapatukka'
   stats:
   - '&7&oPalauttaa &b&o1.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_CAKE:
+  name: '&rSuklaakakku'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_CHIP_MUFFIN:
+  name: '&rSuklaahippumuffinssi'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_PEAR_CAKE:
+  name: '&rSuklaa-päärynäkakku'
   stats:
   - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CHOCOLATE_STRAWBERRY:
+  name: '&cSuklaamansikka'
   stats:
   - '&7&oPalauttaa &b&o2.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CILANTRO:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&aKorianteri'
   type:
   - '&7&oRuoka'
 CILANTRO_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&aKorianterikasvi'
   type:
   - '&7&oKomponentti'
 CLUB_SANDWICH:
+  name: '&rClub-voileipä'
   stats:
   - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COAL_ESSENCE:
+  description:
+  - '&7Kivihiili'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 COAL_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rKivihiilikasvi'
   type:
   - '&7&oMaaginen'
 COCONUT:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&6Kookospähkinä'
   type:
   - '&7&oRuoka'
 COCONUT_CHICKEN_CURRY:
+  name: '&rKookos-kanacurry'
   stats:
   - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COCONUT_MILK:
+  name: '&6Kookosmaito'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 COCONUT_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&6Kookostaimi'
   type:
   - '&7&oKomponentti'
 COPPER_ESSENCE:
+  description:
+  - '&7Kupari'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 COPPER_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rKuparikasvi'
   type:
   - '&7&oMaaginen'
 CORN:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&6Maissi'
   type:
   - '&7&oRuoka'
 CORNMEAL:
+  name: '&rMaissijauho'
   type:
   - '&7&oKomponentti'
 CORN_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&6Maissikasvi'
   type:
   - '&7&oKomponentti'
 CORN_ON_THE_COB:
+  name: '&6Maissintähkä'
   stats:
   - '&7&oPalauttaa &b&o4.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COUNTRY_GRAVY:
+  name: '&rMaalaiskastike'
   type:
   - '&7&oKomponentti'
 COWBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cPuolukka'
   type:
   - '&7&oRuoka'
 COWBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&cPuolukkapensas'
   type:
   - '&7&oKomponentti'
 COWBERRY_JELLY_SANDWICH:
+  name: '&cPuolukkahyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 COWBERRY_JUICE:
+  name: '&cPuolukkamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 COWBERRY_PIE:
+  name: '&cPuolukkapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 COWBERRY_SMOOTHIE:
+  name: '&cPuolukkasmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cKarpalo'
   type:
   - '&7&oRuoka'
 CRANBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&cKarpalopensas'
   type:
   - '&7&oKomponentti'
 CRANBERRY_JELLY_SANDWICH:
+  name: '&cKarpalohyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY_JUICE:
+  name: '&cKarpalomehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY_PIE:
+  name: '&cKarpalopiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 CRANBERRY_SMOOTHIE:
+  name: '&cKarpalosmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CREAMED_CORN:
+  name: '&rKermainen maissi'
   stats:
   - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CREAM_COOKIE:
+  name: '&rKermakeksi'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 CROOK:
+  description:
+  - '&7Puinen kuokka puutarhakasvien korjaamiseen.'
+  name: '&rKoukku'
+  stats:
+  - '&7+ &b25% &7Taimien pudotustodennäköisyys'
   type:
   - '&7&oTyökalu'
 CURRY_LEAF:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&2Currynlehti'
   type:
   - '&7&oRuoka'
 CURRY_LEAF_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&2Currynlehtikasvi'
   type:
   - '&7&oKomponentti'
 DELUXE_CHEESEBURGER:
+  name: '&rYlellinen juustohampurilainen'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 DIAMOND_ESSENCE:
+  description:
+  - '&7Timantti'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 DIAMOND_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rTimanttikasvi'
   type:
   - '&7&oMaaginen'
 DIRT_ESSENCE:
+  description:
+  - '&7Multa'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 DIRT_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rMultakasvi'
   type:
   - '&7&oMaaginen'
 DRAGON_FRUIT:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&dLohikäärmehedelmä'
   type:
   - '&7&oRuoka'
 DRAGON_FRUIT_JUICE:
+  name: '&dLohikäärmehedelmämehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 DRAGON_FRUIT_PIE:
+  name: '&dLohikäärmehedelmäpiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&dLohikäärmehedelmätaimi'
   type:
   - '&7&oKomponentti'
 EGG_SALAD:
+  name: '&rKananmunasalaatti'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cSeljanmarja'
   type:
   - '&7&oRuoka'
 ELDERBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&cSeljanmarjapensas'
   type:
   - '&7&oKomponentti'
 ELDERBERRY_JELLY_SANDWICH:
+  name: '&cSeljanmarjahyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY_JUICE:
+  name: '&cSeljanmarjamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY_PIE:
+  name: '&cSeljanmarjapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 ELDERBERRY_SMOOTHIE:
+  name: '&cSeljanmarjasmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 EMERALD_ESSENCE:
+  description:
+  - '&7Smaragdi'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 EMERALD_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rSmaragdikasvi'
   type:
   - '&7&oMaaginen'
 ENDER_ESSENCE:
+  description:
+  - '&7Ender'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 ENDER_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rEnderkasvi'
   type:
   - '&7&oMaaginen'
 FISH_SANDWICH:
+  name: '&rKalavoileipä'
   stats:
   - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 FISH_TACO:
+  name: '&rKalataco'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 FRIES:
+  name: '&rRanskalaiset'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GARLIC:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&rValkosipuli'
   type:
   - '&7&oRuoka'
 GARLIC_BREAD:
+  name: '&rValkosipulileipä'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GARLIC_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&rValkosipulikasvi'
   type:
   - '&7&oKomponentti'
 GARLIC_CHEESE_BREAD:
+  name: '&rValkosipuli-juustoleipä'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 GLOWSTONE_ESSENCE:
+  description:
+  - '&7Hohtokivi'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 GLOWSTONE_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rHohtokivikasvi'
   type:
   - '&7&oMaaginen'
 GOLD_ESSENCE:
+  description:
+  - '&7Kulta'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 GOLD_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rKultakasvi'
   type:
   - '&7&oMaaginen'
 GRAPE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cViinirypäle'
   type:
   - '&7&oRuoka'
 GRAPE_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&cViinirypälepensas'
   type:
   - '&7&oKomponentti'
 GRAPE_JELLY_SANDWICH:
+  name: '&cViinirypälehyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_JUICE:
+  name: '&cViinirypälemehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_PIE:
+  name: '&cViinirypälepiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_SALAD:
+  name: '&cViinirypälesalaatti'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRAPE_SMOOTHIE:
+  name: '&cViinirypälesmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 GRASS_SEEDS:
+  description:
+  - '&7Uusiutuva korkean ruohon lähde - leikkaa sitä saadaksesi taimia ja pensaansiemeniä.'
+  name: '&rRuohonsiemenet'
   type:
   - '&7&oGadgetti'
+  usage:
+  - '&7&oVoidaan istuttaa multaan'
 GRILLED_SANDWICH:
+  name: '&rGrillattu voileipä'
   stats:
   - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 HAMBURGER:
+  name: '&rHampurilainen'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 HOT_CHOCOLATE:
+  name: '&6Kuuma kaakao'
   stats:
   - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 HOT_DOG:
+  name: '&rHodari'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ICE_CREAM:
+  name: '&rJäätelö'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ICE_CUBE:
+  name: '&bJääkuutio'
   type:
   - '&7&oKomponentti'
 IRON_ESSENCE:
+  description:
+  - '&7Rauta'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 IRON_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rRautakasvi'
   type:
   - '&7&oMaaginen'
 JAMMY_DODGER:
+  name: '&cHillokeksi'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 KITCHEN:
+  description:
+  - '&a&oTäällä voit valmistaa monenlaisia herkkuja!'
+  name: '&eKeittiö'
   type:
   - '&7&oMultiblokki'
+  usage:
+  - '&a&oTulos ilmestyy sulatusuunin ulostulopaikkaan'
 LAMINGTON:
+  name: '&rLamington'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LAPIS_ESSENCE:
+  description:
+  - '&7Lapis'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 LAPIS_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rLapiskasvi'
   type:
   - '&7&oMaaginen'
 LASAGNA:
+  name: '&rLasagne'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEAD_ESSENCE:
+  description:
+  - '&7Lyijy'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 LEAD_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rLyijykasvi'
   type:
   - '&7&oMaaginen'
 LEAFY_CHICKEN_SANDWICH:
+  name: '&rKanavoileipä salaatilla'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEAFY_FISH_SANDWICH:
+  name: '&rKalavoileipä salaatilla'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&eSitruuna'
   type:
   - '&7&oRuoka'
 LEMONADE:
+  name: '&eLimonadi'
   stats:
   - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_ICED_TEA:
+  name: '&eSitruunajäätee'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_JUICE:
+  name: '&eSitruunamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_PIE:
+  name: '&eSitruunapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LEMON_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&eSitruunataimi'
   type:
   - '&7&oKomponentti'
 LETTUCE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&2Lehtisalaatti'
   type:
   - '&7&oRuoka'
 LETTUCE_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&2Lehtisalaattikasvi'
   type:
   - '&7&oKomponentti'
 LIME:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&aLimetti'
   type:
   - '&7&oRuoka'
 LIME_JUICE:
+  name: '&aLimettimehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 LIME_PIE:
+  name: '&aLimettipiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 LIME_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&aLimettitaimi'
   type:
   - '&7&oKomponentti'
 LIME_SMOOTHIE:
+  name: '&aLimettismoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 MAYO:
+  name: '&rMajoneesi'
   type:
   - '&7&oKomponentti'
 MOLASSES:
+  name: '&8Melassi'
   type:
   - '&7&oKomponentti'
 MUSTARD:
+  name: '&eSinappi'
   type:
   - '&7&oKomponentti'
 MUSTARD_SEED:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&eSinapinsiemen'
   type:
   - '&7&oRuoka'
 MUSTARD_SEED_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&eSinapinsiemenkasvi'
   type:
   - '&7&oKomponentti'
 NETHERITE_ESSENCE:
+  description:
+  - '&7Netheriitti'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 NETHERITE_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rNetheriittikasvi'
   type:
   - '&7&oMaaginen'
 OAK_APPLE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cTammiomena'
   type:
   - '&7&oRuoka'
 OAK_APPLE_JUICE:
+  name: '&cTammiomenamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 OAK_APPLE_PIE:
+  name: '&cTammiomenapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 OAK_APPLE_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&cTammiomenataimi'
   type:
   - '&7&oKomponentti'
 OBSIDIAN_ESSENCE:
+  description:
+  - '&7Obsidiaani'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 OBSIDIAN_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rObsidiaanikasvi'
   type:
   - '&7&oMaaginen'
 ONION:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cSipuli'
   type:
   - '&7&oRuoka'
 ONION_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&cSipulikasvi'
   type:
   - '&7&oKomponentti'
 ORANGE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&6Appelsiini'
   type:
   - '&7&oRuoka'
 ORANGE_JUICE:
+  name: '&6Appelsiinimehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 ORANGE_PIE:
+  name: '&6Appelsiinipiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 ORANGE_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&6Appelsiinitaimi'
   type:
   - '&7&oKomponentti'
 PANCAKES:
+  name: '&rPannukakut'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PAVLOVA:
+  name: '&rPavlova'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&5Persikka'
   type:
   - '&7&oRuoka'
 PEACH_ICED_TEA:
+  name: '&dPersikkajäätee'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH_JUICE:
+  name: '&5Persikkamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH_PIE:
+  name: '&5Persikkapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEACH_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&5Persikkataimi'
   type:
   - '&7&oKomponentti'
 PEAR:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&aPäärynä'
   type:
   - '&7&oRuoka'
 PEAR_JUICE:
+  name: '&aPäärynämehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEAR_PIE:
+  name: '&aPäärynäpiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PEAR_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&aPäärynätaimi'
   type:
   - '&7&oKomponentti'
 PINACOLADA:
+  name: '&6Pina colada'
   stats:
   - '&7&oPalauttaa &b&o7.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PINEAPPLE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&6Ananas'
   type:
   - '&7&oRuoka'
 PINEAPPLE_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&6Ananaskasvi'
   type:
   - '&7&oKomponentti'
 PINEAPPLE_JUICE:
+  name: '&6Ananasmehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PINEAPPLE_SMOOTHIE:
+  name: '&6Ananassmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PLUM:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&5Luumu'
   type:
   - '&7&oRuoka'
 PLUM_JUICE:
+  name: '&5Luumumehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PLUM_PIE:
+  name: '&5Luumupiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PLUM_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&5Luumutaimi'
   type:
   - '&7&oKomponentti'
 POMEGRANATE:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&4Granaattiomena'
   type:
   - '&7&oRuoka'
 POMEGRANATE_JUICE:
+  name: '&4Granaattiomenamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 POMEGRANATE_PIE:
+  name: '&4Granaattiomenapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 POMEGRANATE_SAPLING:
+  description:
+  - '&7Istuta multaan kasvattaaksesi hedelmäpuun.'
+  - '&7Lyö sen kantamia hedelmäpalikoita korjataksesi sadon.'
+  name: '&4Granaattiomenataimi'
   type:
   - '&7&oKomponentti'
 POPCORN:
+  name: '&rPopcorn'
   stats:
   - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 POTATO_SALAD:
+  name: '&rPerunasalaatti'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PUMPKIN_BREAD:
+  name: '&rKurpitsaleipä'
   stats:
   - '&7&oPalauttaa &b&o4.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 PUMPKIN_CHEESECAKE:
+  name: '&6Kurpitsajuustokakku'
   stats:
   - '&7&oPalauttaa &b&o8.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 PUMPKIN_MUFFIN:
+  name: '&rKurpitsamuffinssi'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 QUARTZ_ESSENCE:
+  description:
+  - '&7Kvartsi'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 QUARTZ_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rKvartsikasvi'
   type:
   - '&7&oMaaginen'
 RASPBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&dVadelma'
   type:
   - '&7&oRuoka'
 RASPBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&dVadelmapensas'
   type:
   - '&7&oKomponentti'
 RASPBERRY_ICED_TEA:
+  name: '&dVadelmajäätee'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_JELLY_SANDWICH:
+  name: '&dVadelmahyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_JUICE:
+  name: '&dVadelmamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_PIE:
+  name: '&dVadelmapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 RASPBERRY_SMOOTHIE:
+  name: '&dVadelmasmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 REDSTONE_ESSENCE:
+  description:
+  - '&7Punakivi'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 REDSTONE_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rPunakivikasvi'
   type:
   - '&7&oMaaginen'
 RED_BELL_PEPPER:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&cPunainen paprika'
   type:
   - '&7&oRuoka'
 RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&cPunapaprikakasvi'
   type:
   - '&7&oKomponentti'
 SALTY_POPCORN:
+  name: '&rPopcorn &7(suolainen)'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SANDWICH:
+  name: '&rVoileipä'
   stats:
   - '&7&oPalauttaa &b&o9.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 SHEPARDS_PIE:
+  name: '&rPaimenpiiras'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SILVER_ESSENCE:
+  description:
+  - '&7Hopea'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 SILVER_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rHopeakasvi'
   type:
   - '&7&oMaaginen'
 SLIME_ESSENCE:
+  description:
+  - '&7Lima'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 SLIME_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rLimakasvi'
   type:
   - '&7&oMaaginen'
 STRAWBERRY:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&4Mansikka'
   type:
   - '&7&oRuoka'
 STRAWBERRY_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&4Mansikkapensas'
   type:
   - '&7&oKomponentti'
 STRAWBERRY_ICED_TEA:
+  name: '&4Mansikkajäätee'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_JELLY_SANDWICH:
+  name: '&4Mansikkahyytelövoileipä'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_JUICE:
+  name: '&4Mansikkamehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_PIE:
+  name: '&4Mansikkapiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_SALAD:
+  name: '&cMansikkasalaatti'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STRAWBERRY_SMOOTHIE:
+  name: '&4Mansikkasmoothie'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STREET_TACO:
+  name: '&rKatutaco'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 STUFFED_RED_BELL_PEPPER:
+  name: '&cTäytetty punainen paprika'
   stats:
   - '&7&oPalauttaa &b&o7.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEETENED_PEAR_CHEESECAKE:
+  name: '&6Makeutettu päärynäjuustokakku'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEETENED_TEA:
+  name: '&aMakeutettu tee'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEET_BERRY_PANCAKES:
+  name: '&rMakeamarjapannukakut'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEET_POPCORN:
+  name: '&rPopcorn &7(makea)'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 SWEET_POTATO:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&6Bataatti'
   type:
   - '&7&oRuoka'
 SWEET_POTATO_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&6Bataattikasvi'
   type:
   - '&7&oKomponentti'
 SWEET_POTATO_PIE:
+  name: '&rBataattipiirakka'
   stats:
   - '&7&oPalauttaa &b&o6.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 TACO:
+  name: '&rTaco'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TEA_LEAF:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&aTeenlehti'
   type:
   - '&7&oRuoka'
 TEA_LEAF_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&aTeenlehtikasvi'
   type:
   - '&7&oKomponentti'
 THAI_TEA:
+  name: '&6Thaimaalainen tee'
   stats:
   - '&7&oPalauttaa &b&o7.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIN_ESSENCE:
+  description:
+  - '&7Tina'
+  - '&7Valmista siitä vastaava kasvi kasvattaaksesi resurssin.'
+  name: '&rMaaginen essenssi'
   type:
   - '&7&oMaaginen'
 TIN_PLANT:
+  description:
+  - '&7Maaginen viljelykasvi. Istuta multaan ja anna sen kasvaa, korjaa sitten sen resurssi.'
+  - '&7Korkeammat tasot tarvitsevat edellisen tason kasvin reseptiin.'
+  name: '&rTinakasvi'
   type:
   - '&7&oMaaginen'
 TIRAMISU:
+  name: '&rTiramisu'
   stats:
   - '&7&oPalauttaa &b&o8.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rTiramisu karhunvatukoilla'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIRAMISU_WITH_RASPBERRIES:
+  name: '&rTiramisu vadelmilla'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rTiramisu mansikoilla'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TOMATO:
+  description:
+  - '&7Tuore eksoottinen puutarhasato.'
+  - '&7Syö se raakana, tee siitä mehua tai kypsennä ruokalajiksi.'
+  name: '&4Tomaatti'
   type:
   - '&7&oRuoka'
 TOMATO_BUSH:
+  description:
+  - '&7Istuta multaan, niin se kypsyy hitaasti.'
+  - '&7Napsauta oikealla kypsänä korjataksesi sen tuhoamatta.'
+  name: '&4Tomaattikasvi'
   type:
   - '&7&oKomponentti'
 TOMATO_JUICE:
+  name: '&4Tomaattimehu'
   stats:
   - '&7&oPalauttaa &b&o3.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 TOMATO_SOUP:
+  name: '&4Tomaattikeitto'
   stats:
   - '&7&oPalauttaa &b&o5.5 &7&onälkää'
   type:
   - '&7&oRuoka'
 VEGETABLE_OIL:
+  name: '&rKasviöljy'
   type:
   - '&7&oKomponentti'
 WAFFLES:
+  name: '&rVohvelit'
   stats:
   - '&7&oPalauttaa &b&o6.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 WINE:
+  name: '&cViini'
   stats:
   - '&7&oPalauttaa &b&o5.0 &7&onälkää'
   type:
   - '&7&oRuoka'
 YEAST:
+  name: '&rHiiva'
   type:
   - '&7&oKomponentti'
