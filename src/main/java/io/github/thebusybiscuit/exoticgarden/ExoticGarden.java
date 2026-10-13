@@ -106,6 +106,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
         new PlantsListener(this);
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getAddonMessageService().registerTranslations(this);
         registerGuideWidgets();
         registerWiki();
     }
@@ -778,7 +779,9 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
             GuideWidget.Position.BOTTOM,
             (player, profile) -> WikiIndex.openAddonWiki(player, profile, getName(), category),
             getName(),
-            category));
+            category)
+            .setNameResolver(viewer -> Slimefun.getAddonMessageService()
+                .getMessage(viewer, this, "guide.widgets." + category, name)));
     }
 }
 
