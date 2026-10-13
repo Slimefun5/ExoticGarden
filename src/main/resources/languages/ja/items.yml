@@ -1,0 +1,1680 @@
+ALUMINUM_ESSENCE:
+  description:
+  - '&7アルミニウム'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+ALUMINUM_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rアルミニウムの苗'
+  type:
+  - '&7&o魔法'
+APPLE_PEAR_CAKE:
+  name: '&cリンゴと洋ナシのケーキ'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BACON:
+  name: '&rベーコン'
+  stats:
+  - '&7&o満腹度を &b&o1.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BACON_BURGER:
+  name: '&rベーコンバーガー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BACON_CHEESEBURGER:
+  name: '&rベーコンチーズバーガー'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BACON_SANDWICH:
+  name: '&rベーコンサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o9.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BACON_WRAPPED_CHEESE_FILLED_HOT_DOG:
+  description:
+  - '&7&o「俺が料理すればこうなる」 - @Eyamaz'
+  name: '&rベーコン巻きチーズ入りホットドッグ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BAGEL:
+  name: '&rベーグル'
+  stats:
+  - '&7&o満腹度を &b&o2.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BBQ_BACON_WRAPPED_HOT_DOG:
+  description:
+  - '&7&o「ホットドッグについて語ろうか？」 - @Pahimar'
+  name: '&rBBQベーコン巻きホットドッグ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BBQ_DOUBLE_BACON_WRAPPED_HOT_DOG_IN_A_TORTILLA_WITH_CHEESE:
+  description:
+  - '&7&o「俺が料理すればこうなる」 - @Eyamaz'
+  name: '&rBBQダブルベーコン巻きホットドッグのチーズ入りトルティーヤ'
+  stats:
+  - '&7&o満腹度を &b&o10.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BBQ_SAUCE:
+  name: '&cBBQソース'
+  type:
+  - '&7&o素材'
+BISCUIT:
+  name: '&6ビスケット'
+  stats:
+  - '&7&o満腹度を &b&o2.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BISCUITS_GRAVY:
+  name: '&rビスケットとカントリーグレイビー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BLACKBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&8ブラックベリー'
+  type:
+  - '&7&o食料'
+BLACKBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&8ブラックベリーの低木'
+  type:
+  - '&7&o素材'
+BLACKBERRY_COBBLER:
+  name: '&8ブラックベリーコブラー'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLACKBERRY_JELLY_SANDWICH:
+  name: '&8ブラックベリージャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLACKBERRY_JUICE:
+  name: '&8ブラックベリージュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLACKBERRY_PIE:
+  name: '&8ブラックベリーパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BLACKBERRY_SMOOTHIE:
+  name: '&8ブラックベリースムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLACK_PEPPER:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&8黒コショウ'
+  type:
+  - '&7&o食料'
+BLACK_PEPPER_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&8黒コショウの低木'
+  type:
+  - '&7&o素材'
+BLT:
+  name: '&rBLT'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&9ブルーベリー'
+  type:
+  - '&7&o食料'
+BLUEBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&9ブルーベリーの低木'
+  type:
+  - '&7&o素材'
+BLUEBERRY_CHEESECAKE:
+  name: '&9ブルーベリーチーズケーキ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY_JELLY_SANDWICH:
+  name: '&9ブルーベリージャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY_JUICE:
+  name: '&9ブルーベリージュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY_MUFFIN:
+  name: '&rブルーベリーマフィン'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY_PANCAKES:
+  name: '&rブルーベリーパンケーキ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY_PIE:
+  name: '&9ブルーベリーパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BLUEBERRY_SMOOTHIE:
+  name: '&9ブルーベリースムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+BOSTON_CREAM_PIE:
+  name: '&rボストンクリームパイ'
+  stats:
+  - '&7&o満腹度を &b&o4.5 &7&o回復'
+  type:
+  - '&7&o食料'
+BROWN_SUGAR:
+  name: '&rブラウンシュガー'
+  type:
+  - '&7&o素材'
+BURRITO:
+  name: '&rブリトー'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CABBAGE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&2キャベツ'
+  type:
+  - '&7&o食料'
+CABBAGE_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&2キャベツの苗'
+  type:
+  - '&7&o素材'
+CARROT_CAKE:
+  name: '&rキャロットケーキ'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CHEESEBURGER:
+  name: '&rチーズバーガー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHEESECAKE:
+  name: '&rチーズケーキ'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CHERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cサクランボ'
+  type:
+  - '&7&o食料'
+CHERRY_CHEESECAKE:
+  name: '&cサクランボチーズケーキ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHERRY_ICED_TEA:
+  name: '&cサクランボアイスティー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHERRY_JUICE:
+  name: '&cサクランボジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CHERRY_PIE:
+  name: '&cサクランボパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHERRY_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&cサクランボの苗木'
+  type:
+  - '&7&o素材'
+CHICKEN_BURGER:
+  name: '&rチキンバーガー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CHICKEN_BURRITO:
+  name: '&rチキンブリトー'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CHICKEN_CHEESEBURGER:
+  name: '&rチキンチーズバーガー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHICKEN_CURRY:
+  name: '&rチキンカレー'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CHICKEN_POT_PIE:
+  name: '&rチキンポットパイ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHICKEN_SANDWICH:
+  name: '&rチキンサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o5.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHOCOLATE_BAR:
+  name: '&rチョコレートバー'
+  stats:
+  - '&7&o満腹度を &b&o1.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHOCOLATE_CAKE:
+  name: '&rチョコレートケーキ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHOCOLATE_CHIP_MUFFIN:
+  name: '&rチョコチップマフィン'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHOCOLATE_PEAR_CAKE:
+  name: '&rチョコレート洋ナシケーキ'
+  stats:
+  - '&7&o満腹度を &b&o9.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CHOCOLATE_STRAWBERRY:
+  name: '&cチョコがけイチゴ'
+  stats:
+  - '&7&o満腹度を &b&o2.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CILANTRO:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&aパクチー'
+  type:
+  - '&7&o食料'
+CILANTRO_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&aパクチーの低木'
+  type:
+  - '&7&o素材'
+CLUB_SANDWICH:
+  name: '&rクラブサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o9.5 &7&o回復'
+  type:
+  - '&7&o食料'
+COAL_ESSENCE:
+  description:
+  - '&7石炭'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+COAL_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r石炭の苗'
+  type:
+  - '&7&o魔法'
+COCONUT:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&6ココナッツ'
+  type:
+  - '&7&o食料'
+COCONUT_CHICKEN_CURRY:
+  name: '&rココナッツチキンカレー'
+  stats:
+  - '&7&o満腹度を &b&o9.5 &7&o回復'
+  type:
+  - '&7&o食料'
+COCONUT_MILK:
+  name: '&6ココナッツミルク'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+COCONUT_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&6ココナッツの苗木'
+  type:
+  - '&7&o素材'
+COPPER_ESSENCE:
+  description:
+  - '&7銅'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+COPPER_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r銅の苗'
+  type:
+  - '&7&o魔法'
+CORN:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&6トウモロコシ'
+  type:
+  - '&7&o食料'
+CORNMEAL:
+  name: '&rコーンミール'
+  type:
+  - '&7&o素材'
+CORN_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&6トウモロコシの苗'
+  type:
+  - '&7&o素材'
+CORN_ON_THE_COB:
+  name: '&6とうもろこしの丸焼き'
+  stats:
+  - '&7&o満腹度を &b&o4.5 &7&o回復'
+  type:
+  - '&7&o食料'
+COUNTRY_GRAVY:
+  name: '&rカントリーグレイビー'
+  type:
+  - '&7&o素材'
+COWBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cコケモモ'
+  type:
+  - '&7&o食料'
+COWBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&cコケモモの低木'
+  type:
+  - '&7&o素材'
+COWBERRY_JELLY_SANDWICH:
+  name: '&cコケモモジャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+COWBERRY_JUICE:
+  name: '&cコケモモジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+COWBERRY_PIE:
+  name: '&cコケモモパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+COWBERRY_SMOOTHIE:
+  name: '&cコケモモスムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CRANBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cクランベリー'
+  type:
+  - '&7&o食料'
+CRANBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&cクランベリーの低木'
+  type:
+  - '&7&o素材'
+CRANBERRY_JELLY_SANDWICH:
+  name: '&cクランベリージャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CRANBERRY_JUICE:
+  name: '&cクランベリージュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CRANBERRY_PIE:
+  name: '&cクランベリーパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+CRANBERRY_SMOOTHIE:
+  name: '&cクランベリースムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CREAMED_CORN:
+  name: '&rクリームコーン'
+  stats:
+  - '&7&o満腹度を &b&o4.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CREAM_COOKIE:
+  name: '&rクリームクッキー'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+CROOK:
+  description:
+  - '&7ガーデンの植物を収穫するための木製の鍬。'
+  name: '&rクルック'
+  stats:
+  - '&7+ &b25% &7苗のドロップ率'
+  type:
+  - '&7&o道具'
+CURRY_LEAF:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&2カレーリーフ'
+  type:
+  - '&7&o食料'
+CURRY_LEAF_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&2カレーリーフの低木'
+  type:
+  - '&7&o素材'
+DELUXE_CHEESEBURGER:
+  name: '&rデラックスチーズバーガー'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+DIAMOND_ESSENCE:
+  description:
+  - '&7ダイヤモンド'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+DIAMOND_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rダイヤモンドの苗'
+  type:
+  - '&7&o魔法'
+DIRT_ESSENCE:
+  description:
+  - '&7土'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+DIRT_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r土の苗'
+  type:
+  - '&7&o魔法'
+DRAGON_FRUIT:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&dドラゴンフルーツ'
+  type:
+  - '&7&o食料'
+DRAGON_FRUIT_JUICE:
+  name: '&dドラゴンフルーツジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+DRAGON_FRUIT_PIE:
+  name: '&dドラゴンフルーツパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+DRAGON_FRUIT_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&dドラゴンフルーツの苗木'
+  type:
+  - '&7&o素材'
+EGG_SALAD:
+  name: '&r卵サラダ'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+ELDERBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cエルダーベリー'
+  type:
+  - '&7&o食料'
+ELDERBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&cエルダーベリーの低木'
+  type:
+  - '&7&o素材'
+ELDERBERRY_JELLY_SANDWICH:
+  name: '&cエルダーベリージャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+ELDERBERRY_JUICE:
+  name: '&cエルダーベリージュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+ELDERBERRY_PIE:
+  name: '&cエルダーベリーパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+ELDERBERRY_SMOOTHIE:
+  name: '&cエルダーベリースムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+EMERALD_ESSENCE:
+  description:
+  - '&7エメラルド'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+EMERALD_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rエメラルドの苗'
+  type:
+  - '&7&o魔法'
+ENDER_ESSENCE:
+  description:
+  - '&7エンダー'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+ENDER_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rエンダーの苗'
+  type:
+  - '&7&o魔法'
+FISH_SANDWICH:
+  name: '&rフィッシュサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o5.5 &7&o回復'
+  type:
+  - '&7&o食料'
+FISH_TACO:
+  name: '&rフィッシュタコス'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+FRIES:
+  name: '&rフライドポテト'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+GARLIC:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&rニンニク'
+  type:
+  - '&7&o食料'
+GARLIC_BREAD:
+  name: '&rガーリックブレッド'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+GARLIC_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&rニンニクの低木'
+  type:
+  - '&7&o素材'
+GARLIC_CHEESE_BREAD:
+  name: '&rガーリックチーズブレッド'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+GLOWSTONE_ESSENCE:
+  description:
+  - '&7グロウストーン'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+GLOWSTONE_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rグロウストーンの苗'
+  type:
+  - '&7&o魔法'
+GOLD_ESSENCE:
+  description:
+  - '&7金'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+GOLD_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r金の苗'
+  type:
+  - '&7&o魔法'
+GRAPE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cブドウ'
+  type:
+  - '&7&o食料'
+GRAPE_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&cブドウの低木'
+  type:
+  - '&7&o素材'
+GRAPE_JELLY_SANDWICH:
+  name: '&cブドウジャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+GRAPE_JUICE:
+  name: '&cブドウジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+GRAPE_PIE:
+  name: '&cブドウパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+GRAPE_SALAD:
+  name: '&cブドウサラダ'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+GRAPE_SMOOTHIE:
+  name: '&cブドウスムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+GRASS_SEEDS:
+  description:
+  - '&7再生可能な背の高い草。刈ると苗木や低木の種が手に入る。'
+  name: '&r草の種'
+  type:
+  - '&7&oガジェット'
+  usage:
+  - '&7&o土の上に植えられる'
+GRILLED_SANDWICH:
+  name: '&rグリルサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o5.5 &7&o回復'
+  type:
+  - '&7&o食料'
+HAMBURGER:
+  name: '&rハンバーガー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+HOT_CHOCOLATE:
+  name: '&6ホットチョコレート'
+  stats:
+  - '&7&o満腹度を &b&o4.0 &7&o回復'
+  type:
+  - '&7&o食料'
+HOT_DOG:
+  name: '&rホットドッグ'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+ICE_CREAM:
+  name: '&rアイスクリーム'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+ICE_CUBE:
+  name: '&b氷キューブ'
+  type:
+  - '&7&o素材'
+IRON_ESSENCE:
+  description:
+  - '&7鉄'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+IRON_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r鉄の苗'
+  type:
+  - '&7&o魔法'
+JAMMY_DODGER:
+  name: '&cジャミー・ドジャー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+KITCHEN:
+  description:
+  - '&a&oここでいろいろな美味しい料理を作れる！'
+  name: '&eキッチン'
+  type:
+  - '&7&oマルチブロック'
+  usage:
+  - '&a&o完成品はかまどの出力スロットに入る'
+LAMINGTON:
+  name: '&rラミントン'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+LAPIS_ESSENCE:
+  description:
+  - '&7ラピスラズリ'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+LAPIS_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rラピスラズリの苗'
+  type:
+  - '&7&o魔法'
+LASAGNA:
+  name: '&rラザニア'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+LEAD_ESSENCE:
+  description:
+  - '&7鉛'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+LEAD_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r鉛の苗'
+  type:
+  - '&7&o魔法'
+LEAFY_CHICKEN_SANDWICH:
+  name: '&rレタス入りチキンサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+LEAFY_FISH_SANDWICH:
+  name: '&rレタス入りフィッシュサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+LEMON:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&eレモン'
+  type:
+  - '&7&o食料'
+LEMONADE:
+  name: '&eレモネード'
+  stats:
+  - '&7&o満腹度を &b&o4.0 &7&o回復'
+  type:
+  - '&7&o食料'
+LEMON_ICED_TEA:
+  name: '&eレモンアイスティー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+LEMON_JUICE:
+  name: '&eレモンジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+LEMON_PIE:
+  name: '&eレモンパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+LEMON_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&eレモンの苗木'
+  type:
+  - '&7&o素材'
+LETTUCE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&2レタス'
+  type:
+  - '&7&o食料'
+LETTUCE_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&2レタスの苗'
+  type:
+  - '&7&o素材'
+LIME:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&aライム'
+  type:
+  - '&7&o食料'
+LIME_JUICE:
+  name: '&aライムジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+LIME_PIE:
+  name: '&aライムパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+LIME_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&aライムの苗木'
+  type:
+  - '&7&o素材'
+LIME_SMOOTHIE:
+  name: '&aライムスムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+MAYO:
+  name: '&rマヨネーズ'
+  type:
+  - '&7&o素材'
+MOLASSES:
+  name: '&8糖蜜'
+  type:
+  - '&7&o素材'
+MUSTARD:
+  name: '&eマスタード'
+  type:
+  - '&7&o素材'
+MUSTARD_SEED:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&eマスタードシード'
+  type:
+  - '&7&o食料'
+MUSTARD_SEED_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&eマスタードシードの低木'
+  type:
+  - '&7&o素材'
+NETHERITE_ESSENCE:
+  description:
+  - '&7ネザライト'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+NETHERITE_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rネザライトの苗'
+  type:
+  - '&7&o魔法'
+OAK_APPLE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cオークアップル'
+  type:
+  - '&7&o食料'
+OAK_APPLE_JUICE:
+  name: '&cオークアップルジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+OAK_APPLE_PIE:
+  name: '&cオークアップルパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+OAK_APPLE_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&cオークアップルの苗木'
+  type:
+  - '&7&o素材'
+OBSIDIAN_ESSENCE:
+  description:
+  - '&7黒曜石'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+OBSIDIAN_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r黒曜石の苗'
+  type:
+  - '&7&o魔法'
+ONION:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&cタマネギ'
+  type:
+  - '&7&o食料'
+ONION_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&cタマネギの低木'
+  type:
+  - '&7&o素材'
+ORANGE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&6オレンジ'
+  type:
+  - '&7&o食料'
+ORANGE_JUICE:
+  name: '&6オレンジジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+ORANGE_PIE:
+  name: '&6オレンジパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+ORANGE_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&6オレンジの苗木'
+  type:
+  - '&7&o素材'
+PANCAKES:
+  name: '&rパンケーキ'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PAVLOVA:
+  name: '&rパブロバ'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PEACH:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&5モモ'
+  type:
+  - '&7&o食料'
+PEACH_ICED_TEA:
+  name: '&dモモアイスティー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+PEACH_JUICE:
+  name: '&5モモジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PEACH_PIE:
+  name: '&5モモパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+PEACH_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&5モモの苗木'
+  type:
+  - '&7&o素材'
+PEAR:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&a洋ナシ'
+  type:
+  - '&7&o食料'
+PEAR_JUICE:
+  name: '&a洋ナシジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PEAR_PIE:
+  name: '&a洋ナシパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+PEAR_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&a洋ナシの苗木'
+  type:
+  - '&7&o素材'
+PINACOLADA:
+  name: '&6ピニャコラーダ'
+  stats:
+  - '&7&o満腹度を &b&o7.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PINEAPPLE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&6パイナップル'
+  type:
+  - '&7&o食料'
+PINEAPPLE_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&6パイナップルの低木'
+  type:
+  - '&7&o素材'
+PINEAPPLE_JUICE:
+  name: '&6パイナップルジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PINEAPPLE_SMOOTHIE:
+  name: '&6パイナップルスムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PLUM:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&5プラム'
+  type:
+  - '&7&o食料'
+PLUM_JUICE:
+  name: '&5プラムジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PLUM_PIE:
+  name: '&5プラムパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+PLUM_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&5プラムの苗木'
+  type:
+  - '&7&o素材'
+POMEGRANATE:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&4ザクロ'
+  type:
+  - '&7&o食料'
+POMEGRANATE_JUICE:
+  name: '&4ザクロジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+POMEGRANATE_PIE:
+  name: '&4ザクロパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+POMEGRANATE_SAPLING:
+  description:
+  - '&7土の上に植えると果樹に育つ。'
+  - '&7実った果実ブロックを殴って収穫する。'
+  name: '&4ザクロの苗木'
+  type:
+  - '&7&o素材'
+POPCORN:
+  name: '&rポップコーン'
+  stats:
+  - '&7&o満腹度を &b&o4.0 &7&o回復'
+  type:
+  - '&7&o食料'
+POTATO_SALAD:
+  name: '&rポテトサラダ'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PUMPKIN_BREAD:
+  name: '&rパンプキンブレッド'
+  stats:
+  - '&7&o満腹度を &b&o4.0 &7&o回復'
+  type:
+  - '&7&o食料'
+PUMPKIN_CHEESECAKE:
+  name: '&6パンプキンチーズケーキ'
+  stats:
+  - '&7&o満腹度を &b&o8.5 &7&o回復'
+  type:
+  - '&7&o食料'
+PUMPKIN_MUFFIN:
+  name: '&rパンプキンマフィン'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+QUARTZ_ESSENCE:
+  description:
+  - '&7クォーツ'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+QUARTZ_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rクォーツの苗'
+  type:
+  - '&7&o魔法'
+RASPBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&dラズベリー'
+  type:
+  - '&7&o食料'
+RASPBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&dラズベリーの低木'
+  type:
+  - '&7&o素材'
+RASPBERRY_ICED_TEA:
+  name: '&dラズベリーアイスティー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+RASPBERRY_JELLY_SANDWICH:
+  name: '&dラズベリージャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+RASPBERRY_JUICE:
+  name: '&dラズベリージュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+RASPBERRY_PIE:
+  name: '&dラズベリーパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+RASPBERRY_SMOOTHIE:
+  name: '&dラズベリースムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+REDSTONE_ESSENCE:
+  description:
+  - '&7レッドストーン'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+REDSTONE_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rレッドストーンの苗'
+  type:
+  - '&7&o魔法'
+RED_BELL_PEPPER:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&c赤パプリカ'
+  type:
+  - '&7&o食料'
+RED_BELL_PEPPER_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&c赤パプリカの低木'
+  type:
+  - '&7&o素材'
+SALTY_POPCORN:
+  name: '&rポップコーン &7(塩味)'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+SANDWICH:
+  name: '&rサンドイッチ'
+  stats:
+  - '&7&o満腹度を &b&o9.5 &7&o回復'
+  type:
+  - '&7&o食料'
+SHEPARDS_PIE:
+  name: '&rシェパーズパイ'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+SILVER_ESSENCE:
+  description:
+  - '&7銀'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+SILVER_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&r銀の苗'
+  type:
+  - '&7&o魔法'
+SLIME_ESSENCE:
+  description:
+  - '&7スライム'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+SLIME_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rスライムの苗'
+  type:
+  - '&7&o魔法'
+STRAWBERRY:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&4イチゴ'
+  type:
+  - '&7&o食料'
+STRAWBERRY_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&4イチゴの低木'
+  type:
+  - '&7&o素材'
+STRAWBERRY_ICED_TEA:
+  name: '&4イチゴアイスティー'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+STRAWBERRY_JELLY_SANDWICH:
+  name: '&4イチゴジャムサンド'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+STRAWBERRY_JUICE:
+  name: '&4イチゴジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+STRAWBERRY_PIE:
+  name: '&4イチゴパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+STRAWBERRY_SALAD:
+  name: '&cイチゴサラダ'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+STRAWBERRY_SMOOTHIE:
+  name: '&4イチゴスムージー'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+STREET_TACO:
+  name: '&rストリートタコス'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+STUFFED_RED_BELL_PEPPER:
+  name: '&c赤パプリカの肉詰め'
+  stats:
+  - '&7&o満腹度を &b&o7.0 &7&o回復'
+  type:
+  - '&7&o食料'
+SWEETENED_PEAR_CHEESECAKE:
+  name: '&6洋ナシの甘いチーズケーキ'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+SWEETENED_TEA:
+  name: '&a甘いお茶'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+SWEET_BERRY_PANCAKES:
+  name: '&rスイートベリーパンケーキ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+SWEET_POPCORN:
+  name: '&rポップコーン &7(甘味)'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+SWEET_POTATO:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&6サツマイモ'
+  type:
+  - '&7&o食料'
+SWEET_POTATO_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&6サツマイモの低木'
+  type:
+  - '&7&o素材'
+SWEET_POTATO_PIE:
+  name: '&rスイートポテトパイ'
+  stats:
+  - '&7&o満腹度を &b&o6.5 &7&o回復'
+  type:
+  - '&7&o食料'
+TACO:
+  name: '&rタコス'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TEA_LEAF:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&a茶葉'
+  type:
+  - '&7&o食料'
+TEA_LEAF_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&a茶葉の低木'
+  type:
+  - '&7&o素材'
+THAI_TEA:
+  name: '&6タイティー'
+  stats:
+  - '&7&o満腹度を &b&o7.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TIN_ESSENCE:
+  description:
+  - '&7スズ'
+  - '&7対応する苗にクラフトすると、その資源を育てられる。'
+  name: '&r魔法のエッセンス'
+  type:
+  - '&7&o魔法'
+TIN_PLANT:
+  description:
+  - '&7魔法の作物。土の上に植えて育て、収穫すると資源が手に入る。'
+  - '&7上位ティアのレシピには、一つ前のティアの苗が必要。'
+  name: '&rスズの苗'
+  type:
+  - '&7&o魔法'
+TIRAMISU:
+  name: '&rティラミス'
+  stats:
+  - '&7&o満腹度を &b&o8.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TIRAMISU_WITH_BLACKBERRIES:
+  name: '&rブラックベリー入りティラミス'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TIRAMISU_WITH_RASPBERRIES:
+  name: '&rラズベリー入りティラミス'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TIRAMISU_WITH_STRAWBERRIES:
+  name: '&rイチゴ入りティラミス'
+  stats:
+  - '&7&o満腹度を &b&o9.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TOMATO:
+  description:
+  - '&7新鮮なエキゾチックガーデンの収穫物。'
+  - '&7生で食べたり、ジュースにしたり、料理に使ったりできる。'
+  name: '&4トマト'
+  type:
+  - '&7&o食料'
+TOMATO_BUSH:
+  description:
+  - '&7土の上に植えるとゆっくり熟していく。'
+  - '&7熟したら右クリックで、壊さずに収穫できる。'
+  name: '&4トマトの低木'
+  type:
+  - '&7&o素材'
+TOMATO_JUICE:
+  name: '&4トマトジュース'
+  stats:
+  - '&7&o満腹度を &b&o3.0 &7&o回復'
+  type:
+  - '&7&o食料'
+TOMATO_SOUP:
+  name: '&4トマトスープ'
+  stats:
+  - '&7&o満腹度を &b&o5.5 &7&o回復'
+  type:
+  - '&7&o食料'
+VEGETABLE_OIL:
+  name: '&r植物油'
+  type:
+  - '&7&o素材'
+WAFFLES:
+  name: '&rワッフル'
+  stats:
+  - '&7&o満腹度を &b&o6.0 &7&o回復'
+  type:
+  - '&7&o食料'
+WINE:
+  name: '&cワイン'
+  stats:
+  - '&7&o満腹度を &b&o5.0 &7&o回復'
+  type:
+  - '&7&o食料'
+YEAST:
+  name: '&rイースト'
+  type:
+  - '&7&o素材'
