@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: '잔디 부수기'
+  harvest_bush:
+    name: '덤불 수확'
+  harvest_tree:
+    name: '나무 수확'

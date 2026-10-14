@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: '草を壊す'
+  harvest_bush:
+    name: '茂みから収穫'
+  harvest_tree:
+    name: '木から収穫'

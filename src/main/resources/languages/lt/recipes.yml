@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Žolės kirtimas'
+  harvest_bush:
+    name: 'Krūmo derliaus nuėmimas'
+  harvest_tree:
+    name: 'Medžio derliaus nuėmimas'

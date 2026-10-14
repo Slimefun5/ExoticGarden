@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'තණකොළ කැඩීම'
+  harvest_bush:
+    name: 'පඳුරකින් අස්වනු නෙළීම'
+  harvest_tree:
+    name: 'ගසකින් අස්වනු නෙළීම'

@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Ламання трави'
+  harvest_bush:
+    name: 'Збір із куща'
+  harvest_tree:
+    name: 'Збір із дерева'

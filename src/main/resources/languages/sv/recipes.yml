@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Bryta gräs'
+  harvest_bush:
+    name: 'Skörda en buske'
+  harvest_tree:
+    name: 'Skörda ett träd'

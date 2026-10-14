@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: '破壞草'
+  harvest_bush:
+    name: '採收灌木'
+  harvest_tree:
+    name: '採收樹木'

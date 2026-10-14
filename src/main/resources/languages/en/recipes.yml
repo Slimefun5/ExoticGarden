@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Breaking Grass'
+  harvest_bush:
+    name: 'Harvesting a Bush'
+  harvest_tree:
+    name: 'Harvesting a Tree'

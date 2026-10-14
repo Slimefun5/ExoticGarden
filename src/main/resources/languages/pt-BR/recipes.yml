@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Quebrando grama'
+  harvest_bush:
+    name: 'Colhendo um arbusto'
+  harvest_tree:
+    name: 'Colhendo uma árvore'

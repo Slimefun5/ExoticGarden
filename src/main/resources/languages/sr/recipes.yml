@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Ломљење траве'
+  harvest_bush:
+    name: 'Берба са жбуна'
+  harvest_tree:
+    name: 'Берба са дрвета'

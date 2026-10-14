@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Σπάσιμο Χορταριού'
+  harvest_bush:
+    name: 'Συγκομιδή από Θάμνο'
+  harvest_tree:
+    name: 'Συγκομιδή από Δέντρο'

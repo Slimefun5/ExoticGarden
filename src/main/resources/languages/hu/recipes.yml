@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Fű letörése'
+  harvest_bush:
+    name: 'Cserje betakarítása'
+  harvest_tree:
+    name: 'Fa betakarítása'

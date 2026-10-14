@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Çim Kırma'
+  harvest_bush:
+    name: 'Çalıdan Hasat'
+  harvest_tree:
+    name: 'Ağaçtan Hasat'

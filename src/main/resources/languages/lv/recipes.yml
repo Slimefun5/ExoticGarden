@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Zāles nopļaušana'
+  harvest_bush:
+    name: 'Krūma ražas novākšana'
+  harvest_tree:
+    name: 'Koka ražas novākšana'

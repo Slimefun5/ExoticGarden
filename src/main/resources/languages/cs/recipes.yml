@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Rozbíjení trávy'
+  harvest_bush:
+    name: 'Sklizeň z keře'
+  harvest_tree:
+    name: 'Sklizeň ze stromu'

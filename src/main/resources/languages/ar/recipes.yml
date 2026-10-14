@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'كسر العشب'
+  harvest_bush:
+    name: 'حصاد شجيرة'
+  harvest_tree:
+    name: 'حصاد شجرة'

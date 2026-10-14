@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Ruohon rikkominen'
+  harvest_bush:
+    name: 'Pensaan sadonkorjuu'
+  harvest_tree:
+    name: 'Puun sadonkorjuu'

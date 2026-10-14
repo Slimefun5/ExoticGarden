@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Phá cỏ'
+  harvest_bush:
+    name: 'Thu hoạch Bụi cây'
+  harvest_tree:
+    name: 'Thu hoạch Cây'

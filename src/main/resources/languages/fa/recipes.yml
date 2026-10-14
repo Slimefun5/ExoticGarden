@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'شکستن چمن'
+  harvest_bush:
+    name: 'برداشت از بوته'
+  harvest_tree:
+    name: 'برداشت از درخت'

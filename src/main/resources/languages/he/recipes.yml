@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'שבירת דשא'
+  harvest_bush:
+    name: 'קטיף משיח'
+  harvest_tree:
+    name: 'קטיף מעץ'

@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Gras breken'
+  harvest_bush:
+    name: 'Een struik oogsten'
+  harvest_tree:
+    name: 'Een boom oogsten'

@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Knuse gress'
+  harvest_bush:
+    name: 'Høste en busk'
+  harvest_tree:
+    name: 'Høste et tre'

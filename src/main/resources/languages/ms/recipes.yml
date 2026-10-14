@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Memecahkan Rumput'
+  harvest_bush:
+    name: 'Menuai Pokok Renek'
+  harvest_tree:
+    name: 'Menuai Pokok'

@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Menghancurkan Rumput'
+  harvest_bush:
+    name: 'Memanen Semak'
+  harvest_tree:
+    name: 'Memanen Pohon'

@@ -1,0 +1,7 @@
+exoticgarden:
+  breaking_grass:
+    name: 'Spargerea Ierbii'
+  harvest_bush:
+    name: 'Recoltarea unei Tufe'
+  harvest_tree:
+    name: 'Recoltarea unui Copac'
