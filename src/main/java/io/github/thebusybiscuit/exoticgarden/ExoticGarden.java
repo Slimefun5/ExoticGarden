@@ -107,6 +107,7 @@ public class ExoticGarden extends JavaPlugin implements SlimefunAddon {
 
         Slimefun.getItemTranslationService().registerTranslations(this);
         Slimefun.getLocalization().registerItemGroupTranslations(this);
+        Slimefun.getLocalization().registerRecipeTypeTranslations(this);
         Slimefun.getLocalization().registerResearchTranslations(this);
         Slimefun.getAddonMessageService().registerTranslations(this);
         registerGuideWidgets();
