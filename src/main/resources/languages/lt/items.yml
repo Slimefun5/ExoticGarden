@@ -147,7 +147,7 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponentas'
 BLT:
-  name: '&rBLT'
+  name: '&rBLT sumuštinis'
   stats:
   - '&7&oAtstato &b&o9.0 &7&oalkio taškų'
   type:

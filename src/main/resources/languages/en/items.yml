@@ -1561,7 +1561,7 @@ SANDWICH:
     - "&7&oRestores &b&o9.5 &7&oHunger"
 
 BLT:
-  name: "&rBLT"
+  name: "&rBLT Sandwich"
   type:
     - "&7&oFood"
   stats:

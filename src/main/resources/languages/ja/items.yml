@@ -147,7 +147,7 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&o素材'
 BLT:
-  name: '&rBLT'
+  name: '&rBLTサンド'
   stats:
   - '&7&o満腹度を &b&o9.0 &7&o回復'
   type:

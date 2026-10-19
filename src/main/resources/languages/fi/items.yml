@@ -147,7 +147,7 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponentti'
 BLT:
-  name: '&rBLT'
+  name: '&rBLT-voileipä'
   stats:
   - '&7&oPalauttaa &b&o9.0 &7&onälkää'
   type:

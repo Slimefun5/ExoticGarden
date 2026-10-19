@@ -147,7 +147,7 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oAlkatrész'
 BLT:
-  name: '&rBLT'
+  name: '&rBLT szendvics'
   stats:
   - '&7&oHelyreállít &b&o9.0 &7&oÉhséget'
   type:

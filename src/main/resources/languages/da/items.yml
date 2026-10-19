@@ -147,7 +147,7 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oKomponent'
 BLT:
-  name: '&rBLT'
+  name: '&rBLT-sandwich'
   stats:
   - '&7&oGenopretter &b&o9.0 &7&oSult'
   type:

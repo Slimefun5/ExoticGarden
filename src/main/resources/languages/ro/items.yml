@@ -147,7 +147,7 @@ BLACK_PEPPER_BUSH:
   type:
   - '&7&oComponentă'
 BLT:
-  name: '&rBLT'
+  name: '&rSandviș BLT'
   stats:
   - '&7&oRestabilește &b&o9.0 &7&oSaturație'
   type:
